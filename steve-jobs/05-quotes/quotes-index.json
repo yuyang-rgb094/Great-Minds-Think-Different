@@ -1,0 +1,168 @@
+{
+  "total_quotes": 83,
+  "categories": [
+    {
+      "category": "quotes-design",
+      "category_zh": "设计",
+      "count": 12,
+      "core_count": 6,
+      "important_count": 6,
+      "reference_count": 0,
+      "quote_ids": [
+        "D-001",
+        "D-002",
+        "D-003",
+        "D-005",
+        "D-006",
+        "D-008",
+        "D-004",
+        "D-007",
+        "D-009",
+        "D-010",
+        "D-011",
+        "D-012"
+      ]
+    },
+    {
+      "category": "quotes-innovation",
+      "category_zh": "创新",
+      "count": 11,
+      "core_count": 7,
+      "important_count": 4,
+      "reference_count": 0,
+      "quote_ids": [
+        "I-001",
+        "I-002",
+        "I-003",
+        "I-004",
+        "I-007",
+        "I-008",
+        "I-011",
+        "I-005",
+        "I-006",
+        "I-009",
+        "I-010"
+      ]
+    },
+    {
+      "category": "quotes-leadership",
+      "category_zh": "领导力",
+      "count": 10,
+      "core_count": 4,
+      "important_count": 6,
+      "reference_count": 0,
+      "quote_ids": [
+        "L-001",
+        "L-002",
+        "L-003",
+        "L-007",
+        "L-004",
+        "L-005",
+        "L-006",
+        "L-008",
+        "L-009",
+        "L-010"
+      ]
+    },
+    {
+      "category": "quotes-life-philosophy",
+      "category_zh": "人生哲学",
+      "count": 10,
+      "core_count": 8,
+      "important_count": 2,
+      "reference_count": 0,
+      "quote_ids": [
+        "LP-001",
+        "LP-002",
+        "LP-003",
+        "LP-004",
+        "LP-005",
+        "LP-006",
+        "LP-008",
+        "LP-009",
+        "LP-007",
+        "LP-010"
+      ]
+    },
+    {
+      "category": "quotes-business",
+      "category_zh": "商业",
+      "count": 10,
+      "core_count": 4,
+      "important_count": 6,
+      "reference_count": 0,
+      "quote_ids": [
+        "B-001",
+        "B-002",
+        "B-003",
+        "B-004",
+        "B-005",
+        "B-006",
+        "B-007",
+        "B-008",
+        "B-009",
+        "B-010"
+      ]
+    },
+    {
+      "category": "quotes-technology",
+      "category_zh": "技术",
+      "count": 10,
+      "core_count": 5,
+      "important_count": 5,
+      "reference_count": 0,
+      "quote_ids": [
+        "T-001",
+        "T-002",
+        "T-004",
+        "T-005",
+        "T-008",
+        "T-003",
+        "T-006",
+        "T-007",
+        "T-009",
+        "T-010"
+      ]
+    },
+    {
+      "category": "quotes-personal-growth",
+      "category_zh": "个人成长",
+      "count": 10,
+      "core_count": 6,
+      "important_count": 4,
+      "reference_count": 0,
+      "quote_ids": [
+        "G-001",
+        "G-002",
+        "G-003",
+        "G-004",
+        "G-005",
+        "G-008",
+        "G-006",
+        "G-007",
+        "G-009",
+        "G-010"
+      ]
+    },
+    {
+      "category": "quotes-speech-presentation",
+      "category_zh": "演讲表达",
+      "count": 10,
+      "core_count": 5,
+      "important_count": 5,
+      "reference_count": 0,
+      "quote_ids": [
+        "S-001",
+        "S-002",
+        "S-003",
+        "S-004",
+        "S-009",
+        "S-005",
+        "S-006",
+        "S-007",
+        "S-008",
+        "S-010"
+      ]
+    }
+  ]
+}

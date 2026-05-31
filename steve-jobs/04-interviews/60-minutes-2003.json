@@ -1,0 +1,73 @@
+{
+  "interview": {
+    "id": "60-minutes-2003",
+    "title_zh": "CBS 60 Minutes访谈",
+    "title_en": "CBS 60 Minutes Interview",
+    "date": "2003-01-01",
+    "location": "美国加利福尼亚州库比蒂诺苹果公司总部",
+    "interviewer": "Mike Wallace",
+    "occasion": "CBS《60 Minutes》电视新闻杂志节目",
+    "duration_minutes": 20,
+    "source_level": "B",
+    "context": "2003年，乔布斯48岁。iPod已发布两年，iTunes Store刚上线。苹果正从纯硬件公司向服务和生态系统公司转型。乔布斯在CBS王牌新闻节目中罕见地谈及个人生活和对完美的追求。",
+    "themes": ["iPod成功", "设计哲学", "完美主义", "个人生活", "苹果文化", "用户体验"],
+    "key_segments": [
+      {
+        "id": "seg-001",
+        "importance": "core",
+        "text_en": "It's not just about the hardware. It's about the whole experience. The iPod is a combination of beautiful hardware, elegant software, and a seamless online store. And when you put all those things together, you get something that's greater than the sum of its parts.",
+        "text_zh": "不仅仅是硬件的问题。而是整个体验。iPod是漂亮的硬件、优雅的软件和一个无缝的在线商店的结合。当你把所有这些东西放在一起时，你得到的东西大于各部分之和。",
+        "thinking_pattern": "系统思维 / 体验至上",
+        "tags": ["iPod", "生态系统", "用户体验", "大于部分之和"]
+      },
+      {
+        "id": "seg-002",
+        "importance": "core",
+        "text_en": "We're not just trying to make good products. We're trying to make the best products. And there's a big difference. Most companies are satisfied with making products that are good enough. We're not.",
+        "text_zh": "我们不只是在试图制造好产品。我们是在试图制造最好的产品。这两者之间有很大的区别。大多数公司满足于制造'足够好'的产品。我们不。",
+        "thinking_pattern": "完美主义 / 极致追求",
+        "tags": ["完美主义", "最好vs足够好", "细节", "承诺"]
+      },
+      {
+        "id": "seg-003",
+        "importance": "important",
+        "text_en": "We don't do focus groups. You know, it's not the consumers' job to know what they want. It's our job to figure out what they're going to want before they know it.",
+        "text_zh": "我们不做焦点小组。你知道，知道消费者想要什么不是消费者的事情。我们的工作是在他们知道之前就弄清楚他们将会想要什么。",
+        "thinking_pattern": "用户洞察 / 直觉驱动",
+        "tags": ["不做焦点小组", "用户需求", "直觉", "产品决策", "经典语录"]
+      },
+      {
+        "id": "seg-004",
+        "importance": "important",
+        "text_en": "I have a wonderful family. And they're the most important thing in my life. But I also love what I do. And I think the key is to find something that you love so much that it doesn't feel like work.",
+        "text_zh": "我有一个美好的家庭。他们是我生命中最重要的事情。但我也热爱我所做的事情。我认为关键在于找到一件你如此热爱以至于不觉得是在工作的事情。",
+        "thinking_pattern": "热爱驱动 / 生活哲学",
+        "tags": ["家庭", "平衡", "热爱", "生活哲学"]
+      },
+      {
+        "id": "seg-005",
+        "importance": "important",
+        "text_en": "Apple is a company that's built on values. We value creativity. We value innovation. We value design. We value simplicity. And we're not willing to compromise on those values.",
+        "text_zh": "苹果是一家建立在价值观之上的公司。我们重视创造力。我们重视创新。我们重视设计。我们重视简约。我们不愿意在这些价值观上妥协。",
+        "thinking_pattern": "价值观驱动 / 文化建设",
+        "tags": ["苹果价值观", "创造力", "创新", "简约", "不妥协"]
+      },
+      {
+        "id": "seg-006",
+        "importance": "reference",
+        "text_en": "The only way to avoid failure is to not try anything. And that's a much bigger failure than any specific thing you might fail at.",
+        "text_zh": "避免失败的唯一方法就是什么都不尝试。那比你在任何具体事情上可能遭遇的失败都要大得多。",
+        "thinking_pattern": "成长型思维 / 反恐惧",
+        "tags": ["失败", "尝试", "不怕失败", "成长"]
+      }
+    ],
+    "extractable_quotes": [
+      "It's not just about the hardware. It's about the whole experience.",
+      "We don't just make products. We make experiences.",
+      "Most companies are satisfied with making products that are good enough. We're not. We want to make products that are the best in the world.",
+      "It's not the consumers' job to know what they want. It's our job to figure out what they're going to want before they know it.",
+      "Find something that you love so much that it doesn't feel like work.",
+      "The only way to avoid failure is to not try anything. And that's a much bigger failure than any specific thing you might fail at."
+    ]
+  }
+}

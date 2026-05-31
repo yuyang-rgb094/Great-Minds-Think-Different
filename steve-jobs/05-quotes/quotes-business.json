@@ -1,0 +1,116 @@
+{
+  "category": "quotes-business",
+  "category_zh": "商业",
+  "quotes": [
+    {
+      "id": "B-001",
+      "text_en": "We're here to put a dent in the universe.",
+      "text_zh": "我们在这里是为了在宇宙中留下印记。",
+      "source": "《乔布斯传》",
+      "year": "1980s",
+      "subcategory": "企业使命",
+      "thinking_pattern": "使命驱动思维——追求超越商业的影响力",
+      "usage_scenario": "讨论公司愿景、企业使命时引用",
+      "importance": "core"
+    },
+    {
+      "id": "B-002",
+      "text_en": "I'm as proud of what we don't do as I am of what we do.",
+      "text_zh": "我为我没有做的事情感到自豪，就像我为做过的事情感到自豪一样。",
+      "source": "苹果公司内部会议",
+      "year": "2004",
+      "subcategory": "战略取舍",
+      "thinking_pattern": "减法思维——不做什么比做什么更重要",
+      "usage_scenario": "讨论产品策略、资源聚焦时引用",
+      "importance": "core"
+    },
+    {
+      "id": "B-003",
+      "text_en": "If you keep your eye on the profit, you're going to skimp on the product. But if you focus on making really great products, the profit will follow.",
+      "text_zh": "如果你盯着利润，你就会在产品上偷工减料。但如果你专注于做出真正伟大的产品，利润自然会随之而来。",
+      "source": "D8大会采访",
+      "year": "2010",
+      "subcategory": "产品优先",
+      "thinking_pattern": "产品至上思维——利润是产品的副产品",
+      "usage_scenario": "讨论商业模式、产品与利润的关系时引用",
+      "importance": "core"
+    },
+    {
+      "id": "B-004",
+      "text_en": "Apple's goal isn't to make money. Our goal is to make great products.",
+      "text_zh": "苹果的目标不是赚钱。我们的目标是做出伟大的产品。",
+      "source": "《乔布斯传》",
+      "year": "2010",
+      "subcategory": "产品优先",
+      "thinking_pattern": "产品至上思维——产品是核心价值",
+      "usage_scenario": "讨论公司目标、价值观时引用",
+      "importance": "core"
+    },
+    {
+      "id": "B-005",
+      "text_en": "I've always wanted to own and control the primary technology in everything we do.",
+      "text_zh": "我一直希望拥有和控制我们所做的每一件事的核心技术。",
+      "source": "《乔布斯传》",
+      "year": "2000s",
+      "subcategory": "技术战略",
+      "thinking_pattern": "掌控思维——核心技术必须自主",
+      "usage_scenario": "讨论技术路线、自主可控时引用",
+      "importance": "important"
+    },
+    {
+      "id": "B-006",
+      "text_en": "We think the Mac will sell zillions, but we didn't build the Mac for anybody else. We built it for ourselves. We were the group of people who were going to judge whether it was great or not.",
+      "text_zh": "我们认为Mac会卖几百万台，但我们不是为别人造Mac。我们为自己而造。我们就是那个判断它是否伟大的人群。",
+      "source": "《花花公子》采访",
+      "year": "1985",
+      "subcategory": "产品理念",
+      "thinking_pattern": "自我标准思维——先做自己的用户",
+      "usage_scenario": "讨论产品定位、用户导向时引用",
+      "importance": "important"
+    },
+    {
+      "id": "B-007",
+      "text_en": "The journey is the reward.",
+      "text_zh": "过程本身就是奖赏。",
+      "source": "《乔布斯传》",
+      "year": "1980s",
+      "subcategory": "经营哲学",
+      "thinking_pattern": "过程导向思维——享受创造的过程",
+      "usage_scenario": "讨论创业心态、长期主义时引用",
+      "importance": "important"
+    },
+    {
+      "id": "B-008",
+      "text_en": "Quality is much better than quantity. One home run is much better than two doubles.",
+      "text_zh": "质量远比数量重要。一个全垒打远比两个二垒安打好。",
+      "source": "《乔布斯传》",
+      "year": "2000s",
+      "subcategory": "产品策略",
+      "thinking_pattern": "精品思维——追求爆款而非平庸产品线",
+      "usage_scenario": "讨论产品线策略、质量vs数量时引用",
+      "importance": "important"
+    },
+    {
+      "id": "B-009",
+      "text_en": "You know, my main reaction to this money thing is that it's humorous, all the attention to it, because it's not the most important thing in life.",
+      "text_zh": "你知道，我对钱这件事的主要反应是觉得它很可笑，人们对它如此关注，因为它不是人生中最重要的事情。",
+      "source": "《华尔街日报》采访",
+      "year": "1997",
+      "subcategory": "价值观",
+      "thinking_pattern": "价值排序思维——钱不是目的",
+      "usage_scenario": "讨论创业动机、财富观念时引用",
+      "importance": "important"
+    },
+    {
+      "id": "B-010",
+      "text_en": "I'm the only person I know that's lost a quarter of a billion dollars in one year... It's very character-building.",
+      "text_zh": "我是我认识的人中唯一一个在一年内亏掉两亿五千万美元的……这非常锻炼品格。",
+      "source": "《花花公子》采访",
+      "year": "1985",
+      "subcategory": "挫折应对",
+      "thinking_pattern": "幽默化解思维——用自嘲面对失败",
+      "usage_scenario": "讨论面对失败、商业挫折时引用",
+      "importance": "important"
+    }
+  ]
+}

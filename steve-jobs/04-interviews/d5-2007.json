@@ -1,0 +1,88 @@
+{
+  "interview": {
+    "id": "d5-2007",
+    "title_zh": "D5峰会：乔布斯与比尔·盖茨历史性同台对话",
+    "title_en": "D5 Conference: Steve Jobs and Bill Gates Historic Joint Interview",
+    "date": "2007-05-30",
+    "location": "美国加利福尼亚州卡尔斯巴德四季酒店",
+    "interviewer": "Walt Mossberg、Kara Swisher",
+    "occasion": "D5：All Things Digital大会",
+    "duration_minutes": 90,
+    "source_level": "A",
+    "context": "2007年5月，iPhone发布前夕。乔布斯52岁，处于职业生涯第二个巅峰。盖茨51岁，开始转向慈善事业。两位定义了个人电脑时代的科技巨头首次公开深入对话，回顾历史、讨论未来。",
+    "themes": ["个人电脑历史", "竞争与合作", "设计哲学", "技术与人文", "未来趋势", "相互尊重"],
+    "key_segments": [
+      {
+        "id": "seg-001",
+        "importance": "core",
+        "text_en": "BILL GATES: I'd give a lot to have Steve's taste... STEVE JOBS: Well, I think Bill's done an amazing job... I have nothing but respect for that.",
+        "text_zh": "比尔·盖茨：我愿意付出很多来拥有史蒂夫的品味……史蒂夫·乔布斯：嗯，我认为比尔做得非常出色……我对那只有尊重。",
+        "thinking_pattern": "相互尊重 / 客观评价",
+        "tags": ["盖茨与乔布斯", "相互评价", "品味", "尊重"]
+      },
+      {
+        "id": "seg-002",
+        "importance": "core",
+        "text_en": "The interesting thing about our relationship is that it's very unique in the industry... We both started in garages. We both started with nothing. And we both built something from nothing.",
+        "text_zh": "我们关系中有趣的一点是，它在整个行业中是非常独特的……我们都是从车库起步的。我们都是从一无所有开始的。我们都从无到有地建立了某些东西。",
+        "thinking_pattern": "创业共鸣 / 历史视角",
+        "tags": ["车库创业", "从无到有", "竞争与合作", "创业精神"]
+      },
+      {
+        "id": "seg-003",
+        "importance": "important",
+        "text_en": "Yeah, I used to yell at Bill a lot. But you know, that's just how I am. I'm very passionate about things. And when I feel like something isn't right, I let people know.",
+        "text_zh": "是的，我以前经常对比尔大吼大叫。但你知道，这就是我的风格。我对事物非常充满热情。当我觉得某些事情不对时，我会让人们知道。",
+        "thinking_pattern": "情感表达 / 真实性格",
+        "tags": ["复杂关系", "激情", "坦诚", "性格特征"]
+      },
+      {
+        "id": "seg-004",
+        "importance": "core",
+        "text_en": "People think that design is about how something looks. But design is really about how something works. And I think that's one of the fundamental differences between Apple and a lot of other companies.",
+        "text_zh": "人们认为设计是关于一个东西看起来怎么样。但设计实际上是关于一个东西如何运作。我认为这是苹果和很多其他公司之间的根本区别之一。",
+        "thinking_pattern": "设计哲学 / 体验至上",
+        "tags": ["设计哲学", "用户体验", "细节", "功能与形式"]
+      },
+      {
+        "id": "seg-005",
+        "importance": "important",
+        "text_en": "The next big thing is going to be the intersection of technology and liberal arts. Because the people who are going to make the biggest impact are the ones who can bridge those two worlds.",
+        "text_zh": "下一个大趋势将是技术与人文艺术的交叉。因为将产生最大影响的人，是那些能够连接这两个世界的人。",
+        "thinking_pattern": "跨学科思维 / 人文科技融合",
+        "tags": ["技术与人文", "跨学科", "未来趋势", "人才观"]
+      },
+      {
+        "id": "seg-006",
+        "importance": "important",
+        "text_en": "I think search is going to get a lot better. But I also think that the way people find information is going to change dramatically. I don't think it's going to be just about typing keywords into a box.",
+        "text_zh": "我认为搜索会变得好得多。但我也认为人们获取信息的方式将发生巨大变化。我不认为它仅仅是关于在搜索框里输入关键词。",
+        "thinking_pattern": "前瞻思维 / 用户体验",
+        "tags": ["搜索", "未来预测", "上下文", "用户体验"]
+      },
+      {
+        "id": "seg-007",
+        "importance": "important",
+        "text_en": "We could all retire and sit on a beach somewhere. But we don't, because we love what we do. We love building things. We love creating things that change people's lives.",
+        "text_zh": "我们都可以退休，去某个海滩上坐着。但我们没有，因为我们热爱我们所做的事情。我们热爱创造东西。我们热爱创造改变人们生活的东西。",
+        "thinking_pattern": "热爱驱动 / 终身创造",
+        "tags": ["热爱", "创造", "改变生活", "行业热情"]
+      },
+      {
+        "id": "seg-008",
+        "importance": "reference",
+        "text_en": "I wish there were more companies that really cared about making great products. Because when companies care about making great products, everybody wins.",
+        "text_zh": "我希望有更多公司真正关心做出伟大的产品。因为当公司关心做出伟大的产品时，每个人都是赢家。",
+        "thinking_pattern": "产品至上 / 长期主义",
+        "tags": ["伟大产品", "产品哲学", "纪律", "专注"]
+      }
+    ],
+    "extractable_quotes": [
+      "People think that design is about how something looks. But design is really about how something works.",
+      "The next big thing is going to be the intersection of technology and liberal arts.",
+      "We both started in garages. We both started with nothing. And we both built something from nothing.",
+      "We could all retire and sit on a beach somewhere. But we don't, because we love what we do.",
+      "I wish there were more companies that really cared about making great products. Because when companies care about making great products, everybody wins."
+    ]
+  }
+}

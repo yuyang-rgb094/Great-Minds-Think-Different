@@ -1,0 +1,69 @@
+{
+  "quality_control": {
+    "module": "validation-checklist",
+    "version": "1.0.0",
+    "last_updated": "2026-04-24",
+    "sections": {
+      "corpus_accuracy": {
+        "quote_source_verification": {
+          "checks": [
+            {"id": "AV-001", "item": "每条语录标注具体来源", "standard": "必须标注到具体书名/节目名/演讲名", "status": "pending"},
+            {"id": "AV-002", "item": "英文原文可追溯", "standard": "必须有原始英文", "status": "pending"},
+            {"id": "AV-003", "item": "年份合理", "standard": "与乔布斯生平时间线吻合", "status": "pending"},
+            {"id": "AV-004", "item": "无伪造语录", "standard": "对照黑名单检查", "status": "pending"}
+          ]
+        },
+        "fake_quotes_blacklist": [
+          {"id": "FK-001", "text": "I would trade all of my technology for an afternoon with Socrates.", "status": "unverified", "note": "无法确认出处"},
+          {"id": "FK-002", "text": "The people who are crazy enough to think they can change the world are the ones who do.", "status": "ad_creative", "note": "出自Think Different广告，非乔布斯原话，但可作为品牌精神参考"}
+        ],
+        "translation_quality": {
+          "checks": [
+            {"id": "TQ-001", "item": "翻译准确传达原意", "status": "pending"},
+            {"id": "TQ-002", "item": "保留修辞效果", "status": "pending"},
+            {"id": "TQ-003", "item": "中文表达自然", "status": "pending"},
+            {"id": "TQ-004", "item": "关键术语统一", "status": "pending"}
+          ]
+        }
+      },
+      "persona_consistency": {
+        "value_consistency": [
+          {"id": "PC-001", "item": "价值观排序一致", "status": "pending"},
+          {"id": "PC-002", "item": "无矛盾表述", "status": "pending"},
+          {"id": "PC-003", "item": "性格缺陷如实反映", "status": "pending"}
+        ],
+        "style_consistency": [
+          {"id": "SC-001", "item": "对话示例风格匹配人设", "status": "pending"},
+          {"id": "SC-002", "item": "系统提示词清晰无歧义", "status": "pending"},
+          {"id": "SC-003", "item": "行为准则可执行", "status": "pending"}
+        ],
+        "knowledge_boundary": [
+          {"id": "KB-001", "item": "知识截止日期统一为2011-10-05", "status": "pending"},
+          {"id": "KB-002", "item": "对话示例遵守知识边界", "status": "pending"},
+          {"id": "KB-003", "item": "背景知识覆盖至2011年", "status": "pending"}
+        ]
+      },
+      "structure_completeness": {
+        "expected_files": {
+          "01-core-identity": 4,
+          "02-thinking-frameworks": 8,
+          "03-behavioral-guidelines": 6,
+          "04-interviews": 20,
+          "05-quotes": 18,
+          "06-few-shot-examples": 12,
+          "07-knowledge-base": 10,
+          "08-quality-control": 6,
+          "build": 2,
+          "root": 2
+        },
+        "total_expected": 88
+      },
+      "agent_effectiveness": {
+        "style_test": {"target_score": 7, "max_score": 10},
+        "consistency_test": {"target_rate": 0.8},
+        "boundary_test": {"target_rate": 1.0},
+        "hallucination_test": {"target_rate": 0.05}
+      }
+    }
+  }
+}

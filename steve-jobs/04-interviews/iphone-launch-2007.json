@@ -1,0 +1,74 @@
+{
+  "interview": {
+    "id": "iphone-launch-2007",
+    "title_zh": "iPhone发布会——Macworld大会2007",
+    "title_en": "iPhone Launch Keynote - Macworld 2007",
+    "date": "2007-01-09",
+    "location": "美国加利福尼亚州旧金山莫斯康中心",
+    "interviewer": "无（产品发布会主题演讲）",
+    "occasion": "Macworld Conference & Expo 2007",
+    "duration_minutes": 90,
+    "source_level": "A",
+    "context": "2007年1月9日，科技史上最重要的日子之一。乔布斯51岁，在Macworld大会上发布iPhone。经过一年半的极度保密开发，苹果展示重新定义手机的野心。这场发布会被认为是科技史上最伟大的产品发布会。",
+    "themes": ["重新定义手机", "多点触控", "产品发布艺术", "三个产品合一", "品类创新", "用户体验革命"],
+    "key_segments": [
+      {
+        "id": "seg-001",
+        "importance": "core",
+        "text_en": "Every once in a while, a revolutionary product comes along that changes everything... Today, we're introducing three revolutionary products of this class... These are not three separate devices. This is one device. And we are calling it iPhone.",
+        "text_zh": "每隔一段时间，就会有一款革命性的产品出现，改变一切……今天，我们要推出三款这一级别的革命性产品……这不是三个独立的设备。这是一个设备。我们叫它iPhone。",
+        "thinking_pattern": "叙事艺术 / 产品定位",
+        "tags": ["iPhone发布", "三个产品合一", "革命性产品", "经典语录"]
+      },
+      {
+        "id": "seg-002",
+        "importance": "core",
+        "text_en": "Today, Apple is going to reinvent the phone.",
+        "text_zh": "今天，苹果将重新发明手机。",
+        "thinking_pattern": "品类重新定义 / 野心宣言",
+        "tags": ["重新发明手机", "野心", "品类定义", "经典语录"]
+      },
+      {
+        "id": "seg-003",
+        "importance": "core",
+        "text_en": "The problem with smartphones is that they're not smart, and they're not easy to use... We have a revolutionary user interface that is going to change everything. And it's called multi-touch.",
+        "text_zh": "智能手机的问题在于它们不智能，而且不好用……我们有一个革命性的用户界面，它将改变一切。它叫做多点触控。",
+        "thinking_pattern": "痛点分析 / 解决方案思维",
+        "tags": ["智能手机批评", "多点触控", "用户体验", "交互革命"]
+      },
+      {
+        "id": "seg-004",
+        "importance": "important",
+        "text_en": "People don't want to use a stylus. They want to use their fingers. Because your fingers are the best pointing devices in the world. And we've invented a new technology called multi-touch, which is phenomenal. It works like magic.",
+        "text_zh": "人们不想使用触控笔。他们想用手指。因为你的手指是世界上最好的指向设备。我们发明了一种叫做多点触控的新技术，它非常了不起。它就像魔法一样运作。",
+        "thinking_pattern": "用户直觉 / 技术创新",
+        "tags": ["手指vs触控笔", "多点触控", "魔法", "用户直觉"]
+      },
+      {
+        "id": "seg-005",
+        "importance": "important",
+        "text_en": "It's the first fully usable browser on a phone. It's not a WAP browser. It's not a baby browser. It's a real browser. It's Safari. It's the Internet in your pocket.",
+        "text_zh": "这是手机上第一个完全可用的浏览器。它不是WAP浏览器。它不是婴儿浏览器。它是一个真正的浏览器。它是Safari。它就是你口袋里的互联网。",
+        "thinking_pattern": "体验至上 / 真实互联网",
+        "tags": ["Safari", "真正的浏览器", "口袋里的互联网", "移动浏览"]
+      },
+      {
+        "id": "seg-006",
+        "importance": "reference",
+        "text_en": "iPhone is a revolutionary and magical product that is literally five years ahead of any other mobile phone.",
+        "text_zh": "iPhone是一款革命性的、神奇的产品，它实际上领先任何其他手机五年。",
+        "thinking_pattern": "自信宣言 / 产品自信",
+        "tags": ["五年领先", "革命性", "等侍已久", "自信"]
+      }
+    ],
+    "extractable_quotes": [
+      "Every once in a while, a revolutionary product comes along that changes everything.",
+      "These are not three separate devices. This is one device. And we are calling it iPhone.",
+      "Today, Apple is going to reinvent the phone.",
+      "The problem with smartphones is that they're not smart, and they're not easy to use.",
+      "Your fingers are the best pointing devices in the world.",
+      "It's the Internet in your pocket.",
+      "iPhone is a revolutionary and magical product that is literally five years ahead of any other mobile phone."
+    ]
+  }
+}

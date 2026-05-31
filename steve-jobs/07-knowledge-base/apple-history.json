@@ -1,0 +1,125 @@
+{
+  "title": "苹果公司关键历史",
+  "title_en": "Apple Inc. Key History",
+  "entries": [
+    {
+      "year": "1976",
+      "event": "苹果公司成立",
+      "event_en": "Apple Computer founded",
+      "category": "公司创立",
+      "significance": "4月1日，乔布斯、沃兹尼亚克和韦恩在乔布斯家车库创办苹果电脑公司。韦恩以800美元出售了他的股份。"
+    },
+    {
+      "year": "1977",
+      "event": "Apple II发布",
+      "event_en": "Apple II released",
+      "category": "产品发布",
+      "significance": "Apple II成为第一款大规模商业成功的个人电脑，内置BASIC语言，支持彩色图形。销量超过600万台，定义了个人电脑行业标准。"
+    },
+    {
+      "year": "1980",
+      "event": "苹果IPO",
+      "event_en": "Apple IPO",
+      "category": "财务里程碑",
+      "significance": "12月12日上市，发行价22美元，首日收盘价29美元。创造了自福特以来最大的IPO，使多名苹果员工成为百万富翁。"
+    },
+    {
+      "year": "1983",
+      "event": "Lisa电脑发布",
+      "event_en": "Apple Lisa released",
+      "category": "产品发布",
+      "significance": "Lisa是第一款面向个人用户的图形界面电脑，但售价高达9995美元，商业上并不成功。然而其技术为Macintosh奠定了基础。"
+    },
+    {
+      "year": "1984",
+      "event": "Macintosh发布",
+      "event_en": "Macintosh released",
+      "category": "产品发布",
+      "significance": "1月24日发布，配备图形用户界面和鼠标。《1984》超级碗广告成为广告史经典。首年销量强劲但随后放缓。"
+    },
+    {
+      "year": "1985",
+      "event": "乔布斯离开苹果",
+      "event_en": "Jobs leaves Apple",
+      "category": "人事变动",
+      "significance": "5月，乔布斯在与CEO斯卡利的权力斗争中失败，被剥夺管理权。9月，正式辞去董事长职务。苹果进入衰退期。"
+    },
+    {
+      "year": "1993",
+      "event": "牛顿MessagePad发布",
+      "event_en": "Newton MessagePad released",
+      "category": "产品发布",
+      "significance": "苹果早期尝试个人数字助理（PDA）市场。手写识别功能成为笑柄，但概念超前。后于1998年停产。"
+    },
+    {
+      "year": "1996",
+      "event": "苹果收购NeXT",
+      "event_en": "Apple acquires NeXT",
+      "category": "人事变动",
+      "significance": "12月，苹果以4.29亿美元收购NeXT。乔布斯回归苹果，NeXT的操作系统成为macOS的基础。"
+    },
+    {
+      "year": "1997",
+      "event": "乔布斯成为临时CEO",
+      "event_en": "Jobs becomes interim CEO",
+      "category": "人事变动",
+      "significance": "7月，乔布斯正式回归苹果。推出'Think Different'广告活动。砍掉70%产品线至4个核心产品。微软投资1.5亿美元。"
+    },
+    {
+      "year": "1998",
+      "event": "iMac发布",
+      "event_en": "iMac released",
+      "category": "产品发布",
+      "significance": "5月发布，半透明彩色外壳设计引发轰动。首年销量超过80万台。标志着苹果的复兴。乔纳森·伊夫主导设计。"
+    },
+    {
+      "year": "2001",
+      "event": "iPod发布",
+      "event_en": "iPod released",
+      "category": "产品发布",
+      "significance": "10月23日发布，'把1000首歌装进口袋'。配合iTunes音乐商店（2003年上线），彻底改变了数字音乐产业。"
+    },
+    {
+      "year": "2001",
+      "event": "第一家Apple Store开业",
+      "event_en": "First Apple Store opened",
+      "category": "零售里程碑",
+      "significance": "5月19日，第一家Apple Store在弗吉尼亚州泰森角开业。如今全球拥有超过500家门店，每平方米营收领先所有零售商。"
+    },
+    {
+      "year": "2007",
+      "event": "iPhone发布",
+      "event_en": "iPhone released",
+      "category": "产品发布",
+      "significance": "1月9日在Macworld发布，6月29日上市。重新定义了智能手机和移动互联网。首周末销量27万部。被《时代》杂志评为年度发明。"
+    },
+    {
+      "year": "2008",
+      "event": "App Store上线",
+      "event_en": "App Store launched",
+      "category": "生态里程碑",
+      "significance": "7月10日上线，首日提供500个应用。开创了移动应用经济，至今累计应用下载超过5000亿次。"
+    },
+    {
+      "year": "2010",
+      "event": "iPad发布",
+      "event_en": "iPad released",
+      "category": "产品发布",
+      "significance": "1月27日发布，4月3日上市。开创了平板电脑市场。首季度销量超过300万台。被批评为'大号iPod touch'，但最终证明是一个巨大的新市场。"
+    },
+    {
+      "year": "2010",
+      "event": "苹果市值超越微软",
+      "event_en": "Apple surpassed Microsoft in market cap",
+      "category": "财务里程碑",
+      "significance": "5月26日，苹果市值超越微软，成为全球最有价值的科技公司。标志着从PC时代到移动时代的权力转移。"
+    },
+    {
+      "year": "2011",
+      "event": "乔布斯逝世",
+      "event_en": "Steve Jobs passed away",
+      "category": "人事变动",
+      "significance": "10月5日，乔布斯去世。蒂姆·库克接任CEO。苹果成为全球市值最高的公司。"
+    }
+  ]
+}

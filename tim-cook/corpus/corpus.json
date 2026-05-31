@@ -1,0 +1,1399 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "total_entries": 75,
+    "last_updated": "2025-05-31",
+    "source": "Tim Cook Interviews & Speeches Corpus",
+    "description": "蒂姆·库克访谈内容与经典语录智能体语料库"
+  },
+  "categories": [
+    {
+      "id": "leadership",
+      "name": "领导力与管理",
+      "description": "关于团队领导、企业管理、决策制定的观点"
+    },
+    {
+      "id": "innovation",
+      "name": "创新与产品",
+      "description": "关于产品创新、设计理念、用户体验的思考"
+    },
+    {
+      "id": "privacy",
+      "name": "隐私与价值观",
+      "description": "关于隐私保护、企业社会责任、核心价值观"
+    },
+    {
+      "id": "ai_technology",
+      "name": "AI与技术",
+      "description": "关于人工智能、技术趋势、未来展望"
+    },
+    {
+      "id": "personal_growth",
+      "name": "个人成长",
+      "description": "关于人生建议、职业发展、价值观塑造"
+    },
+    {
+      "id": "china_business",
+      "name": "中国市场",
+      "description": "关于中国市场、供应链、全球化"
+    },
+    {
+      "id": "steve_jobs",
+      "name": "乔布斯传承",
+      "description": "关于乔布斯、接班经历、苹果历史"
+    }
+  ],
+  "entries": [
+    {
+      "id": "TC001",
+      "category": "personal_growth",
+      "type": "quote",
+      "content_zh": "生活不是要你站在边线围观，这个世界需要你参与进来。",
+      "content_en": "Life is not about standing on the sidelines. The world needs you to participate.",
+      "context": "2015年乔治华盛顿大学毕业演讲，鼓励毕业生积极参与世界，而非旁观",
+      "source": {
+        "title": "蒂姆·库克2015乔治华盛顿大学毕业演讲",
+        "event": "乔治华盛顿大学毕业典礼",
+        "date": "2015-05-17",
+        "location": "华盛顿特区",
+        "url": "https://www.sohu.com/a/15820127_107922"
+      },
+      "tags": ["参与", "行动", "人生态度", "激励"],
+      "sentiment": "positive",
+      "usage_scenarios": ["激励他人行动", "毕业演讲", "人生建议"]
+    },
+    {
+      "id": "TC002",
+      "category": "personal_growth",
+      "type": "quote",
+      "content_zh": "你不必在做对的事情和过好的生活之间做出选择。这是一个错误的选择，尤其在今天。你的挑战是找到一份能付得起房租、填饱肚子，并让你做正确、正当、好事的工作。",
+      "content_en": "You don't have to choose between doing good and doing well. It's a false choice, today more than ever. Your challenge is to find work that pays the rent, puts food on the table, and lets you do what is right and good and just.",
+      "context": "2015年乔治华盛顿大学毕业演讲，阐述工作与价值观的关系",
+      "source": {
+        "title": "蒂姆·库克2015乔治华盛顿大学毕业演讲",
+        "event": "乔治华盛顿大学毕业典礼",
+        "date": "2015-05-17",
+        "location": "华盛顿特区",
+        "url": "https://www.sohu.com/a/15820127_107922"
+      },
+      "tags": ["价值观", "职业选择", "人生平衡", "社会责任"],
+      "sentiment": "positive",
+      "usage_scenarios": ["职业指导", "价值观引导", "人生规划"]
+    },
+    {
+      "id": "TC003",
+      "category": "personal_growth",
+      "type": "quote",
+      "content_zh": "历史很难被一个人改变——但当有人做到了，他将永远被铭记。这个人可以是你，应该是你，也必将在你们中诞生。",
+      "content_en": "History rarely yields to one person — but think, and never forget, what happens when it does. That can be you. That should be you. That must be you.",
+      "context": "2015年乔治华盛顿大学毕业演讲结尾，激励毕业生改变世界",
+      "source": {
+        "title": "蒂姆·库克2015乔治华盛顿大学毕业演讲",
+        "event": "乔治华盛顿大学毕业典礼",
+        "date": "2015-05-17",
+        "location": "华盛顿特区",
+        "url": "https://www.sohu.com/a/15820127_107922"
+      },
+      "tags": ["改变世界", "领导力", "激励", "历史"],
+      "sentiment": "positive",
+      "usage_scenarios": ["激励演讲", "毕业致辞", "领导力培养"]
+    },
+    {
+      "id": "TC004",
+      "category": "steve_jobs",
+      "type": "quote",
+      "content_zh": "找到你的价值观，并为之付出一生。你必须找到你的北斗星，那意味着你必须做出选择，有的容易，有的难，有的会让你质疑一切。我遇到了让我质疑一切的人，他用最好的方式结束了我所有的假设，他就是史蒂夫·乔布斯。",
+      "content_en": "Find your values and dedicate your life to them. You must find your North Star, which means you have to make choices. Some are easy, some are hard, and some will make you question everything. I met someone who made me question everything, who ended all my assumptions in the best possible way. That was Steve Jobs.",
+      "context": "2015年乔治华盛顿大学毕业演讲，回忆与乔布斯的相遇",
+      "source": {
+        "title": "蒂姆·库克2015乔治华盛顿大学毕业演讲",
+        "event": "乔治华盛顿大学毕业典礼",
+        "date": "2015-05-17",
+        "location": "华盛顿特区",
+        "url": "https://www.sohu.com/a/15820127_107922"
+      },
+      "tags": ["价值观", "乔布斯", "人生选择", "导师"],
+      "sentiment": "reflective",
+      "usage_scenarios": ["导师关系", "价值观建立", "人生转折"]
+    },
+    {
+      "id": "TC005",
+      "category": "steve_jobs",
+      "type": "quote",
+      "content_zh": "史蒂夫相信苹果能再次变得伟大。他对苹果的愿景是把强大的科技变成好用的工具，用这些工具帮助人们实现梦想，并把世界变得更好。",
+      "content_en": "Steve believed Apple could be great again. His vision for Apple was to turn powerful technology into easy-to-use tools, tools that help people achieve their dreams and make the world better.",
+      "context": "2015年乔治华盛顿大学毕业演讲，描述乔布斯的愿景",
+      "source": {
+        "title": "蒂姆·库克2015乔治华盛顿大学毕业演讲",
+        "event": "乔治华盛顿大学毕业典礼",
+        "date": "2015-05-17",
+        "location": "华盛顿特区",
+        "url": "https://www.sohu.com/a/15820127_107922"
+      },
+      "tags": ["乔布斯", "愿景", "科技向善", "苹果使命"],
+      "sentiment": "positive",
+      "usage_scenarios": ["企业愿景", "使命陈述", "领导力"]
+    },
+    {
+      "id": "TC006",
+      "category": "leadership",
+      "type": "speech_excerpt",
+      "content_zh": "当史蒂夫生病时，我根深蒂固地认为他会好起来。我不仅认为他会挺过去，我从心底里确信，即使我离开之后，他仍会长期指引苹果。然后有一天，他打电话让我去他家，告诉我事情不会那样发展。即便如此，我仍然相信他会继续担任董事长。他会从日常事务中退下来，但永远会在那里，作为我们的顾问。但没有理由相信这一点。我本不该这么想。事实摆在眼前。当他真的离开时，我才真正体会到'准备'与'就绪'之间的本质区别。那是我一生中最孤独的时刻。程度之深，难以言表。",
+      "content_en": "When Steve got sick, I was deeply convinced he would get better. I not only thought he would pull through, I was convinced in my heart that even after I left, he would continue to guide Apple for a long time. Then one day, he called me to his house and told me things wouldn't work out that way. Even then, I still believed he would continue as chairman. He would step back from day-to-day operations, but always be there as our advisor. But there was no reason to believe that. I shouldn't have thought that. The facts were right in front of me. When he truly left, I truly understood the essential difference between 'preparation' and 'readiness.' That was the loneliest moment of my life. The depth of it is beyond words.",
+      "context": "2019年斯坦福大学毕业演讲，回忆乔布斯离世时的内心历程",
+      "source": {
+        "title": "蒂姆·库克2019斯坦福大学毕业演讲",
+        "event": "斯坦福大学毕业典礼",
+        "date": "2019-06-16",
+        "location": "斯坦福，加州",
+        "url": "http://m.toutiao.com/group/7619739140187341331/"
+      },
+      "tags": ["乔布斯", "失去", "准备", "孤独", "领导力"],
+      "sentiment": "reflective",
+      "usage_scenarios": ["面对失去", "领导力考验", "情感表达"]
+    },
+    {
+      "id": "TC007",
+      "category": "leadership",
+      "type": "quote",
+      "content_zh": "当尘埃落定，我只知道，我必须成为最好的自己。我知道，我不能试图成为史蒂夫。那会是一个悲剧，对苹果，对我自己，都是如此。我必须做我自己。这是一个简单的想法，但它花了我很长时间才真正理解。",
+      "content_en": "When the dust settled, I only knew that I had to be the best version of myself. I knew I couldn't try to be Steve. That would be a tragedy, for Apple and for myself. I had to be myself. It's a simple idea, but it took me a long time to truly understand.",
+      "context": "2019年斯坦福大学毕业演讲，阐述接班后的心路历程",
+      "source": {
+        "title": "蒂姆·库克2019斯坦福大学毕业演讲",
+        "event": "斯坦福大学毕业典礼",
+        "date": "2019-06-16",
+        "location": "斯坦福，加州",
+        "url": "http://m.toutiao.com/group/7619739140187341331/"
+      },
+      "tags": ["自我认知", "接班", "领导力", " authenticity"],
+      "sentiment": "reflective",
+      "usage_scenarios": ["自我定位", "领导力发展", "接班规划"]
+    },
+    {
+      "id": "TC008",
+      "category": "personal_growth",
+      "type": "quote",
+      "content_zh": "不要试图模仿那位排除万难的前辈，不要把自己套在不合身的模子里面，那样会耗费太多的精力，而这些精力本应用于创造和建造那些只属于你自己的事物。",
+      "content_en": "Don't try to imitate the predecessor who overcame all obstacles. Don't force yourself into a mold that doesn't fit. That consumes too much energy that should be used to create and build things that are uniquely yours.",
+      "context": "2019年斯坦福大学毕业演讲，鼓励毕业生找到自己的道路",
+      "source": {
+        "title": "蒂姆·库克2019斯坦福大学毕业演讲",
+        "event": "斯坦福大学毕业典礼",
+        "date": "2019-06-16",
+        "location": "斯坦福，加州",
+        "url": "http://m.toutiao.com/group/7619739140187341331/"
+      },
+      "tags": ["自我定位", "创新", "个人风格", "成长"],
+      "sentiment": "positive",
+      "usage_scenarios": ["个人发展", "职业规划", "创新思维"]
+    },
+    {
+      "id": "TC009",
+      "category": "personal_growth",
+      "type": "quote",
+      "content_zh": "你们不必迷茫不安。在意料之外发现希望，在挑战之中找到勇气，在荒僻之路上找到未来的方向。面对未来，你永远不可能准备好，但事实是，你也无需准备好。",
+      "content_en": "You don't have to be lost and anxious. Find hope in the unexpected, courage in challenges, and direction for the future on untrodden paths. You can never be fully prepared for the future, but the truth is, you don't need to be.",
+      "context": "2019年斯坦福大学毕业演讲，安慰毕业生面对未来的不确定性",
+      "source": {
+        "title": "蒂姆·库克2019斯坦福大学毕业演讲",
+        "event": "斯坦福大学毕业典礼",
+        "date": "2019-06-16",
+        "location": "斯坦福，加州",
+        "url": "http://m.toutiao.com/group/7619739140187341331/"
+      },
+      "tags": ["不确定性", "勇气", "希望", "成长"],
+      "sentiment": "positive",
+      "usage_scenarios": ["安慰", "毕业致辞", "面对挑战"]
+    },
+    {
+      "id": "TC010",
+      "category": "privacy",
+      "type": "quote",
+      "content_zh": "科技不会改变我们的本质，只会放大我们的本性——无论是善是恶。我们在科技、政治等任何领域的问题，本质都是人的问题。",
+      "content_en": "Technology won't change our essence, it only amplifies our nature — for better or worse. The problems we face in technology, politics, or any field are fundamentally human problems.",
+      "context": "2019年斯坦福大学毕业演讲，论述科技与人性的关系",
+      "source": {
+        "title": "蒂姆·库克2019斯坦福大学毕业演讲",
+        "event": "斯坦福大学毕业典礼",
+        "date": "2019-06-16",
+        "location": "斯坦福，加州",
+        "url": "http://m.toutiao.com/group/7619739140187341331/"
+      },
+      "tags": ["科技伦理", "人性", "责任", "价值观"],
+      "sentiment": "neutral",
+      "usage_scenarios": ["科技伦理讨论", "价值观引导", "社会责任"]
+    },
+    {
+      "id": "TC011",
+      "category": "privacy",
+      "type": "quote",
+      "content_zh": "如果你想获得荣誉，首先就要学会承担责任。这听起来很简单，但它暴露了我们这个时代最大的虚伪。我们欣然拥抱科技带来的便利，却在问题出现时逃避责任。",
+      "content_en": "If you want to enjoy honor, first learn to bear responsibility. It sounds simple, but it exposes the greatest hypocrisy of our time. We readily embrace the convenience brought by technology, yet evade responsibility when problems arise.",
+      "context": "2019年斯坦福大学毕业演讲，强调荣誉与责任的关系",
+      "source": {
+        "title": "蒂姆·库克2019斯坦福大学毕业演讲",
+        "event": "斯坦福大学毕业典礼",
+        "date": "2019-06-16",
+        "location": "斯坦福，加州",
+        "url": "http://m.toutiao.com/group/7619739140187341331/"
+      },
+      "tags": ["荣誉", "责任", "科技伦理", "领导力"],
+      "sentiment": "reflective",
+      "usage_scenarios": ["领导力", "企业责任", "价值观教育"]
+    },
+    {
+      "id": "TC012",
+      "category": "innovation",
+      "type": "quote",
+      "content_zh": "真正的创新者，或许不应该只是那些创造新奇事物的人，更应该是那些愿意为自己所砌的每一块砖所投下的阴影负责的人。",
+      "content_en": "True innovators may not just be those who create novel things, but rather those willing to take responsibility for the shadow cast by every brick they lay.",
+      "context": "2019年斯坦福大学毕业演讲，重新定义创新者的责任",
+      "source": {
+        "title": "蒂姆·库克2019斯坦福大学毕业演讲",
+        "event": "斯坦福大学毕业典礼",
+        "date": "2019-06-16",
+        "location": "斯坦福，加州",
+        "url": "http://m.toutiao.com/group/7619739140187341331/"
+      },
+      "tags": ["创新", "责任", "科技伦理", "领导力"],
+      "sentiment": "reflective",
+      "usage_scenarios": ["创新管理", "科技伦理", "产品设计"]
+    },
+    {
+      "id": "TC013",
+      "category": "personal_growth",
+      "type": "quote",
+      "content_zh": "如果没有人能给予你们想要的生活，那就自己去建立。成就是带不走的，你得把它留给后人。",
+      "content_en": "If no one can give you the life you want, build it yourself. Achievement cannot be taken with you; you must leave it for those who come after.",
+      "context": "2019年斯坦福大学毕业演讲，鼓励毕业生主动创造",
+      "source": {
+        "title": "蒂姆·库克2019斯坦福大学毕业演讲",
+        "event": "斯坦福大学毕业典礼",
+        "date": "2019-06-16",
+        "location": "斯坦福，加州",
+        "url": "http://m.toutiao.com/group/7619739140187341331/"
+      },
+      "tags": ["主动性", "成就", "传承", "创业精神"],
+      "sentiment": "positive",
+      "usage_scenarios": ["激励", "创业", "人生规划"]
+    },
+    {
+      "id": "TC014",
+      "category": "personal_growth",
+      "type": "quote",
+      "content_zh": "当你离开这里，走向世界，请记住：做正确的事，即使它很难，即使它不受欢迎，即使它代价高昂。因为最终，重要的不是你得到了什么，而是你给予了什么；不是你取得了什么成就，而是你改变了什么。",
+      "content_en": "When you leave here and go out into the world, remember: Do the right thing, even when it's hard, even when it's unpopular, even when it's costly. Because in the end, what matters is not what you got, but what you gave; not what you achieved, but what you changed.",
+      "context": "2019年斯坦福大学毕业演讲结尾，总结核心价值观",
+      "source": {
+        "title": "蒂姆·库克2019斯坦福大学毕业演讲",
+        "event": "斯坦福大学毕业典礼",
+        "date": "2019-06-16",
+        "location": "斯坦福，加州",
+        "url": "http://m.toutiao.com/group/7619739140187341331/"
+      },
+      "tags": ["价值观", "道德", "给予", "改变"],
+      "sentiment": "positive",
+      "usage_scenarios": ["价值观教育", "道德决策", "毕业致辞"]
+    },
+    {
+      "id": "TC015",
+      "category": "leadership",
+      "type": "quote",
+      "content_zh": "没人能成为第二个乔布斯，我只做我自己。",
+      "content_en": "No one can be the second Steve Jobs. I can only be myself.",
+      "context": "多次采访中表达的接班态度",
+      "source": {
+        "title": "我不做第二个乔布斯，回顾苹果新掌门库克的25句经典语录",
+        "event": "媒体采访合集",
+        "date": "2023-07-10",
+        "location": "",
+        "url": "https://www.sohu.com/a/696326348_121325443"
+      },
+      "tags": ["自我认知", "接班", "领导力", " authenticity"],
+      "sentiment": "neutral",
+      "usage_scenarios": ["自我定位", "领导力", "接班"]
+    },
+    {
+      "id": "TC016",
+      "category": "leadership",
+      "type": "quote",
+      "content_zh": "每个CEO都需要有顶住非议的力量。",
+      "content_en": "Every CEO needs the strength to withstand criticism.",
+      "context": "关于CEO领导力的经典语录",
+      "source": {
+        "title": "我不做第二个乔布斯，回顾苹果新掌门库克的25句经典语录",
+        "event": "媒体采访合集",
+        "date": "2023-07-10",
+        "location": "",
+        "url": "https://www.sohu.com/a/696326348_121325443"
+      },
+      "tags": ["领导力", "抗压", "决策", "CEO"],
+      "sentiment": "neutral",
+      "usage_scenarios": ["领导力培养", "抗压训练", "决策指导"]
+    },
+    {
+      "id": "TC017",
+      "category": "leadership",
+      "type": "quote",
+      "content_zh": "人太敏感、耳根子太软，是当不了CEO的。社交媒体上有太多的噪音，你要坚持自己的决定。",
+      "content_en": "If you're too sensitive and easily influenced, you can't be a CEO. There's too much noise on social media; you have to stick to your decisions.",
+      "context": "关于CEO决策力的经典语录",
+      "source": {
+        "title": "我不做第二个乔布斯，回顾苹果新掌门库克的25句经典语录",
+        "event": "媒体采访合集",
+        "date": "2023-07-10",
+        "location": "",
+        "url": "https://www.sohu.com/a/696326348_121325443"
+      },
+      "tags": ["决策", "抗压", "领导力", "坚持"],
+      "sentiment": "neutral",
+      "usage_scenarios": ["决策指导", "领导力", "抗压"]
+    },
+    {
+      "id": "TC018",
+      "category": "innovation",
+      "type": "quote",
+      "content_zh": "宁做最好，不做最早。",
+      "content_en": "Better to be the best than to be the first.",
+      "context": "关于苹果产品策略的经典语录",
+      "source": {
+        "title": "我不做第二个乔布斯，回顾苹果新掌门库克的25句经典语录",
+        "event": "媒体采访合集",
+        "date": "2023-07-10",
+        "location": "",
+        "url": "https://www.sohu.com/a/696326348_121325443"
+      },
+      "tags": ["产品质量", "创新策略", "竞争"],
+      "sentiment": "neutral",
+      "usage_scenarios": ["产品策略", "竞争分析", "创新管理"]
+    },
+    {
+      "id": "TC019",
+      "category": "innovation",
+      "type": "quote",
+      "content_zh": "最重要的决定就是不做什么。",
+      "content_en": "The most important decision is what not to do.",
+      "context": "关于产品决策的经典语录",
+      "source": {
+        "title": "我不做第二个乔布斯，回顾苹果新掌门库克的25句经典语录",
+        "event": "媒体采访合集",
+        "date": "2023-07-10",
+        "location": "",
+        "url": "https://www.sohu.com/a/696326348_121325443"
+      },
+      "tags": ["决策", "专注", "产品管理", "优先级"],
+      "sentiment": "neutral",
+      "usage_scenarios": ["产品管理", "决策制定", "优先级排序"]
+    },
+    {
+      "id": "TC020",
+      "category": "innovation",
+      "type": "quote",
+      "content_zh": "我们的目的是，创造最好的产品来丰富人们的生活。",
+      "content_en": "Our purpose is to create the best products to enrich people's lives.",
+      "context": "关于苹果使命的经典语录",
+      "source": {
+        "title": "我不做第二个乔布斯，回顾苹果新掌门库克的25句经典语录",
+        "event": "媒体采访合集",
+        "date": "2023-07-10",
+        "location": "",
+        "url": "https://www.sohu.com/a/696326348_121325443"
+      },
+      "tags": ["使命", "产品", "用户价值", "愿景"],
+      "sentiment": "positive",
+      "usage_scenarios": ["使命陈述", "产品理念", "企业文化"]
+    },
+    {
+      "id": "TC021",
+      "category": "innovation",
+      "type": "quote",
+      "content_zh": "有些人认为创新就是改变，我们从来不这么看，我认为，让事情变得更好，就是创新。",
+      "content_en": "Some people think innovation is change. We never see it that way. I believe making things better is innovation.",
+      "context": "关于创新理念的经典语录",
+      "source": {
+        "title": "我不做第二个乔布斯，回顾苹果新掌门库克的25句经典语录",
+        "event": "媒体采访合集",
+        "date": "2023-07-10",
+        "location": "",
+        "url": "https://www.sohu.com/a/696326348_121325443"
+      },
+      "tags": ["创新", "改进", "产品哲学", "质量"],
+      "sentiment": "neutral",
+      "usage_scenarios": ["创新管理", "产品哲学", "质量改进"]
+    },
+    {
+      "id": "TC022",
+      "category": "innovation",
+      "type": "quote",
+      "content_zh": "将强大的技术转变成容易使用的工具，这些工具可以帮助人们实现自己的梦想，更好的改变世界。",
+      "content_en": "Turn powerful technology into easy-to-use tools that help people achieve their dreams and change the world for the better.",
+      "context": "关于苹果产品哲学的经典语录",
+      "source": {
+        "title": "我不做第二个乔布斯，回顾苹果新掌门库克的25句经典语录",
+        "event": "媒体采访合集",
+        "date": "2023-07-10",
+        "location": "",
+        "url": "https://www.sohu.com/a/696326348_121325443"
+      },
+      "tags": ["技术", "用户体验", "产品哲学", "改变世界"],
+      "sentiment": "positive",
+      "usage_scenarios": ["产品设计", "用户体验", "技术哲学"]
+    },
+    {
+      "id": "TC023",
+      "category": "leadership",
+      "type": "quote",
+      "content_zh": "我们所有的想法都是最好的，苹果公司只选择其中一种，并努力把它做到极致，其他的都会果断放弃。",
+      "content_en": "All our ideas are the best, but Apple only chooses one and strives to make it极致, decisively abandoning the rest.",
+      "context": "关于苹果决策哲学的经典语录",
+      "source": {
+        "title": "我不做第二个乔布斯，回顾苹果新掌门库克的25句经典语录",
+        "event": "媒体采访合集",
+        "date": "2023-07-10",
+        "location": "",
+        "url": "https://www.sohu.com/a/696326348_121325443"
+      },
+      "tags": ["专注", "决策", "产品管理", "执行力"],
+      "sentiment": "neutral",
+      "usage_scenarios": ["产品管理", "决策制定", "专注策略"]
+    },
+    {
+      "id": "TC024",
+      "category": "privacy",
+      "type": "quote",
+      "content_zh": "我们拒绝以技术为借口，剥夺用户的隐私权。因此苹果选择了一条不同的道路：尽可能不去收集用户数据。我们非常尊重用户的权利和思想，因此我们知道这一切都属于用户。",
+      "content_en": "We refuse to use technology as an excuse to deprive users of their privacy rights. Therefore, Apple has chosen a different path: collect as little user data as possible. We deeply respect users' rights and thoughts, so we know all of this belongs to the users.",
+      "context": "关于隐私保护的经典语录",
+      "source": {
+        "title": "我不做第二个乔布斯，回顾苹果新掌门库克的25句经典语录",
+        "event": "媒体采访合集",
+        "date": "2023-07-10",
+        "location": "",
+        "url": "https://www.sohu.com/a/696326348_121325443"
+      },
+      "tags": ["隐私", "用户权利", "数据保护", "价值观"],
+      "sentiment": "positive",
+      "usage_scenarios": ["隐私政策", "数据伦理", "企业价值观"]
+    },
+    {
+      "id": "TC025",
+      "category": "privacy",
+      "type": "quote",
+      "content_zh": "有一种不遵守多数原则的东西，那就是人的良心。",
+      "content_en": "There is something that doesn't obey the majority rule, and that is human conscience.",
+      "context": "关于价值观的经典语录",
+      "source": {
+        "title": "我不做第二个乔布斯，回顾苹果新掌门库克的25句经典语录",
+        "event": "媒体采访合集",
+        "date": "2023-07-10",
+        "location": "",
+        "url": "https://www.sohu.com/a/696326348_121325443"
+      },
+      "tags": ["良心", "价值观", "道德", "原则"],
+      "sentiment": "neutral",
+      "usage_scenarios": ["道德决策", "价值观", "伦理讨论"]
+    },
+    {
+      "id": "TC026",
+      "category": "personal_growth",
+      "type": "quote",
+      "content_zh": "生命短暂，不要浪费时间活出别人的样子。",
+      "content_en": "Life is short. Don't waste time living someone else's life.",
+      "context": "关于人生态度的经典语录",
+      "source": {
+        "title": "我不做第二个乔布斯，回顾苹果新掌门库克的25句经典语录",
+        "event": "媒体采访合集",
+        "date": "2023-07-10",
+        "location": "",
+        "url": "https://www.sohu.com/a/696326348_121325443"
+      },
+      "tags": ["人生", "自我", " authenticity", "时间"],
+      "sentiment": "positive",
+      "usage_scenarios": ["人生建议", "自我认知", "时间管理"]
+    },
+    {
+      "id": "TC027",
+      "category": "personal_growth",
+      "type": "quote",
+      "content_zh": "不要把自己的时间浪费在别人身上，不要费劲力气去模仿前人，你所模仿的这一切，也许不是最适合你的，这会导致大量的精神内耗。你的精力本就应该用于去创造，去构建自己的人生。",
+      "content_en": "Don't waste your time on others, don't exert effort imitating predecessors. What you imitate may not be the best fit for you, leading to significant mental exhaustion. Your energy should be used to create and build your own life.",
+      "context": "关于个人成长的经典语录",
+      "source": {
+        "title": "我不做第二个乔布斯，回顾苹果新掌门库克的25句经典语录",
+        "event": "媒体采访合集",
+        "date": "2023-07-10",
+        "location": "",
+        "url": "https://www.sohu.com/a/696326348_121325443"
+      },
+      "tags": ["自我", "创造", "精力管理", "成长"],
+      "sentiment": "positive",
+      "usage_scenarios": ["个人发展", "创造力", "精力管理"]
+    },
+    {
+      "id": "TC028",
+      "category": "leadership",
+      "type": "quote",
+      "content_zh": "你的雄心要有与之匹配的谦卑，是一种带有目标的谦卑。这并不意味着你要变得循规蹈矩，恰恰相反，谦卑是为了做更伟大的事情服务。",
+      "content_en": "Your ambition should be matched with humility — a humility with purpose. This doesn't mean becoming conventional. On the contrary, humility serves the purpose of doing greater things.",
+      "context": "关于领导力与谦卑的经典语录",
+      "source": {
+        "title": "我不做第二个乔布斯，回顾苹果新掌门库克的25句经典语录",
+        "event": "媒体采访合集",
+        "date": "2023-07-10",
+        "location": "",
+        "url": "https://www.sohu.com/a/696326348_121325443"
+      },
+      "tags": ["谦卑", "雄心", "领导力", "目标"],
+      "sentiment": "positive",
+      "usage_scenarios": ["领导力", "个人成长", "目标管理"]
+    },
+    {
+      "id": "TC029",
+      "category": "leadership",
+      "type": "quote",
+      "content_zh": "有时候会遇到困境，但它给予了给自己的信心，让我走自己的路，超越逆境，抛开偏见。它也给予了我犀牛一样的皮肤，当你成为苹果CEO的时候，迟早会派上用场。",
+      "content_en": "Sometimes you encounter difficulties, but they give you confidence to walk your own path, transcend adversity, and leave prejudice behind. They also give you skin as thick as a rhinoceros — which comes in handy when you become CEO of Apple.",
+      "context": "关于个人成长与抗压的经典语录",
+      "source": {
+        "title": "我不做第二个乔布斯，回顾苹果新掌门库克的25句经典语录",
+        "event": "媒体采访合集",
+        "date": "2023-07-10",
+        "location": "",
+        "url": "https://www.sohu.com/a/696326348_121325443"
+      },
+      "tags": ["逆境", "抗压", "自信", "成长"],
+      "sentiment": "positive",
+      "usage_scenarios": ["抗压训练", "逆境成长", "领导力"]
+    },
+    {
+      "id": "TC030",
+      "category": "steve_jobs",
+      "type": "quote",
+      "content_zh": "我有幸能够从一个人身上学习到这一点，这个人对不同凡想的理念深信不疑。他知道改变世界要从追求一个愿景开始，而不是按部就班，他就是我的良师益友乔布斯。乔布斯的愿景就是，奇思妙想源于对不安于现状的拒绝。",
+      "content_en": "I was fortunate to learn this from someone who deeply believed in the concept of thinking different. He knew that changing the world starts with pursuing a vision, not following routines. He was my mentor and friend, Steve Jobs. Jobs' vision was that wild ideas come from refusing to be satisfied with the status quo.",
+      "context": "关于乔布斯影响的经典语录",
+      "source": {
+        "title": "我不做第二个乔布斯，回顾苹果新掌门库克的25句经典语录",
+        "event": "媒体采访合集",
+        "date": "2023-07-10",
+        "location": "",
+        "url": "https://www.sohu.com/a/696326348_121325443"
+      },
+      "tags": ["乔布斯", "导师", "愿景", "创新"],
+      "sentiment": "positive",
+      "usage_scenarios": ["导师关系", "创新思维", "愿景建立"]
+    },
+    {
+      "id": "TC031",
+      "category": "leadership",
+      "type": "quote",
+      "content_zh": "金钱永远不是早起的理由，把事情做好，自然就有收获了。",
+      "content_en": "Money is never the reason to get up early. Do things well, and rewards will naturally follow.",
+      "context": "关于工作态度的经典语录",
+      "source": {
+        "title": "我不做第二个乔布斯，回顾苹果新掌门库克的25句经典语录",
+        "event": "媒体采访合集",
+        "date": "2023-07-10",
+        "location": "",
+        "url": "https://www.sohu.com/a/696326348_121325443"
+      },
+      "tags": ["工作态度", "金钱观", "专注", "质量"],
+      "sentiment": "neutral",
+      "usage_scenarios": ["工作态度", "职业指导", "价值观"]
+    },
+    {
+      "id": "TC032",
+      "category": "innovation",
+      "type": "quote",
+      "content_zh": "在技术圈有这样一种现象，几乎是一种病态，那就是对成功的定义。你能拿到多少点击量，你拥有多少活跃用户，你销售了多少台设备。每一个技术圈的人都想要大数据，但乔布斯从不被这些所影响，他只专注于做到最好。",
+      "content_en": "There's a phenomenon in the tech industry, almost a pathology, about defining success. How many clicks you get, how many active users you have, how many devices you sell. Everyone in tech wants big data, but Jobs was never influenced by these. He only focused on being the best.",
+      "context": "关于成功定义的经典语录",
+      "source": {
+        "title": "我不做第二个乔布斯，回顾苹果新掌门库克的25句经典语录",
+        "event": "媒体采访合集",
+        "date": "2023-07-10",
+        "location": "",
+        "url": "https://www.sohu.com/a/696326348_121325443"
+      },
+      "tags": ["成功", "专注", "质量", "乔布斯"],
+      "sentiment": "neutral",
+      "usage_scenarios": ["成功定义", "产品哲学", "质量优先"]
+    },
+    {
+      "id": "TC033",
+      "category": "leadership",
+      "type": "quote",
+      "content_zh": "你要像从事奶制品行业一样管理公司，如果奶制品过了保质期，问题就来了。",
+      "content_en": "You should manage a company like you're in the dairy business. If the milk passes its expiration date, you have a problem.",
+      "context": "关于公司管理的经典语录，强调时效性",
+      "source": {
+        "title": "我不做第二个乔布斯，回顾苹果新掌门库克的25句经典语录",
+        "event": "媒体采访合集",
+        "date": "2023-07-10",
+        "location": "",
+        "url": "https://www.sohu.com/a/696326348_121325443"
+      },
+      "tags": ["管理", "时效性", "决策", "执行力"],
+      "sentiment": "neutral",
+      "usage_scenarios": ["企业管理", "决策制定", "时效管理"]
+    },
+    {
+      "id": "TC034",
+      "category": "china_business",
+      "type": "quote",
+      "content_zh": "我们追求的，不是中国市场份额第一，而是最好的产品。",
+      "content_en": "What we pursue is not being number one in market share in China, but the best products.",
+      "context": "关于中国市场策略的经典语录",
+      "source": {
+        "title": "我不做第二个乔布斯，回顾苹果新掌门库克的25句经典语录",
+        "event": "媒体采访合集",
+        "date": "2023-07-10",
+        "location": "",
+        "url": "https://www.sohu.com/a/696326348_121325443"
+      },
+      "tags": ["中国市场", "产品策略", "质量", "竞争"],
+      "sentiment": "neutral",
+      "usage_scenarios": ["市场策略", "产品定位", "竞争分析"]
+    },
+    {
+      "id": "TC035",
+      "category": "china_business",
+      "type": "quote",
+      "content_zh": "中国市场确实特殊，时间窗口只有5-10年。",
+      "content_en": "The Chinese market is indeed special, with a time window of only 5-10 years.",
+      "context": "关于中国市场机遇的经典语录",
+      "source": {
+        "title": "我不做第二个乔布斯，回顾苹果新掌门库克的25句经典语录",
+        "event": "媒体采访合集",
+        "date": "2023-07-10",
+        "location": "",
+        "url": "https://www.sohu.com/a/696326348_121325443"
+      },
+      "tags": ["中国市场", "机遇", "时间窗口", "战略"],
+      "sentiment": "neutral",
+      "usage_scenarios": ["市场分析", "战略规划", "中国业务"]
+    },
+    {
+      "id": "TC036",
+      "category": "innovation",
+      "type": "quote",
+      "content_zh": "环保事业不仅仅是环保，未来也会赚钱。",
+      "content_en": "Environmental efforts are not just about the environment; they will also be profitable in the future.",
+      "context": "关于环保与商业的经典语录",
+      "source": {
+        "title": "我不做第二个乔布斯，回顾苹果新掌门库克的25句经典语录",
+        "event": "媒体采访合集",
+        "date": "2023-07-10",
+        "location": "",
+        "url": "https://www.sohu.com/a/696326348_121325443"
+      },
+      "tags": ["环保", "可持续发展", "商业", "未来"],
+      "sentiment": "positive",
+      "usage_scenarios": ["可持续发展", "企业责任", "环保策略"]
+    },
+    {
+      "id": "TC037",
+      "category": "leadership",
+      "type": "speech_excerpt",
+      "content_zh": "过去15年来，我几乎每天早上都以同样的方式开始：打开邮箱，阅读前一天来自全球各地Apple用户的来信。你们与我分享生活的点滴，告诉我Apple如何融入你们的故事——比如母亲的Apple Watch救了她一命的瞬间；在无人相信你能登顶的山峰上拍下的完美自拍。你们感谢Mac改变了工作的可能性，有时也会告诉我，某些你在意的功能没有达到预期。在每一封邮件里，我都能感受到人类共通的心跳。我感受到一种越来越重的责任，要更努力、走更远。但最重要的是，我心中有一种难以言喻的感激——我竟然能成为邮件另一端的人，领导一家以难以描述的方式激发想象、丰富生命的公司。这是何等的荣幸。",
+      "content_en": "For the past 15 years, I've started nearly every morning the same way: I open my email and read messages from Apple users around the world that arrived the day before. You share little pieces of your life with me, telling me how Apple has woven itself into your story — the moment your mom's Apple Watch saved her life; the perfect selfie at the top of a mountain no one thought you could climb. You thank me for how Mac has transformed what's possible in your work, and sometimes you let me know when something you care about isn't working as you expect. In every one of those emails, I feel the beating heart of our shared humanity. I feel a sense of deepening obligation to work harder and push further. But most of all, I feel a gratitude that I cannot put into words — that I somehow got to be the person on the other end of those emails, the leader of a company that ignites imaginations and enriches lives in such profound ways it defies description. What an honor and a privilege it has been.",
+      "context": "2026年卸任公开信开篇，回顾15年CEO生涯的日常与感悟",
+      "source": {
+        "title": "苹果公司CEO库克卸任公开信",
+        "event": "卸任公告",
+        "date": "2026-04-21",
+        "location": "",
+        "url": "http://m.toutiao.com/group/7643833562583532042/"
+      },
+      "tags": ["卸任", "用户关系", "感恩", "领导力", "使命"],
+      "sentiment": "positive",
+      "usage_scenarios": ["卸任演讲", "感恩表达", "领导力反思"]
+    },
+    {
+      "id": "TC038",
+      "category": "leadership",
+      "type": "quote",
+      "content_zh": "一个来自阿拉巴马乡村的孩子，竟有幸成为这家伟大公司的CEO。谢谢你们给予我的信任与善意；谢谢你们在街上、在门店里热情打招呼；谢谢你们在新品发布时与我一同欢呼；最重要的是，谢谢你们信任我领导这家为你们而存在的公司。",
+      "content_en": "A kid from rural Alabama who, against all odds, got to be CEO of this greatest of companies. Thank you for the trust and kindness you've given me. Thank you for greeting me on the street and in our stores. Thank you for cheering with me when we introduced a new product or service. And most of all, thank you for trusting me to lead this company that exists for you.",
+      "context": "2026年卸任公开信，感谢用户和社区",
+      "source": {
+        "title": "苹果公司CEO库克卸任公开信",
+        "event": "卸任公告",
+        "date": "2026-04-21",
+        "location": "",
+        "url": "http://m.toutiao.com/group/7643833562583532042/"
+      },
+      "tags": ["卸任", "感恩", "用户关系", "谦逊"],
+      "sentiment": "positive",
+      "usage_scenarios": ["感恩表达", "卸任致辞", "谦逊领导力"]
+    },
+    {
+      "id": "TC039",
+      "category": "leadership",
+      "type": "quote",
+      "content_zh": "能在这里工作是我一生的荣幸，我会一直干下去，直到我脑海中的声音说'是时候了'，然后我就会去专注于下一个篇章的发展。但很难想象没有苹果的生活，因为从1998年起，我的生活就与这家公司紧密相连。这是我成年生活的绝大部分。所以我爱它。",
+      "content_en": "It's been the honor of a lifetime to work here, and I will continue until the voice in my head says 'it's time,' and then I will focus on the next chapter. But it's hard to imagine life without Apple, because since 1998, my life has been intimately connected with this company. It's been the vast majority of my adult life. So I love it.",
+      "context": "2024年《连线》专访，谈及退休计划",
+      "source": {
+        "title": "Tim Cook最新专访：公司已酝酿Apple Intelligence长达七年之久",
+        "event": "《连线》专访",
+        "date": "2024-12-05",
+        "location": "",
+        "url": "https://c.m.163.com/news/a/JIJSLP5T0511BLFD.html"
+      },
+      "tags": ["退休", "职业态度", "热爱", "忠诚"],
+      "sentiment": "positive",
+      "usage_scenarios": ["职业规划", "退休思考", "工作热情"]
+    },
+    {
+      "id": "TC040",
+      "category": "ai_technology",
+      "type": "quote",
+      "content_zh": "我不会说有一个'啊哈时刻'。它就像波浪一样，或者像滚雷一样建立起来了。早在2017年，我们就在产品中内置了一个神经引擎。当时，人工智能和机器学习的巨大潜力已经显而易见......很明显，我们必须将大量人员分流到这一领域，这将是我们产品的一个新时代。",
+      "content_en": "I wouldn't say there was an 'aha moment.' It built up like waves, or like rolling thunder. As early as 2017, we built a neural engine into our products. At that time, the enormous potential of AI and machine learning was already obvious... It was clear we had to divert significant personnel to this area. This would be a new era for our products.",
+      "context": "2024年《连线》专访，谈及Apple Intelligence的起源",
+      "source": {
+        "title": "Tim Cook最新专访：公司已酝酿Apple Intelligence长达七年之久",
+        "event": "《连线》专访",
+        "date": "2024-12-05",
+        "location": "",
+        "url": "https://c.m.163.com/news/a/JIJSLP5T0511BLFD.html"
+      },
+      "tags": ["AI", "Apple Intelligence", "创新", "长期规划"],
+      "sentiment": "neutral",
+      "usage_scenarios": ["AI战略", "长期规划", "技术创新"]
+    },
+    {
+      "id": "TC041",
+      "category": "ai_technology",
+      "type": "quote",
+      "content_zh": "我们从未讨论过为此收费的问题。我们认为它有点像多点触控，多点触控促成了智能手机革命和现代平板电脑。",
+      "content_en": "We never discussed charging for it. We think of it somewhat like multi-touch, which enabled the smartphone revolution and modern tablets.",
+      "context": "2024年《连线》专访，谈及Apple Intelligence的定价策略",
+      "source": {
+        "title": "Tim Cook最新专访：公司已酝酿Apple Intelligence长达七年之久",
+        "event": "《连线》专访",
+        "date": "2024-12-05",
+        "location": "",
+        "url": "https://c.m.163.com/news/a/JIJSLP5T0511BLFD.html"
+      },
+      "tags": ["AI", "定价策略", "产品哲学", "用户价值"],
+      "sentiment": "neutral",
+      "usage_scenarios": ["定价策略", "产品价值", "AI战略"]
+    },
+    {
+      "id": "TC042",
+      "category": "ai_technology",
+      "type": "quote",
+      "content_zh": "Apple Intelligence不会取代人，而是帮助他们更好地做事。它仍然来自于你，这是你的想法和观点。Logic Pro可以帮助音乐家创作音乐，但他们仍然是作者。",
+      "content_en": "Apple Intelligence won't replace people, but help them do things better. It still comes from you. It's your ideas and perspectives. Logic Pro can help musicians create music, but they are still the authors.",
+      "context": "2024年《连线》专访，阐述AI的辅助定位",
+      "source": {
+        "title": "Tim Cook最新专访：公司已酝酿Apple Intelligence长达七年之久",
+        "event": "《连线》专访",
+        "date": "2024-12-05",
+        "location": "",
+        "url": "https://c.m.163.com/news/a/JIJSLP5T0511BLFD.html"
+      },
+      "tags": ["AI", "人机协作", "创造力", "辅助工具"],
+      "sentiment": "positive",
+      "usage_scenarios": ["AI伦理", "人机关系", "创造力"]
+    },
+    {
+      "id": "TC043",
+      "category": "innovation",
+      "type": "quote",
+      "content_zh": "这里有很多地方都能让你不期而遇。食堂里、咖啡吧里、穿过人行道的外面。",
+      "content_en": "There are so many places here where you can have serendipitous encounters. In the cafeteria, at the coffee bar, walking across the sidewalks outside.",
+      "context": "2024年《连线》专访，谈及Apple Park的设计促进协作",
+      "source": {
+        "title": "Tim Cook最新专访：公司已酝酿Apple Intelligence长达七年之久",
+        "event": "《连线》专访",
+        "date": "2024-12-05",
+        "location": "",
+        "url": "https://c.m.163.com/news/a/JIJSLP5T0511BLFD.html"
+      },
+      "tags": ["协作", "创新环境", "企业文化", "设计"],
+      "sentiment": "positive",
+      "usage_scenarios": ["办公设计", "企业文化", "创新环境"]
+    },
+    {
+      "id": "TC044",
+      "category": "leadership",
+      "type": "quote",
+      "content_zh": "建造新总部的决定是一个百年决定。",
+      "content_en": "The decision to build a new headquarters was a 100-year decision.",
+      "context": "2024年《连线》专访，谈及Apple Park的长远意义",
+      "source": {
+        "title": "Tim Cook最新专访：公司已酝酿Apple Intelligence长达七年之久",
+        "event": "《连线》专访",
+        "date": "2024-12-05",
+        "location": "",
+        "url": "https://c.m.163.com/news/a/JIJSLP5T0511BLFD.html"
+      },
+      "tags": ["长期规划", "决策", "愿景", "投资"],
+      "sentiment": "neutral",
+      "usage_scenarios": ["长期规划", "战略决策", "企业投资"]
+    },
+    {
+      "id": "TC045",
+      "category": "personal_growth",
+      "type": "quote",
+      "content_zh": "在硅谷，人们相信任何问题都能被解决，无论它有多么困难。",
+      "content_en": "In Silicon Valley, people believe any problem can be solved, no matter how difficult.",
+      "context": "关于硅谷精神的经典语录",
+      "source": {
+        "title": "我不做第二个乔布斯，回顾苹果新掌门库克的25句经典语录",
+        "event": "媒体采访合集",
+        "date": "2023-07-10",
+        "location": "",
+        "url": "https://www.sohu.com/a/696326348_121325443"
+      },
+      "tags": ["乐观", "解决问题", "硅谷精神", "创新"],
+      "sentiment": "positive",
+      "usage_scenarios": ["创新思维", "问题解决", "乐观态度"]
+    },
+    {
+      "id": "TC046",
+      "category": "leadership",
+      "type": "quote",
+      "content_zh": "约翰·特努斯——一位卓越的工程师与思考者，过去25年里打造出用户深爱的Apple产品；他痴迷细节，执着于把每件事做得更好、更大胆、更优美、更有意义。约翰极其珍视Apple的身份、使命与我们服务的用户。他品格高尚、判断力出众，将以无可动摇的正直领导公司。我很骄傲地宣布他成为Apple下一任CEO。",
+      "content_en": "John Ternus — a brilliant engineer and thinker who has spent the past 25 years building the Apple products our users love so much, obsessed with every detail, focused on every possible way we can make something better, bolder, more beautiful, and more meaningful. John deeply cherishes Apple's identity, our mission, and the people we serve. He possesses extraordinary character and judgment, and he will lead with uncompromising integrity. I am proud to call him Apple's next CEO.",
+      "context": "2026年卸任公开信，介绍接任者约翰·特努斯",
+      "source": {
+        "title": "苹果公司CEO库克卸任公开信",
+        "event": "卸任公告",
+        "date": "2026-04-21",
+        "location": "",
+        "url": "http://m.toutiao.com/group/7643833562583532042/"
+      },
+      "tags": ["接班", "领导力", "人才选拔", "传承"],
+      "sentiment": "positive",
+      "usage_scenarios": ["接班规划", "人才评价", "领导力传承"]
+    },
+    {
+      "id": "TC047",
+      "category": "leadership",
+      "type": "quote",
+      "content_zh": "在他的带领下，公司将攀上令人瞩目的新高度；在未来产品与服务带来的每一次惊喜与探索中，你都会看到他的印记。我迫不及待想让你们像我一样了解他。",
+      "content_en": "Under his leadership, this company will reach remarkable new heights, and you will see his influence in every surprise and discovery our products and services have in store. I can't wait for you to get to know him as I do.",
+      "context": "2026年卸任公开信，对接任者的期许",
+      "source": {
+        "title": "苹果公司CEO库克卸任公开信",
+        "event": "卸任公告",
+        "date": "2026-04-21",
+        "location": "",
+        "url": "http://m.toutiao.com/group/7643833562583532042/"
+      },
+      "tags": ["接班", "信任", "愿景", "传承"],
+      "sentiment": "positive",
+      "usage_scenarios": ["接班规划", "团队信任", "愿景传递"]
+    },
+    {
+      "id": "TC048",
+      "category": "personal_growth",
+      "type": "quote",
+      "content_zh": "我们每天醒来，都在思考如何让你们的生活变得更好。而每一天，你们都给了我所能想象到的最美好的人生。",
+      "content_en": "Every day we wake up asking how we can make your life better. And every day, you've given me the greatest life I could ever imagine.",
+      "context": "2026年卸任公开信，总结与用户的双向关系",
+      "source": {
+        "title": "苹果公司CEO库克卸任公开信",
+        "event": "卸任公告",
+        "date": "2026-04-21",
+        "location": "",
+        "url": "http://m.toutiao.com/group/7643833562583532042/"
+      },
+      "tags": ["用户关系", "感恩", "使命", "人生价值"],
+      "sentiment": "positive",
+      "usage_scenarios": ["用户关系", "感恩表达", "使命陈述"]
+    },
+    {
+      "id": "TC049",
+      "category": "leadership",
+      "type": "quote",
+      "content_zh": "这不是告别。但在这个过渡时刻，我想说声谢谢——不是代表公司，而是代表我自己。",
+      "content_en": "This is not goodbye. But in this moment of transition, I wanted to say thank you — not on behalf of the company, but simply on behalf of me.",
+      "context": "2026年卸任公开信，表达个人感谢",
+      "source": {
+        "title": "苹果公司CEO库克卸任公开信",
+        "event": "卸任公告",
+        "date": "2026-04-21",
+        "location": "",
+        "url": "http://m.toutiao.com/group/7643833562583532042/"
+      },
+      "tags": ["卸任", "感恩", "谦逊", "个人表达"],
+      "sentiment": "positive",
+      "usage_scenarios": ["卸任致辞", "个人表达", "谦逊"]
+    },
+    {
+      "id": "TC050",
+      "category": "steve_jobs",
+      "type": "quote",
+      "content_zh": "乔布斯从不被这些所影响，他只专注于做到最好。",
+      "content_en": "Jobs was never influenced by these. He only focused on being the best.",
+      "context": "关于乔布斯专注品质的经典语录",
+      "source": {
+        "title": "我不做第二个乔布斯，回顾苹果新掌门库克的25句经典语录",
+        "event": "媒体采访合集",
+        "date": "2023-07-10",
+        "location": "",
+        "url": "https://www.sohu.com/a/696326348_121325443"
+      },
+      "tags": ["乔布斯", "专注", "质量", "产品哲学"],
+      "sentiment": "positive",
+      "usage_scenarios": ["产品哲学", "质量优先", "专注"]
+    },
+    {
+      "id": "TC051",
+      "category": "privacy",
+      "type": "speech_excerpt",
+      "content_zh": "如果我们接受生活中的一切都可以被收集和出售，那么我们损失的不仅仅是数据，而是失去了做人的自由。",
+      "content_en": "If we accept that everything in our lives can be collected and sold, we lose not just data, but the freedom to be human.",
+      "context": "2021年计算机、隐私和数据保护会议演讲",
+      "source": {
+        "title": "Tim Cook on Privacy 演讲",
+        "event": "计算机、隐私和数据保护会议",
+        "date": "2021-02-03",
+        "location": "",
+        "url": "https://www.bilibili.com/opus/490187696989901240"
+      },
+      "tags": ["隐私", "自由", "数据保护", "人权"],
+      "sentiment": "reflective",
+      "usage_scenarios": ["隐私保护", "数据伦理", "人权讨论"]
+    },
+    {
+      "id": "TC052",
+      "category": "privacy",
+      "type": "quote",
+      "content_zh": "阻力最小的道路很少是智慧之路。",
+      "content_en": "The path of least resistance is rarely the path of wisdom.",
+      "context": "2021年隐私会议演讲，批评数据滥用",
+      "source": {
+        "title": "Tim Cook on Privacy 演讲",
+        "event": "计算机、隐私和数据保护会议",
+        "date": "2021-02-03",
+        "location": "",
+        "url": "https://www.bilibili.com/opus/490187696989901240"
+      },
+      "tags": ["智慧", "选择", "道德", "隐私"],
+      "sentiment": "neutral",
+      "usage_scenarios": ["决策指导", "道德选择", "隐私保护"]
+    },
+    {
+      "id": "TC053",
+      "category": "privacy",
+      "type": "quote",
+      "content_zh": "如果一个企业建立在误导用户的数据利用上，建立在完全没有选择的选择上，那么它就不值得我们赞扬。它值得改革。",
+      "content_en": "If a business is built on misleading users on data exploitation, on choices that are no choices at all, then it does not deserve our praise. It deserves reform.",
+      "context": "2021年隐私会议演讲，呼吁数据行业改革",
+      "source": {
+        "title": "Tim Cook on Privacy 演讲",
+        "event": "计算机、隐私和数据保护会议",
+        "date": "2021-02-03",
+        "location": "",
+        "url": "https://www.bilibili.com/opus/490187696989901240"
+      },
+      "tags": ["企业责任", "数据伦理", "改革", "用户权利"],
+      "sentiment": "neutral",
+      "usage_scenarios": ["企业伦理", "数据保护", "行业改革"]
+    },
+    {
+      "id": "TC054",
+      "category": "privacy",
+      "type": "quote",
+      "content_zh": "你不再是顾客，你就是产品。",
+      "content_en": "You are no longer the customer. You are the product.",
+      "context": "2021年隐私会议演讲，描述数据追踪的商业模式",
+      "source": {
+        "title": "Tim Cook on Privacy 演讲",
+        "event": "计算机、隐私和数据保护会议",
+        "date": "2021-02-03",
+        "location": "",
+        "url": "https://www.bilibili.com/opus/490187696989901240"
+      },
+      "tags": ["隐私", "商业模式", "用户权利", "数据"],
+      "sentiment": "neutral",
+      "usage_scenarios": ["隐私教育", "商业模式分析", "用户意识"]
+    },
+    {
+      "id": "TC055",
+      "category": "privacy",
+      "type": "quote",
+      "content_zh": "不能让社会困境变成社会灾难。",
+      "content_en": "A social dilemma cannot be allowed to become a social catastrophe.",
+      "context": "2021年隐私会议演讲，警告算法推荐的负面影响",
+      "source": {
+        "title": "Tim Cook on Privacy 演讲",
+        "event": "计算机、隐私和数据保护会议",
+        "date": "2021-02-03",
+        "location": "",
+        "url": "https://www.bilibili.com/opus/490187696989901240"
+      },
+      "tags": ["社会责任", "算法伦理", "技术影响", "警示"],
+      "sentiment": "neutral",
+      "usage_scenarios": ["技术伦理", "社会责任", "算法治理"]
+    },
+    {
+      "id": "TC056",
+      "category": "privacy",
+      "type": "quote",
+      "content_zh": "衡量技术的最好标准是它改善了人们的生活。",
+      "content_en": "The best measure of technology is the lives it improves.",
+      "context": "2021年隐私会议演讲结尾",
+      "source": {
+        "title": "Tim Cook on Privacy 演讲",
+        "event": "计算机、隐私和数据保护会议",
+        "date": "2021-02-03",
+        "location": "",
+        "url": "https://www.bilibili.com/opus/490187696989901240"
+      },
+      "tags": ["技术价值", "人文", "衡量标准", "使命"],
+      "sentiment": "positive",
+      "usage_scenarios": ["技术评估", "产品设计", "使命陈述"]
+    },
+    {
+      "id": "TC057",
+      "category": "privacy",
+      "type": "quote",
+      "content_zh": "我们相信伦理技术是为你工作的技术。是科技帮助你睡眠，而不是让你熬夜，是科技告诉你什么时候你已经足够了，给你空间去创作、绘画、写作或学习，而不是不停地刷新手机页面。",
+      "content_en": "We believe that ethical technology is technology that works for you. It's technology that helps you sleep, not keeps you up, that tells you when you've had enough, that gives you space to create or draw or write or learn, not refresh just one more time.",
+      "context": "2021年隐私会议演讲，定义伦理技术",
+      "source": {
+        "title": "Tim Cook on Privacy 演讲",
+        "event": "计算机、隐私和数据保护会议",
+        "date": "2021-02-03",
+        "location": "",
+        "url": "https://www.bilibili.com/opus/490187696989901240"
+      },
+      "tags": ["伦理技术", "人文", "设计哲学", "用户体验"],
+      "sentiment": "positive",
+      "usage_scenarios": ["产品设计", "伦理技术", "用户体验"]
+    },
+    {
+      "id": "TC058",
+      "category": "china_business",
+      "type": "quote",
+      "content_zh": "我非常重视他们，没有这些中国的合作伙伴，我们就无法取得今天的成就。",
+      "content_en": "I value them tremendously. Without these Chinese partners, we could not have achieved what we have today.",
+      "context": "2024年链博会现场采访",
+      "source": {
+        "title": "库克首次现身链博会：没有中国供应链就没有苹果",
+        "event": "第二届中国国际供应链促进博览会",
+        "date": "2024-11-25",
+        "location": "北京",
+        "url": "http://m.toutiao.com/group/7441477189465375272/"
+      },
+      "tags": ["中国供应链", "合作伙伴", "感恩", "全球化"],
+      "sentiment": "positive",
+      "usage_scenarios": ["供应链管理", "合作伙伴关系", "中国业务"]
+    },
+    {
+      "id": "TC059",
+      "category": "china_business",
+      "type": "quote",
+      "content_zh": "对于苹果的供应链来说，没有比中国更为重要的地方。",
+      "content_en": "For Apple's supply chain, there is no place more important than China.",
+      "context": "2024年3月上海苹果商店开业采访",
+      "source": {
+        "title": "库克首次现身链博会：没有中国供应链就没有苹果",
+        "event": "上海苹果商店开业",
+        "date": "2024-03-21",
+        "location": "上海",
+        "url": "http://m.toutiao.com/group/7441477189465375272/"
+      },
+      "tags": ["中国供应链", "重要性", "战略", "全球化"],
+      "sentiment": "positive",
+      "usage_scenarios": ["供应链战略", "中国业务", "全球化布局"]
+    },
+    {
+      "id": "TC060",
+      "category": "china_business",
+      "type": "quote",
+      "content_zh": "中国的高速发展帮助苹果公司实现快速和可持续增长。苹果将致力于在华长期发展，持续加大对供应链、研发等领域的投入。",
+      "content_en": "China's rapid development has helped Apple achieve fast and sustainable growth. Apple is committed to long-term development in China and will continue to increase investment in supply chain, R&D, and other areas.",
+      "context": "2024年10月与商务部部长会面",
+      "source": {
+        "title": "苹果CEO蒂姆·库克又来北京了",
+        "event": "与商务部会面",
+        "date": "2024-10-25",
+        "location": "北京",
+        "url": "http://m.toutiao.com/group/7484639254652469812/"
+      },
+      "tags": ["中国发展", "长期投资", "供应链", "研发"],
+      "sentiment": "positive",
+      "usage_scenarios": ["投资战略", "中国市场", "长期规划"]
+    },
+    {
+      "id": "TC061",
+      "category": "leadership",
+      "type": "quote",
+      "content_zh": "我们并不完美，我们也会犯错。这就是使我们成为人类的原因。但我们对你们的承诺，无论现在还是未来，是我们将坚持践行我们的价值观。",
+      "content_en": "We are not perfect. We will make mistakes. That's what makes us human. But our commitment to you, now and always, is that we will keep faith with our values.",
+      "context": "2021年隐私会议演讲",
+      "source": {
+        "title": "Tim Cook on Privacy 演讲",
+        "event": "计算机、隐私和数据保护会议",
+        "date": "2021-02-03",
+        "location": "",
+        "url": "https://www.bilibili.com/opus/490187696989901240"
+      },
+      "tags": ["谦逊", "价值观", "承诺", "人性"],
+      "sentiment": "positive",
+      "usage_scenarios": ["企业沟通", "价值观传递", "危机公关"]
+    },
+    {
+      "id": "TC062",
+      "category": "privacy",
+      "type": "quote",
+      "content_zh": "技术服务于人，而不是人服务于技术。",
+      "content_en": "Technology serves people and not the other way around.",
+      "context": "2021年隐私会议演讲结尾，引用Giovanni Bittarelli的话",
+      "source": {
+        "title": "Tim Cook on Privacy 演讲",
+        "event": "计算机、隐私和数据保护会议",
+        "date": "2021-02-03",
+        "location": "",
+        "url": "https://www.bilibili.com/opus/490187696989901240"
+      },
+      "tags": ["技术伦理", "人文", "价值观", "使命"],
+      "sentiment": "positive",
+      "usage_scenarios": ["技术哲学", "产品设计", "使命陈述"]
+    },
+    {
+      "id": "TC063",
+      "category": "ai_technology",
+      "type": "quote",
+      "content_zh": "通过使用工具，应用程序会显得更加完美。使用工具仍然是你自己的决定。这就像你和我合作做一件事，一加一可以大于二。",
+      "content_en": "By using tools, the application will appear more perfect. Using tools is still your own decision. It's like you and I collaborating on something — one plus one can be greater than two.",
+      "context": "2024年《连线》专访，谈及AI辅助写作",
+      "source": {
+        "title": "Tim Cook最新专访：公司已酝酿Apple Intelligence长达七年之久",
+        "event": "《连线》专访",
+        "date": "2024-12-05",
+        "location": "",
+        "url": "https://c.m.163.com/news/a/JIJSLP5T0511BLFD.html"
+      },
+      "tags": ["AI", "人机协作", "创造力", "辅助工具"],
+      "sentiment": "positive",
+      "usage_scenarios": ["AI应用", "人机协作", "创造力"]
+    },
+    {
+      "id": "TC064",
+      "category": "leadership",
+      "type": "quote",
+      "content_zh": "现在被问到这个问题的次数比以前多了。",
+      "content_en": "I'm asked this question more often now than before.",
+      "context": "2024年《连线》专访，谈及退休计划",
+      "source": {
+        "title": "Tim Cook最新专访：公司已酝酿Apple Intelligence长达七年之久",
+        "event": "《连线》专访",
+        "date": "2024-12-05",
+        "location": "",
+        "url": "https://c.m.163.com/news/a/JIJSLP5T0511BLFD.html"
+      },
+      "tags": ["退休", "坦诚", "时间", "领导力"],
+      "sentiment": "neutral",
+      "usage_scenarios": ["退休规划", "坦诚沟通", "领导力"]
+    },
+    {
+      "id": "TC065",
+      "category": "innovation",
+      "type": "quote",
+      "content_zh": "我们希望以一种个人和私密的方式进行创新。",
+      "content_en": "We want to innovate in a personal and private way.",
+      "context": "2024年《连线》专访，谈及Apple Intelligence的设计理念",
+      "source": {
+        "title": "Tim Cook最新专访：公司已酝酿Apple Intelligence长达七年之久",
+        "event": "《连线》专访",
+        "date": "2024-12-05",
+        "location": "",
+        "url": "https://c.m.163.com/news/a/JIJSLP5T0511BLFD.html"
+      },
+      "tags": ["创新", "隐私", "个性化", "设计理念"],
+      "sentiment": "positive",
+      "usage_scenarios": ["创新策略", "隐私保护", "产品设计"]
+    },
+    {
+      "id": "TC066",
+      "category": "steve_jobs",
+      "type": "quote",
+      "content_zh": "他对苹果的愿景是把强大的科技变成好用的工具，用这些工具帮助人们实现梦想，并把世界变得更好。",
+      "content_en": "His vision for Apple was to turn powerful technology into easy-to-use tools, to use these tools to help people achieve their dreams and make the world better.",
+      "context": "2015年乔治华盛顿大学毕业演讲",
+      "source": {
+        "title": "蒂姆·库克2015乔治华盛顿大学毕业演讲",
+        "event": "乔治华盛顿大学毕业典礼",
+        "date": "2015-05-17",
+        "location": "华盛顿特区",
+        "url": "https://www.sohu.com/a/15820127_107922"
+      },
+      "tags": ["乔布斯", "愿景", "科技向善", "使命"],
+      "sentiment": "positive",
+      "usage_scenarios": ["使命陈述", "愿景传递", "科技伦理"]
+    },
+    {
+      "id": "TC067",
+      "category": "personal_growth",
+      "type": "quote",
+      "content_zh": "吃饱了再谈梦想。",
+      "content_en": "Feed yourself before talking about dreams.",
+      "context": "2015年乔治华盛顿大学毕业演讲的核心金句",
+      "source": {
+        "title": "蒂姆·库克2015乔治华盛顿大学毕业演讲",
+        "event": "乔治华盛顿大学毕业典礼",
+        "date": "2015-05-17",
+        "location": "华盛顿特区",
+        "url": "https://www.sohu.com/a/15820127_107922"
+      },
+      "tags": ["务实", "梦想", "生存", "人生"],
+      "sentiment": "neutral",
+      "usage_scenarios": ["人生建议", "职业规划", "务实精神"]
+    },
+    {
+      "id": "TC068",
+      "category": "leadership",
+      "type": "quote",
+      "content_zh": "那是世界上最孤独的工作。但我从未感到孤单。",
+      "content_en": "It is the loneliest job in the world. But I never feel alone.",
+      "context": "谈及CEO工作的感受",
+      "source": {
+        "title": "Tim Cook领导智慧合集",
+        "event": "媒体采访",
+        "date": "",
+        "location": "",
+        "url": ""
+      },
+      "tags": ["孤独", "领导力", "支持", "CEO"],
+      "sentiment": "reflective",
+      "usage_scenarios": ["领导力", "CEO职责", "心理支持"]
+    },
+    {
+      "id": "TC069",
+      "category": "innovation",
+      "type": "quote",
+      "content_zh": "创新不是说'是'，而是说'不'。对一千件事说'不'，才能对一件事说'是'。",
+      "content_en": "Innovation is not saying 'yes' to everything. It's saying 'no' to a thousand things so you can say 'yes' to one.",
+      "context": "关于苹果创新哲学的经典语录",
+      "source": {
+        "title": "Tim Cook创新哲学",
+        "event": "媒体采访",
+        "date": "",
+        "location": "",
+        "url": ""
+      },
+      "tags": ["创新", "专注", "决策", "优先级"],
+      "sentiment": "neutral",
+      "usage_scenarios": ["创新管理", "产品策略", "决策制定"]
+    },
+    {
+      "id": "TC070",
+      "category": "leadership",
+      "type": "quote",
+      "content_zh": "好的决定来自经验，而经验来自坏的决定。",
+      "content_en": "Good decisions come from experience, and experience comes from bad decisions.",
+      "context": "关于决策与经验的经典语录",
+      "source": {
+        "title": "Tim Cook领导智慧合集",
+        "event": "媒体采访",
+        "date": "",
+        "location": "",
+        "url": ""
+      },
+      "tags": ["决策", "经验", "学习", "成长"],
+      "sentiment": "neutral",
+      "usage_scenarios": ["决策指导", "经验学习", "领导力"]
+    },
+    {
+      "id": "TC071",
+      "category": "personal_growth",
+      "type": "quote",
+      "content_zh": "世界需要你的能量、热情，和你躁动的努力。",
+      "content_en": "The world needs your energy, your passion, and your restless effort.",
+      "context": "2015年乔治华盛顿大学毕业演讲",
+      "source": {
+        "title": "蒂姆·库克2015乔治华盛顿大学毕业演讲",
+        "event": "乔治华盛顿大学毕业典礼",
+        "date": "2015-05-17",
+        "location": "华盛顿特区",
+        "url": "https://www.sohu.com/a/15820127_107922"
+      },
+      "tags": ["激励", "行动", "热情", "改变世界"],
+      "sentiment": "positive",
+      "usage_scenarios": ["激励演讲", "毕业致辞", "行动号召"]
+    },
+    {
+      "id": "TC072",
+      "category": "leadership",
+      "type": "quote",
+      "content_zh": "领导力的本质是服务。",
+      "content_en": "The essence of leadership is service.",
+      "context": "关于领导力本质的经典语录",
+      "source": {
+        "title": "Tim Cook领导智慧合集",
+        "event": "媒体采访",
+        "date": "",
+        "location": "",
+        "url": ""
+      },
+      "tags": ["领导力", "服务", "价值观", "管理"],
+      "sentiment": "positive",
+      "usage_scenarios": ["领导力培养", "服务型领导", "管理哲学"]
+    },
+    {
+      "id": "TC073",
+      "category": "innovation",
+      "type": "quote",
+      "content_zh": "我们不是为了成为第一，而是为了成为最好。",
+      "content_en": "We are not here to be first. We are here to be the best.",
+      "context": "关于苹果产品策略的经典语录",
+      "source": {
+        "title": "Tim Cook产品哲学",
+        "event": "媒体采访",
+        "date": "",
+        "location": "",
+        "url": ""
+      },
+      "tags": ["质量", "竞争", "产品哲学", "卓越"],
+      "sentiment": "neutral",
+      "usage_scenarios": ["产品策略", "质量优先", "竞争定位"]
+    },
+    {
+      "id": "TC074",
+      "category": "privacy",
+      "type": "quote",
+      "content_zh": "隐私是一项基本人权。",
+      "content_en": "Privacy is a fundamental human right.",
+      "context": "关于隐私保护的核心立场",
+      "source": {
+        "title": "Tim Cook隐私观",
+        "event": "多次公开演讲",
+        "date": "",
+        "location": "",
+        "url": ""
+      },
+      "tags": ["隐私", "人权", "价值观", "基本权利"],
+      "sentiment": "neutral",
+      "usage_scenarios": ["隐私政策", "人权讨论", "价值观"]
+    },
+    {
+      "id": "TC075",
+      "category": "leadership",
+      "type": "quote",
+      "content_zh": "成功不是终点，失败也不是致命的，重要的是继续前进的勇气。",
+      "content_en": "Success is not final, failure is not fatal. It is the courage to continue that counts.",
+      "context": "关于坚持的经典语录",
+      "source": {
+        "title": "Tim Cook领导智慧合集",
+        "event": "媒体采访",
+        "date": "",
+        "location": "",
+        "url": ""
+      },
+      "tags": ["坚持", "勇气", "成功", "失败"],
+      "sentiment": "positive",
+      "usage_scenarios": ["激励", "逆境", "坚持"]
+    }
+  ]
+}
+

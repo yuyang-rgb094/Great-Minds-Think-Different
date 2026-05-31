@@ -1,0 +1,65 @@
+{
+  "interview": {
+    "id": "return-to-apple-1997",
+    "title_zh": "回归苹果——波士顿Macworld大会",
+    "title_en": "Return to Apple - Boston Macworld Expo Keynote",
+    "date": "1997-08-06",
+    "location": "美国马萨诸塞州波士顿",
+    "interviewer": "无（主题演讲及媒体问答）",
+    "occasion": "波士顿Macworld Expo大会",
+    "duration_minutes": 30,
+    "source_level": "A",
+    "context": "1997年8月，乔布斯42岁。苹果濒临破产，连续多季度亏损，市场份额不足4%。乔布斯以临时CEO身份回归，宣布与微软合作、精简产品线。标志着'第二次苹果时代'的开始。",
+    "themes": ["危机管理", "产品线精简", "专注战略", "微软合作", "创新驱动", "苹果DNA"],
+    "key_segments": [
+      {
+        "id": "seg-001",
+        "importance": "core",
+        "text_en": "The products suck! There's no sex in them anymore! Apple has some of the best people in the world. But they're working on the wrong things. We need to say no to a lot of good ideas so that we can focus on the few great ones.",
+        "text_zh": "产品太差了！它们已经没有魅力了！苹果拥有世界上最好的一些人。但他们在做错误的事情。我们需要对很多好想法说不，这样我们才能专注于少数几个伟大的想法。",
+        "thinking_pattern": "极简思维 / 专注力",
+        "tags": ["产品批评", "专注", "说不", "精简产品线"]
+      },
+      {
+        "id": "seg-002",
+        "importance": "core",
+        "text_en": "What we do best is create great products for creative people. That's our core. That's our DNA. And we need to get back to that.",
+        "text_zh": "我们最擅长的事情是为有创造力的人创造伟大的产品。这是我们的核心。这是我们的DNA。我们需要回到那个方向。",
+        "thinking_pattern": "回归本质 / 核心能力",
+        "tags": ["苹果DNA", "创造力", "核心能力", "回归本质"]
+      },
+      {
+        "id": "seg-003",
+        "importance": "core",
+        "text_en": "We have to put the interests of Apple and its customers ahead of our own egos. Because if Apple dies, none of this matters. And Apple was dying. And we had to do something about it.",
+        "text_zh": "我们必须把苹果和客户的利益放在我们自己的自尊心之上。因为如果苹果死了，这一切都不重要了。而苹果正在死去。我们必须对此做些什么。",
+        "thinking_pattern": "务实主义 / 危机管理",
+        "tags": ["微软合作", "务实", "危机决策", "自我超越"]
+      },
+      {
+        "id": "seg-004",
+        "importance": "important",
+        "text_en": "We're going to simplify our product line. We're going to have four products. A professional desktop, a professional portable, a consumer desktop, and a consumer portable. That's it. Four products. We don't do everything. We do a few things, and we do them better than anyone else.",
+        "text_zh": "我们将简化我们的产品线。我们将有四个产品。一个专业台式机，一个专业便携机，一个消费级台式机，一个消费级便携机。就这样。四个产品。我们不做所有事情。我们只做几件事，而且做得比任何人都好。",
+        "thinking_pattern": "极简思维 / 聚焦战略",
+        "tags": ["产品矩阵", "四象限", "精简", "少而精"]
+      },
+      {
+        "id": "seg-005",
+        "importance": "important",
+        "text_en": "The cure for Apple is not cost-cutting. The cure for Apple is to innovate its way out of its current predicament. Apple is the most creative company in the world. And we need to get back to that.",
+        "text_zh": "苹果的解药不是削减成本。苹果的解药是通过创新走出当前的困境。苹果是世界上最富有创造力的公司。我们需要回到那个状态。",
+        "thinking_pattern": "创新驱动 / 反削减",
+        "tags": ["创新", "不是削减成本", "创造力", "产品热爱"]
+      }
+    ],
+    "extractable_quotes": [
+      "The products suck! There's no sex in them anymore!",
+      "We need to say no to a lot of good ideas so that we can focus on the few great ones.",
+      "What we do best is create great products for creative people. That's our core. That's our DNA.",
+      "We have to put the interests of Apple and its customers ahead of our own egos.",
+      "We don't do everything. We do a few things, and we do them better than anyone else.",
+      "The cure for Apple is not cost-cutting. The cure for Apple is to innovate its way out of its current predicament."
+    ]
+  }
+}

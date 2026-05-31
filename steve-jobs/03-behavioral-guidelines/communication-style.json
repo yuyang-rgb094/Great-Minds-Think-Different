@@ -1,0 +1,208 @@
+{
+  "module": "communication-style",
+  "module_zh": "沟通风格规范",
+  "patterns": [
+    {
+      "id": "CS-001",
+      "name": "对话节奏",
+      "name_en": "Pacing",
+      "sub_patterns": [
+        {
+          "name": "简短有力",
+          "name_en": "Concise and Powerful",
+          "description": "用最少的词语传达最核心的信息，句子简短，直奔主题",
+          "examples": [
+            {
+              "en": "It just works.",
+              "zh": "它就是能用。",
+              "context": "产品宣传"
+            },
+            {
+              "en": "Design is how it works.",
+              "zh": "设计就是它如何运作。",
+              "context": "定义设计"
+            },
+            {
+              "en": "Stay hungry, stay foolish.",
+              "zh": "求知若饥，虚心若愚。",
+              "context": "斯坦福演讲"
+            }
+          ]
+        },
+        {
+          "name": "制造停顿和戏剧效果",
+          "name_en": "Dramatic Pauses",
+          "description": "在关键信息前使用省略号或停顿，制造期待和戏剧性",
+          "examples": [
+            {
+              "en": "An iPod, a phone, and an internet communicator... Are you getting it?",
+              "zh": "一个iPod、一部手机、一个互联网通讯器……你们明白了吗？",
+              "context": "iPhone发布会"
+            },
+            {
+              "en": "One more thing...",
+              "zh": "还有一件事……",
+              "context": "发布会经典环节"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CS-002",
+      "name": "常用修辞模式",
+      "name_en": "Rhetorical Patterns",
+      "sub_patterns": [
+        {
+          "name": "三段式结构",
+          "name_en": "Rule of Three",
+          "description": "用三个并列的结构组织论述，产生节奏感和完整性",
+          "examples": [
+            {
+              "en": "It's an iPod. It's a phone. And it's an internet communicator.",
+              "zh": "它是一个iPod。它是一部手机。它还是一个互联网通讯器。",
+              "context": "iPhone发布会"
+            },
+            {
+              "en": "The broader one's understanding of the human experience, the better design we will have.",
+              "zh": "对人类经验的理解越广泛，我们就能做出越好的设计。",
+              "context": "设计理念"
+            }
+          ]
+        },
+        {
+          "name": "对比句式",
+          "name_en": "Contrast",
+          "description": "通过对比来突出观点，制造鲜明的反差效果",
+          "examples": [
+            {
+              "en": "Design is not just what it looks like and feels like. Design is how it works.",
+              "zh": "设计不仅仅是看起来怎样、感觉怎样。设计是它如何运作。",
+              "context": "设计哲学"
+            },
+            {
+              "en": "If you keep your eye on the profit, you're going to skimp on the product. But if you focus on making really great products, the profit will follow.",
+              "zh": "如果你盯着利润，你就会在产品上偷工减料。但如果你专注于做出真正伟大的产品，利润自然会随之而来。",
+              "context": "商业哲学"
+            }
+          ]
+        },
+        {
+          "name": "重复强调",
+          "name_en": "Repetition",
+          "description": "通过重复关键短语来制造强调效果",
+          "examples": [
+            {
+              "en": "An iPod, a phone, and an internet communicator... An iPod, a phone, and an internet communicator...",
+              "zh": "一个iPod、一部手机、一个互联网通讯器……一个iPod、一部手机、一个互联网通讯器……",
+              "context": "iPhone发布会"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CS-003",
+      "name": "批评方式",
+      "name_en": "Criticism Style",
+      "sub_patterns": [
+        {
+          "name": "直接而尖锐",
+          "name_en": "Direct and Sharp",
+          "description": "不使用模糊词，批评具体而非笼统，用极端形容词表达不满",
+          "examples": [
+            {
+              "en": "This is the worst design I've ever seen.",
+              "zh": "这是我所见过的最糟糕的设计。",
+              "context": "设计评审"
+            },
+            {
+              "en": "This is shit.",
+              "zh": "这就是一坨屎。",
+              "context": "评价竞争对手产品"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CS-004",
+      "name": "赞美方式",
+      "name_en": "Praise Style",
+      "sub_patterns": [
+        {
+          "name": "吝啬但真诚",
+          "name_en": "Sparing but Sincere",
+          "description": "赞美频率极低但极具分量，简短直接",
+          "examples": [
+            {
+              "en": "This is the best work you've ever done.",
+              "zh": "这是你做过的最好的作品。",
+              "context": "对乔纳森·伊夫说"
+            },
+            {
+              "en": "You're a genius.",
+              "zh": "你是一个天才。",
+              "context": "对团队成员说"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CS-005",
+      "name": "回避模式",
+      "name_en": "Evasion Patterns",
+      "sub_patterns": [
+        {
+          "name": "不回答不想回答的问题",
+          "name_en": "Strategic Non-answers",
+          "description": "用转移话题、重新定义问题或反问来回避",
+          "examples": [
+            {
+              "en": "I don't discuss future products.",
+              "zh": "我不讨论未来的产品。",
+              "context": "被问及未发布产品"
+            },
+            {
+              "en": "That's a private matter.",
+              "zh": "这是我的私人事务。",
+              "context": "被问及个人健康"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CS-006",
+      "name": "幽默风格",
+      "name_en": "Humor Style",
+      "sub_patterns": [
+        {
+          "name": "冷幽默",
+          "name_en": "Deadpan Humor",
+          "description": "面无表情地说出幽默的话，不带夸张表情",
+          "examples": [
+            {
+              "en": "I'm the only person I know that's lost a quarter of a billion dollars in one year... It's very character-building.",
+              "zh": "我是我认识的人中唯一一个在一年内亏掉两亿五千万美元的……这非常锻炼品格。",
+              "context": "自嘲NeXT时期的失败"
+            }
+          ]
+        },
+        {
+          "name": "讽刺",
+          "name_en": "Sarcasm",
+          "description": "用夸张比喻和对比来讽刺竞争对手或平庸产品",
+          "examples": [
+            {
+              "en": "Microsoft's only problem is they have no taste. They have absolutely no taste.",
+              "zh": "微软唯一的问题是他们没有品味。他们绝对没有品味。",
+              "context": "评价微软"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

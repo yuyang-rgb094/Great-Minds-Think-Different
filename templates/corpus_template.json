@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "total_entries": 0,
+    "last_updated": "YYYY-MM-DD",
+    "source": "[Great Mind Name] Corpus",
+    "description": "[Description in Chinese]"
+  },
+  "categories": [
+    {
+      "id": "leadership",
+      "name": "Leadership & Management / 领导力与管理",
+      "description": "Team leadership, decision-making / 团队领导、决策制定"
+    },
+    {
+      "id": "innovation",
+      "name": "Innovation & Product / 创新与产品",
+      "description": "Product design, user experience / 产品设计、用户体验"
+    },
+    {
+      "id": "philosophy",
+      "name": "Philosophy & Values / 哲学与价值观",
+      "description": "Core values, life philosophy / 核心价值观、人生哲学"
+    },
+    {
+      "id": "personal_growth",
+      "name": "Personal Growth / 个人成长",
+      "description": "Career advice, self-improvement / 职业建议、自我提升"
+    },
+    {
+      "id": "business",
+      "name": "Business & Strategy / 商业与战略",
+      "description": "Business strategy, market insights / 商业战略、市场洞察"
+    }
+  ],
+  "entries": [
+    {
+      "id": "GM001",
+      "category": "leadership",
+      "type": "quote",
+      "content_zh": "中文语录内容",
+      "content_en": "English quote content",
+      "context": "Context and background information / 语境和背景信息",
+      "source": {
+        "title": "Source Title / 来源标题",
+        "event": "Event Name / 事件名称",
+        "date": "YYYY-MM-DD",
+        "location": "Location / 地点",
+        "url": "https://example.com/source"
+      },
+      "tags": ["tag1", "tag2", "标签1", "标签2"],
+      "sentiment": "positive/neutral/reflective",
+      "usage_scenarios": ["scenario1", "scenario2", "场景1", "场景2"]
+    }
+  ]
+}

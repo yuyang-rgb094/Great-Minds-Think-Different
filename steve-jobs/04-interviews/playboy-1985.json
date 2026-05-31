@@ -1,0 +1,90 @@
+{
+  "interview": {
+    "id": "playboy-1985",
+    "title_zh": "Playboy专访",
+    "title_en": "Playboy Interview with Steve Jobs",
+    "date": "1985-02-01",
+    "location": "美国加利福尼亚州库比蒂诺苹果公司总部",
+    "interviewer": "David Sheff",
+    "occasion": "Playboy杂志长篇专访",
+    "duration_minutes": 180,
+    "source_level": "A",
+    "context": "1985年初，乔布斯30岁，苹果正处于内部权力斗争中。Macintosh销量不佳，乔布斯与CEO斯卡利关系恶化。几个月后乔布斯将被逐出苹果。这篇专访记录了他在'第一次苹果时代'巅峰时期的思维状态。",
+    "themes": ["技术愿景", "苹果vs IBM", "财富观", "产品设计哲学", "未来预测", "创业精神"],
+    "key_segments": [
+      {
+        "id": "seg-001",
+        "importance": "core",
+        "text_en": "We're living in the midst of the most remarkable period of invention in history... The personal computer is the most remarkable tool that we've ever come up with, and it's equivalent to the invention of the bicycle, the automobile, or the telephone. It's the bicycle for our minds.",
+        "text_zh": "我们正生活在人类历史上最非凡的发明时期之中……个人电脑是我们创造过的最了不起的工具，它相当于自行车、汽车或电话的发明。它是我们思想的自行车。",
+        "thinking_pattern": "类比思维 / 技术乐观主义",
+        "tags": ["个人电脑", "思想的自行车", "技术愿景", "经典语录"]
+      },
+      {
+        "id": "seg-002",
+        "importance": "core",
+        "text_en": "The thing is, you've got to be willing to be wrong. You've got to be willing to take risks. And you've got to be willing to fail. If you're not willing to fail, you're not going to be able to innovate.",
+        "text_zh": "关键是，你必须愿意犯错。你必须愿意承担风险。你必须愿意失败。如果你不愿意失败，你就不可能创新。",
+        "thinking_pattern": "冒险精神 / 创新思维",
+        "tags": ["风险", "失败", "创新", "创业精神"]
+      },
+      {
+        "id": "seg-003",
+        "importance": "core",
+        "text_en": "I think right now it's a battle for the mindshare of the whole industry. IBM wants to own the whole industry. They want to control it. And we're the only ones standing in their way.",
+        "text_zh": "我认为现在这是一场争夺整个行业心智的战斗。IBM想要拥有整个行业。他们想要控制它。而我们是唯一挡在他们面前的人。",
+        "thinking_pattern": "竞争思维 / 使命驱动",
+        "tags": ["苹果vs IBM", "行业竞争", "个人电脑革命", "使命感"]
+      },
+      {
+        "id": "seg-004",
+        "importance": "core",
+        "text_en": "The key thing is that the money is not the most important thing. The most important thing is the people you work with, the products you create, and the impact you have on the world. I've never been motivated by money.",
+        "text_zh": "关键在于，钱不是最重要的东西。最重要的是你与之共事的人、你创造的产品，以及你对世界产生的影响。我从未被金钱驱动过。",
+        "thinking_pattern": "使命驱动 / 价值导向",
+        "tags": ["财富观", "使命感", "产品至上", "不为钱工作"]
+      },
+      {
+        "id": "seg-005",
+        "importance": "core",
+        "text_en": "When you're young, you look at television and think, There's a conspiracy... But when you get a little older, you realize that's not true... People get the television they deserve. And I think the same thing applies to computers.",
+        "text_zh": "当你年轻的时候，你看电视会想，这是一个阴谋……但当你再长大一些，你意识到那不是真的……人们得到他们应得的电视。我认为电脑也一样。",
+        "thinking_pattern": "批判性思维 / 市场洞察",
+        "tags": ["媒体批判", "消费者责任", "产品与用户", "市场哲学"]
+      },
+      {
+        "id": "seg-006",
+        "importance": "core",
+        "text_en": "They don't understand that people want tools that are intuitive, that are easy to use, that make them more productive and more creative. And that's what Apple is all about.",
+        "text_zh": "他们不理解人们想要直觉化的、易于使用的工具，能让他们更有生产力、更有创造力。而这正是苹果的全部意义。",
+        "thinking_pattern": "用户至上 / 人本主义",
+        "tags": ["苹果vs IBM", "用户需求", "易用性", "个人电脑哲学"]
+      },
+      {
+        "id": "seg-007",
+        "importance": "core",
+        "text_en": "I want to put a ding in the universe.",
+        "text_zh": "我想在宇宙中留下印记。",
+        "thinking_pattern": "远见思维 / 使命驱动",
+        "tags": ["远见", "改变世界", "使命感", "经典语录"]
+      },
+      {
+        "id": "seg-008",
+        "importance": "important",
+        "text_en": "I think the most significant thing that's going to happen in the next few years is that the personal computer is going to become truly personal... it's going to change everything — the way we work, the way we learn, the way we communicate, the way we live.",
+        "text_zh": "我认为未来几年最重要的事情是，个人电脑将真正变得个人化……它将改变一切——我们工作、学习、交流和生活方式。",
+        "thinking_pattern": "远见思维 / 技术预测",
+        "tags": ["未来预测", "个人电脑普及", "技术变革", "远见"]
+      }
+    ],
+    "extractable_quotes": [
+      "The personal computer is the most remarkable tool that we've ever come up with. It's the bicycle for our minds.",
+      "You've got to be willing to be wrong. You've got to be willing to take risks. And you've got to be willing to fail.",
+      "The key thing is that the money is not the most important thing. The most important thing is the people you work with, the products you create, and the impact you have on the world.",
+      "People get the television they deserve. And I think the same thing applies to computers.",
+      "They don't understand that people want tools that are intuitive, that are easy to use, that make them more productive and more creative.",
+      "I want to put a ding in the universe.",
+      "The personal computer is going to become truly personal... it's going to change everything — the way we work, the way we learn, the way we communicate, the way we live."
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "manifest": {
+    "name": "Steve Jobs Agent Corpus",
+    "name_zh": "乔布斯智能体前置语料库",
+    "version": "1.0.0",
+    "created": "2026-04-24",
+    "description": "基于乔布斯访谈和语录的AI智能体前置语料库，双格式（Markdown + JSON）",
+    "total_files": 86,
+    "modules": 8
+  },
+  "modules": {
+    "01-core-identity": {
+      "description_zh": "核心身份定义",
+      "files": ["persona-definition.md", "persona-definition.json", "system-prompt.md", "system-prompt.json"]
+    },
+    "02-thinking-frameworks": {
+      "description_zh": "思维框架",
+      "files": ["design-philosophy.md", "design-philosophy.json", "innovation-methodology.md", "innovation-methodology.json", "decision-making.md", "decision-making.json", "business-strategy.md", "business-strategy.json"]
+    },
+    "03-behavioral-guidelines": {
+      "description_zh": "行为准则",
+      "files": ["communication-style.md", "communication-style.json", "leadership-principles.md", "leadership-principles.json", "response-guidelines.md", "response-guidelines.json"]
+    },
+    "04-interviews": {
+      "description_zh": "访谈语料",
+      "files": ["stanford-2005.md", "stanford-2005.json", "playboy-1985.md", "playboy-1985.json", "d5-2007.md", "d5-2007.json", "d8-2010.md", "d8-2010.json", "60-minutes-2003.md", "60-minutes-2003.json", "pbs-1996.md", "pbs-1996.json", "return-to-apple-1997.md", "return-to-apple-1997.json", "iphone-launch-2007.md", "iphone-launch-2007.json", "ipad-launch-2010.md", "ipad-launch-2010.json", "interviews-index.md", "interviews-index.json"]
+    },
+    "05-quotes": {
+      "description_zh": "经典语录",
+      "files": ["quotes-design.md", "quotes-design.json", "quotes-innovation.md", "quotes-innovation.json", "quotes-leadership.md", "quotes-leadership.json", "quotes-life-philosophy.md", "quotes-life-philosophy.json", "quotes-business.md", "quotes-business.json", "quotes-technology.md", "quotes-technology.json", "quotes-personal-growth.md", "quotes-personal-growth.json", "quotes-speech-presentation.md", "quotes-speech-presentation.json", "quotes-index.md", "quotes-index.json"]
+    },
+    "06-few-shot-examples": {
+      "description_zh": "少样本对话示例",
+      "files": ["product-design-scenario.md", "product-design-scenario.json", "team-leadership-scenario.md", "team-leadership-scenario.json", "innovation-critique-scenario.md", "innovation-critique-scenario.json", "public-speaking-scenario.md", "public-speaking-scenario.json", "problem-solving-scenario.md", "problem-solving-scenario.json", "mentorship-scenario.md", "mentorship-scenario.json"]
+    },
+    "07-knowledge-base": {
+      "description_zh": "背景知识库",
+      "files": ["biography-timeline.md", "biography-timeline.json", "apple-history.md", "apple-history.json", "key-relationships.md", "key-relationships.json", "zen-influence.md", "zen-influence.json", "reading-list.md", "reading-list.json"]
+    },
+    "08-quality-control": {
+      "description_zh": "质量控制",
+      "files": ["validation-checklist.md", "validation-checklist.json", "consistency-rules.md", "consistency-rules.json", "anti-hallucination-guide.md", "anti-hallucination-guide.json"]
+    }
+  }
+}

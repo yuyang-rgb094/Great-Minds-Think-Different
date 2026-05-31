@@ -1,0 +1,73 @@
+{
+  "interview": {
+    "id": "d8-2010",
+    "title_zh": "D8大会访谈",
+    "title_en": "D8 Conference Interview",
+    "date": "2010-06-01",
+    "location": "美国加利福尼亚州兰乔米拉奇四季酒店",
+    "interviewer": "Walt Mossberg、Kara Swisher",
+    "occasion": "D8：All Things Digital大会",
+    "duration_minutes": 75,
+    "source_level": "A",
+    "context": "2010年6月，乔布斯55岁。iPad发布两个月，首月销量突破300万台。iPhone已重新定义智能手机。苹果成为全球市值最高的科技公司之一。乔布斯健康引发关注。访谈涵盖Google竞争、Flash争议、iPad理念等热点话题。",
+    "themes": ["Google竞争", "Flash争议", "iPad理念", "后PC时代", "隐私保护", "苹果哲学"],
+    "key_segments": [
+      {
+        "id": "seg-001",
+        "importance": "core",
+        "text_en": "We had a very good relationship with Google. And then they decided to compete with us... They entered the phone business. They entered the operating system business. They entered the hardware business. And they entered our core business. And we didn't enter theirs.",
+        "text_zh": "我们和Google曾经有非常好的关系。然后他们决定和我们竞争……他们进入了手机业务。他们进入了操作系统业务。他们进入了硬件业务。他们进入了我们的核心业务。而我们没有进入他们的。",
+        "thinking_pattern": "竞争分析 / 忠诚与背叛",
+        "tags": ["Google竞争", "手机业务", "合作到竞争", "核心业务"]
+      },
+      {
+        "id": "seg-002",
+        "importance": "core",
+        "text_en": "Flash was created during the PC era for PCs and mice. But the mobile era is about low power devices, touch interfaces, and open web standards. Flash is a cross-platform development tool. And the problem with cross-platform tools is that they produce the lowest common denominator experience.",
+        "text_zh": "Flash是在PC时代为PC和鼠标创建的。但移动时代是关于低功耗设备、触摸界面和开放网络标准的。Flash是一个跨平台开发工具。跨平台工具的问题是它们产生的是最低公分母的体验。",
+        "thinking_pattern": "技术判断 / 体验至上",
+        "tags": ["Flash争议", "移动时代", "原生体验", "跨平台vs原生"]
+      },
+      {
+        "id": "seg-003",
+        "importance": "core",
+        "text_en": "The iPad is a magical device. It's a new category of device. It's not a phone. It's not a laptop. It's something in between. And it's incredibly intuitive. You don't need a manual.",
+        "text_zh": "iPad是一个神奇的设备。它是一个全新的设备品类。它不是手机。它不是笔记本电脑。它是介于两者之间的东西。而且它非常直觉化。你不需要说明书。",
+        "thinking_pattern": "品类创造 / 直觉设计",
+        "tags": ["iPad", "新品类", "直觉化", "软硬一体"]
+      },
+      {
+        "id": "seg-004",
+        "importance": "important",
+        "text_en": "We think that the post-PC era has begun. And we think that iPad is the poster child of the post-PC era. You know, PCs are going to be like trucks. They're still going to be around. They're still going to have a lot of value. But they're going to be used by fewer and fewer people.",
+        "text_zh": "我们认为后PC时代已经开始。我们认为iPad是后PC时代的典型代表。你知道，PC将会像卡车一样。它们仍然会存在。它们仍然会有很多价值。但使用它们的人会越来越少。",
+        "thinking_pattern": "趋势判断 / 类比思维",
+        "tags": ["后PC时代", "PC像卡车", "趋势预测", "经典语录"]
+      },
+      {
+        "id": "seg-005",
+        "importance": "important",
+        "text_en": "We don't want to control people. We want to make great products. And in order to make great products, you have to control the whole widget. We'd rather have fewer products that are great than more products that are mediocre.",
+        "text_zh": "我们不想控制人。我们想制造伟大的产品。而为了制造伟大的产品，你必须控制整个系统。我们宁愿有更少但伟大的产品，也不愿有更多但平庸的产品。",
+        "thinking_pattern": "整合思维 / 质量优先",
+        "tags": ["控制整个系统", "质量优先", "软硬一体", "少而精"]
+      },
+      {
+        "id": "seg-006",
+        "importance": "important",
+        "text_en": "Privacy means people know what they're signing up for, in plain English, and repeatedly. That's what privacy is. I'm an optimist. I believe people are smart.",
+        "text_zh": "隐私意味着人们用通俗易懂的语言知道他们注册了什么，而且是反复被告知。这就是隐私。我是一个乐观主义者。我相信人们是聪明的。",
+        "thinking_pattern": "用户至上 / 透明原则",
+        "tags": ["隐私", "用户知情", "透明", "数据保护"]
+      }
+    ],
+    "extractable_quotes": [
+      "They entered the phone business. They entered the operating system business. They entered the hardware business. And they entered our core business. And we didn't enter theirs.",
+      "Flash was created during the PC era for PCs and mice. But the mobile era is about low power devices, touch interfaces, and open web standards.",
+      "The iPad is a magical device. It's a new category of device.",
+      "PCs are going to be like trucks. They're still going to be around. But they're going to be used by fewer and fewer people.",
+      "We'd rather have fewer products that are great than more products that are mediocre.",
+      "Privacy means people know what they're signing up for, in plain English, and repeatedly."
+    ]
+  }
+}

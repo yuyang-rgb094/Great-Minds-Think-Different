@@ -1,0 +1,127 @@
+{
+  "category": "quotes-innovation",
+  "category_zh": "创新",
+  "quotes": [
+    {
+      "id": "I-001",
+      "text_en": "Innovation distinguishes between a leader and a follower.",
+      "text_zh": "创新决定了你是领袖还是追随者。",
+      "source": "《乔布斯传》",
+      "year": "1996",
+      "subcategory": "创新本质",
+      "thinking_pattern": "差异化思维——创新是核心竞争力",
+      "usage_scenario": "强调创新重要性、讨论竞争策略时引用",
+      "importance": "core"
+    },
+    {
+      "id": "I-002",
+      "text_en": "People don't know what they want until you show it to them.",
+      "text_zh": "人们不知道自己想要什么，直到你展示给他们看。",
+      "source": "《商业周刊》采访",
+      "year": "1998",
+      "subcategory": "用户洞察",
+      "thinking_pattern": "远见思维——超越用户当下的认知",
+      "usage_scenario": "讨论产品创新、用户需求时引用",
+      "importance": "core"
+    },
+    {
+      "id": "I-003",
+      "text_en": "Innovation is saying no to 1,000 things.",
+      "text_zh": "创新就是对一千件事说不。",
+      "source": "苹果公司内部会议",
+      "year": "2004",
+      "subcategory": "取舍之道",
+      "thinking_pattern": "减法思维——聚焦意味着放弃",
+      "usage_scenario": "讨论产品功能取舍、资源分配时引用",
+      "importance": "core"
+    },
+    {
+      "id": "I-004",
+      "text_en": "Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn't really do it, they just saw something. It seemed obvious to them after a while.",
+      "text_zh": "创造力不过是把事物连接起来。当你问有创造力的人他们是怎么做到的，他们会感到有些内疚，因为他们并没有真正'做'什么，他们只是看到了一些东西。过了一段时间后，这对他们来说似乎显而易见。",
+      "source": "《连线》杂志采访",
+      "year": "1996",
+      "subcategory": "创造力",
+      "thinking_pattern": "联想思维——跨界连接产生创新",
+      "usage_scenario": "讨论创造力来源、跨领域学习时引用",
+      "importance": "core"
+    },
+    {
+      "id": "I-005",
+      "text_en": "If you're gonna make connections which are innovative, you have to not have the same bag of experiences as everyone else does.",
+      "text_zh": "如果你想建立创新的连接，你就不能拥有和所有人一样的经验背包。",
+      "source": "《连线》杂志采访",
+      "year": "1996",
+      "subcategory": "创造力",
+      "thinking_pattern": "差异化思维——独特经验产生独特见解",
+      "usage_scenario": "鼓励多元化经验、跨领域探索时引用",
+      "importance": "important"
+    },
+    {
+      "id": "I-006",
+      "text_en": "The problem with the Internet startup craze isn't that too many people are starting companies; it's that too many people aren't sticking with it.",
+      "text_zh": "互联网创业热潮的问题不在于太多人创办公司，而在于太多人没有坚持下去。",
+      "source": "《财富》杂志",
+      "year": "2000",
+      "subcategory": "创业精神",
+      "thinking_pattern": "长期主义思维——坚持比开始更重要",
+      "usage_scenario": "讨论创业心态、长期坚持时引用",
+      "importance": "important"
+    },
+    {
+      "id": "I-007",
+      "text_en": "I want to put a ding in the universe.",
+      "text_zh": "我想在宇宙中留下一个印记。",
+      "source": "《乔布斯传》——年轻时的豪言",
+      "year": "1980s",
+      "subcategory": "远见抱负",
+      "thinking_pattern": "使命思维——追求改变世界的影响力",
+      "usage_scenario": "讨论人生目标、远大抱负时引用",
+      "importance": "core"
+    },
+    {
+      "id": "I-008",
+      "text_en": "We're here to put a dent in the universe. Otherwise why else even be here?",
+      "text_zh": "我们在这里是为了在宇宙中留下印记。否则，我们为什么还要在这里？",
+      "source": "《乔布斯传》",
+      "year": "1980s",
+      "subcategory": "远见抱负",
+      "thinking_pattern": "使命思维——存在即是为了改变",
+      "usage_scenario": "激励团队、讨论公司使命时引用",
+      "importance": "core"
+    },
+    {
+      "id": "I-009",
+      "text_en": "Innovation has nothing to do with how many R&D dollars you have. It's about the people you have, how you're led, and how much you get it.",
+      "text_zh": "创新与你有多少研发经费毫无关系。它关乎你拥有什么样的人、你如何领导他们，以及你对创新的理解有多深。",
+      "source": "《商业周刊》采访",
+      "year": "1998",
+      "subcategory": "创新本质",
+      "thinking_pattern": "资源独立思维——创新不等于烧钱",
+      "usage_scenario": "讨论创新资源、小团队创新时引用",
+      "importance": "important"
+    },
+    {
+      "id": "I-010",
+      "text_en": "You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.",
+      "text_zh": "你不能只是问顾客想要什么然后试图给他们。等你做出来的时候，他们已经想要新的东西了。",
+      "source": "《乔布斯传》",
+      "year": "1989",
+      "subcategory": "用户洞察",
+      "thinking_pattern": "前瞻思维——领先于用户需求",
+      "usage_scenario": "讨论产品规划、用户调研方法时引用",
+      "importance": "important"
+    },
+    {
+      "id": "I-011",
+      "text_en": "There's an old Wayne Gretzky quote that I love. 'I skate to where the puck is going to be, not where it has been.' And we've always tried to do that at Apple.",
+      "text_zh": "我很喜欢韦恩·格雷茨基的一句老话：'我滑向冰球将要到达的地方，而不是它曾经所在的地方。'我们在苹果一直努力这样做。",
+      "source": "1997年Macworld大会",
+      "year": "1997",
+      "subcategory": "远见策略",
+      "thinking_pattern": "前瞻思维——预见趋势而非跟随趋势",
+      "usage_scenario": "讨论战略规划、趋势判断时引用",
+      "importance": "core"
+    }
+  ]
+}

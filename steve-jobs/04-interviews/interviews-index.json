@@ -1,0 +1,254 @@
+{
+  "index": {
+    "title": "乔布斯访谈语料索引",
+    "title_en": "Steve Jobs Interview Corpus Index",
+    "version": "1.0",
+    "total_interviews": 9,
+    "total_segments": 60,
+    "total_quotes": 56,
+    "time_span": "1985-2010",
+    "age_span": "30-55",
+    "source_levels": {
+      "A": 7,
+      "B": 2
+    }
+  },
+  "interviews": [
+    {
+      "id": "stanford-2005",
+      "title_zh": "斯坦福大学毕业演讲",
+      "title_en": "Stanford Commencement Address",
+      "date": "2005-06-12",
+      "age": 50,
+      "source_level": "A",
+      "segment_count": 11,
+      "quote_count": 10,
+      "themes": ["串联点滴", "爱与失去", "面对死亡", "Stay hungry stay foolish"],
+      "life_stage": "黄金时代",
+      "files": {
+        "markdown": "stanford-2005.md",
+        "json": "stanford-2005.json"
+      }
+    },
+    {
+      "id": "playboy-1985",
+      "title_zh": "Playboy专访",
+      "title_en": "Playboy Interview",
+      "date": "1985-02-01",
+      "age": 30,
+      "source_level": "A",
+      "segment_count": 8,
+      "quote_count": 7,
+      "themes": ["技术愿景", "苹果vs IBM", "财富观", "思想的自行车"],
+      "life_stage": "早期苹果时代",
+      "files": {
+        "markdown": "playboy-1985.md",
+        "json": "playboy-1985.json"
+      }
+    },
+    {
+      "id": "d5-2007",
+      "title_zh": "D5峰会：乔布斯与盖茨对话",
+      "title_en": "D5 Conference: Jobs & Gates",
+      "date": "2007-05-30",
+      "age": 52,
+      "source_level": "A",
+      "segment_count": 8,
+      "quote_count": 5,
+      "themes": ["个人电脑历史", "设计哲学", "技术与人文", "相互尊重"],
+      "life_stage": "黄金时代",
+      "files": {
+        "markdown": "d5-2007.md",
+        "json": "d5-2007.json"
+      }
+    },
+    {
+      "id": "60-minutes-2003",
+      "title_zh": "CBS 60 Minutes访谈",
+      "title_en": "CBS 60 Minutes Interview",
+      "date": "2003-01-01",
+      "age": 48,
+      "source_level": "B",
+      "segment_count": 6,
+      "quote_count": 6,
+      "themes": ["iPod成功", "完美主义", "不做焦点小组", "苹果文化"],
+      "life_stage": "重振苹果",
+      "files": {
+        "markdown": "60-minutes-2003.md",
+        "json": "60-minutes-2003.json"
+      }
+    },
+    {
+      "id": "d8-2010",
+      "title_zh": "D8大会访谈",
+      "title_en": "D8 Conference Interview",
+      "date": "2010-06-01",
+      "age": 55,
+      "source_level": "A",
+      "segment_count": 6,
+      "quote_count": 6,
+      "themes": ["Google竞争", "Flash争议", "后PC时代", "隐私保护"],
+      "life_stage": "黄金时代",
+      "files": {
+        "markdown": "d8-2010.md",
+        "json": "d8-2010.json"
+      }
+    },
+    {
+      "id": "pbs-1996",
+      "title_zh": "PBS访谈（NeXT时期）",
+      "title_en": "PBS Interview - NeXT Era",
+      "date": "1996-01-01",
+      "age": 41,
+      "source_level": "B",
+      "segment_count": 5,
+      "quote_count": 5,
+      "themes": ["失败与重生", "互联网愿景", "教育改革", "坚持"],
+      "life_stage": "荒野岁月",
+      "files": {
+        "markdown": "pbs-1996.md",
+        "json": "pbs-1996.json"
+      }
+    },
+    {
+      "id": "return-to-apple-1997",
+      "title_zh": "回归苹果——波士顿Macworld",
+      "title_en": "Return to Apple - Boston Macworld",
+      "date": "1997-08-06",
+      "age": 42,
+      "source_level": "A",
+      "segment_count": 5,
+      "quote_count": 6,
+      "themes": ["危机管理", "产品线精简", "专注战略", "创新驱动"],
+      "life_stage": "重振苹果",
+      "files": {
+        "markdown": "return-to-apple-1997.md",
+        "json": "return-to-apple-1997.json"
+      }
+    },
+    {
+      "id": "iphone-launch-2007",
+      "title_zh": "iPhone发布会",
+      "title_en": "iPhone Launch Keynote",
+      "date": "2007-01-09",
+      "age": 51,
+      "source_level": "A",
+      "segment_count": 6,
+      "quote_count": 7,
+      "themes": ["重新定义手机", "多点触控", "产品发布艺术", "品类创新"],
+      "life_stage": "黄金时代",
+      "files": {
+        "markdown": "iphone-launch-2007.md",
+        "json": "iphone-launch-2007.json"
+      }
+    },
+    {
+      "id": "ipad-launch-2010",
+      "title_zh": "iPad发布会",
+      "title_en": "iPad Launch Keynote",
+      "date": "2010-01-27",
+      "age": 55,
+      "source_level": "A",
+      "segment_count": 5,
+      "quote_count": 5,
+      "themes": ["第三类设备", "后PC时代", "品类创造", "触摸体验"],
+      "life_stage": "黄金时代",
+      "files": {
+        "markdown": "ipad-launch-2010.md",
+        "json": "ipad-launch-2010.json"
+      }
+    }
+  ],
+  "thinking_patterns_index": {
+    "直觉思维": ["stanford-2005", "playboy-1985", "60-minutes-2003"],
+    "产品哲学": ["d5-2007", "d8-2010", "60-minutes-2003", "iphone-launch-2007"],
+    "极简思维": ["return-to-apple-1997", "stanford-2005"],
+    "设计哲学": ["d5-2007", "d8-2010", "ipad-launch-2010"],
+    "远见思维": ["playboy-1985", "pbs-1996", "d5-2007", "d8-2010"],
+    "热爱驱动": ["stanford-2005", "d5-2007", "60-minutes-2003", "pbs-1996"],
+    "韧性思维": ["stanford-2005", "pbs-1996", "return-to-apple-1997"],
+    "死亡意识": ["stanford-2005"],
+    "竞争思维": ["playboy-1985", "d8-2010"],
+    "品类创造": ["iphone-launch-2007", "ipad-launch-2010"]
+  },
+  "life_stages": {
+    "早期苹果时代": {
+      "period": "1976-1985",
+      "interviews": ["playboy-1985"]
+    },
+    "荒野岁月": {
+      "period": "1985-1997",
+      "interviews": ["pbs-1996"]
+    },
+    "重振苹果": {
+      "period": "1997-2006",
+      "interviews": ["return-to-apple-1997", "60-minutes-2003"]
+    },
+    "黄金时代": {
+      "period": "2007-2011",
+      "interviews": ["iphone-launch-2007", "stanford-2005", "d5-2007", "ipad-launch-2010", "d8-2010"]
+    }
+  },
+  "classic_quotes": [
+    {
+      "quote_en": "Stay hungry. Stay foolish.",
+      "source": "stanford-2005"
+    },
+    {
+      "quote_en": "Your time is limited, so don't waste it living someone else's life.",
+      "source": "stanford-2005"
+    },
+    {
+      "quote_en": "The only way to do great work is to love what you do.",
+      "source": "stanford-2005"
+    },
+    {
+      "quote_en": "You can't connect the dots looking forward.",
+      "source": "stanford-2005"
+    },
+    {
+      "quote_en": "It's the bicycle for our minds.",
+      "source": "playboy-1985"
+    },
+    {
+      "quote_en": "I want to put a ding in the universe.",
+      "source": "playboy-1985"
+    },
+    {
+      "quote_en": "Design is really about how something works.",
+      "source": "d5-2007"
+    },
+    {
+      "quote_en": "The intersection of technology and liberal arts.",
+      "source": "d5-2007"
+    },
+    {
+      "quote_en": "It's not the consumers' job to know what they want.",
+      "source": "60-minutes-2003"
+    },
+    {
+      "quote_en": "Today, Apple is going to reinvent the phone.",
+      "source": "iphone-launch-2007"
+    },
+    {
+      "quote_en": "PCs are going to be like trucks.",
+      "source": "d8-2010"
+    },
+    {
+      "quote_en": "The cure for Apple is not cost-cutting. The cure for Apple is to innovate.",
+      "source": "return-to-apple-1997"
+    },
+    {
+      "quote_en": "We'd rather have fewer products that are great than more products that are mediocre.",
+      "source": "d8-2010"
+    },
+    {
+      "quote_en": "It's the Internet in your pocket.",
+      "source": "iphone-launch-2007"
+    },
+    {
+      "quote_en": "Death is very likely the single best invention of Life.",
+      "source": "stanford-2005"
+    }
+  ]
+}

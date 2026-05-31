@@ -1,0 +1,156 @@
+{
+  "title": "史蒂夫·乔布斯生平时间线",
+  "title_en": "Steve Jobs Biography Timeline",
+  "entries": [
+    {
+      "year": "1955",
+      "event": "出生于旧金山",
+      "event_en": "Born in San Francisco",
+      "significance": "史蒂夫·保罗·乔布斯于2月24日出生，被保罗·乔布斯和克拉拉·乔布斯收养。生父是叙利亚移民阿卜杜拉赫·贾andafar（阿卜杜勒·法塔赫·钱德里），生母是乔安妮·席贝尔。"
+    },
+    {
+      "year": "1969",
+      "event": "结识史蒂夫·沃兹尼亚克",
+      "event_en": "Met Steve Wozniak",
+      "significance": "14岁的乔布斯通过共同的朋友比尔·费尔南德斯结识了年长5岁的沃兹尼亚克，两人因对电子学的共同兴趣成为终身好友和合作伙伴。"
+    },
+    {
+      "year": "1972",
+      "event": "进入里德学院",
+      "event_en": "Enrolled at Reed College",
+      "significance": "乔布斯进入俄勒冈州波特兰的里德学院就读，但仅一个学期后就退学。他留在学校旁听了18个月，其中包括一门书法课，这门课后来深刻影响了Macintosh的字体设计。"
+    },
+    {
+      "year": "1974",
+      "event": "旅行印度，学习禅宗",
+      "event_en": "Traveled to India, studied Zen Buddhism",
+      "significance": "乔布斯前往印度灵修，寻求精神启迪。这次旅行加深了他对东方哲学和禅宗的理解，对他一生的极简主义美学和直觉思维产生了深远影响。"
+    },
+    {
+      "year": "1974",
+      "event": "加入雅达利公司",
+      "event_en": "Joined Atari",
+      "significance": "乔布斯被雅达利创始人诺兰·布什内尔雇佣为技术员，参与设计了《Breakout》游戏。在这里他积累了早期的工作经验，也展现了对产品细节的执着。"
+    },
+    {
+      "year": "1976",
+      "event": "创办苹果公司",
+      "event_en": "Founded Apple Computer",
+      "significance": "4月1日，乔布斯、沃兹尼亚克和罗纳德·韦恩在乔布斯家的车库中创办了苹果电脑公司。韦恩很快退出，乔布斯和沃兹尼亚克成为公司的核心。"
+    },
+    {
+      "year": "1977",
+      "event": "Apple II发布",
+      "event_en": "Apple II released",
+      "significance": "Apple II成为第一款大规模商业成功的个人电脑，定义了个人电脑行业。它的成功使苹果公司从车库创业成长为一家真正的企业。迈克·马库拉在这一年提供了关键的投资。"
+    },
+    {
+      "year": "1979",
+      "event": "参观施乐PARC",
+      "event_en": "Visited Xerox PARC",
+      "significance": "乔布斯参观了施乐公司的帕洛阿尔托研究中心（PARC），看到了图形用户界面（GUI）和鼠标技术。他立即意识到这是计算的未来，并决定将其融入苹果的产品中。"
+    },
+    {
+      "year": "1980",
+      "event": "苹果公司上市",
+      "event_en": "Apple IPO",
+      "significance": "12月12日，苹果公司首次公开募股，创造了自1956年福特汽车上市以来最大的IPO。25岁的乔布斯一夜之间成为亿万富翁。"
+    },
+    {
+      "year": "1984",
+      "event": "Macintosh发布",
+      "event_en": "Macintosh released",
+      "significance": "1月24日，Macintosh正式发布，配备了革命性的图形用户界面和鼠标。超级碗期间播放的《1984》广告成为广告史上的经典。"
+    },
+    {
+      "year": "1985",
+      "event": "被逐出苹果",
+      "event_en": "Ousted from Apple",
+      "significance": "由于Macintosh销量不及预期以及与CEO约翰·斯卡利的权力斗争，乔布斯被剥夺了管理权，最终离开了苹果公司。这是他人生中最大的挫折之一。"
+    },
+    {
+      "year": "1986",
+      "event": "创办NeXT公司",
+      "event_en": "Founded NeXT",
+      "significance": "乔布斯创办了NeXT计算机公司，致力于打造面向高等教育和商业市场的高端工作站。虽然NeXT在商业上并不成功，但其操作系统技术后来成为macOS的基础。"
+    },
+    {
+      "year": "1986",
+      "event": "收购皮克斯",
+      "event_en": "Acquired Pixar",
+      "significance": "乔布斯以1000万美元从卢卡斯影业收购了皮克斯动画工作室。1995年皮克斯上市后成为巨大的商业成功，推出了《玩具总动员》等经典动画电影。"
+    },
+    {
+      "year": "1991",
+      "event": "与劳伦·鲍威尔结婚",
+      "event_en": "Married Laurene Powell",
+      "significance": "乔布斯与劳伦·鲍威尔在约塞米蒂国家公园结婚。两人育有三个孩子：丽莎、里德和艾琳。这段婚姻一直持续到乔布斯去世。"
+    },
+    {
+      "year": "1995",
+      "event": "《玩具总动员》上映",
+      "event_en": "Toy Story released",
+      "significance": "皮克斯的第一部全长动画电影《玩具总动员》上映，取得巨大成功。同年皮克斯上市，乔布斯的个人资产大幅增长。"
+    },
+    {
+      "year": "1996",
+      "event": "苹果收购NeXT",
+      "event_en": "Apple acquired NeXT",
+      "significance": "陷入困境的苹果公司收购了NeXT，获得了其操作系统技术。乔布斯作为顾问回归苹果，很快重新掌握了公司的控制权。"
+    },
+    {
+      "year": "1997",
+      "event": "成为苹果临时CEO",
+      "event_en": "Became Apple's interim CEO (iCEO)",
+      "significance": "乔布斯正式回归苹果，担任临时CEO。他推出了'非同凡想'（Think Different）广告活动，开始大刀阔斧地重组公司，砍掉冗余的产品线。"
+    },
+    {
+      "year": "1998",
+      "event": "iMac发布",
+      "event_en": "iMac released",
+      "significance": "iMac的发布标志着苹果的复兴。其独特的一体化设计和多彩外壳打破了个人电脑行业的沉闷风格，成为苹果最畅销的产品之一。"
+    },
+    {
+      "year": "2001",
+      "event": "iPod和Apple Store发布",
+      "event_en": "iPod and Apple Store launched",
+      "significance": "iPod重新定义了数字音乐产业，Apple Store重新定义了零售体验。这两个产品/服务奠定了苹果在消费电子领域的领导地位。"
+    },
+    {
+      "year": "2003",
+      "event": "被诊断出胰腺癌",
+      "event_en": "Diagnosed with pancreatic cancer",
+      "significance": "乔布斯被诊断出患有罕见的胰腺神经内分泌肿瘤。他最初选择替代疗法而非手术，这一决定后来引发了广泛争议。"
+    },
+    {
+      "year": "2007",
+      "event": "iPhone发布",
+      "event_en": "iPhone released",
+      "significance": "1月9日，乔布斯在Macworld大会上发布iPhone，彻底改变了手机行业和移动互联网生态。这被认为是乔布斯职业生涯中最伟大的产品发布。"
+    },
+    {
+      "year": "2008",
+      "event": "App Store上线",
+      "event_en": "App Store launched",
+      "significance": "App Store的上线开创了移动应用经济，为开发者创造了全新的商业模式，也巩固了iOS生态系统的优势。"
+    },
+    {
+      "year": "2010",
+      "event": "iPad发布",
+      "event_en": "iPad released",
+      "significance": "iPad开创了平板电脑市场，证明了在智能手机和笔记本电脑之间存在一个巨大的产品品类。发布首季度销量超过300万台。"
+    },
+    {
+      "year": "2011",
+      "event": "辞去苹果CEO",
+      "event_en": "Resigned as Apple CEO",
+      "significance": "8月24日，由于健康原因，乔布斯正式辞去苹果CEO职务，由蒂姆·库克接任。他在辞职信中写道：'我曾经说过，如果有一天我不再能履行苹果CEO的职责和期望，我会第一个告诉你们。不幸的是，这一天到了。'"
+    },
+    {
+      "year": "2011",
+      "event": "逝世",
+      "event_en": "Passed away",
+      "significance": "10月5日，史蒂夫·乔布斯在加州帕洛阿尔托的家中去世，享年56岁。全球范围内引发了巨大的哀悼和纪念。他留下了改变世界的遗产——个人电脑、动画电影、数字音乐、手机、平板电脑——每一个领域都被他重新定义。"
+    }
+  ]
+}

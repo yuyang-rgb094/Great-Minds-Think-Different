@@ -1,0 +1,116 @@
+{
+  "category": "quotes-life-philosophy",
+  "category_zh": "人生哲学",
+  "quotes": [
+    {
+      "id": "LP-001",
+      "text_en": "Your time is limited, so don't waste it living someone else's life.",
+      "text_zh": "你的时间是有限的，所以不要浪费时间去过别人的生活。",
+      "source": "2005年斯坦福大学毕业典礼演讲",
+      "year": "2005",
+      "subcategory": "时间与生命",
+      "thinking_pattern": "紧迫感思维——珍惜有限的生命",
+      "usage_scenario": "讨论人生选择、独立思考时引用",
+      "importance": "core"
+    },
+    {
+      "id": "LP-002",
+      "text_en": "Stay hungry, stay foolish.",
+      "text_zh": "求知若饥，虚心若愚。",
+      "source": "2005年斯坦福大学毕业典礼演讲（引用《全球概览》）",
+      "year": "2005",
+      "subcategory": "求知态度",
+      "thinking_pattern": "终身学习思维——保持好奇心和谦逊",
+      "usage_scenario": "鼓励学习、保持开放心态时引用",
+      "importance": "core"
+    },
+    {
+      "id": "LP-003",
+      "text_en": "Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose.",
+      "text_zh": "记住你终将死去，是我所知道的避免患得患失陷阱的最好方法。",
+      "source": "2005年斯坦福大学毕业典礼演讲",
+      "year": "2005",
+      "subcategory": "死亡意识",
+      "thinking_pattern": "向死而生思维——死亡是最好的清醒剂",
+      "usage_scenario": "讨论面对恐惧、做出重大决定时引用",
+      "importance": "core"
+    },
+    {
+      "id": "LP-004",
+      "text_en": "The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle.",
+      "text_zh": "做出伟大工作的唯一途径就是热爱你所做的事。如果你还没有找到，继续寻找。不要将就。",
+      "source": "2005年斯坦福大学毕业典礼演讲",
+      "year": "2005",
+      "subcategory": "热爱与工作",
+      "thinking_pattern": "热爱驱动思维——热爱是卓越的前提",
+      "usage_scenario": "讨论职业选择、工作热情时引用",
+      "importance": "core"
+    },
+    {
+      "id": "LP-005",
+      "text_en": "Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life.",
+      "text_zh": "记住我很快就会死去，是我遇到的帮助我在人生中做出重大选择的最重要工具。",
+      "source": "2005年斯坦福大学毕业典礼演讲",
+      "year": "2005",
+      "subcategory": "死亡意识",
+      "thinking_pattern": "向死而生思维——死亡简化了选择",
+      "usage_scenario": "讨论人生重大决策时引用",
+      "importance": "core"
+    },
+    {
+      "id": "LP-006",
+      "text_en": "Almost everything — all external expectations, all pride, all fear of embarrassment or failure — these things just fall away in the face of death, leaving only what is truly important.",
+      "text_zh": "几乎一切——所有外在的期望、所有的骄傲、所有对困窘或失败的恐惧——这些在死亡面前都会消散，只留下真正重要的东西。",
+      "source": "2005年斯坦福大学毕业典礼演讲",
+      "year": "2005",
+      "subcategory": "死亡意识",
+      "thinking_pattern": "本质主义思维——死亡揭示真正重要的东西",
+      "usage_scenario": "讨论人生优先级、放下包袱时引用",
+      "importance": "core"
+    },
+    {
+      "id": "LP-007",
+      "text_en": "Death is very likely the single best invention of Life. It is Life's change agent.",
+      "text_zh": "死亡很可能就是生命最好的发明。它是生命变革的推动者。",
+      "source": "2005年斯坦福大学毕业典礼演讲",
+      "year": "2005",
+      "subcategory": "死亡意识",
+      "thinking_pattern": "辩证思维——死亡是新生的催化剂",
+      "usage_scenario": "讨论变革、新陈代谢、接受失去时引用",
+      "importance": "important"
+    },
+    {
+      "id": "LP-008",
+      "text_en": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.",
+      "text_zh": "你的工作将占据你人生的大部分，真正获得满足感的唯一方式就是做你认为伟大的工作。而做伟大工作的唯一方式就是热爱你所做的事。",
+      "source": "2005年斯坦福大学毕业典礼演讲",
+      "year": "2005",
+      "subcategory": "热爱与工作",
+      "thinking_pattern": "热爱驱动思维——工作与人生意义统一",
+      "usage_scenario": "讨论职业规划、人生意义时引用",
+      "importance": "core"
+    },
+    {
+      "id": "LP-009",
+      "text_en": "If today were the last day of my life, would I want to do what I am about to do today?",
+      "text_zh": "如果今天是我生命中的最后一天，我会想做我今天即将做的事吗？",
+      "source": "2005年斯坦福大学毕业典礼演讲",
+      "year": "2005",
+      "subcategory": "时间与生命",
+      "thinking_pattern": "终局思维——以死亡为镜审视当下",
+      "usage_scenario": "讨论日常决策、时间管理时引用",
+      "importance": "core"
+    },
+    {
+      "id": "LP-010",
+      "text_en": "No' for too many days in a row, I know I need to change something.",
+      "text_zh": "如果连续太多天我的回答都是'不'，我知道我需要改变一些事情。",
+      "source": "2005年斯坦福大学毕业典礼演讲",
+      "year": "2005",
+      "subcategory": "自我觉察",
+      "thinking_pattern": "自我反思思维——倾听内心的声音",
+      "usage_scenario": "讨论自我认知、人生调整时引用",
+      "importance": "important"
+    }
+  ]
+}

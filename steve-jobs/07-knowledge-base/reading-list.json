@@ -1,0 +1,102 @@
+{
+  "title": "影响乔布斯的书籍清单",
+  "title_en": "Books That Influenced Steve Jobs",
+  "books": [
+    {
+      "title": "《一个瑜伽行者的自传》",
+      "title_en": "Autobiography of a Yogi",
+      "author": "帕拉宏撒·尤迦南达",
+      "author_en": "Paramahansa Yogananda",
+      "influence": "这是乔布斯一生中唯一留在iPad上的书。他17岁时第一次阅读，此后每年重读一次。这本书介绍了东方的精神传统和冥想实践，对乔布斯的灵性追求产生了深远影响。乔布斯去世时的遗物中包含这本电子书。",
+      "category": "灵性/哲学"
+    },
+    {
+      "title": "《全球概览》",
+      "title_en": "The Whole Earth Catalog",
+      "author": "斯图尔特·布兰德",
+      "author_en": "Stewart Brand",
+      "influence": "这本反文化时代的出版物是乔布斯最珍视的书籍之一。他在2005年斯坦福演讲中引用了其停刊号封底的话'求知若饥，虚心若愚'（Stay hungry, stay foolish）。这本书体现了DIY精神和个人赋权的理念，与乔布斯的价值观高度契合。",
+      "category": "文化/思想"
+    },
+    {
+      "title": "《禅宗入门》",
+      "title_en": "The Way of Zen",
+      "author": "艾伦·瓦茨",
+      "author_en": "Alan Watts",
+      "influence": "艾伦·瓦茨是西方最著名的禅宗阐释者之一。这本书帮助乔布斯系统地理解了禅宗哲学，包括不二论、正念和直觉等核心概念。瓦茨的写作风格简洁清晰，这与乔布斯自己的表达风格有相似之处。",
+      "category": "哲学/宗教"
+    },
+    {
+      "title": "《创新者的窘境》",
+      "title_en": "The Innovator's Dilemma",
+      "author": "克莱顿·克里斯坦森",
+      "author_en": "Clayton Christensen",
+      "influence": "这本书关于为什么优秀公司会被颠覆性创新所击败的理论深深影响了乔布斯的战略思考。他理解到，苹果必须主动颠覆自己的产品，否则就会被别人颠覆。这解释了为什么苹果推出了iPhone来颠覆自己的iPod业务。",
+      "category": "商业/创新"
+    },
+    {
+      "title": "《李尔王》",
+      "title_en": "King Lear",
+      "author": "威廉·莎士比亚",
+      "author_en": "William Shakespeare",
+      "influence": "乔布斯年轻时深爱莎士比亚的作品，尤其是《李尔王》。这部关于权力、背叛和悔恨的悲剧对乔布斯产生了深刻影响。有分析认为，乔布斯与斯卡利的关系在某些方面映射了李尔王的悲剧。",
+      "category": "文学/戏剧"
+    },
+    {
+      "title": "《白鲸》",
+      "title_en": "Moby Dick",
+      "author": "赫尔曼·梅尔维尔",
+      "author_en": "Herman Melville",
+      "influence": "乔布斯年轻时阅读了这部经典小说。书中亚哈船长对白鲸的偏执追求，某种程度上反映了乔布斯对完美的执着追求。乔布斯曾将这本书列为影响他的重要读物之一。",
+      "category": "文学/小说"
+    },
+    {
+      "title": "《迪兰·托马斯诗集》",
+      "title_en": "The Poems of Dylan Thomas",
+      "author": "迪兰·托马斯",
+      "author_en": "Dylan Thomas",
+      "influence": "乔布斯喜爱迪兰·托马斯的诗歌，尤其是那句著名的'不要温和地走进那个良夜'（Do not go gentle into that good night）。这种对生命的强烈态度与乔布斯面对死亡时的态度高度一致——不屈服，不放弃。",
+      "category": "诗歌"
+    },
+    {
+      "title": "《柏拉图对话录》",
+      "title_en": "The Dialogues of Plato",
+      "author": "柏拉图",
+      "author_en": "Plato",
+      "influence": "乔布斯年轻时对哲学有浓厚兴趣，柏拉图的对话录是他重要的哲学启蒙读物。苏格拉底的辩证法和追求真理的精神影响了乔布斯的思维方式。乔布斯曾说'我愿意用我所有的技术换一个下午与苏格拉底的对话'。",
+      "category": "哲学"
+    },
+    {
+      "title": "《科学革命的结构》",
+      "title_en": "The Structure of Scientific Revolutions",
+      "author": "托马斯·库恩",
+      "author_en": "Thomas Kuhn",
+      "influence": "库恩关于'范式转变'的理论影响了乔布斯对创新的理解。乔布斯认识到，真正的创新不是渐进式的改进，而是范式的根本转变。这解释了为什么他追求的不是更好的产品，而是完全不同类别的产品。",
+      "category": "科学/哲学"
+    },
+    {
+      "title": "《甘地自传》",
+      "title_en": "The Story of My Experiments with Truth",
+      "author": "莫罕达斯·甘地",
+      "author_en": "Mohandas Gandhi",
+      "influence": "乔布斯年轻时阅读了甘地的自传，对甘地的非暴力哲学和简朴生活方式产生了共鸣。乔布斯终生的素食主义习惯和对物质财富的淡漠态度，部分受到甘地思想的影响。",
+      "category": "传记/哲学"
+    },
+    {
+      "title": "《分子生物学》",
+      "title_en": "Molecular Biology of the Cell",
+      "author": "布鲁斯·阿尔伯茨等",
+      "author_en": "Bruce Alberts et al.",
+      "influence": "乔布斯在里德学院旁听期间对生物学产生了浓厚兴趣。他后来回忆说，对生物学的学习让他理解了自然界的优雅设计，这种理解影响了他的设计哲学——最好的设计看起来就像自然界一样自然。",
+      "category": "科学"
+    },
+    {
+      "title": "《一位瑜伽行者的自传》",
+      "title_en": "Be Here Now",
+      "author": "拉姆·达斯",
+      "author_en": "Ram Dass",
+      "influence": "这本书是1970年代反文化运动的重要读物，探讨了意识、冥想和灵性成长。乔布斯在印度旅行期间深受此书影响。书中的'活在当下'理念成为乔布斯一生的实践。",
+      "category": "灵性/哲学"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "interview": {
+    "id": "ipad-launch-2010",
+    "title_zh": "iPad发布会",
+    "title_en": "iPad Launch Keynote",
+    "date": "2010-01-27",
+    "location": "美国加利福尼亚州旧金山Yerba Buena艺术中心",
+    "interviewer": "无（产品发布会主题演讲）",
+    "occasion": "苹果特别媒体活动",
+    "duration_minutes": 90,
+    "source_level": "A",
+    "context": "2010年1月，乔布斯55岁。iPhone已改变智能手机行业，App Store拥有超14万个应用。苹果市值刚超越微软。外界对平板设备猜测纷纷。乔布斯发布iPad，定位为'第三类设备'。",
+    "themes": ["第三类设备", "后PC时代", "品类创造", "触摸体验", "产品定位", "内容消费"],
+    "key_segments": [
+      {
+        "id": "seg-001",
+        "importance": "core",
+        "text_en": "Our most advanced technology in a magical and revolutionary device at an unbelievable price. And I'd like to introduce it to you now. This is the iPad.",
+        "text_zh": "我们最先进的技术，融入一个神奇而革命性的设备中，以令人难以置信的价格。我现在想向大家介绍它。这就是iPad。",
+        "thinking_pattern": "产品定位 / 简洁表达",
+        "tags": ["iPad发布", "神奇设备", "价格", "简洁"]
+      },
+      {
+        "id": "seg-002",
+        "importance": "core",
+        "text_en": "Is there room for a third category of device in the middle? Something that's between a laptop and a smartphone? ... We've come to the conclusion that it does exist. And it's a very significant category.",
+        "text_zh": "中间是否有空间容纳第三类设备？介于笔记本电脑和智能手机之间的东西？……我们得出的结论是，它确实存在。而且它是一个非常显著的品类。",
+        "thinking_pattern": "品类创造 / 市场定位",
+        "tags": ["第三类设备", "品类创造", "市场定位", "介于手机和笔记本之间"]
+      },
+      {
+        "id": "seg-003",
+        "importance": "core",
+        "text_en": "In order to really create a new category of devices, those devices are going to have to be far better at doing some key tasks than anything else. They're going to have to be far better at browsing the web than a laptop. Far better at email than a smartphone.",
+        "text_zh": "为了真正创造一个新的设备品类，这些设备在某些关键任务上必须远超其他任何东西。它们在浏览网页方面必须远超笔记本电脑。在电子邮件方面必须远超智能手机。",
+        "thinking_pattern": "关键任务分析 / 产品定位",
+        "tags": ["关键任务", "超越现有设备", "产品标准", "体验优势"]
+      },
+      {
+        "id": "seg-004",
+        "importance": "important",
+        "text_en": "What we've tried to do is create something that is incredibly thin and light. Something that you can hold in your hands. Something that feels natural. Something that you want to touch.",
+        "text_zh": "我们试图做的是创造一个极其轻薄的东西。一个你可以拿在手里的东西。一个感觉自然的东西。一个你想触摸的东西。",
+        "thinking_pattern": "设计哲学 / 感官体验",
+        "tags": ["轻薄设计", "手持体验", "触摸", "美学"]
+      },
+      {
+        "id": "seg-005",
+        "importance": "important",
+        "text_en": "It's not just a product, but an experience. Something that connects you to your content and to your apps in a way that nothing else can.",
+        "text_zh": "不仅仅是一个产品，而是一种体验。一种以其他任何东西都无法做到的方式将你与你的内容和应用连接起来的东西。",
+        "thinking_pattern": "体验思维 / 情感连接",
+        "tags": ["神奇体验", "不仅仅是产品", "情感连接", "内容与应用"]
+      }
+    ],
+    "extractable_quotes": [
+      "Our most advanced technology in a magical and revolutionary device at an unbelievable price.",
+      "Is there room for a third category of device in the middle? Something that's between a laptop and a smartphone?",
+      "In order to really create a new category of devices, those devices are going to have to be far better at doing some key tasks than anything else.",
+      "Something that you can hold in your hands. Something that feels natural. Something that you want to touch.",
+      "It's not just a product, but an experience. Something that connects you to your content and to your apps in a way that nothing else can."
+    ]
+  }
+}

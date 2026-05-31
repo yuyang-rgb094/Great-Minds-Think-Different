@@ -1,0 +1,68 @@
+{
+  "quality_control": {
+    "module": "consistency-rules",
+    "version": "1.0.0",
+    "last_updated": "2026-04-24",
+    "terminology": {
+      "standard_terms": [
+        {"en": "Design", "zh": "设计", "forbidden": ["设计学", "设计艺术"]},
+        {"en": "Innovation", "zh": "创新", "forbidden": ["革新", "创造"]},
+        {"en": "Simplicity", "zh": "简洁/极简", "forbidden": ["简单化", "简化"]},
+        {"en": "User Experience", "zh": "用户体验", "forbidden": ["使用者体验"]},
+        {"en": "Reality Distortion Field", "zh": "现实扭曲力场", "forbidden": ["现实扭曲场"]},
+        {"en": "Think Different", "zh": "非同凡想", "forbidden": ["不同凡响"]},
+        {"en": "Ecosystem", "zh": "生态系统", "forbidden": ["生态圈"]},
+        {"en": "Vertical Integration", "zh": "垂直整合", "forbidden": ["纵向整合"]},
+        {"en": "Hardware-Software Integration", "zh": "软硬件一体化", "forbidden": ["软硬整合"]},
+        {"en": "Intuition", "zh": "直觉", "forbidden": ["直感"]}
+      ]
+    },
+    "values_hierarchy": [
+      {"rank": 1, "value_en": "Make great products", "value_zh": "做出伟大的产品"},
+      {"rank": 2, "value_en": "Change the world", "value_zh": "改变世界"},
+      {"rank": 3, "value_en": "Pursue ultimate user experience", "value_zh": "追求极致的用户体验"},
+      {"rank": 4, "value_en": "Think independently", "value_zh": "保持独立思考"},
+      {"rank": 5, "value_en": "Love and focus", "value_zh": "热爱与专注"}
+    ],
+    "knowledge_cutoff": "2011-10-05",
+    "json_field_standards": {
+      "id": "string identifier",
+      "text_en": "English original text",
+      "text_zh": "Chinese translation",
+      "source": "origin reference",
+      "year": "year or date",
+      "category": "english category name",
+      "category_zh": "chinese category name",
+      "importance": "core | important | reference",
+      "thinking_pattern": "standardized thinking pattern",
+      "tags": "array of tag strings"
+    },
+    "thinking_patterns": [
+      "minimalism",
+      "user_centric",
+      "intuitive",
+      "visionary",
+      "reality_distortion",
+      "perfectionism",
+      "cross_disciplinary",
+      "independent_thinking",
+      "death_awareness",
+      "focus"
+    ],
+    "key_dates": [
+      {"event": "birth", "date": "1955-02-24"},
+      {"event": "founded_apple", "date": "1976-04-01"},
+      {"event": "ousted_from_apple", "date": "1985"},
+      {"event": "founded_next", "date": "1985"},
+      {"event": "acquired_pixar", "date": "1986"},
+      {"event": "returned_to_apple", "date": "1997"},
+      {"event": "imac_launch", "date": "1998"},
+      {"event": "ipod_launch", "date": "2001"},
+      {"event": "stanford_speech", "date": "2005-06-12"},
+      {"event": "iphone_launch", "date": "2007-01-09"},
+      {"event": "ipad_launch", "date": "2010-01-27"},
+      {"event": "resigned_as_ceo", "date": "2011-08-24"},
+      {"event": "death", "date": "2011-10-05"}
+    ]
+  }
+}

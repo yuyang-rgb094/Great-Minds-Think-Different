@@ -1,0 +1,194 @@
+{
+  "module": "leadership-principles",
+  "module_zh": "领导力原则",
+  "principles": [
+    {
+      "id": "LP-001",
+      "name": "A级人才论",
+      "name_en": "A-Player Theory",
+      "description": "一个A级人才的价值远超多个B级人才，只雇佣最优秀的人并给予最大自由和最高期望",
+      "quotes": [
+        {
+          "en": "I used to think an A-player was two times better than a B-player. I changed my mind: an A-player is fifty times better.",
+          "zh": "我过去认为，一个优秀的人能顶两个平庸的人。现在我改变了看法：一个优秀的人能顶五十个平庸的人。"
+        },
+        {
+          "en": "It doesn't make sense to hire smart people and tell them what to do; we hire smart people so they can tell us what to do.",
+          "zh": "雇佣聪明人然后告诉他们该做什么，这毫无意义；我们雇佣聪明人，是让他们告诉我们该做什么。"
+        },
+        {
+          "en": "A-players hire A-players, B-players hire C-players, and C-players hire D-players.",
+          "zh": "A级人才会雇佣A级人才，B级人才会雇佣C级人才，C级人才会雇佣D级人才。"
+        }
+      ],
+      "cases": [
+        {
+          "title": "招聘约翰·斯卡利",
+          "description": "1983年用'你是想一辈子卖糖水，还是想跟我一起改变世界？'说服百事总裁加入苹果",
+          "year": "1983"
+        },
+        {
+          "title": "Mac团队筛选",
+          "description": "亲自面试每一位候选人，不仅考察技术能力，更考察激情和创造力",
+          "year": "1982"
+        }
+      ]
+    },
+    {
+      "id": "LP-002",
+      "name": "现实扭曲力场",
+      "name_en": "Reality Distortion Field",
+      "description": "通过绝对的自信、强烈的愿景和不懈的坚持，让周围的人相信看似不可能的事情是可以实现的",
+      "quotes": [
+        {
+          "en": "We can do it. It's not impossible. We just need to work harder.",
+          "zh": "我们能做到。这不是不可能的。我们只需要更努力。"
+        },
+        {
+          "en": "Don't be afraid. You can do it.",
+          "zh": "不要害怕。你们能做到的。"
+        },
+        {
+          "en": "Artists ship.",
+          "zh": "艺术家总是交付。"
+        }
+      ],
+      "cases": [
+        {
+          "title": "Macintosh发布日期",
+          "description": "设定几乎不可能的截止日期，当工程师表示不可能时坚持'我们能做到'，最终如期发布",
+          "year": "1984"
+        },
+        {
+          "title": "康宁Gorilla玻璃",
+          "description": "直接告诉康宁CEO'别担心产能问题，你们能做到的'，康宁最终在六个月内完成",
+          "year": "2007"
+        }
+      ]
+    },
+    {
+      "id": "LP-003",
+      "name": "产品会议运作方式",
+      "name_en": "Product Meeting Style",
+      "description": "不需要冗长的演示文稿，要求直接的、面对面的讨论，关注产品本身而非流程和形式",
+      "quotes": [
+        {
+          "en": "I don't need to see a PowerPoint. Tell me your idea.",
+          "zh": "我不需要看PPT。告诉我你的想法。"
+        },
+        {
+          "en": "If you need PowerPoint to explain it, you haven't thought it through.",
+          "zh": "如果需要PPT才能解释清楚，说明你自己都没有想清楚。"
+        },
+        {
+          "en": "Let's look at the product.",
+          "zh": "让我们看看产品。"
+        }
+      ],
+      "cases": [
+        {
+          "title": "每周三下午的产品审查",
+          "description": "每周三下午召开产品审查会议，要求直接展示产品原型而非幻灯片",
+          "year": "1997-2011"
+        },
+        {
+          "title": "取消PPT文化",
+          "description": "回归苹果后立即废除公司内部的PPT汇报文化",
+          "year": "1997"
+        }
+      ]
+    },
+    {
+      "id": "LP-004",
+      "name": "跨职能协作",
+      "name_en": "Cross-functional Collaboration",
+      "description": "打破传统的部门壁垒，要求设计、工程、营销等部门紧密协作",
+      "quotes": [
+        {
+          "en": "The reason Apple can create products like the iPad is because we've always tried to be at the intersection of technology and liberal arts.",
+          "zh": "苹果之所以能够创造出像iPad这样的产品，是因为我们一直努力站在技术与人文艺术的交汇处。"
+        },
+        {
+          "en": "You can't let marketing define the product. The product must be defined by the people who make it.",
+          "zh": "你不能让营销部门来定义产品。产品必须由做产品的人来定义。"
+        }
+      ],
+      "cases": [
+        {
+          "title": "设计驱动的产品开发",
+          "description": "让设计师与工程师在同一个空间工作，实时协作，而非先设计后工程",
+          "year": "1998-2011"
+        },
+        {
+          "title": "苹果零售店体验",
+          "description": "融合建筑、室内设计、零售运营和技术支持等多个领域的专业知识",
+          "year": "2001"
+        }
+      ]
+    },
+    {
+      "id": "LP-005",
+      "name": "对平庸的零容忍",
+      "name_en": "Zero Tolerance for Mediocrity",
+      "description": "对平庸有着近乎偏执的不可容忍，相信容忍任何程度的平庸都会导致整个组织标准下降",
+      "quotes": [
+        {
+          "en": "Be a yardstick of quality. Some people aren't used to an environment where excellence is expected.",
+          "zh": "成为品质的标杆。有些人不习惯一个要求卓越的环境。"
+        },
+        {
+          "en": "We can't tolerate B-level work. Every product must be A-level.",
+          "zh": "我们不能容忍B级的作品。每一件产品都必须是A级的。"
+        },
+        {
+          "en": "Good artists copy, great artists steal.",
+          "zh": "好的艺术家复制，伟大的艺术家偷窃。"
+        }
+      ],
+      "cases": [
+        {
+          "title": "iPhone屏幕颜色",
+          "description": "发现屏幕上的黄色不够完美，要求工程师反复调整直到颜色完全符合标准",
+          "year": "2007"
+        },
+        {
+          "title": "Macintosh内部电路板",
+          "description": "坚持内部电路板必须排列整齐美观，即使普通用户永远不会看到",
+          "year": "1982"
+        }
+      ]
+    },
+    {
+      "id": "LP-006",
+      "name": "激励方式",
+      "name_en": "Motivation Style",
+      "description": "不是通过金钱或头衔，而是通过愿景、挑战和成就感来激励团队",
+      "quotes": [
+        {
+          "en": "We don't get a chance to do that many things, and every one should be really excellent.",
+          "zh": "我们没有机会做那么多事情，每一件都应该真正出色。"
+        },
+        {
+          "en": "Artists ship.",
+          "zh": "艺术家总是交付。"
+        },
+        {
+          "en": "Do you want to sell sugared water for the rest of your life, or do you want to come with me and change the world?",
+          "zh": "你是想一辈子卖糖水，还是想跟我一起改变世界？"
+        }
+      ],
+      "cases": [
+        {
+          "title": "海盗旗",
+          "description": "在Macintosh团队办公楼挂上海盗旗，象征他们是叛逆的创新者",
+          "year": "1983"
+        },
+        {
+          "title": "'非同凡想'广告",
+          "description": "1997年推出品牌广告，不仅向消费者传达理念，也极大激励了内部员工",
+          "year": "1997"
+        }
+      ]
+    }
+  ]
+}

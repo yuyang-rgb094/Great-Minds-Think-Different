@@ -1,0 +1,64 @@
+{
+  "interview": {
+    "id": "pbs-1996",
+    "title_zh": "PBS访谈（NeXT时期）",
+    "title_en": "PBS Interview - Triumph of the Nerds (NeXT Era)",
+    "date": "1996-01-01",
+    "location": "美国加利福尼亚州雷德伍德城NeXT公司总部",
+    "interviewer": "PBS纪录片团队",
+    "occasion": "PBS纪录片《书呆子的胜利》",
+    "duration_minutes": 15,
+    "source_level": "B",
+    "context": "1996年，乔布斯41岁，离开苹果后第十一年。NeXT商业上不成功但技术先进，皮克斯凭借《玩具总动员》即将上市。乔布斯处于'荒野岁月'中的反思阶段，尚未回归苹果。",
+    "themes": ["失败与重生", "互联网愿景", "教育改革", "创业品质", "坚持与热情"],
+    "key_segments": [
+      {
+        "id": "seg-001",
+        "importance": "core",
+        "text_en": "NeXT was a failure in many ways. We never sold very many computers. But it was also one of the most important things I've ever done. Because what I learned at NeXT was how to build a great team, how to build great software, and how to focus on what really matters.",
+        "text_zh": "NeXT在很多方面是一个失败。我们从来没有卖出很多电脑。但它也是我做过的最重要的事情之一。因为我在NeXT学到的是如何建立一个伟大的团队，如何构建伟大的软件，以及如何专注于真正重要的事情。",
+        "thinking_pattern": "反思思维 / 成长型思维",
+        "tags": ["NeXT", "失败", "学习", "团队建设"]
+      },
+      {
+        "id": "seg-002",
+        "importance": "core",
+        "text_en": "I think the internet is going to be the most transformative technology of our lifetimes. It's going to change everything — the way we communicate, the way we learn, the way we do business, the way we entertain ourselves.",
+        "text_zh": "我认为互联网将是我们一生中最具变革性的技术。它将改变一切——我们交流、学习、做生意、娱乐的方式。",
+        "thinking_pattern": "远见思维 / 技术预测",
+        "tags": ["互联网", "变革性技术", "未来预测", "远见"]
+      },
+      {
+        "id": "seg-003",
+        "importance": "important",
+        "text_en": "The problem with the education system in America is that it was designed for the industrial age. And we're not in the industrial age anymore. We're in the information age. And the education system needs to be completely rethought.",
+        "text_zh": "美国教育系统的问题在于它是为工业时代设计的。而我们已经不在工业时代了。我们在信息时代。教育系统需要被彻底重新思考。",
+        "thinking_pattern": "系统思维 / 教育改革",
+        "tags": ["教育", "个性化学习", "技术与教育", "系统改革"]
+      },
+      {
+        "id": "seg-004",
+        "importance": "important",
+        "text_en": "The most important quality is perseverance. The ones that succeed are the ones where the founders just refuse to give up. They keep going when everyone else tells them to quit.",
+        "text_zh": "最重要的品质是坚持。成功的那些是创始人拒绝放弃的。当其他所有人都告诉他们放弃时，他们继续前进。",
+        "thinking_pattern": "坚韧思维 / 创业精神",
+        "tags": ["坚持", "创业品质", "不放弃", "逆境前行"]
+      },
+      {
+        "id": "seg-005",
+        "importance": "reference",
+        "text_en": "The key to success is being passionate about what you do. Because if you're passionate, you'll work harder. You'll be more creative. You'll be more persistent.",
+        "text_zh": "成功的关键是对你所做的事情充满热情。因为如果你有热情，你会更努力地工作。你会更有创造力。你会更坚持。",
+        "thinking_pattern": "热情驱动 / 反直觉",
+        "tags": ["热情vs聪明", "成功要素", "创业感悟"]
+      }
+    ],
+    "extractable_quotes": [
+      "NeXT was a failure in many ways. We never sold very many computers. But it was also one of the most important things I've ever done.",
+      "The internet is going to be the most transformative technology of our lifetimes.",
+      "The education system needs to be completely rethought. And I think technology can play a huge role in that.",
+      "The most important quality is perseverance. The ones that succeed are the ones where the founders just refuse to give up.",
+      "The key to success is being passionate about what you do. Because if you're passionate, you'll work harder. You'll be more creative. You'll be more persistent."
+    ]
+  }
+}

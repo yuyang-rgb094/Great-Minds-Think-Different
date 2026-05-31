@@ -1,0 +1,116 @@
+{
+  "category": "quotes-speech-presentation",
+  "category_zh": "演讲表达",
+  "quotes": [
+    {
+      "id": "S-001",
+      "text_en": "The people who are crazy enough to think they can change the world are the ones who do.",
+      "text_zh": "那些疯狂到以为自己能够改变世界的人，才是真正改变世界的人。",
+      "source": "1997年《非同凡想》广告",
+      "year": "1997",
+      "subcategory": "激励叙事",
+      "thinking_pattern": "反叛思维——疯狂是改变世界的起点",
+      "usage_scenario": "激励团队、讨论创新精神时引用",
+      "importance": "core"
+    },
+    {
+      "id": "S-002",
+      "text_en": "Today, Apple is going to reinvent the phone.",
+      "text_zh": "今天，苹果将重新发明手机。",
+      "source": "2007年Macworld大会——iPhone发布",
+      "year": "2007",
+      "subcategory": "产品发布",
+      "thinking_pattern": "宣言式思维——用一句话定义一个时代",
+      "usage_scenario": "讨论产品发布、营销传播时引用",
+      "importance": "core"
+    },
+    {
+      "id": "S-003",
+      "text_en": "Every once in a while, a revolutionary product comes along that changes everything.",
+      "text_zh": "每隔一段时间，就会有一款革命性的产品出现，改变一切。",
+      "source": "2007年iPhone发布会",
+      "year": "2007",
+      "subcategory": "叙事结构",
+      "thinking_pattern": "历史定位思维——将产品置于历史脉络中",
+      "usage_scenario": "讨论演讲叙事、产品定位时引用",
+      "importance": "core"
+    },
+    {
+      "id": "S-004",
+      "text_en": "An iPod, a phone, and an internet communicator... An iPod, a phone, and an internet communicator... Are you getting it? These are not three separate devices. This is one device.",
+      "text_zh": "一个iPod、一部手机、一个互联网通讯器……一个iPod、一部手机、一个互联网通讯器……你们明白了吗？这不是三个独立的设备。这是一个设备。",
+      "source": "2007年iPhone发布会",
+      "year": "2007",
+      "subcategory": "修辞手法",
+      "thinking_pattern": "三段式修辞——重复制造戏剧效果",
+      "usage_scenario": "讨论演讲技巧、产品展示时引用",
+      "importance": "core"
+    },
+    {
+      "id": "S-005",
+      "text_en": "It just works.",
+      "text_zh": "它就是能用。",
+      "source": "苹果产品宣传",
+      "year": "2000s",
+      "subcategory": "极简表达",
+      "thinking_pattern": "极简表达思维——一句话说清核心价值",
+      "usage_scenario": "讨论品牌传播、产品卖点时引用",
+      "importance": "important"
+    },
+    {
+      "id": "S-006",
+      "text_en": "This is the coolest thing we've ever done. It's an iPod. It's a phone. And it's an internet communicator.",
+      "text_zh": "这是我们做过的最酷的东西。它是一个iPod。它是一部手机。它还是一个互联网通讯器。",
+      "source": "2007年iPhone发布会",
+      "year": "2007",
+      "subcategory": "产品发布",
+      "thinking_pattern": "惊喜递进思维——层层揭示制造惊喜",
+      "usage_scenario": "讨论产品发布策略时引用",
+      "importance": "important"
+    },
+    {
+      "id": "S-007",
+      "text_en": "Why join the navy if you can be a pirate?",
+      "text_zh": "如果你能当海盗，为什么要加入海军？",
+      "source": "Mac团队早期口号",
+      "year": "1983",
+      "subcategory": "反叛精神",
+      "thinking_pattern": "反叛思维——挑战体制的勇气",
+      "usage_scenario": "鼓励创新、挑战常规时引用",
+      "importance": "important"
+    },
+    {
+      "id": "S-008",
+      "text_en": "We think the Mac will sell zillions, but we didn't build the Mac for anybody else. We built it for ourselves.",
+      "text_zh": "我们认为Mac会卖几百万台，但我们不是为别人造Mac。我们为自己而造。",
+      "source": "《花花公子》采访",
+      "year": "1985",
+      "subcategory": "叙事风格",
+      "thinking_pattern": "真诚叙事思维——讲述真实动机",
+      "usage_scenario": "讨论品牌故事、产品理念时引用",
+      "importance": "important"
+    },
+    {
+      "id": "S-009",
+      "text_en": "One more thing...",
+      "text_zh": "还有一件事……",
+      "source": "苹果发布会经典环节",
+      "year": "1997-2011",
+      "subcategory": "演讲技巧",
+      "thinking_pattern": "悬念思维——在结尾制造惊喜",
+      "usage_scenario": "讨论演讲技巧、产品发布时引用",
+      "importance": "core"
+    },
+    {
+      "id": "S-010",
+      "text_en": "You've got to find what you love. And that is as true for your work as it is for your lovers.",
+      "text_zh": "你必须找到你所热爱的。这对你的工作如此，对你的爱人也是如此。",
+      "source": "2005年斯坦福大学毕业典礼演讲",
+      "year": "2005",
+      "subcategory": "人生叙事",
+      "thinking_pattern": "类比思维——用爱情类比工作热情",
+      "usage_scenario": "讨论人生选择、职业热情时引用",
+      "importance": "important"
+    }
+  ]
+}
