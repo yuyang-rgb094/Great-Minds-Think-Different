@@ -1,0 +1,202 @@
+{
+  "description": "Berkshire Hathaway Annual Meeting Transcripts Index",
+  "total_meetings": 32,
+  "year_range": {
+    "start": 1994,
+    "end": 2025
+  },
+  "meetings": [
+    {
+      "year": 1994,
+      "cnbc_url": "https://buffett.cnbc.com/1994-berkshire-hathaway-annual-meeting",
+      "transcript_file": "1994.json",
+      "status": "pending"
+    },
+    {
+      "year": 1995,
+      "cnbc_url": "https://buffett.cnbc.com/1995-berkshire-hathaway-annual-meeting",
+      "transcript_file": "1995.json",
+      "status": "pending"
+    },
+    {
+      "year": 1996,
+      "cnbc_url": "https://buffett.cnbc.com/1996-berkshire-hathaway-annual-meeting",
+      "transcript_file": "1996.json",
+      "status": "pending"
+    },
+    {
+      "year": 1997,
+      "cnbc_url": "https://buffett.cnbc.com/1997-berkshire-hathaway-annual-meeting",
+      "transcript_file": "1997.json",
+      "status": "pending"
+    },
+    {
+      "year": 1998,
+      "cnbc_url": "https://buffett.cnbc.com/1998-berkshire-hathaway-annual-meeting",
+      "transcript_file": "1998.json",
+      "status": "pending"
+    },
+    {
+      "year": 1999,
+      "cnbc_url": "https://buffett.cnbc.com/1999-berkshire-hathaway-annual-meeting",
+      "transcript_file": "1999.json",
+      "status": "pending"
+    },
+    {
+      "year": 2000,
+      "cnbc_url": "https://buffett.cnbc.com/2000-berkshire-hathaway-annual-meeting",
+      "transcript_file": "2000.json",
+      "status": "pending"
+    },
+    {
+      "year": 2001,
+      "cnbc_url": "https://buffett.cnbc.com/2001-berkshire-hathaway-annual-meeting",
+      "transcript_file": "2001.json",
+      "status": "pending"
+    },
+    {
+      "year": 2002,
+      "cnbc_url": "https://buffett.cnbc.com/2002-berkshire-hathaway-annual-meeting",
+      "transcript_file": "2002.json",
+      "status": "pending"
+    },
+    {
+      "year": 2003,
+      "cnbc_url": "https://buffett.cnbc.com/2003-berkshire-hathaway-annual-meeting",
+      "transcript_file": "2003.json",
+      "status": "pending"
+    },
+    {
+      "year": 2004,
+      "cnbc_url": "https://buffett.cnbc.com/2004-berkshire-hathaway-annual-meeting",
+      "transcript_file": "2004.json",
+      "status": "pending"
+    },
+    {
+      "year": 2005,
+      "cnbc_url": "https://buffett.cnbc.com/2005-berkshire-hathaway-annual-meeting",
+      "transcript_file": "2005.json",
+      "status": "pending"
+    },
+    {
+      "year": 2006,
+      "cnbc_url": "https://buffett.cnbc.com/2006-berkshire-hathaway-annual-meeting",
+      "transcript_file": "2006.json",
+      "status": "pending"
+    },
+    {
+      "year": 2007,
+      "cnbc_url": "https://buffett.cnbc.com/2007-berkshire-hathaway-annual-meeting",
+      "transcript_file": "2007.json",
+      "status": "pending"
+    },
+    {
+      "year": 2008,
+      "cnbc_url": "https://buffett.cnbc.com/2008-berkshire-hathaway-annual-meeting",
+      "transcript_file": "2008.json",
+      "status": "pending"
+    },
+    {
+      "year": 2009,
+      "cnbc_url": "https://buffett.cnbc.com/2009-berkshire-hathaway-annual-meeting",
+      "transcript_file": "2009.json",
+      "status": "pending"
+    },
+    {
+      "year": 2010,
+      "cnbc_url": "https://buffett.cnbc.com/2010-berkshire-hathaway-annual-meeting",
+      "transcript_file": "2010.json",
+      "status": "pending"
+    },
+    {
+      "year": 2011,
+      "cnbc_url": "https://buffett.cnbc.com/2011-berkshire-hathaway-annual-meeting",
+      "transcript_file": "2011.json",
+      "status": "pending"
+    },
+    {
+      "year": 2012,
+      "cnbc_url": "https://buffett.cnbc.com/2012-berkshire-hathaway-annual-meeting",
+      "transcript_file": "2012.json",
+      "status": "pending"
+    },
+    {
+      "year": 2013,
+      "cnbc_url": "https://buffett.cnbc.com/2013-berkshire-hathaway-annual-meeting",
+      "transcript_file": "2013.json",
+      "status": "pending"
+    },
+    {
+      "year": 2014,
+      "cnbc_url": "https://buffett.cnbc.com/2014-berkshire-hathaway-annual-meeting",
+      "transcript_file": "2014.json",
+      "status": "pending"
+    },
+    {
+      "year": 2015,
+      "cnbc_url": "https://buffett.cnbc.com/2015-berkshire-hathaway-annual-meeting",
+      "transcript_file": "2015.json",
+      "status": "pending"
+    },
+    {
+      "year": 2016,
+      "cnbc_url": "https://buffett.cnbc.com/2016-berkshire-hathaway-annual-meeting",
+      "transcript_file": "2016.json",
+      "status": "pending"
+    },
+    {
+      "year": 2017,
+      "cnbc_url": "https://buffett.cnbc.com/2017-berkshire-hathaway-annual-meeting",
+      "transcript_file": "2017.json",
+      "status": "pending"
+    },
+    {
+      "year": 2018,
+      "cnbc_url": "https://buffett.cnbc.com/2018-berkshire-hathaway-annual-meeting",
+      "transcript_file": "2018.json",
+      "status": "pending"
+    },
+    {
+      "year": 2019,
+      "cnbc_url": "https://buffett.cnbc.com/2019-berkshire-hathaway-annual-meeting",
+      "transcript_file": "2019.json",
+      "status": "pending"
+    },
+    {
+      "year": 2020,
+      "cnbc_url": "https://buffett.cnbc.com/2020-berkshire-hathaway-annual-meeting",
+      "transcript_file": "2020.json",
+      "status": "pending"
+    },
+    {
+      "year": 2021,
+      "cnbc_url": "https://buffett.cnbc.com/2021-berkshire-hathaway-annual-meeting",
+      "transcript_file": "2021.json",
+      "status": "pending"
+    },
+    {
+      "year": 2022,
+      "cnbc_url": "https://buffett.cnbc.com/2022-berkshire-hathaway-annual-meeting",
+      "transcript_file": "2022.json",
+      "status": "pending"
+    },
+    {
+      "year": 2023,
+      "cnbc_url": "https://buffett.cnbc.com/2023-berkshire-hathaway-annual-meeting",
+      "transcript_file": "2023.json",
+      "status": "pending"
+    },
+    {
+      "year": 2024,
+      "cnbc_url": "https://buffett.cnbc.com/2024-berkshire-hathaway-annual-meeting",
+      "transcript_file": "2024.json",
+      "status": "pending"
+    },
+    {
+      "year": 2025,
+      "cnbc_url": "https://buffett.cnbc.com/2025-berkshire-hathaway-annual-meeting",
+      "transcript_file": "2025.json",
+      "status": "pending"
+    }
+  ]
+}

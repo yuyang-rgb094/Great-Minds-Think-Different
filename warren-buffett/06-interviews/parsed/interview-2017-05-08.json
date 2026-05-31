@@ -1,0 +1,27 @@
+{
+  "id": "interview-2017-05-08",
+  "date": "2017-05-08",
+  "title": "Buffett on Apple and IBM",
+  "description": "Discussing Apple investment and IBM sale",
+  "interviewer": "Becky Quick",
+  "duration": "2:10:19",
+  "cnbc_url": "https://buffett.cnbc.com/video/2017/05/08/buffett-on-apple-and-ibm.html",
+  "key_topics": [
+    "apple",
+    "ibm",
+    "technology_investment"
+  ],
+  "notable": true,
+  "type": "cnbc_interview",
+  "source": {
+    "cnbc_url": "https://buffett.cnbc.com/video/2017/05/08/buffett-on-apple-and-ibm.html",
+    "transcript_available": false,
+    "video_available": true
+  },
+  "transcript": [],
+  "key_quotes": [],
+  "metadata": {
+    "processed_at": "2026-06-01T01:16:53.443681",
+    "notes": "Transcript to be added"
+  }
+}

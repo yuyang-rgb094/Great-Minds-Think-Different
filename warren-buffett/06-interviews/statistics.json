@@ -1,0 +1,26 @@
+{
+  "total_interviews": 5,
+  "notable_interviews": 5,
+  "total_topics": 15,
+  "topics_found": [
+    "regulation",
+    "speculation",
+    "charlie_munger",
+    "ibm",
+    "technology_investment",
+    "covid",
+    "banking_crisis",
+    "deposits",
+    "tribute",
+    "market_volatility",
+    "investment",
+    "bitcoin",
+    "cryptocurrency",
+    "apple",
+    "partnership"
+  ],
+  "date_range": {
+    "earliest": "2017-05-08",
+    "latest": "2023-11-14"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": {
+    "name": "text-embedding-3-large",
+    "provider": "openai",
+    "dimensions": 3072,
+    "max_tokens": 8191
+  },
+  "chunking": {
+    "strategy": "semantic",
+    "chunk_size": 1000,
+    "chunk_overlap": 200,
+    "min_chunk_size": 100
+  },
+  "created_at": "2026-06-01T01:16:53.729483",
+  "statistics": {
+    "total_chunks": 964,
+    "total_characters": 813439,
+    "source_types": [
+      "thinking_framework",
+      "shareholder_letter",
+      "quote"
+    ]
+  }
+}

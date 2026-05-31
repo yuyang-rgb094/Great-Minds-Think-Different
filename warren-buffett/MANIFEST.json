@@ -1,0 +1,107 @@
+{
+  "id": "warren-buffett-corpus",
+  "name": "Warren Buffett AI Agent Corpus",
+  "version": "2.0.0",
+  "created": "2025-05-31",
+  "updated": "2025-06-01",
+  "description": {
+    "en": "A comprehensive corpus for building a Warren Buffett AI agent, containing his wisdom, quotes, investment philosophy, shareholder letters, meeting transcripts, and interviews",
+    "zh": "用于构建沃伦·巴菲特AI智能体的综合语料库，包含他的智慧、语录、投资哲学、致股东信、股东大会转录和访谈"
+  },
+  "author": "Generated from Berkshire Hathaway Annual Letters, CNBC Interviews, and Public Sources",
+  "structure": {
+    "01-core-identity": {
+      "description": "Core identity and system prompt definitions",
+      "files": ["persona-definition.json", "system-prompt.json"]
+    },
+    "02-thinking-frameworks": {
+      "description": "Investment philosophy and mental models",
+      "files": ["value-investing-principles.json", "business-evaluation.json", "portfolio-strategy.json", "market-psychology.json"]
+    },
+    "03-behavioral-guidelines": {
+      "description": "Communication style and decision-making process",
+      "files": ["communication-style.json", "decision-making-process.json"]
+    },
+    "04-shareholder-letters": {
+      "description": "Annual shareholder letters (1977-2025)",
+      "files": ["index.json", "statistics.json", "parsing_stats.json"],
+      "raw_files": {
+        "html": "27 files (1977-2003)",
+        "pdf": "22 files (2004-2025)"
+      },
+      "parsed_files": "27 JSON files"
+    },
+    "05-annual-meetings": {
+      "description": "Annual meeting transcripts (1994-2025)",
+      "files": ["index.json", "statistics.json"],
+      "meeting_templates": "32 meetings"
+    },
+    "06-interviews": {
+      "description": "CNBC Interview transcripts",
+      "files": ["index.json", "statistics.json"],
+      "interviews": "5 notable interviews"
+    },
+    "07-quotes": {
+      "description": "Famous quotes categorized by topic",
+      "files": ["quotes-investing.json", "quotes-business.json", "quotes-life.json"]
+    },
+    "08-few-shot-examples": {
+      "description": "Example interactions for training",
+      "files": ["few-shot-examples.json"]
+    },
+    "09-knowledge-base": {
+      "description": "Biographical and historical information",
+      "files": ["biography-timeline.json", "berkshire-history.json", "key-investments.json"]
+    },
+    "10-quality-control": {
+      "description": "Validation and anti-hallucination guidelines",
+      "files": ["validation-checklist.json", "anti-hallucination-guide.json"]
+    },
+    "11-embeddings": {
+      "description": "Vector embeddings for semantic search",
+      "files": ["embedding_config.json", "chunk_statistics.json", "search_examples.json", "chunks_data.json"],
+      "total_chunks": 964,
+      "model": "text-embedding-3-large"
+    }
+  },
+  "statistics": {
+    "total_quotes": 53,
+    "thinking_frameworks": 4,
+    "few_shot_examples": 5,
+    "knowledge_entries": 3,
+    "shareholder_letters": {
+      "total": 49,
+      "downloaded": 49,
+      "parsed": 27,
+      "total_words": 86828
+    },
+    "annual_meetings": 32,
+    "interviews": 5,
+    "embeddings": {
+      "documents": 84,
+      "chunks": 964,
+      "total_characters": 813439
+    }
+  },
+  "sources": [
+    "Berkshire Hathaway Annual Letters (1977-2025)",
+    "CNBC Warren Buffett Archive",
+    "Annual Meeting Transcripts (1994-2025)",
+    "CNBC Interviews",
+    "The Snowball by Alice Schroeder",
+    "The Intelligent Investor by Benjamin Graham"
+  ],
+  "usage": {
+    "purpose": "Training AI agents to embody Warren Buffett's wisdom and communication style",
+    "language_support": "Bilingual (English/Chinese)",
+    "format": "JSON for structured data, Markdown for human-readable content"
+  },
+  "scripts": [
+    "download_letters.py",
+    "parse_letters.py",
+    "process_meetings.py",
+    "process_interviews.py",
+    "generate_embeddings.py"
+  ],
+  "license": "Educational and research use. All quotes and content attributed to original sources."
+}

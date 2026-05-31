@@ -1,0 +1,57 @@
+{
+  "description": "Warren Buffett CNBC Interviews Index",
+  "total_interviews": 5,
+  "notable_interviews": 5,
+  "interviews": [
+    {
+      "id": "interview-2023-11-14",
+      "date": "2023-11-14",
+      "title": "Charlie Munger Final Interview",
+      "key_topics": [
+        "charlie_munger",
+        "tribute",
+        "partnership"
+      ]
+    },
+    {
+      "id": "interview-2023-04-12",
+      "date": "2023-04-12",
+      "title": "Buffett: More banks may fail but U.S. depositors will be OK",
+      "key_topics": [
+        "banking_crisis",
+        "deposits",
+        "regulation"
+      ]
+    },
+    {
+      "id": "interview-2020-02-24",
+      "date": "2020-02-24",
+      "title": "Buffett on Market Volatility and Investment Strategy",
+      "key_topics": [
+        "covid",
+        "market_volatility",
+        "investment"
+      ]
+    },
+    {
+      "id": "interview-2018-05-07",
+      "date": "2018-05-07",
+      "title": "Buffett on Bitcoin and Cryptocurrency",
+      "key_topics": [
+        "bitcoin",
+        "cryptocurrency",
+        "speculation"
+      ]
+    },
+    {
+      "id": "interview-2017-05-08",
+      "date": "2017-05-08",
+      "title": "Buffett on Apple and IBM",
+      "key_topics": [
+        "apple",
+        "ibm",
+        "technology_investment"
+      ]
+    }
+  ]
+}

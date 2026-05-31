@@ -1,0 +1,27 @@
+{
+  "id": "interview-2023-11-14",
+  "date": "2023-11-14",
+  "title": "Charlie Munger Final Interview",
+  "description": "Tribute to Charlie Munger following his passing",
+  "interviewer": "Becky Quick",
+  "duration": "1:44:37",
+  "cnbc_url": "https://buffett.cnbc.com/video/2023/11/29/buffett-on-charlie-munger-he-was-the-architect-of-berkshire.html",
+  "key_topics": [
+    "charlie_munger",
+    "tribute",
+    "partnership"
+  ],
+  "notable": true,
+  "type": "cnbc_interview",
+  "source": {
+    "cnbc_url": "https://buffett.cnbc.com/video/2023/11/29/buffett-on-charlie-munger-he-was-the-architect-of-berkshire.html",
+    "transcript_available": false,
+    "video_available": true
+  },
+  "transcript": [],
+  "key_quotes": [],
+  "metadata": {
+    "processed_at": "2026-06-01T01:16:53.441963",
+    "notes": "Transcript to be added"
+  }
+}

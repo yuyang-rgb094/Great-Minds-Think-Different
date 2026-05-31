@@ -1,0 +1,271 @@
+{
+  "id": "biography-timeline",
+  "title": {
+    "en": "Warren Buffett Biography Timeline",
+    "zh": "沃伦·巴菲特生平时间线"
+  },
+  "description": {
+    "en": "Key events in Warren Buffett's life and career",
+    "zh": "沃伦·巴菲特生活和职业中的关键事件"
+  },
+  "timeline": [
+    {
+      "year": 1930,
+      "date": "1930-08-30",
+      "event": {
+        "en": "Born in Omaha, Nebraska",
+        "zh": "出生于内布拉斯加州奥马哈"
+      },
+      "category": "personal",
+      "significance": "high"
+    },
+    {
+      "year": 1942,
+      "event": {
+        "en": "Bought first stock at age 11 (Cities Service Preferred)",
+        "zh": "11岁时买入第一只股票（城市服务优先股）"
+      },
+      "category": "investing",
+      "significance": "high"
+    },
+    {
+      "year": 1947,
+      "event": {
+        "en": "Entered University of Pennsylvania (Wharton)",
+        "zh": "进入宾夕法尼亚大学（沃顿商学院）"
+      },
+      "category": "education",
+      "significance": "medium"
+    },
+    {
+      "year": 1950,
+      "event": {
+        "en": "Transferred to University of Nebraska, graduated in 3 years",
+        "zh": "转入内布拉斯加大学，三年毕业"
+      },
+      "category": "education",
+      "significance": "medium"
+    },
+    {
+      "year": 1951,
+      "event": {
+        "en": "Earned Master's degree from Columbia Business School, studied under Benjamin Graham",
+        "zh": "从哥伦比亚商学院获得硕士学位，师从本杰明·格雷厄姆"
+      },
+      "category": "education",
+      "significance": "high"
+    },
+    {
+      "year": 1954,
+      "event": {
+        "en": "Joined Graham-Newman Corp as securities analyst",
+        "zh": "加入格雷厄姆-纽曼公司担任证券分析师"
+      },
+      "category": "career",
+      "significance": "high"
+    },
+    {
+      "year": 1956,
+      "event": {
+        "en": "Founded Buffett Partnership Ltd. with $105,000 from family and friends",
+        "zh": "创立巴菲特合伙有限公司，从家人和朋友处筹集105,000美元"
+      },
+      "category": "career",
+      "significance": "high"
+    },
+    {
+      "year": 1959,
+      "event": {
+        "en": "Met Charlie Munger, beginning lifelong partnership",
+        "zh": "结识查理·芒格，开始终身合作"
+      },
+      "category": "relationship",
+      "significance": "high"
+    },
+    {
+      "year": 1962,
+      "event": {
+        "en": "Began buying shares of Berkshire Hathaway, a struggling textile company",
+        "zh": "开始买入伯克希尔·哈撒韦股份，一家陷入困境的纺织公司"
+      },
+      "category": "investing",
+      "significance": "high"
+    },
+    {
+      "year": 1965,
+      "event": {
+        "en": "Took control of Berkshire Hathaway, became CEO",
+        "zh": "接管伯克希尔·哈撒韦，成为首席执行官"
+      },
+      "category": "career",
+      "significance": "high"
+    },
+    {
+      "year": 1967,
+      "event": {
+        "en": "Acquired National Indemnity, entering insurance business",
+        "zh": "收购国民赔偿公司，进入保险业务"
+      },
+      "category": "business",
+      "significance": "high"
+    },
+    {
+      "year": 1969,
+      "event": {
+        "en": "Dissolved Buffett Partnership, citing lack of value opportunities",
+        "zh": "解散巴菲特合伙公司，理由是缺乏价值投资机会"
+      },
+      "category": "career",
+      "significance": "high"
+    },
+    {
+      "year": 1972,
+      "event": {
+        "en": "Acquired See's Candies for $25 million",
+        "zh": "以2500万美元收购喜诗糖果"
+      },
+      "category": "investing",
+      "significance": "high",
+      "note": "Pivotal shift from cigar butts to quality businesses"
+    },
+    {
+      "year": 1977,
+      "event": {
+        "en": "First Berkshire Hathaway annual shareholder letter published",
+        "zh": "发布第一封伯克希尔·哈撒韦年度致股东信"
+      },
+      "category": "communication",
+      "significance": "high"
+    },
+    {
+      "year": 1988,
+      "event": {
+        "en": "Began investing in Coca-Cola, eventually becoming largest shareholder",
+        "zh": "开始投资可口可乐，最终成为最大股东"
+      },
+      "category": "investing",
+      "significance": "high"
+    },
+    {
+      "year": 1990,
+      "event": {
+        "en": "Berkshire Hathaway stock price reaches $7,455 per share",
+        "zh": "伯克希尔·哈撒韦股价达到每股7,455美元"
+      },
+      "category": "milestone",
+      "significance": "medium"
+    },
+    {
+      "year": 1996,
+      "event": {
+        "en": "Issued Berkshire B shares to allow smaller investors to participate",
+        "zh": "发行伯克希尔B股，允许小投资者参与"
+      },
+      "category": "business",
+      "significance": "medium"
+    },
+    {
+      "year": 2006,
+      "event": {
+        "en": "Announced pledge to give away 99% of fortune to philanthropy",
+        "zh": "宣布承诺将99%的财富捐献给慈善事业"
+      },
+      "category": "philanthropy",
+      "significance": "high"
+    },
+    {
+      "year": 2008,
+      "event": {
+        "en": "Invested $5 billion in Goldman Sachs during financial crisis",
+        "zh": "金融危机期间投资50亿美元于高盛"
+      },
+      "category": "investing",
+      "significance": "high"
+    },
+    {
+      "year": 2010,
+      "event": {
+        "en": "Launched The Giving Pledge with Bill Gates",
+        "zh": "与比尔·盖茨共同发起捐赠誓言"
+      },
+      "category": "philanthropy",
+      "significance": "high"
+    },
+    {
+      "year": 2016,
+      "event": {
+        "en": "Began major investment in Apple, eventually becoming largest shareholder",
+        "zh": "开始大举投资苹果，最终成为最大股东"
+      },
+      "category": "investing",
+      "significance": "high"
+    },
+    {
+      "year": 2023,
+      "event": {
+        "en": "Berkshire Hathaway market cap exceeds $800 billion",
+        "zh": "伯克希尔·哈撒韦市值超过8000亿美元"
+      },
+      "category": "milestone",
+      "significance": "medium"
+    }
+  ],
+  "life_phases": [
+    {
+      "phase": "early_years",
+      "period": "1930-1950",
+      "description": {
+        "en": "Formative years, early interest in business and investing",
+        "zh": "成长期，早期对商业和投资的兴趣"
+      }
+    },
+    {
+      "phase": "graham_apprenticeship",
+      "period": "1951-1956",
+      "description": {
+        "en": "Learning value investing from Benjamin Graham",
+        "zh": "从本杰明·格雷厄姆学习价值投资"
+      }
+    },
+    {
+      "phase": "partnership_years",
+      "period": "1956-1969",
+      "description": {
+        "en": "Running Buffett Partnership, exceptional returns",
+        "zh": "运营巴菲特合伙公司，卓越回报"
+      }
+    },
+    {
+      "phase": "berkshire_transformation",
+      "period": "1965-1985",
+      "description": {
+        "en": "Transforming Berkshire from textile to conglomerate",
+        "zh": "将伯克希尔从纺织厂转型为综合企业"
+      }
+    },
+    {
+      "phase": "quality_investing",
+      "period": "1985-2010",
+      "description": {
+        "en": "Mature style: buying wonderful businesses at fair prices",
+        "zh": "成熟风格：以合理价格购买优秀企业"
+      }
+    },
+    {
+      "phase": "philanthropy",
+      "period": "2006-present",
+      "description": {
+        "en": "Focus on giving away fortune through Giving Pledge",
+        "zh": "通过捐赠誓言专注于捐赠财富"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.0.0",
+    "created": "2025-05-31",
+    "sources": [
+      "The Snowball by Alice Schroeder",
+      "Berkshire Hathaway Annual Letters"
+    ]
+  }
+}

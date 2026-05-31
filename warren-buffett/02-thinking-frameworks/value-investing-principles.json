@@ -1,0 +1,157 @@
+{
+  "id": "value-investing-principles",
+  "title": {
+    "en": "Value Investing Principles",
+    "zh": "价值投资原则"
+  },
+  "description": {
+    "en": "The foundational principles of Warren Buffett's investment philosophy",
+    "zh": "沃伦·巴菲特投资哲学的基础原则"
+  },
+  "core_principles": [
+    {
+      "id": "margin_of_safety",
+      "name": {
+        "en": "Margin of Safety",
+        "zh": "安全边际"
+      },
+      "definition": {
+        "en": "Buy at a significant discount to intrinsic value to protect against errors and unforeseen events",
+        "zh": "以显著低于内在价值的价格买入，以防止错误和不可预见事件的影响"
+      },
+      "buffett_quote": {
+        "en": "The three most important words in investing are margin of safety.",
+        "zh": "投资中最重要的三个词是安全边际。",
+        "source": "Berkshire Hathaway Annual Meeting"
+      },
+      "key_points": [
+        "Never pay full price for an asset",
+        "Leave room for mistakes in analysis",
+        "Protect against the unexpected",
+        "The larger the margin, the safer the investment"
+      ]
+    },
+    {
+      "id": "circle_of_competence",
+      "name": {
+        "en": "Circle of Competence",
+        "zh": "能力圈"
+      },
+      "definition": {
+        "en": "Invest only in businesses you truly understand; know the boundaries of your knowledge",
+        "zh": "只投资你真正理解的企业；清楚自己知识的边界"
+      },
+      "buffett_quote": {
+        "en": "Risk comes from not knowing what you're doing.",
+        "zh": "风险来自于不知道自己在做什么。",
+        "source": "Berkshire Hathaway Annual Meeting, 1999"
+      },
+      "key_points": [
+        "Define what you know and what you don't know",
+        "Stay within your circle of competence",
+        "It's not how big the circle is, it's how well you know the boundary",
+        "Better to be approximately right than precisely wrong"
+      ]
+    },
+    {
+      "id": "mr_market",
+      "name": {
+        "en": "Mr. Market",
+        "zh": "市场先生"
+      },
+      "definition": {
+        "en": "View the market as an emotional partner who offers prices daily - sometimes rational, sometimes not",
+        "zh": "将市场视为一个情绪化的伙伴，每天提供报价——有时理性，有时不理性"
+      },
+      "buffett_quote": {
+        "en": "Be fearful when others are greedy and greedy when others are fearful.",
+        "zh": "别人贪婪时我恐惧，别人恐惧时我贪婪。",
+        "source": "Berkshire Hathaway Annual Letter, 1986"
+      },
+      "key_points": [
+        "The market is there to serve you, not to guide you",
+        "Market prices are often disconnected from value",
+        "Take advantage of market mood swings",
+        "Don't let the market's emotions become your emotions"
+      ]
+    },
+    {
+      "id": "intrinsic_value",
+      "name": {
+        "en": "Intrinsic Value",
+        "zh": "内在价值"
+      },
+      "definition": {
+        "en": "The true value of a business based on its future cash flows, not its market price",
+        "zh": "基于未来现金流的企业真实价值，而非市场价格"
+      },
+      "buffett_quote": {
+        "en": "Intrinsic value is an estimate rather than a precise figure... it is the discounted value of the cash that can be taken out of a business during its remaining life.",
+        "zh": "内在价值是一个估计值而非精确数字……它是企业剩余寿命期间可以提取的现金的折现值。",
+        "source": "Berkshire Hathaway Annual Letter, 1992"
+      },
+      "key_points": [
+        "Focus on cash generation, not accounting earnings",
+        "Value is independent of market price",
+        "Requires estimating future cash flows",
+        "Different analysts may reach different estimates"
+      ]
+    }
+  ],
+  "supporting_concepts": [
+    {
+      "id": "owner_earnings",
+      "name": {
+        "en": "Owner Earnings",
+        "zh": "所有者收益"
+      },
+      "definition": {
+        "en": "Net income plus depreciation/amortization minus maintenance capex",
+        "zh": "净利润加上折旧/摊销减去维护性资本支出"
+      },
+      "formula": "Owner Earnings = Net Income + D&A - Maintenance CapEx",
+      "buffett_quote": {
+        "en": "Owner earnings... represent the cash flow that a business could distribute to owners if it decided to forego all growth.",
+        "zh": "所有者收益……代表企业如果决定放弃所有增长，可以分配给所有者的现金流。",
+        "source": "Berkshire Hathaway Annual Letter, 1986"
+      }
+    },
+    {
+      "id": "economic_moat",
+      "name": {
+        "en": "Economic Moat",
+        "zh": "经济护城河"
+      },
+      "definition": {
+        "en": "Sustainable competitive advantage that protects a business from competition",
+        "zh": "保护企业免受竞争的可持续竞争优势"
+      },
+      "types": [
+        "Brand power",
+        "Network effects",
+        "Cost advantages",
+        "Switching costs",
+        "Regulatory barriers"
+      ],
+      "buffett_quote": {
+        "en": "A truly great business must have an enduring 'moat' that protects the high return on invested capital.",
+        "zh": "一个真正伟大的企业必须拥有持久的'护城河'来保护高投资回报率。",
+        "source": "Berkshire Hathaway Annual Letter, 2007"
+      }
+    }
+  ],
+  "evolution": {
+    "early_years": "Learned from Ben Graham: focus on quantitative metrics, net-nets, cigar butts",
+    "middle_period": "Influenced by Charlie Munger: shift to quality businesses at fair prices",
+    "mature_approach": "Buy wonderful companies at fair prices and hold forever"
+  },
+  "metadata": {
+    "version": "1.0.0",
+    "created": "2025-05-31",
+    "sources": [
+      "Berkshire Hathaway Annual Letters",
+      "The Intelligent Investor by Benjamin Graham",
+      "Security Analysis by Graham and Dodd"
+    ]
+  }
+}

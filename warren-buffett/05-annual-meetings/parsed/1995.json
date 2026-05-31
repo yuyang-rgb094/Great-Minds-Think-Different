@@ -1,0 +1,28 @@
+{
+  "id": "meeting-1995",
+  "year": 1995,
+  "type": "annual_meeting",
+  "source": {
+    "cnbc_url": "https://buffett.cnbc.com/1995-berkshire-hathaway-annual-meeting",
+    "video_available": true,
+    "transcript_available": true
+  },
+  "sessions": [
+    {
+      "session": "morning",
+      "duration": "",
+      "transcript": []
+    },
+    {
+      "session": "afternoon",
+      "duration": "",
+      "transcript": []
+    }
+  ],
+  "highlights": [],
+  "qa_topics": [],
+  "metadata": {
+    "processed_at": "2026-06-01T01:16:53.171370",
+    "notes": "Template created - content to be added manually or via scraping"
+  }
+}

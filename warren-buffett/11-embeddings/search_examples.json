@@ -1,0 +1,34 @@
+[
+  {
+    "query": "What is margin of safety?",
+    "expected_topics": [
+      "value_investing",
+      "margin_of_safety"
+    ],
+    "description": "Search for margin of safety concept"
+  },
+  {
+    "query": "How does Buffett think about market timing?",
+    "expected_topics": [
+      "market_psychology",
+      "mr_market"
+    ],
+    "description": "Search for market timing views"
+  },
+  {
+    "query": "What makes a good business?",
+    "expected_topics": [
+      "business_evaluation",
+      "economic_moat"
+    ],
+    "description": "Search for business quality criteria"
+  },
+  {
+    "query": "Buffett's advice on diversification",
+    "expected_topics": [
+      "portfolio_strategy",
+      "concentration"
+    ],
+    "description": "Search for diversification views"
+  }
+]

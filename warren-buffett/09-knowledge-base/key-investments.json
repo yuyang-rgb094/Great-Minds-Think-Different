@@ -1,0 +1,189 @@
+{
+  "id": "key-investments",
+  "title": {
+    "en": "Key Investments",
+    "zh": "关键投资"
+  },
+  "description": {
+    "en": "Warren Buffett's most significant investments and their lessons",
+    "zh": "沃伦·巴菲特最重要的投资及其教训"
+  },
+  "major_investments": [
+    {
+      "company": "Coca-Cola",
+      "investment_year": 1988,
+      "investment_thesis": {
+        "en": "Global brand with pricing power, simple business, huge moat",
+        "zh": "全球品牌，拥有定价权，简单业务，巨大护城河"
+      },
+      "outcome": "One of Buffett's best investments, still held",
+      "position_size": "~$1.3 billion initial, worth ~$25 billion today",
+      "lessons": [
+        "Brand power is a durable moat",
+        "Global reach compounds value",
+        "Simple businesses are easier to understand"
+      ]
+    },
+    {
+      "company": "Apple",
+      "investment_year": 2016,
+      "investment_thesis": {
+        "en": "Consumer electronics powerhouse with loyal customer base and ecosystem",
+        "zh": "消费电子巨头，拥有忠实客户群和生态系统"
+      },
+      "outcome": "Berkshire's largest stock position",
+      "position_size": "~$150+ billion (as of 2024)",
+      "lessons": [
+        "Consumer loyalty creates moat",
+        "Ecosystem lock-in is powerful",
+        "Even tech can be understandable"
+      ]
+    },
+    {
+      "company": "GEICO",
+      "investment_year": 1951 (first), 1976 (major), 1996 (full ownership),
+      "investment_thesis": {
+        "en": "Low-cost insurance producer with direct-to-consumer model",
+        "zh": "低成本保险生产商，直接面向消费者模式"
+      },
+      "outcome": "Berkshire's largest insurance operation",
+      "lessons": [
+        "Cost advantage is a durable moat",
+        "Insurance float provides investment capital",
+        "Simple business model wins"
+      ]
+    },
+    {
+      "company": "American Express",
+      "investment_year": 1964,
+      "investment_thesis": {
+        "en": "Premium brand with network effects in payments",
+        "zh": "高端品牌，在支付领域拥有网络效应"
+      },
+      "outcome": "Still held, one of longest-held positions",
+      "lessons": [
+        "Network effects create moats",
+        "Premium positioning matters",
+        "Patience through temporary problems"
+      ]
+    },
+    {
+      "company": "See's Candies",
+      "investment_year": 1972,
+      "investment_thesis": {
+        "en": "Regional premium candy brand with pricing power",
+        "zh": "地区高端糖果品牌，拥有定价权"
+      },
+      "outcome": "Model for 'wonderful business' concept",
+      "position_size": "$25 million acquisition",
+      "lessons": [
+        "Pricing power is key indicator of moat",
+        "Small acquisitions can teach big lessons",
+        "Quality over price"
+      ],
+      "buffett_quote": {
+        "en": "If we had not made the See's acquisition, we would not have bought Coca-Cola in 1988.",
+        "zh": "如果我们没有收购喜诗糖果，我们不会在1988年购买可口可乐。",
+        "source": "Berkshire Hathaway Annual Meeting"
+      }
+    },
+    {
+      "company": "Washington Post",
+      "investment_year": 1973,
+      "investment_thesis": {
+        "en": "Dominant newspaper in a one-newspaper town",
+        "zh": "在只有一个报纸的城市中占主导地位的报纸"
+      },
+      "outcome": "Excellent long-term return",
+      "lessons": [
+        "Monopoly characteristics create value",
+        "Buy when others are fearful",
+        "Management quality matters"
+      ]
+    },
+    {
+      "company": "Wells Fargo",
+      "investment_year": 1990,
+      "investment_thesis": {
+        "en": "Well-managed bank at depressed price during real estate crisis",
+        "zh": "在房地产危机期间价格低迷但管理良好的银行"
+      },
+      "outcome": "Major position for decades",
+      "lessons": [
+        "Buy quality when temporarily troubled",
+        "Management matters in financials",
+        "Contrarian opportunities in crises"
+      ]
+    }
+  ],
+  "major_mistakes": [
+    {
+      "company": "Dexter Shoe",
+      "year": 1993,
+      "mistake": {
+        "en": "Overpaid for a shoe company that lost competitive advantage",
+        "zh": "为一家失去竞争优势的鞋业公司支付过高价格"
+      },
+      "cost": "~$3.5 billion (in opportunity cost)",
+      "lesson": {
+        "en": "Never issue shares to make an acquisition - the math doesn't work",
+        "zh": "永远不要发行股票进行收购——数学上不划算"
+      },
+      "buffett_quote": {
+        "en": "Dexter was the worst purchase I've ever made.",
+        "zh": "德克斯特是我做过的最糟糕的购买。",
+        "source": "Berkshire Hathaway Annual Letter"
+      }
+    },
+    {
+      "company": "ConocoPhillips",
+      "year": 2008,
+      "mistake": {
+        "en": "Bought oil company near peak of oil prices",
+        "zh": "在油价接近峰值时买入石油公司"
+      },
+      "lesson": {
+        "en": "Don't buy commodity businesses at peak prices",
+        "zh": "不要在价格峰值时买入大宗商品企业"
+      }
+    },
+    {
+      "company": "USAir",
+      "year": 1989,
+      "mistake": {
+        "en": "Invested in airline industry, which has terrible economics",
+        "zh": "投资航空业，其经济学非常糟糕"
+      },
+      "lesson": {
+        "en": "Avoid commodity businesses with high capex and no pricing power",
+        "zh": "避免高资本支出且无定价权的大宗商品企业"
+      }
+    }
+  ],
+  "investment_evolution": {
+    "early_phase": {
+      "period": "1950s-1960s",
+      "style": "Cigar butt investing - buying cheap stocks regardless of quality",
+      "example": "Sanborn Map, Dempster Mill"
+    },
+    "transition": {
+      "period": "1970s",
+      "catalyst": "Charlie Munger's influence, See's Candies acquisition",
+      "shift": "From cheap to quality"
+    },
+    "mature_phase": {
+      "period": "1980s-present",
+      "style": "Buying wonderful businesses at fair prices",
+      "example": "Coca-Cola, Apple"
+    }
+  },
+  "metadata": {
+    "version": "1.0.0",
+    "created": "2025-05-31",
+    "sources": [
+      "Berkshire Hathaway Annual Letters",
+      "SEC 13F Filings",
+      "The Snowball"
+    ]
+  }
+}

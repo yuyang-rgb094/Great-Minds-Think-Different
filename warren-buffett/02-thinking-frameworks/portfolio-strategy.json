@@ -1,0 +1,145 @@
+{
+  "id": "portfolio-strategy",
+  "title": {
+    "en": "Portfolio Strategy",
+    "zh": "投资组合策略"
+  },
+  "description": {
+    "en": "Warren Buffett's approach to portfolio construction and management",
+    "zh": "沃伦·巴菲特的投资组合构建和管理方法"
+  },
+  "core_philosophy": {
+    "concentration": {
+      "principle": {
+        "en": "Concentrate investments in your best ideas",
+        "zh": "将投资集中在最好的想法上"
+      },
+      "buffett_quote": {
+        "en": "Diversification is protection against ignorance. It makes little sense if you know what you are doing.",
+        "zh": "分散投资是对无知的保护。如果你知道自己在做什么，分散投资就没有意义。",
+        "source": "Berkshire Hathaway Annual Meeting"
+      },
+      "rationale": [
+        "Wide diversification is for those who don't understand what they own",
+        "If you know your businesses, concentration reduces risk",
+        "Better to own a few wonderful businesses than many mediocre ones"
+      ]
+    },
+    "long_term_holding": {
+      "principle": {
+        "en": "Hold wonderful businesses indefinitely",
+        "zh": "无限期持有优秀企业"
+      },
+      "buffett_quote": {
+        "en": "Our favorite holding period is forever.",
+        "zh": "我们最喜欢的持有期是永远。",
+        "source": "Berkshire Hathaway Annual Letter, 1988"
+      },
+      "rationale": [
+        "Transaction costs and taxes erode returns",
+        "Great businesses compound over decades",
+        "Selling a wonderful business to buy another is rarely wise"
+      ]
+    },
+    "inactivity": {
+      "principle": {
+        "en": "Do nothing when there's nothing to do",
+        "zh": "无事可做时什么都不做"
+      },
+      "buffett_quote": {
+        "en": "Lethargy, bordering on sloth, remains the cornerstone of our investment style.",
+        "zh": "近乎懒惰的迟钝仍然是我们投资风格的基石。",
+        "source": "Berkshire Hathaway Annual Letter, 1990"
+      }
+    }
+  },
+  "position_sizing": {
+    "approach": "concentrated",
+    "buffett_approach": {
+      "en": "Put significant capital into your highest conviction ideas",
+      "zh": "将大量资本投入你最有信心的想法"
+    },
+    "examples": [
+      {
+        "position": "Apple",
+        "percentage": "~40% of portfolio",
+        "rationale": "Wonderful business, understandable, large position justified"
+      },
+      {
+        "position": "Coca-Cola",
+        "percentage": "~10% of portfolio",
+        "rationale": "Enduring brand, global reach, long-term hold"
+      }
+    ]
+  },
+  "cash_management": {
+    "philosophy": {
+      "en": "Hold cash when no attractive opportunities exist",
+      "zh": "当没有有吸引力的机会时持有现金"
+    },
+    "buffett_quote": {
+      "en": "Cash is to a business what oxygen is to an individual. When you need it, you need it.",
+      "zh": "现金对企业就像氧气对个人。当你需要它时，你需要它。",
+      "source": "Berkshire Hathaway Annual Letter"
+    },
+    "principles": [
+      "Never feel pressure to invest just because you have cash",
+      "Wait for the fat pitch",
+      "Cash provides optionality during market dislocations"
+    ]
+  },
+  "punch_card_mentality": {
+    "concept": {
+      "en": "Imagine you can only make 20 investments in your lifetime",
+      "zh": "想象你一生只能做20次投资"
+    },
+    "buffett_quote": {
+      "en": "I could improve your ultimate financial welfare by giving you a ticket with only twenty slots in it so that you had twenty punches - representing all the investments you could make in a lifetime. And you would really think hard about what you did.",
+      "zh": "我可以提高你的最终财务福利，方法是给你一张只有20个格子的票，这样你有20个打孔——代表你一生可以做的所有投资。你会非常认真地思考你要做什么。",
+      "source": "Business School Lecture"
+    },
+    "implication": "Make every investment decision count"
+  },
+  "what_to_avoid": [
+    {
+      "avoid": "market_timing",
+      "reason": {
+        "en": "Impossible to predict short-term market movements",
+        "zh": "无法预测短期市场走势"
+      }
+    },
+    {
+      "avoid": "frequent_trading",
+      "reason": {
+        "en": "Transaction costs and taxes destroy returns",
+        "zh": "交易成本和税收摧毁回报"
+      }
+    },
+    {
+      "avoid": "margin",
+      "reason": {
+        "en": "Leverage can wipe you out even if you're right eventually",
+        "zh": "杠杆可能在你最终正确之前让你破产"
+      },
+      "buffett_quote": {
+        "en": "I've seen more people fail because of liquor and leverage – leverage being borrowed money... You really don't need leverage in this world much.",
+        "zh": "我看到更多人因为酒精和杠杆而失败——杠杆就是借钱……在这个世界上你真的不太需要杠杆。",
+        "source": "Berkshire Hathaway Annual Meeting"
+      }
+    }
+  ],
+  "portfolio_evolution": {
+    "early_partnership": "Concentrated in undervalued stocks, often 35-40% in single position",
+    "berkshire_era": "Shifted to owning entire businesses plus concentrated stock portfolio",
+    "current_approach": "Massive concentration in Apple, plus insurance float and wholly-owned businesses"
+  },
+  "metadata": {
+    "version": "1.0.0",
+    "created": "2025-05-31",
+    "sources": [
+      "Berkshire Hathaway Annual Letters",
+      "Annual Meeting Transcripts",
+      "Buffett Partnership Letters"
+    ]
+  }
+}

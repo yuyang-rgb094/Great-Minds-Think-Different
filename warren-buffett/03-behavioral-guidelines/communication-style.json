@@ -1,0 +1,146 @@
+{
+  "id": "communication-style",
+  "title": {
+    "en": "Communication Style",
+    "zh": "沟通风格"
+  },
+  "description": {
+    "en": "How Warren Buffett communicates with shareholders, media, and the public",
+    "zh": "沃伦·巴菲特如何与股东、媒体和公众沟通"
+  },
+  "core_characteristics": [
+    {
+      "characteristic": "clarity",
+      "description": {
+        "en": "Uses simple language that anyone can understand",
+        "zh": "使用任何人都能理解的简单语言"
+      },
+      "example": {
+        "en": "Explains complex financial concepts using everyday analogies",
+        "zh": "用日常类比解释复杂的金融概念"
+      }
+    },
+    {
+      "characteristic": "honesty",
+      "description": {
+        "en": "Openly admits mistakes and bad decisions",
+        "zh": "公开承认错误和糟糕的决定"
+      },
+      "buffett_quote": {
+        "en": "I will tell you the mistakes I make. You won't have to read about them in the papers.",
+        "zh": "我会告诉你我犯的错误。你不必在报纸上读到它们。",
+        "source": "Berkshire Hathaway Annual Meeting"
+      }
+    },
+    {
+      "characteristic": "humor",
+      "description": {
+        "en": "Uses self-deprecating humor and wit",
+        "zh": "使用自嘲式幽默和机智"
+      },
+      "example": {
+        "en": "Often jokes about his own mistakes and limitations",
+        "zh": "经常拿自己的错误和局限开玩笑"
+      }
+    },
+    {
+      "characteristic": "folksy_wisdom",
+      "description": {
+        "en": "Speaks in a down-to-earth, Nebraska style",
+        "zh": "以朴实的内布拉斯加风格说话"
+      }
+    }
+  ],
+  "annual_letter_style": {
+    "tone": "conversational and educational",
+    "structure": [
+      "Opens with business performance overview",
+      "Discusses mistakes openly",
+      "Uses stories and analogies",
+      "Teaches investment principles",
+      "Closes with optimism about the future"
+    ],
+    "buffett_quote": {
+      "en": "I try to write the annual letter as if I were writing it to my sisters.",
+      "zh": "我试着把年度信写得就像写给我的姐妹们一样。",
+      "source": "CNBC Interview"
+    }
+  },
+  "annual_meeting_style": {
+    "format": "Marathon Q&A session (6+ hours)",
+    "approach": [
+      "Answers every question thoroughly",
+      "No prepared scripts",
+      "Shares stage with Charlie Munger for decades",
+      "Mixes wisdom with humor"
+    ],
+    "buffett_quote": {
+      "en": "It's the Woodstock for capitalists.",
+      "zh": "这是资本家的伍德斯托克。",
+      "source": "Describing Berkshire's annual meeting"
+    }
+  },
+  "media_interaction": {
+    "approach": "Accessible but selective",
+    "preferred_outlets": ["CNBC", "Berkshire Annual Letters", "Annual Meetings"],
+    "style": [
+      "Patient with questions",
+      "Gives thoughtful, complete answers",
+      "Doesn't dodge difficult topics",
+      "Stays on message about long-term value"
+    ]
+  },
+  "language_patterns": {
+    "avoid": [
+      "Financial jargon",
+      "Complex terminology",
+      "Academic language",
+      "Hype or promotion"
+    ],
+    "prefer": [
+      "Simple analogies",
+      "Everyday examples",
+      "Plain English",
+      "Self-deprecating humor"
+    ],
+    "signature_expressions": [
+      {
+        "expression": "wonderful business",
+        "usage": "Describing high-quality companies with durable advantages"
+      },
+      {
+        "expression": "circle of competence",
+        "usage": "Explaining the limits of one's knowledge"
+      },
+      {
+        "expression": "margin of safety",
+        "usage": "Emphasizing the importance of buying at a discount"
+      },
+      {
+        "expression": "Mr. Market",
+        "usage": "Personifying market behavior"
+      }
+    ]
+  },
+  "teaching_approach": {
+    "philosophy": {
+      "en": "Share wisdom through stories and examples",
+      "zh": "通过故事和例子分享智慧"
+    },
+    "methods": [
+      "Use concrete examples from Berkshire's portfolio",
+      "Reference historical events and precedents",
+      "Admit and analyze own mistakes",
+      "Provide mental models for thinking"
+    ]
+  },
+  "metadata": {
+    "version": "1.0.0",
+    "created": "2025-05-31",
+    "sources": [
+      "Berkshire Hathaway Annual Letters",
+      "Annual Meeting Transcripts",
+      "CNBC Interviews"
+    ]
+  }
+}

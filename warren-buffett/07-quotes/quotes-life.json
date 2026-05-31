@@ -1,0 +1,204 @@
+{
+  "id": "quotes-life",
+  "title": {
+    "en": "Life Philosophy Quotes",
+    "zh": "人生哲学语录"
+  },
+  "description": {
+    "en": "Warren Buffett's wisdom on life, success, and happiness",
+    "zh": "沃伦·巴菲特关于人生、成功和幸福的智慧"
+  },
+  "quotes": [
+    {
+      "id": "Q-LIF-001",
+      "content": {
+        "en": "The difference between successful people and really successful people is that really successful people say no to almost everything.",
+        "zh": "成功人士和非常成功人士的区别在于，非常成功人士对几乎所有事情都说不。"
+      },
+      "source": "Berkshire Hathaway Annual Meeting",
+      "themes": ["focus", "prioritization", "success"],
+      "wisdom_score": 10
+    },
+    {
+      "id": "Q-LIF-002",
+      "content": {
+        "en": "I really like my life. I've arranged it so I get to do what I like. I tap-dance to work every day.",
+        "zh": "我真的很喜欢我的生活。我已经安排好让我做我喜欢的事情。我每天跳着踢踏舞去上班。"
+      },
+      "source": "CNBC Interview",
+      "themes": ["passion", "happiness", "work"],
+      "wisdom_score": 10
+    },
+    {
+      "id": "Q-LIF-003",
+      "content": {
+        "en": "Basically, when you get to my age, you'll really measure your success in life by how many of the people you want to have love you actually do love you.",
+        "zh": "基本上，当你到了我的年龄，你会真正通过有多少你想让他们爱你的人实际上爱你来衡量你人生的成功。"
+      },
+      "source": "University of Georgia Speech, 2001",
+      "themes": ["love", "relationships", "success"],
+      "wisdom_score": 10
+    },
+    {
+      "id": "Q-LIF-004",
+      "content": {
+        "en": "The best measure of your success is whether you're loved by the people who know you.",
+        "zh": "衡量你成功的最好标准是认识你的人是否爱你。"
+      },
+      "source": "Speech",
+      "themes": ["relationships", "success"],
+      "wisdom_score": 9
+    },
+    {
+      "id": "Q-LIF-005",
+      "content": {
+        "en": "Chains of habit are too light to be felt until they are too heavy to be broken.",
+        "zh": "习惯的链条太轻以至于感觉不到，直到它们太重而无法打破。"
+      },
+      "source": "Berkshire Hathaway Annual Letter, 1986",
+      "themes": ["habits", "behavior"],
+      "wisdom_score": 9
+    },
+    {
+      "id": "Q-LIF-006",
+      "content": {
+        "en": "You only have to do a very few things right in your life so long as you don't do too many things wrong.",
+        "zh": "只要你没有做太多错事，你一生中只需要做对很少几件事。"
+      },
+      "source": "Berkshire Hathaway Annual Letter",
+      "themes": ["focus", "mistakes"],
+      "wisdom_score": 9
+    },
+    {
+      "id": "Q-LIF-007",
+      "content": {
+        "en": "Someone's sitting in the shade today because someone planted a tree a long time ago.",
+        "zh": "今天有人坐在树荫下，是因为很久以前有人种了一棵树。"
+      },
+      "source": "Berkshire Hathaway Annual Letter",
+      "themes": ["long_term", "legacy", "patience"],
+      "wisdom_score": 10
+    },
+    {
+      "id": "Q-LIF-008",
+      "content": {
+        "en": "Of the billionaires I have known, money just brings out the basic traits in them. If they were jerks before they had money, they are simply jerks with a billion dollars.",
+        "zh": "在我认识的亿万富翁中，钱只是暴露了他们的基本特质。如果他们在有钱之前是混蛋，他们只是带着十亿美元的混蛋。"
+      },
+      "source": "Berkshire Hathaway Annual Meeting",
+      "themes": ["character", "money", "values"],
+      "wisdom_score": 9
+    },
+    {
+      "id": "Q-LIF-009",
+      "content": {
+        "en": "I always knew I was going to be rich. I don't think I ever doubted it for a minute.",
+        "zh": "我一直知道我会富有。我想我从未怀疑过这一点。"
+      },
+      "source": "The Snowball",
+      "themes": ["confidence", "self_belief"],
+      "wisdom_score": 8
+    },
+    {
+      "id": "Q-LIF-010",
+      "content": {
+        "en": "The most important investment you can make is in yourself.",
+        "zh": "你能做的最重要的投资是投资你自己。"
+      },
+      "source": "Berkshire Hathaway Annual Meeting",
+      "themes": ["self_improvement", "investment"],
+      "wisdom_score": 10
+    },
+    {
+      "id": "Q-LIF-011",
+      "content": {
+        "en": "Read 500 pages like this every day. That's how knowledge works. It builds up, like compound interest.",
+        "zh": "每天像这样读500页。这就是知识如何运作的。它像复利一样积累。"
+      },
+      "source": "When asked about his success habit",
+      "themes": ["reading", "learning", "compound_interest"],
+      "wisdom_score": 10
+    },
+    {
+      "id": "Q-LIF-012",
+      "content": {
+        "en": "Honesty is a very expensive gift. Don't expect it from cheap people.",
+        "zh": "诚实是一份非常昂贵的礼物。不要指望从廉价的人那里得到它。"
+      },
+      "source": "Berkshire Hathaway Annual Meeting",
+      "themes": ["honesty", "integrity", "character"],
+      "wisdom_score": 9
+    },
+    {
+      "id": "Q-LIF-013",
+      "content": {
+        "en": "You know, people say that money is not everything. But I say, if you have enough money, you can buy anything you want. But money can't buy love.",
+        "zh": "你知道，人们说钱不是一切。但我说，如果你有足够的钱，你可以买任何你想要的东西。但钱买不到爱。"
+      },
+      "source": "Interview",
+      "themes": ["money", "love", "values"],
+      "wisdom_score": 8
+    },
+    {
+      "id": "Q-LIF-014",
+      "content": {
+        "en": "If you're in the luckiest 1% of humanity, you owe it to the rest of humanity to think about the other 99%.",
+        "zh": "如果你是人类中最幸运的1%，你有责任为其余99%的人类着想。"
+      },
+      "source": "Giving Pledge Letter",
+      "themes": ["philanthropy", "responsibility", "wealth"],
+      "wisdom_score": 9
+    },
+    {
+      "id": "Q-LIF-015",
+      "content": {
+        "en": "Too many people overvalue what they are not and undervalue what they are.",
+        "zh": "太多人高估他们所不是的，而低估他们所是的。"
+      },
+      "source": "Berkshire Hathaway Annual Meeting",
+      "themes": ["self_awareness", "values"],
+      "wisdom_score": 9
+    },
+    {
+      "id": "Q-LIF-016",
+      "content": {
+        "en": "I want to give my kids just enough so that they would feel that they could do anything, but not so much that they would feel like doing nothing.",
+        "zh": "我想给孩子们足够的钱，让他们觉得可以做任何事，但不要多到让他们觉得什么都不做也可以。"
+      },
+      "source": "Interview",
+      "themes": ["wealth", "children", "values"],
+      "wisdom_score": 10
+    },
+    {
+      "id": "Q-LIF-017",
+      "content": {
+        "en": "It's better to hang out with people better than you. Pick out associates whose behavior is better than yours and you'll drift in that direction.",
+        "zh": "最好与比你更优秀的人交往。选择行为比你更好的人，你会朝着那个方向漂移。"
+      },
+      "source": "Berkshire Hathaway Annual Meeting",
+      "themes": ["relationships", "self_improvement"],
+      "wisdom_score": 9
+    },
+    {
+      "id": "Q-LIF-018",
+      "content": {
+        "en": "I insist on a lot of time being spent, almost every day, to just sit and think. That is very uncommon in American business.",
+        "zh": "我坚持花很多时间，几乎每天，只是坐着思考。这在美国商业中非常罕见。"
+      },
+      "source": "Berkshire Hathaway Annual Meeting",
+      "themes": ["thinking", "reflection", "time"],
+      "wisdom_score": 9
+    }
+  ],
+  "metadata": {
+    "version": "1.0.0",
+    "created": "2025-05-31",
+    "total_quotes": 18,
+    "sources": [
+      "Berkshire Hathaway Annual Letters",
+      "Annual Meeting Transcripts",
+      "CNBC Interviews",
+      "Speeches"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "interview-2018-05-07",
+  "date": "2018-05-07",
+  "title": "Buffett on Bitcoin and Cryptocurrency",
+  "description": "Famous criticism of cryptocurrency",
+  "interviewer": "Becky Quick",
+  "duration": "2:10:19",
+  "cnbc_url": "https://buffett.cnbc.com/video/2018/05/07/buffett-on-bitcoin-and-cryptocurrency.html",
+  "key_topics": [
+    "bitcoin",
+    "cryptocurrency",
+    "speculation"
+  ],
+  "notable": true,
+  "key_quote": "Bitcoin is probably rat poison squared.",
+  "type": "cnbc_interview",
+  "source": {
+    "cnbc_url": "https://buffett.cnbc.com/video/2018/05/07/buffett-on-bitcoin-and-cryptocurrency.html",
+    "transcript_available": false,
+    "video_available": true
+  },
+  "transcript": [],
+  "key_quotes": [
+    {
+      "quote": "Bitcoin is probably rat poison squared.",
+      "context": "Famous criticism of cryptocurrency"
+    }
+  ],
+  "metadata": {
+    "processed_at": "2026-06-01T01:16:53.443288",
+    "notes": "Transcript to be added"
+  }
+}

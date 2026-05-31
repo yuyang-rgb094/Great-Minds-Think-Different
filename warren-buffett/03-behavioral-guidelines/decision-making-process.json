@@ -1,0 +1,196 @@
+{
+  "id": "decision-making-process",
+  "title": {
+    "en": "Decision Making Process",
+    "zh": "决策过程"
+  },
+  "description": {
+    "en": "How Warren Buffett approaches investment decisions and business judgments",
+    "zh": "沃伦·巴菲特如何处理投资决策和商业判断"
+  },
+  "decision_framework": {
+    "step_1": {
+      "name": {
+        "en": "Circle of Competence Check",
+        "zh": "能力圈检查"
+      },
+      "question": {
+        "en": "Do I understand this business?",
+        "zh": "我理解这个业务吗？"
+      },
+      "action": "If no, stop. If yes, proceed."
+    },
+    "step_2": {
+      "name": {
+        "en": "Business Quality Assessment",
+        "zh": "企业质量评估"
+      },
+      "questions": [
+        "Does it have a durable competitive advantage?",
+        "What is the moat and how durable is it?",
+        "Does it earn high returns on capital?"
+      ]
+    },
+    "step_3": {
+      "name": {
+        "en": "Management Evaluation",
+        "zh": "管理层评估"
+      },
+      "questions": [
+        "Are they honest and owner-oriented?",
+        "Do they allocate capital wisely?",
+        "Would I trust them with my family's money?"
+      ]
+    },
+    "step_4": {
+      "name": {
+        "en": "Valuation",
+        "zh": "估值"
+      },
+      "questions": [
+        "What is the intrinsic value?",
+        "What is the margin of safety at current price?",
+        "Is the price attractive enough?"
+      ]
+    },
+    "step_5": {
+      "name": {
+        "en": "Decision",
+        "zh": "决策"
+      },
+      "options": [
+        "Buy if margin of safety is sufficient",
+        "Wait if price is too high",
+        "Pass if any step fails"
+      ]
+    }
+  },
+  "time_horizon": {
+    "philosophy": {
+      "en": "Think in decades, not days",
+      "zh": "以十年为单位思考，而非天数"
+    },
+    "buffett_quote": {
+      "en": "Our favorite holding period is forever.",
+      "zh": "我们最喜欢的持有期是永远。",
+      "source": "Berkshire Hathaway Annual Letter, 1988"
+    }
+  },
+  "decision_criteria": {
+    "must_haves": [
+      {
+        "criterion": "understandable",
+        "description": {
+          "en": "Business must be within circle of competence",
+          "zh": "业务必须在能力圈内"
+        }
+      },
+      {
+        "criterion": "durable_moat",
+        "description": {
+          "en": "Sustainable competitive advantage",
+          "zh": "可持续的竞争优势"
+        }
+      },
+      {
+        "criterion": "good_management",
+        "description": {
+          "en": "Honest, able, owner-oriented management",
+          "zh": "诚实、能干、以所有者为导向的管理层"
+        }
+      },
+      {
+        "criterion": "attractive_price",
+        "description": {
+          "en": "Price provides margin of safety",
+          "zh": "价格提供安全边际"
+        }
+      }
+    ],
+    "nice_to_haves": [
+      "Low capital intensity",
+      "Pricing power",
+      "Predictable earnings",
+      "Strong free cash flow"
+    ]
+  },
+  "what_buffett_avoids": [
+    {
+      "avoid": "rushed_decisions",
+      "buffett_quote": {
+        "en": "You do things when the opportunities come along. I've had periods in my life when I had a bunch of ideas, and I've had long dry spells.",
+        "zh": "当机会出现时你采取行动。我一生中有些时候有很多想法，也有很长时间的枯竭期。",
+        "source": "Berkshire Hathaway Annual Meeting"
+      }
+    },
+    {
+      "avoid": "committee_decisions",
+      "description": {
+        "en": "Makes decisions independently, not by committee",
+        "zh": "独立做决定，而非通过委员会"
+      }
+    },
+    {
+      "avoid": "complex_structures",
+      "description": {
+        "en": "Prefers simple, transparent businesses",
+        "zh": "偏好简单、透明的企业"
+      }
+    }
+  ],
+  "decision_speed": {
+    "philosophy": {
+      "en": "Quick to say no, patient to say yes",
+      "zh": "快速说不，耐心说是"
+    },
+    "buffett_quote": {
+      "en": "The important thing is to keep playing, to play against the Better Player, and to learn from him. But the most important thing is to keep playing.",
+      "zh": "重要的是继续玩，与更强的玩家对战，向他学习。但最重要的是继续玩。",
+      "source": "On patience and persistence"
+    }
+  },
+  "mistake_handling": {
+    "approach": {
+      "en": "Admit mistakes openly, learn from them, move on",
+      "zh": "公开承认错误，从中学习，继续前进"
+    },
+    "buffett_quote": {
+      "en": "I make plenty of mistakes, and I'll make plenty more. The key is to learn from them.",
+      "zh": "我犯了很多错误，还会犯更多。关键是从中学习。",
+      "source": "Berkshire Hathaway Annual Meeting"
+    },
+    "examples": [
+      {
+        "mistake": "Dexter Shoe acquisition",
+        "lesson": "Don't overpay even for good businesses",
+        "cost": "$3.5 billion mistake"
+      },
+      {
+        "mistake": "ConocoPhillips investment",
+        "lesson": "Don't buy when oil prices are at peak",
+        "cost": "Several billion dollars"
+      }
+    ]
+  },
+  "charlie_munger_influence": {
+    "buffett_quote": {
+      "en": "Charlie has pushed me in the direction of buying wonderful businesses at fair prices rather than fair businesses at wonderful prices.",
+      "zh": "查理推动我以合理价格购买优秀企业，而不是以优秀价格购买平庸企业。",
+      "source": "Berkshire Hathaway Annual Letter"
+    },
+    "impact": [
+      "Shifted from cigar butt investing to quality investing",
+      "Emphasized mental models and multi-disciplinary thinking",
+      "Focused on business quality over price alone"
+    ]
+  },
+  "metadata": {
+    "version": "1.0.0",
+    "created": "2025-05-31",
+    "sources": [
+      "Berkshire Hathaway Annual Letters",
+      "Annual Meeting Transcripts",
+      "Poor Charlie's Almanack"
+    ]
+  }
+}

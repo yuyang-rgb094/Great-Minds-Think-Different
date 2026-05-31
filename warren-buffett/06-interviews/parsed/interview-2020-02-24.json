@@ -1,0 +1,27 @@
+{
+  "id": "interview-2020-02-24",
+  "date": "2020-02-24",
+  "title": "Buffett on Market Volatility and Investment Strategy",
+  "description": "Market advice during early COVID period",
+  "interviewer": "Becky Quick",
+  "duration": "2:04:31",
+  "cnbc_url": "https://buffett.cnbc.com/video/2020/02/24/buffett-on-market-volatility-and-investment-strategy.html",
+  "key_topics": [
+    "covid",
+    "market_volatility",
+    "investment"
+  ],
+  "notable": true,
+  "type": "cnbc_interview",
+  "source": {
+    "cnbc_url": "https://buffett.cnbc.com/video/2020/02/24/buffett-on-market-volatility-and-investment-strategy.html",
+    "transcript_available": false,
+    "video_available": true
+  },
+  "transcript": [],
+  "key_quotes": [],
+  "metadata": {
+    "processed_at": "2026-06-01T01:16:53.442903",
+    "notes": "Transcript to be added"
+  }
+}

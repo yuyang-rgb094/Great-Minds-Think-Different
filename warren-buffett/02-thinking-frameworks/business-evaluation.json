@@ -1,0 +1,203 @@
+{
+  "id": "business-evaluation",
+  "title": {
+    "en": "Business Evaluation Framework",
+    "zh": "企业评估框架"
+  },
+  "description": {
+    "en": "How Warren Buffett evaluates and analyzes businesses for investment",
+    "zh": "沃伦·巴菲特如何评估和分析企业进行投资"
+  },
+  "evaluation_criteria": [
+    {
+      "category": "business_quality",
+      "name": {
+        "en": "Business Quality",
+        "zh": "企业质量"
+      },
+      "factors": [
+        {
+          "factor": "economic_moat",
+          "description": {
+            "en": "Does the business have a sustainable competitive advantage?",
+            "zh": "企业是否拥有可持续的竞争优势？"
+          },
+          "questions": [
+            "What protects this business from competition?",
+            "Can competitors replicate this business model?",
+            "How durable is the competitive advantage?"
+          ]
+        },
+        {
+          "factor": "return_on_capital",
+          "description": {
+            "en": "Does the business earn high returns on invested capital?",
+            "zh": "企业是否获得高投资资本回报？"
+          },
+          "buffett_standard": "Look for businesses that can earn high returns on capital without requiring much debt"
+        },
+        {
+          "factor": "consistency",
+          "description": {
+            "en": "Are earnings consistent and predictable?",
+            "zh": "收益是否一致且可预测？"
+          },
+          "buffett_quote": {
+            "en": "I want a business that I can understand, that has a durable competitive advantage, and that has management in place that I like and trust.",
+            "zh": "我想要一个我能理解的企业，拥有持久的竞争优势，并且有我喜欢和信任的管理层。",
+            "source": "CNBC Interview"
+          }
+        }
+      ]
+    },
+    {
+      "category": "management_quality",
+      "name": {
+        "en": "Management Quality",
+        "zh": "管理层质量"
+      },
+      "factors": [
+        {
+          "factor": "integrity",
+          "description": {
+            "en": "Is management honest with shareholders?",
+            "zh": "管理层对股东诚实吗？"
+          },
+          "buffett_quote": {
+            "en": "We look for managers who are honest, able, and owner-oriented.",
+            "zh": "我们寻找诚实、能干、以所有者为导向的管理者。",
+            "source": "Berkshire Hathaway Annual Letter"
+          }
+        },
+        {
+          "factor": "capital_allocation",
+          "description": {
+            "en": "Does management allocate capital wisely?",
+            "zh": "管理层是否明智地配置资本？"
+          },
+          "key_points": [
+            "Do they reinvest wisely or return capital to shareholders?",
+            "Are acquisitions made at reasonable prices?",
+            "Do they avoid empire-building?"
+          ]
+        },
+        {
+          "factor": "owner_orientation",
+          "description": {
+            "en": "Does management think like owners?",
+            "zh": "管理层是否像所有者一样思考？"
+          }
+        }
+      ]
+    },
+    {
+      "category": "financial_strength",
+      "name": {
+        "en": "Financial Strength",
+        "zh": "财务实力"
+      },
+      "factors": [
+        {
+          "factor": "balance_sheet",
+          "description": {
+            "en": "Is the balance sheet strong with manageable debt?",
+            "zh": "资产负债表是否强劲且债务可控？"
+          }
+        },
+        {
+          "factor": "cash_generation",
+          "description": {
+            "en": "Does the business generate substantial free cash flow?",
+            "zh": "企业是否产生大量自由现金流？"
+          },
+          "buffett_preference": "I love businesses that generate cash"
+        },
+        {
+          "factor": "earnings_power",
+          "description": {
+            "en": "What is the sustainable earnings power of the business?",
+            "zh": "企业的可持续盈利能力是多少？"
+          }
+        }
+      ]
+    },
+    {
+      "category": "price_and_value",
+      "name": {
+        "en": "Price and Value",
+        "zh": "价格与价值"
+      },
+      "factors": [
+        {
+          "factor": "margin_of_safety",
+          "description": {
+            "en": "Is the price significantly below intrinsic value?",
+            "zh": "价格是否显著低于内在价值？"
+          }
+        },
+        {
+          "factor": "growth_value",
+          "description": {
+            "en": "Is growth worth paying for?",
+            "zh": "增长是否值得付费？"
+          },
+          "buffett_quote": {
+            "en": "Growth can be a negative if it requires capital investment that produces low returns.",
+            "zh": "如果增长需要产生低回报的资本投资，增长可能是负面的。",
+            "source": "Berkshire Hathaway Annual Letter"
+          }
+        }
+      ]
+    }
+  ],
+  "what_buffett_avoids": [
+    {
+      "avoid": "turnarounds",
+      "reason": {
+        "en": "Difficult to predict; problems often multiply",
+        "zh": "难以预测；问题往往会倍增"
+      }
+    },
+    {
+      "avoid": "high_tech",
+      "reason": {
+        "en": "Outside circle of competence; rapid change",
+        "zh": "超出能力圈；变化迅速"
+      }
+    },
+    {
+      "avoid": "commodity_businesses",
+      "reason": {
+        "en": "No pricing power; compete on price alone",
+        "zh": "没有定价权；仅靠价格竞争"
+      }
+    },
+    {
+      "avoid": "heavy_capex",
+      "reason": {
+        "en": "Require constant reinvestment; little free cash flow",
+        "zh": "需要持续再投资；自由现金流少"
+      }
+    }
+  ],
+  "ideal_business_characteristics": {
+    "buffett_quote": {
+      "en": "The ideal business is one that earns very high returns on capital and requires very little capital to operate.",
+      "zh": "理想的企业是那些资本回报率很高且运营所需资本很少的企业。",
+      "source": "Berkshire Hathaway Annual Meeting"
+    },
+    "examples": [
+      "See's Candies - high returns, low capital needs",
+      "Coca-Cola - brand power, global reach",
+      "GEICO - low-cost producer in insurance"
+    ]
+  },
+  "metadata": {
+    "version": "1.0.0",
+    "created": "2025-05-31",
+    "sources": [
+      "Berkshire Hathaway Annual Letters",
+      "Annual Meeting Transcripts"
+    ]
+  }
+}

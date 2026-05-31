@@ -1,0 +1,154 @@
+{
+  "id": "berkshire-history",
+  "title": {
+    "en": "Berkshire Hathaway History",
+    "zh": "伯克希尔·哈撒韦历史"
+  },
+  "description": {
+    "en": "The transformation of Berkshire Hathaway from textile mill to global conglomerate",
+    "zh": "伯克希尔·哈撒韦从纺织厂到全球综合企业的转型"
+  },
+  "origin": {
+    "founding": "1839 as Valley Falls Company (textile manufacturer)",
+    "buffett_acquisition": "1962-1965",
+    "original_business": "Textile manufacturing",
+    "acquisition_price": "$14.86 per share (total ~$8.6 million)"
+  },
+  "business_segments": [
+    {
+      "segment": "insurance",
+      "description": {
+        "en": "Core business providing 'float' for investments",
+        "zh": "核心业务，为投资提供'浮存金'"
+      },
+      "key_companies": ["GEICO", "National Indemnity", "Berkshire Hathaway Reinsurance"],
+      "importance": "Primary source of investable capital through insurance float"
+    },
+    {
+      "segment": "railroads",
+      "description": {
+        "en": "Major railroad transportation",
+        "zh": "主要铁路运输"
+      },
+      "key_companies": ["BNSF Railway"],
+      "acquisition_year": 2010,
+      "acquisition_price": "$26.5 billion"
+    },
+    {
+      "segment": "utilities",
+      "description": {
+        "en": "Energy and utility operations",
+        "zh": "能源和公用事业运营"
+      },
+      "key_companies": ["Berkshire Hathaway Energy"],
+      "importance": "Regulated, stable cash flows"
+    },
+    {
+      "segment": "manufacturing_service_retail",
+      "description": {
+        "en": "Diverse collection of wholly-owned businesses",
+        "zh": "多样化的全资企业集合"
+      },
+      "key_companies": [
+        "See's Candies",
+        "Nebraska Furniture Mart",
+        "Borsheims",
+        "Clayton Homes",
+        "Duracell",
+        "Dairy Queen"
+      ]
+    },
+    {
+      "segment": "stock_portfolio",
+      "description": {
+        "en": "Publicly traded equity investments",
+        "zh": "公开交易的股权投资"
+      },
+      "major_holdings": [
+        "Apple (~40% of portfolio)",
+        "Bank of America",
+        "American Express",
+        "Coca-Cola",
+        "Chevron"
+      ]
+    }
+  ],
+  "key_acquisitions": [
+    {
+      "year": 1967,
+      "company": "National Indemnity",
+      "price": "$8.6 million",
+      "significance": "Entry into insurance business"
+    },
+    {
+      "year": 1972,
+      "company": "See's Candies",
+      "price": "$25 million",
+      "significance": "First 'wonderful business' acquisition, taught moat concept"
+    },
+    {
+      "year": 1996,
+      "company": "GEICO (remaining 50%)",
+      "price": "$2.3 billion",
+      "significance": "Full ownership of insurance gem"
+    },
+    {
+      "year": 2003,
+      "company": "Clayton Homes",
+      "price": "$1.7 billion",
+      "significance": "Manufactured housing leader"
+    },
+    {
+      "year": 2010,
+      "company": "BNSF Railway",
+      "price": "$26.5 billion",
+      "significance": "Largest acquisition, major railroad"
+    }
+  ],
+  "performance": {
+    "compound_annual_return": "~20% (1965-2024)",
+    "per_share_book_value_growth": "~3.8 million percent since 1965",
+    "market_cap_2024": "~$800+ billion",
+    "buffett_quote": {
+      "en": "Berkshire's long-term performance has been achieved through a simple, almost old-fashioned approach: buying wonderful businesses at fair prices.",
+      "zh": "伯克希尔的长期业绩是通过一种简单、几乎老式的方法实现的：以合理的价格购买优秀的企业。",
+      "source": "Berkshire Hathaway Annual Letter"
+    }
+  },
+  "culture": {
+    "principles": [
+      "Decentralized management - let managers run their businesses",
+      "No quarterly earnings guidance",
+      "Long-term orientation",
+      "Shareholder-friendly capital allocation",
+      "Extreme financial conservatism"
+    ],
+    "buffett_quote": {
+      "en": "We tend to let our many subsidiaries operate on their own, without supervision or monitoring. That's possible only because we have outstanding managers.",
+      "zh": "我们倾向于让我们的许多子公司自主运营，没有监督或监控。这只有在我们拥有杰出的管理者时才可能。",
+      "source": "Berkshire Hathaway Annual Letter"
+    }
+  },
+  "charlie_munger_role": {
+    "title": "Vice Chairman (1978-2023)",
+    "buffett_quote": {
+      "en": "Charlie has been my partner for over 50 years. He's the wisest man I know.",
+      "zh": "查理做了我50多年的合伙人。他是我认识的最聪明的人。",
+      "source": "Berkshire Hathaway Annual Meeting"
+    },
+    "contributions": [
+      "Pushed Buffett toward quality businesses",
+      "Multi-disciplinary mental models",
+      "Rationality and clear thinking",
+      "The 'lollapalooza' concept"
+    ]
+  },
+  "metadata": {
+    "version": "1.0.0",
+    "created": "2025-05-31",
+    "sources": [
+      "Berkshire Hathaway Annual Letters",
+      "Berkshire Hathaway 10-K Filings"
+    ]
+  }
+}

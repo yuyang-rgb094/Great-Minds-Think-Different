@@ -1,0 +1,30 @@
+{
+  "id": "letter-2002",
+  "year": 2002,
+  "type": "shareholder_letter",
+  "source": {
+    "url": "https://www.berkshirehathaway.com/letters/2002.html",
+    "format": "html",
+    "file": "2002.html"
+  },
+  "content": {
+    "full_text": "--IMPORTANT NOTE--\nThe 2002 Chairman's Letter is being presented in PDF format only. To view the Chairman's Letter in PDF format you must have an Adobe Acrobat Reader. If you do not have Adobe Acrobat on your computer, use the link to go to Adobe's web site for a free download.\nAdobe\n2002 Chairman's Letter",
+    "sections": [
+      {
+        "title": "Introduction",
+        "content": "--IMPORTANT NOTE--\nThe 2002 Chairman's Letter is being presented in PDF format only. To view the Chairman's Letter in PDF format you must have an Adobe Acrobat Reader. If you do not have Adobe Acrobat on your computer, use the link to go to Adobe's web site for a free download.\nAdobe\n2002 Chairman's Letter"
+      }
+    ]
+  },
+  "metadata": {
+    "word_count": 55,
+    "char_count": 307,
+    "page_count": 1,
+    "themes": [],
+    "key_quotes_count": 0
+  },
+  "extraction": {
+    "key_quotes": [],
+    "processed_at": "2026-06-01T01:13:11.813949"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "id": "quotes-business",
+  "title": {
+    "en": "Business Quotes",
+    "zh": "商业语录"
+  },
+  "description": {
+    "en": "Warren Buffett's wisdom on business and management",
+    "zh": "沃伦·巴菲特关于商业和管理的智慧"
+  },
+  "quotes": [
+    {
+      "id": "Q-BIZ-001",
+      "content": {
+        "en": "It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you'll do things differently.",
+        "zh": "建立声誉需要20年，毁掉它只需要五分钟。如果你考虑到这一点，你会以不同的方式做事。"
+      },
+      "source": "Berkshire Hathaway Annual Meeting",
+      "themes": ["reputation", "integrity"],
+      "wisdom_score": 10
+    },
+    {
+      "id": "Q-BIZ-002",
+      "content": {
+        "en": "In looking for people to hire, you look for three qualities: integrity, intelligence, and energy. And, if they don't have the first, the other two will kill you.",
+        "zh": "在招聘人员时，你要寻找三种品质：正直、智慧和精力。如果他们没有第一种品质，后两种品质会害死你。"
+      },
+      "source": "Berkshire Hathaway Annual Meeting",
+      "themes": ["hiring", "integrity", "management"],
+      "wisdom_score": 10
+    },
+    {
+      "id": "Q-BIZ-003",
+      "content": {
+        "en": "A company is only as good as its management.",
+        "zh": "一家公司的好坏取决于其管理层。"
+      },
+      "source": "Berkshire Hathaway Annual Letter",
+      "themes": ["management", "business_quality"],
+      "wisdom_score": 8
+    },
+    {
+      "id": "Q-BIZ-004",
+      "content": {
+        "en": "The most important thing to do if you find yourself in a hole is to stop digging.",
+        "zh": "如果你发现自己掉进洞里，最重要的事情是停止挖掘。"
+      },
+      "source": "Berkshire Hathaway Annual Letter",
+      "themes": ["mistakes", "decision_making"],
+      "wisdom_score": 9
+    },
+    {
+      "id": "Q-BIZ-005",
+      "content": {
+        "en": "Should you find yourself in a chronically leaking boat, energy devoted to changing vessels is likely to be more productive than energy devoted to patching leaks.",
+        "zh": "如果你发现自己在一艘长期漏水的船上，换船的精力可能比补漏的精力更有成效。"
+      },
+      "source": "Berkshire Hathaway Annual Letter, 1985",
+      "themes": ["opportunity_cost", "decision_making"],
+      "wisdom_score": 9
+    },
+    {
+      "id": "Q-BIZ-006",
+      "content": {
+        "en": "When a management with a reputation for brilliance tackles a business with a reputation for bad economics, it is the reputation of the business that remains intact.",
+        "zh": "当一个以聪明著称的管理层接手一个以糟糕经济学著称的企业时，企业的声誉保持不变。"
+      },
+      "source": "Berkshire Hathaway Annual Letter, 1980",
+      "themes": ["business_economics", "management_limitations"],
+      "wisdom_score": 10
+    },
+    {
+      "id": "Q-BIZ-007",
+      "content": {
+        "en": "I try to buy stock in businesses that are so wonderful that an idiot can run them, because sooner or later, one will.",
+        "zh": "我试着购买那些如此优秀以至于白痴都能经营的企业股票，因为迟早会有一个白痴来经营。"
+      },
+      "source": "Berkshire Hathaway Annual Meeting",
+      "themes": ["business_quality", "moat"],
+      "wisdom_score": 10
+    },
+    {
+      "id": "Q-BIZ-008",
+      "content": {
+        "en": "The best business returns are achieved by companies that are doing something quite simple and not too interesting.",
+        "zh": "最好的商业回报是由那些做着相当简单且不太有趣的事情的公司实现的。"
+      },
+      "source": "Berkshire Hathaway Annual Letter",
+      "themes": ["simplicity", "business_model"],
+      "wisdom_score": 8
+    },
+    {
+      "id": "Q-BIZ-009",
+      "content": {
+        "en": "Time is the enemy of the poor business and the friend of the great business.",
+        "zh": "时间是糟糕企业的敌人，是伟大企业的朋友。"
+      },
+      "source": "Berkshire Hathaway Annual Letter",
+      "themes": ["time", "business_quality"],
+      "wisdom_score": 9
+    },
+    {
+      "id": "Q-BIZ-010",
+      "content": {
+        "en": "A truly great business must have an enduring 'moat' that protects the high return on invested capital.",
+        "zh": "一个真正伟大的企业必须拥有持久的'护城河'来保护高投资回报率。"
+      },
+      "source": "Berkshire Hathaway Annual Letter, 2007",
+      "themes": ["moat", "competitive_advantage"],
+      "wisdom_score": 10
+    },
+    {
+      "id": "Q-BIZ-011",
+      "content": {
+        "en": "Bad things are not obvious when times are good. It's when times are bad that you find out who has been swimming naked.",
+        "zh": "形势好时，坏事并不明显。只有在形势不好时，你才会发现谁在裸泳。"
+      },
+      "source": "Berkshire Hathaway Annual Letter, 2002",
+      "themes": ["risk", "business_resilience"],
+      "wisdom_score": 10
+    },
+    {
+      "id": "Q-BIZ-012",
+      "content": {
+        "en": "I am a better investor because I am a businessman, and a better businessman because I am an investor.",
+        "zh": "我是一个更好的投资者，因为我是一个商人；我是一个更好的商人，因为我是一个投资者。"
+      },
+      "source": "Berkshire Hathaway Annual Meeting",
+      "themes": ["investor_businessman", "perspective"],
+      "wisdom_score": 8
+    },
+    {
+      "id": "Q-BIZ-013",
+      "content": {
+        "en": "The investor of today does not profit from yesterday's growth.",
+        "zh": "今天的投资者不会从昨天的增长中获利。"
+      },
+      "source": "Berkshire Hathaway Annual Letter",
+      "themes": ["future_focus", "growth"],
+      "wisdom_score": 8
+    },
+    {
+      "id": "Q-BIZ-014",
+      "content": {
+        "en": "Growth can be a negative if it requires capital investment that produces low returns.",
+        "zh": "如果增长需要产生低回报的资本投资，增长可能是负面的。"
+      },
+      "source": "Berkshire Hathaway Annual Letter",
+      "themes": ["growth", "capital_allocation"],
+      "wisdom_score": 9
+    },
+    {
+      "id": "Q-BIZ-015",
+      "content": {
+        "en": "We will only do things that make sense for Berkshire shareholders. We won't do things just because somebody tells us it's a good idea.",
+        "zh": "我们只会做对伯克希尔股东有意义的事情。我们不会因为有人告诉我们这是个好主意就去做。"
+      },
+      "source": "Berkshire Hathaway Annual Meeting",
+      "themes": ["shareholder_focus", "independence"],
+      "wisdom_score": 8
+    }
+  ],
+  "metadata": {
+    "version": "1.0.0",
+    "created": "2025-05-31",
+    "total_quotes": 15,
+    "sources": [
+      "Berkshire Hathaway Annual Letters",
+      "Annual Meeting Transcripts"
+    ]
+  }
+}

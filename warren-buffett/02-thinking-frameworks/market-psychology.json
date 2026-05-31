@@ -1,0 +1,163 @@
+{
+  "id": "market-psychology",
+  "title": {
+    "en": "Market Psychology",
+    "zh": "市场心理学"
+  },
+  "description": {
+    "en": "Warren Buffett's understanding of market behavior and investor psychology",
+    "zh": "沃伦·巴菲特对市场行为和投资者心理的理解"
+  },
+  "mr_market_allegory": {
+    "origin": "Benjamin Graham's parable from The Intelligent Investor",
+    "description": {
+      "en": "Imagine you have a partner named Mr. Market who every day offers to buy or sell your share of a business at a price. Sometimes his price is reasonable, sometimes it's absurdly high or low based on his mood.",
+      "zh": "想象你有一个叫市场先生的伙伴，每天都会提出以某个价格买入或卖出你的企业份额。有时他的价格合理，有时根据他的情绪，价格会高得或低得离谱。"
+    },
+    "lesson": {
+      "en": "Use Mr. Market's mood swings to your advantage, but don't let his emotions become yours",
+      "zh": "利用市场先生的情绪波动为你服务，但不要让他的情绪变成你的情绪"
+    },
+    "buffett_quote": {
+      "en": "The market is there to serve you, not to guide you.",
+      "zh": "市场是为你服务的，不是来指导你的。",
+      "source": "Berkshire Hathaway Annual Letter, 1987"
+    }
+  },
+  "behavioral_principles": [
+    {
+      "principle": "contrarian_action",
+      "name": {
+        "en": "Contrarian Action",
+        "zh": "逆向行动"
+      },
+      "buffett_quote": {
+        "en": "Be fearful when others are greedy and greedy when others are fearful.",
+        "zh": "别人贪婪时我恐惧，别人恐惧时我贪婪。",
+        "source": "Berkshire Hathaway Annual Letter, 1986"
+      },
+      "explanation": {
+        "en": "Buy when others are selling in panic; sell when others are euphoric",
+        "zh": "在别人恐慌抛售时买入；在别人狂热时卖出"
+      }
+    },
+    {
+      "principle": "emotional_discipline",
+      "name": {
+        "en": "Emotional Discipline",
+        "zh": "情绪纪律"
+      },
+      "buffett_quote": {
+        "en": "Success in investing doesn't correlate with IQ... What you need is the temperament to control the urges that get other people into trouble.",
+        "zh": "投资成功与智商无关……你需要的是控制那些让别人陷入麻烦的冲动的气质。",
+        "source": "Berkshire Hathaway Annual Meeting"
+      }
+    },
+    {
+      "principle": "ignore_forecasts",
+      "name": {
+        "en": "Ignore Forecasts",
+        "zh": "忽视预测"
+      },
+      "buffett_quote": {
+        "en": "Forecasts usually tell us more about the forecaster than the future.",
+        "zh": "预测通常告诉我们更多关于预测者的信息，而不是未来。",
+        "source": "Berkshire Hathaway Annual Letter"
+      }
+    },
+    {
+      "principle": "long_term_focus",
+      "name": {
+        "en": "Long-Term Focus",
+        "zh": "长期专注"
+      },
+      "buffett_quote": {
+        "en": "If you aren't willing to own a stock for ten years, don't own it for ten minutes.",
+        "zh": "如果你不愿意持有一只股票十年，就不要持有它十分钟。",
+        "source": "Berkshire Hathaway Annual Letter, 1996"
+      }
+    }
+  ],
+  "market_cycles": {
+    "buffett_quote": {
+      "en": "We simply attempt to be fearful when others are greedy and to be greedy only when others are fearful.",
+      "zh": "我们只是试图在别人贪婪时恐惧，在别人恐惧时贪婪。",
+      "source": "Berkshire Hathaway Annual Letter, 1986"
+    },
+    "approach": {
+      "en": "Don't predict cycles, but be prepared to act when extremes occur",
+      "zh": "不要预测周期，但要做好在极端情况发生时行动的准备"
+    },
+    "examples": [
+      {
+        "event": "2008 Financial Crisis",
+        "action": "Invested in Goldman Sachs, GE when others fled",
+        "rationale": "Quality companies available at distressed prices"
+      },
+      {
+        "event": "1969 Partnership Dissolution",
+        "action": "Closed partnership when no value found",
+        "rationale": "Market had become too speculative"
+      }
+    ]
+  },
+  "common_investor_mistakes": [
+    {
+      "mistake": "following_crowd",
+      "description": {
+        "en": "Buying what's popular rather than what's valuable",
+        "zh": "买入流行的东西而不是有价值的东西"
+      }
+    },
+    {
+      "mistake": "short_term_focus",
+      "description": {
+        "en": "Thinking about stock price movements instead of business value",
+        "zh": "关注股价波动而不是企业价值"
+      }
+    },
+    {
+      "mistake": "activity_bias",
+      "description": {
+        "en": "Feeling need to do something rather than wait",
+        "zh": "感觉需要做点什么而不是等待"
+      },
+      "buffett_quote": {
+        "en": "For some reason, people take their cues from price action rather than from values. What doesn't work is when you start doing things that you don't understand.",
+        "zh": "出于某种原因，人们从价格行为而不是价值中获取线索。不奏效的是当你开始做你不理解的事情。",
+        "source": "Berkshire Hathaway Annual Meeting"
+      }
+    },
+    {
+      "mistake": "overconfidence",
+      "description": {
+        "en": "Overestimating one's ability to predict or time the market",
+        "zh": "高估自己预测或择时的能力"
+      }
+    }
+  ],
+  "temperament_requirements": {
+    "buffett_quote": {
+      "en": "Investing is not a game where the guy with the 160 IQ beats the guy with 130 IQ. Rationality is the quality that matters.",
+      "zh": "投资不是智商160的人打败智商130的人的游戏。理性才是重要的品质。",
+      "source": "Berkshire Hathaway Annual Meeting"
+    },
+    "required_traits": [
+      "Patience",
+      "Discipline",
+      "Rationality",
+      "Emotional stability",
+      "Independent thinking",
+      "Ability to ignore the crowd"
+    ]
+  },
+  "metadata": {
+    "version": "1.0.0",
+    "created": "2025-05-31",
+    "sources": [
+      "Berkshire Hathaway Annual Letters",
+      "The Intelligent Investor by Benjamin Graham",
+      "Annual Meeting Transcripts"
+    ]
+  }
+}

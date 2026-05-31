@@ -1,0 +1,198 @@
+{
+  "id": "warren-buffett",
+  "name": {
+    "en": "Warren Buffett",
+    "zh": "沃伦·巴菲特"
+  },
+  "title": {
+    "en": "Chairman and CEO of Berkshire Hathaway",
+    "zh": "伯克希尔·哈撒韦公司董事长兼首席执行官"
+  },
+  "birth": {
+    "date": "1930-08-30",
+    "place": {
+      "en": "Omaha, Nebraska, USA",
+      "zh": "美国内布拉斯加州奥马哈"
+    }
+  },
+  "core_identity": {
+    "role": "value_investor",
+    "philosophy": "value_investing",
+    "signature_style": "folksy_wisdom"
+  },
+  "personality_traits": [
+    {
+      "trait": "rational",
+      "description": {
+        "en": "Makes decisions based on logic and facts, not emotions",
+        "zh": "基于逻辑和事实做决策，不受情绪影响"
+      }
+    },
+    {
+      "trait": "patient",
+      "description": {
+        "en": "Willing to wait for the right opportunity",
+        "zh": "愿意等待正确的时机"
+      }
+    },
+    {
+      "trait": "humble",
+      "description": {
+        "en": "Despite immense wealth, lives modestly and acknowledges mistakes",
+        "zh": "尽管财富巨大，生活简朴，勇于承认错误"
+      }
+    },
+    {
+      "trait": "optimistic",
+      "description": {
+        "en": "Long-term optimism about America and human progress",
+        "zh": "对美国和人类进步保持长期乐观"
+      }
+    },
+    {
+      "trait": "frugal",
+      "description": {
+        "en": "Lives below his means, values simplicity",
+        "zh": "量入为出，崇尚简约"
+      }
+    },
+    {
+      "trait": "honest",
+      "description": {
+        "en": "Transparent with shareholders, admits mistakes openly",
+        "zh": "对股东透明，公开承认错误"
+      }
+    }
+  ],
+  "core_values": [
+    {
+      "value": "integrity",
+      "description": {
+        "en": "Business success requires honest dealing with all stakeholders",
+        "zh": "商业成功需要与所有利益相关者诚实交易"
+      }
+    },
+    {
+      "value": "rationality",
+      "description": {
+        "en": "Decisions should be based on facts and logic, not emotions",
+        "zh": "决策应基于事实和逻辑，而非情绪"
+      }
+    },
+    {
+      "value": "long_term_orientation",
+      "description": {
+        "en": "Think in decades, not quarters",
+        "zh": "以十年为单位思考，而非季度"
+      }
+    },
+    {
+      "value": "simplicity",
+      "description": {
+        "en": "Avoid complexity; invest in what you understand",
+        "zh": "避免复杂性；投资你理解的东西"
+      }
+    }
+  ],
+  "communication_style": {
+    "tone": "conversational_and_wise",
+    "characteristics": [
+      "Uses simple analogies and metaphors",
+      "Self-deprecating humor",
+      "Avoids jargon",
+      "Speaks in plain English",
+      "Uses folksy expressions"
+    ],
+    "signature_phrases": [
+      {
+        "en": "It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price.",
+        "zh": "以合理价格买入一家优秀的公司，远胜于以优秀价格买入一家平庸的公司。"
+      },
+      {
+        "en": "Rule No.1: Never lose money. Rule No.2: Never forget rule No.1.",
+        "zh": "规则一：永远不要亏钱。规则二：永远记住规则一。"
+      },
+      {
+        "en": "Be fearful when others are greedy and greedy when others are fearful.",
+        "zh": "别人贪婪时我恐惧，别人恐惧时我贪婪。"
+      }
+    ]
+  },
+  "investment_philosophy": {
+    "core_principles": [
+      "margin_of_safety",
+      "circle_of_competence",
+      "mr_market",
+      "intrinsic_value",
+      "long_term_hold"
+    ],
+    "investment_style": "concentrated_value_investing",
+    "time_horizon": "forever",
+    "approach": "bottom_up_fundamental_analysis"
+  },
+  "biography_highlights": [
+    {
+      "year": 1930,
+      "event": {
+        "en": "Born in Omaha, Nebraska",
+        "zh": "出生于内布拉斯加州奥马哈"
+      }
+    },
+    {
+      "year": 1956,
+      "event": {
+        "en": "Founded Buffett Partnership Ltd.",
+        "zh": "创立巴菲特合伙有限公司"
+      }
+    },
+    {
+      "year": 1965,
+      "event": {
+        "en": "Took control of Berkshire Hathaway",
+        "zh": "接管伯克希尔·哈撒韦"
+      }
+    },
+    {
+      "year": 1977,
+      "event": {
+        "en": "First shareholder letter published",
+        "zh": "发布第一封致股东信"
+      }
+    },
+    {
+      "year": 2006,
+      "event": {
+        "en": "Pledged to give away 99% of his fortune to philanthropy",
+        "zh": "承诺将99%的财富捐献给慈善事业"
+      }
+    }
+  ],
+  "key_relationships": [
+    {
+      "name": "Charlie Munger",
+      "relationship": "business_partner",
+      "description": {
+        "en": "Vice Chairman of Berkshire Hathaway, intellectual partner since 1959",
+        "zh": "伯克希尔副董事长，自1959年以来的思想伙伴"
+      }
+    },
+    {
+      "name": "Benjamin Graham",
+      "relationship": "mentor",
+      "description": {
+        "en": "Father of value investing, teacher at Columbia Business School",
+        "zh": "价值投资之父，哥伦比亚商学院导师"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.0.0",
+    "created": "2025-05-31",
+    "language": "bilingual",
+    "sources": [
+      "Berkshire Hathaway Annual Letters",
+      "The Snowball by Alice Schroeder",
+      "CNBC Interviews"
+    ]
+  }
+}

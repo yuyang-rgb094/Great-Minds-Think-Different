@@ -1,0 +1,222 @@
+{
+  "id": "quotes-investing",
+  "title": {
+    "en": "Investing Quotes",
+    "zh": "投资语录"
+  },
+  "description": {
+    "en": "Warren Buffett's most famous quotes on investing",
+    "zh": "沃伦·巴菲特关于投资的最著名语录"
+  },
+  "quotes": [
+    {
+      "id": "Q-INV-001",
+      "content": {
+        "en": "Rule No.1: Never lose money. Rule No.2: Never forget rule No.1.",
+        "zh": "规则一：永远不要亏钱。规则二：永远记住规则一。"
+      },
+      "source": "Berkshire Hathaway Annual Meeting",
+      "themes": ["risk_management", "capital_preservation"],
+      "wisdom_score": 10
+    },
+    {
+      "id": "Q-INV-002",
+      "content": {
+        "en": "Be fearful when others are greedy and greedy when others are fearful.",
+        "zh": "别人贪婪时我恐惧，别人恐惧时我贪婪。"
+      },
+      "source": "Berkshire Hathaway Annual Letter, 1986",
+      "themes": ["contrarian", "market_psychology"],
+      "wisdom_score": 10
+    },
+    {
+      "id": "Q-INV-003",
+      "content": {
+        "en": "It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price.",
+        "zh": "以合理价格买入一家优秀的公司，远胜于以优秀价格买入一家平庸的公司。"
+      },
+      "source": "Berkshire Hathaway Annual Letter, 1989",
+      "themes": ["business_quality", "valuation"],
+      "wisdom_score": 10
+    },
+    {
+      "id": "Q-INV-004",
+      "content": {
+        "en": "Our favorite holding period is forever.",
+        "zh": "我们最喜欢的持有期是永远。"
+      },
+      "source": "Berkshire Hathaway Annual Letter, 1988",
+      "themes": ["long_term_investing", "time_horizon"],
+      "wisdom_score": 9
+    },
+    {
+      "id": "Q-INV-005",
+      "content": {
+        "en": "Risk comes from not knowing what you're doing.",
+        "zh": "风险来自于不知道自己在做什么。"
+      },
+      "source": "Berkshire Hathaway Annual Meeting, 1999",
+      "themes": ["circle_of_competence", "risk"],
+      "wisdom_score": 9
+    },
+    {
+      "id": "Q-INV-006",
+      "content": {
+        "en": "Diversification is protection against ignorance. It makes little sense if you know what you are doing.",
+        "zh": "分散投资是对无知的保护。如果你知道自己在做什么，分散投资就没有意义。"
+      },
+      "source": "Berkshire Hathaway Annual Meeting",
+      "themes": ["concentration", "diversification"],
+      "wisdom_score": 9
+    },
+    {
+      "id": "Q-INV-007",
+      "content": {
+        "en": "The stock market is designed to transfer money from the impatient to the patient.",
+        "zh": "股票市场的设计目的是将钱从没有耐心的人转移到有耐心的人手中。"
+      },
+      "source": "Berkshire Hathaway Annual Letter",
+      "themes": ["patience", "time_horizon"],
+      "wisdom_score": 9
+    },
+    {
+      "id": "Q-INV-008",
+      "content": {
+        "en": "Price is what you pay. Value is what you get.",
+        "zh": "价格是你付出的，价值是你得到的。"
+      },
+      "source": "Berkshire Hathaway Annual Letter, 2008",
+      "themes": ["value_investing", "price_vs_value"],
+      "wisdom_score": 10
+    },
+    {
+      "id": "Q-INV-009",
+      "content": {
+        "en": "If you aren't willing to own a stock for ten years, don't own it for ten minutes.",
+        "zh": "如果你不愿意持有一只股票十年，就不要持有它十分钟。"
+      },
+      "source": "Berkshire Hathaway Annual Letter, 1996",
+      "themes": ["long_term_investing", "commitment"],
+      "wisdom_score": 9
+    },
+    {
+      "id": "Q-INV-010",
+      "content": {
+        "en": "I never attempt to make money on the stock market. I buy on the assumption that they could close the market the next day and not reopen it for five years.",
+        "zh": "我从不试图在股市上赚钱。我买入的假设是，他们可以在第二天关闭市场，五年内不再开放。"
+      },
+      "source": "Berkshire Hathaway Annual Letter",
+      "themes": ["business_focus", "long_term"],
+      "wisdom_score": 9
+    },
+    {
+      "id": "Q-INV-011",
+      "content": {
+        "en": "The most important quality for an investor is temperament, not intellect.",
+        "zh": "投资者最重要的品质是气质，而非智力。"
+      },
+      "source": "Berkshire Hathaway Annual Meeting",
+      "themes": ["temperament", "psychology"],
+      "wisdom_score": 9
+    },
+    {
+      "id": "Q-INV-012",
+      "content": {
+        "en": "Investing is not a game where the guy with the 160 IQ beats the guy with 130 IQ. Rationality is the quality that matters.",
+        "zh": "投资不是智商160的人打败智商130的人的游戏。理性才是重要的品质。"
+      },
+      "source": "Berkshire Hathaway Annual Meeting",
+      "themes": ["rationality", "temperament"],
+      "wisdom_score": 9
+    },
+    {
+      "id": "Q-INV-013",
+      "content": {
+        "en": "Whether we're talking about socks or stocks, I like buying quality merchandise when it is marked down.",
+        "zh": "无论是袜子还是股票，我都喜欢在打折时购买优质商品。"
+      },
+      "source": "Berkshire Hathaway Annual Letter, 2008",
+      "themes": ["value_investing", "margin_of_safety"],
+      "wisdom_score": 8
+    },
+    {
+      "id": "Q-INV-014",
+      "content": {
+        "en": "In the business world, the rearview mirror is always clearer than the windshield.",
+        "zh": "在商业世界中，后视镜总是比挡风玻璃更清晰。"
+      },
+      "source": "Berkshire Hathaway Annual Letter",
+      "themes": ["uncertainty", "forecasting"],
+      "wisdom_score": 8
+    },
+    {
+      "id": "Q-INV-015",
+      "content": {
+        "en": "The key to making money in stocks is not to get scared out of them.",
+        "zh": "在股市赚钱的关键是不要被吓出去。"
+      },
+      "source": "Berkshire Hathaway Annual Meeting",
+      "themes": ["patience", "emotional_discipline"],
+      "wisdom_score": 8
+    },
+    {
+      "id": "Q-INV-016",
+      "content": {
+        "en": "Your goal as an investor should simply be to purchase, at a rational price, a part interest in an easily-understandable business whose earnings are virtually certain to be materially higher years from now.",
+        "zh": "作为投资者，你的目标应该只是以合理的价格购买一个容易理解的企业的部分权益，该企业的收益几乎肯定会在未来几年大幅增长。"
+      },
+      "source": "Berkshire Hathaway Annual Letter, 1996",
+      "themes": ["value_investing", "simplicity"],
+      "wisdom_score": 9
+    },
+    {
+      "id": "Q-INV-017",
+      "content": {
+        "en": "Forecasts usually tell us more about the forecaster than the future.",
+        "zh": "预测通常告诉我们更多关于预测者的信息，而不是未来。"
+      },
+      "source": "Berkshire Hathaway Annual Letter",
+      "themes": ["forecasting", "uncertainty"],
+      "wisdom_score": 8
+    },
+    {
+      "id": "Q-INV-018",
+      "content": {
+        "en": "Only buy something that you'd be perfectly happy to hold if the market shut down for 10 years.",
+        "zh": "只买那些如果市场关闭10年你也很乐意持有的东西。"
+      },
+      "source": "Berkshire Hathaway Annual Letter",
+      "themes": ["long_term", "business_focus"],
+      "wisdom_score": 9
+    },
+    {
+      "id": "Q-INV-019",
+      "content": {
+        "en": "We don't have to be smarter than the rest. We have to be more disciplined than the rest.",
+        "zh": "我们不必比其他人更聪明。我们需要比其他人更有纪律。"
+      },
+      "source": "Berkshire Hathaway Annual Meeting",
+      "themes": ["discipline", "temperament"],
+      "wisdom_score": 9
+    },
+    {
+      "id": "Q-INV-020",
+      "content": {
+        "en": "The line separating investment and speculation is not bright. But the most important distinction is that speculation focuses on price movements while investment focuses on value.",
+        "zh": "区分投资和投机的界限并不明显。但最重要的区别是投机关注价格波动，而投资关注价值。"
+      },
+      "source": "Berkshire Hathaway Annual Letter",
+      "themes": ["investment_vs_speculation", "value_focus"],
+      "wisdom_score": 9
+    }
+  ],
+  "metadata": {
+    "version": "1.0.0",
+    "created": "2025-05-31",
+    "total_quotes": 20,
+    "sources": [
+      "Berkshire Hathaway Annual Letters",
+      "Annual Meeting Transcripts"
+    ]
+  }
+}
