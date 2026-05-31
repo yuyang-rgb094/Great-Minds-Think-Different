@@ -1,8 +1,8 @@
 # Great Minds Think Different
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Minds-Steve%20Jobs%20%7C%20Tim%20Cook-blue" alt="Minds">
-  <img src="https://img.shields.io/badge/Total%20Entries-150%2B-green" alt="Entries">
+  <img src="https://img.shields.io/badge/Minds-Steve%20Jobs%20%7C%20Tim%20Cook%20%7C%20Warren%20Buffett-blue" alt="Minds">
+  <img src="https://img.shields.io/badge/Total%20Entries-250%2B-green" alt="Entries">
   <img src="https://img.shields.io/badge/Languages-English%20%7C%20中文-orange" alt="Languages">
   <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License">
 </p>
@@ -25,13 +25,13 @@
 |------|------|-----|---------|--------|
 | **Steve Jobs** | Apple Co-founder | 1955-2011 | 75+ | ✅ Available |
 | **Tim Cook** | Apple CEO | 2011-Present | 75 | ✅ Available |
+| **Warren Buffett** | Berkshire Hathaway Chairman | 1930-Present | 100+ | ✅ Available |
 
 ### Coming Soon
 
 - Elon Musk (Tesla, SpaceX, X)
 - Jeff Bezos (Amazon)
 - Bill Gates (Microsoft)
-- Warren Buffett (Berkshire Hathaway)
 - *And more...*
 
 ---
@@ -59,6 +59,22 @@ Great-Minds-Think-Different/
 │   ├── training/
 │   │   └── system_prompt.md          # AI agent prompt template
 │   └── sources/                      # Raw source materials
+│
+├── warren-buffett/                    # Warren Buffett Corpus
+│   ├── 01-core-identity/             # Persona & system prompt
+│   ├── 02-thinking-frameworks/        # Value investing, business evaluation
+│   ├── 03-behavioral-guidelines/     # Communication style, decision-making
+│   ├── 04-shareholder-letters/       # 49 letters (1977-2025)
+│   ├── 05-annual-meetings/           # 32 meetings (1994-2025)
+│   ├── 06-interviews/                # CNBC interviews
+│   ├── 07-quotes/                    # 53 quotes (investing, business, life)
+│   ├── 08-few-shot-examples/          # Interaction examples
+│   ├── 09-knowledge-base/           # Biography, Berkshire history
+│   ├── 10-quality-control/           # Validation & anti-hallucination
+│   ├── 11-embeddings/               # Vector embeddings (OpenAI)
+│   ├── scripts/                      # Download & processing scripts
+│   ├── MANIFEST.json                 # Corpus manifest
+│   └── README.md                     # Corpus README
 │
 └── templates/                         # Templates for new minds
     ├── corpus_template.json
@@ -130,6 +146,14 @@ response = ai_model.generate(
 - **Time Span**: 1976-2011
 - **Languages**: English & Chinese
 - **Sources**: Keynotes, interviews, All Things D, Stanford speech
+
+### Warren Buffett
+- **Total Entries**: 100+ (53 quotes, 49 shareholder letters, 32 meeting templates, 5 interviews)
+- **Categories**: 8 (Value Investing, Business Analysis, Market Behavior, Portfolio Management, Economic Outlook, Corporate Governance, Life Philosophy, Berkshire Operations)
+- **Time Span**: 1977-2025 (48 years of shareholder letters)
+- **Languages**: English & Chinese (bilingual)
+- **Sources**: Berkshire Hathaway Annual Letters, CNBC Interviews & Archive, Annual Meeting Transcripts
+- **Special Features**: Vector embeddings (964 chunks), few-shot examples, anti-hallucination guide
 
 ---
 
@@ -276,13 +300,13 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 |------|------|-----|---------|--------|
 | **史蒂夫·乔布斯** | 苹果联合创始人 | 1955-2011 | 75+ | ✅ 可用 |
 | **蒂姆·库克** | 苹果CEO | 2011-至今 | 75 | ✅ 可用 |
+| **沃伦·巴菲特** | 伯克希尔·哈撒韦董事长 | 1930-至今 | 100+ | ✅ 可用 |
 
 ### 即将推出
 
 - 埃隆·马斯克（特斯拉、SpaceX、X）
 - 杰夫·贝索斯（亚马逊）
 - 比尔·盖茨（微软）
-- 沃伦·巴菲特（伯克希尔·哈撒韦）
 - *更多...*
 
 ---
