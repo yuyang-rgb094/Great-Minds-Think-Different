@@ -1,0 +1,185 @@
+{
+  "id": "first-principles-thinking",
+  "title": {
+    "en": "First Principles Thinking",
+    "zh": "第一性原理思维"
+  },
+  "overview": {
+    "en": "First principles thinking is Musk's most core cognitive framework. It requires breaking down complex problems to the most fundamental physical laws and basic facts, then rebuilding solutions from these immovable foundations. This approach differs from analogical thinking by asking 'what is the essence of things.' Musk describes it as 'a physics approach to analyzing things.'",
+    "zh": "第一性原理思维是马斯克最核心的认知框架。它要求将复杂问题分解到最基本的物理定律和基本事实，然后从这些不可动摇的基础出发，重新构建解决方案。这种方法不同于类比思维，而是追问'事物的本质是什么'。马斯克将其描述为'物理学视角的分析方法'。"
+  },
+  "principles": [
+    {
+      "id": 1,
+      "en": "Decompose to Fundamental Facts — Break problems down to the most basic, indivisible truths. Don't rely on convention or analogy.",
+      "zh": "分解到基本事实 — 将问题分解到最基础的、不可再分的真理。不要依赖惯例或类比。"
+    },
+    {
+      "id": 2,
+      "en": "Question Every Assumption — Every 'known' needs to be verified. Industry conventions, expert opinions, historical data are assumptions, not facts.",
+      "zh": "质疑一切假设 — 每一个'已知'都需要被验证。行业惯例、专家意见、历史数据——这些都是假设，不是事实。"
+    },
+    {
+      "id": 3,
+      "en": "Build Up from Physical Laws — Once fundamental facts are established, rebuild solutions starting from the basic laws of physics and mathematics.",
+      "zh": "从物理定律出发构建 — 一旦确定了基本事实，从物理学和数学的基本定律出发，重新构建解决方案。"
+    },
+    {
+      "id": 4,
+      "en": "Ignore Analogical Reasoning — Analogical thinking leads to incremental improvements; only first principles thinking can achieve breakthrough innovation.",
+      "zh": "忽略类比推理 — 类比思维导致渐进式改进，第一性原理思维才能实现突破性创新。"
+    },
+    {
+      "id": 5,
+      "en": "Quantify Everything — Let numbers speak. Calculate material costs, energy density, physical limits rather than judging feasibility by intuition.",
+      "zh": "量化一切 — 用数字说话。计算材料成本、能源密度、物理极限，而不是凭直觉判断可行性。"
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "title": {
+        "en": "Battery Cost Analysis",
+        "zh": "电池成本分析"
+      },
+      "description": {
+        "en": "When the industry believed battery pack costs were about $600/kWh, Musk decomposed it with first principles: batteries are made of cobalt, nickel, aluminum, carbon, polymers, and steel, whose raw materials cost about $80/kWh on the London Metal Exchange. The question became 'how do we combine these materials more cleverly,' leading to Tesla's battery innovation strategy and Gigafactory plan.",
+        "zh": "当业界认为电池组成本约为$600/kWh时，马斯克用第一性原理进行了分解：电池由钴、镍、铝、碳、聚合物和钢组成，这些原材料在伦敦金属交易所的价格约为$80/kWh。问题变成了'我们如何更聪明地组合这些材料'，这直接催生了特斯拉的电池创新策略和Gigafactory计划。"
+      },
+      "source": "TED Interview, 2013",
+      "domain": ["Tesla", "Energy Storage"]
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "SpaceX Rocket Manufacturing",
+        "zh": "SpaceX火箭制造"
+      },
+      "description": {
+        "en": "The traditional aerospace industry believed rockets were disposable, with launch costs of hundreds of millions. Musk asked from physical laws: rocket raw materials account for only about 2% of sale price. If rockets could be reused, costs could drop 100x. This led to Falcon 9 reusable rocket development, reducing launch costs from ~$200M to ~$67M.",
+        "zh": "传统航天工业认为火箭是一次性的，发射成本高达数亿美元。马斯克从物理定律出发追问：火箭的原材料成本只占售价的约2%。如果火箭可以重复使用，成本可以降低100倍。这促成了Falcon 9可回收火箭的开发，将发射成本从约$2亿降低到约$6700万。"
+      },
+      "source": "SpaceX Press Conference, 2015",
+      "domain": ["SpaceX", "Aerospace"]
+    },
+    {
+      "id": 3,
+      "title": {
+        "en": "Tesla Vertical Integration",
+        "zh": "特斯拉垂直整合"
+      },
+      "description": {
+        "en": "The traditional auto industry relies on thousands of suppliers per vehicle. Musk analyzed and found many component supplier markups far exceeded raw material costs. Through vertical integration — manufacturing seats, chips, and motors in-house — Tesla dramatically reduced costs and accelerated innovation speed.",
+        "zh": "传统汽车行业每辆车有数千个供应商。马斯克分析后发现，许多零部件的供应商加价远超其原材料成本。通过垂直整合——自己制造座椅、芯片、电机——特斯拉大幅降低了成本并加快了创新速度。"
+      },
+      "source": "Tesla Annual Shareholder Meeting, 2020",
+      "domain": ["Tesla", "Manufacturing"]
+    },
+    {
+      "id": 4,
+      "title": {
+        "en": "Boring Company Tunnel Costs",
+        "zh": "Boring Company隧道成本"
+      },
+      "description": {
+        "en": "Traditional tunneling costs about $1 billion per mile. Musk analyzed with first principles: tunneling is essentially digging dirt, and costs mainly come from machine size, efficiency, and management overhead. By reducing tunnel diameter, increasing digging speed, and simplifying construction, Boring Company reduced target cost to under $100M per mile.",
+        "zh": "传统隧道挖掘成本约为每英里$10亿。马斯克用第一性原理分析：隧道挖掘本质上是挖土，成本主要来自机器尺寸、效率和管理开销。通过缩小隧道直径、提高挖掘速度、简化施工流程，Boring Company将目标成本降低到每英里$1亿以下。"
+      },
+      "source": "Boring Company Presentation, 2018",
+      "domain": ["Boring Company", "Infrastructure"]
+    },
+    {
+      "id": 5,
+      "title": {
+        "en": "Neuralink Technology Path",
+        "zh": "Neuralink技术路径"
+      },
+      "description": {
+        "en": "The brain-computer interface field traditionally used few electrodes with extremely low bandwidth. Musk started from information theory fundamentals: the human brain has about 86 billion neurons, and meaningful human-machine interaction requires extremely high bandwidth. This pushed Neuralink to develop high-density electrode arrays and surgical robots, increasing channel counts from dozens to over 1024.",
+        "zh": "脑机接口领域传统方法使用少数电极，带宽极低。马斯克从信息论的基本原理出发：人脑有约860亿个神经元，要实现有意义的人机交互，需要极高的带宽。这促使Neuralink开发高密度电极阵列和手术机器人，将通道数从几十个提升到1024个以上。"
+      },
+      "source": "Neuralink Launch Event, 2019",
+      "domain": ["Neuralink", "Neuroscience"]
+    }
+  ],
+  "quotes": [
+    {
+      "id": 1,
+      "en": "It's like a physics approach to analyzing things. You boil things down to the most fundamental truths and then reason up from there.",
+      "zh": "这就像一种物理学视角的分析方法。你把事物归结为最基本的真理，然后从那里开始推理。",
+      "source": "TED Interview, 2013"
+    },
+    {
+      "id": 2,
+      "en": "First principles is a physics way of looking at the world. What that really means is that you boil things down to their fundamental truths and reason up from there.",
+      "zh": "第一性原理是一种看待世界的物理学方式。它的真正含义是你把事物归结为最基本的真理，然后从那里开始推理。",
+      "source": "CB Insights Summit, 2017"
+    },
+    {
+      "id": 3,
+      "en": "I think it's important to reason from first principles rather than by analogy. The normal way we conduct our lives is we reason by analogy.",
+      "zh": "我认为从第一性原理出发进行推理，而不是通过类比来推理，这一点很重要。我们正常的生活方式是通过类比来推理。",
+      "source": "Wait But Why Interview, 2015"
+    },
+    {
+      "id": 4,
+      "en": "They said historically battery costs $600 per kilowatt-hour. First principles would say, what are the material constituents of the batteries? What is the spot market value of those material constituents?",
+      "zh": "他们从历史上说，电池的成本将是每千瓦时600美元。第一性原理会说，电池的材料成分是什么？这些材料成分的现货市场价值是多少？",
+      "source": "TED Interview, 2013"
+    },
+    {
+      "id": 5,
+      "en": "Physics teaches you to reason from first principles rather than by analogy. And I think that is very important for innovation.",
+      "zh": "物理学教会你从第一性原理出发进行推理，而不是通过类比。我认为这对创新非常重要。",
+      "source": "SpaceX Press Conference, 2020"
+    },
+    {
+      "id": 6,
+      "en": "You look at the fundamental constituents of a problem, and you say, 'What do we know is true?' And then you reason up from there.",
+      "zh": "你审视一个问题的基本组成部分，然后说'我们知道什么是真实的？'然后从那里开始推理。",
+      "source": "Lex Fridman Podcast, 2019"
+    },
+    {
+      "id": 7,
+      "en": "The first principle is that the function of a rocket is to get payload to orbit. So what's the most efficient way to do that?",
+      "zh": "第一性原理是火箭的功能是将有效载荷送入轨道。那么最高效的方法是什么？",
+      "source": "SpaceX Design Philosophy, 2018"
+    },
+    {
+      "id": 8,
+      "en": "When I was an undergrad, I'd read a lot of books. And I'd figure out what's important and what's not. And then try to boil it down to the essentials.",
+      "zh": "当我是本科生的时候，我会读很多书。然后我会弄清楚什么是重要的，什么不重要。然后试图把它归结为本质的东西。",
+      "source": "Rolling Stone Interview, 2017"
+    },
+    {
+      "id": 9,
+      "en": "If you're trying to create something new, you have to think from first principles. You can't just iterate on what exists.",
+      "zh": "如果你试图创造新的东西，你必须从第一性原理来思考。你不能只是在现有的东西上迭代。",
+      "source": "All-In Podcast, 2023"
+    },
+    {
+      "id": 10,
+      "en": "The best process is to boil things down to first principles in all domains. It's the most reliable way to figure out what to do.",
+      "zh": "最好的方法是在所有领域都把事物归结为第一性原理。这是弄清楚该做什么的最可靠方式。",
+      "source": "World Government Summit, 2017"
+    }
+  ],
+  "agent_application": {
+    "en": [
+      "Identify problem boundaries: clarify the core problem, decompose into independently analyzable sub-problems",
+      "Strip away assumptions: list all 'known' information, verify which are facts vs untested assumptions",
+      "Find fundamental truths: determine immovable basic facts (physical laws, mathematical principles, verified data)",
+      "Rebuild from foundation: logically derive possible solutions from basic facts, unconstrained by existing methods",
+      "Quantitative verification: perform quantitative analysis on derived solutions, calculate costs, efficiency, feasibility",
+      "Iterative optimization: compare with existing best approaches; if first principles solution is superior, implement boldly"
+    ],
+    "zh": [
+      "识别问题边界：明确要解决的核心问题，将复杂问题分解为可独立分析的子问题",
+      "剥离假设：列出所有'已知'信息，逐一验证哪些是事实，哪些是未经检验的假设",
+      "寻找基本真理：确定该领域中不可动摇的基本事实（物理定律、数学原理、已验证的数据）",
+      "从基础重建：从这些基本事实出发，逻辑推导出可能的解决方案，不受现有方法的限制",
+      "量化验证：对推导出的方案进行定量分析，计算成本、效率、可行性",
+      "迭代优化：将方案与现有最佳方案对比，如果第一性原理推导的方案更优，则大胆实施"
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "topic_id": "tesla-robotaxi",
+  "title_zh": "Tesla Robotaxi专题",
+  "title_en": "Tesla Robotaxi",
+  "version": "2025-06-01",
+  "sections": [
+    {
+      "section_id": "fsd_development",
+      "title_zh": "FSD发展历程",
+      "title_en": "FSD Development History",
+      "early_stage": {
+        "autopilot_1": {
+          "release": "2015-10",
+          "technology": "Mobileye-based",
+          "features": ["Highway assist", "Auto lane keeping", "Adaptive cruise control"]
+        },
+        "autopilot_2": {
+          "release": "2016",
+          "technology": "Tesla self-developed hardware",
+          "sensors": "8 cameras, radar, ultrasonic",
+          "promise": "Full self-driving eventually"
+        }
+      },
+      "fsd_beta": {
+        "release": "2020-10",
+        "features": ["City street autonomy", "Traffic light recognition", "Unprotected left turns"],
+        "iteration": "Bi-weekly updates",
+        "learning": "Shadow mode learning",
+        "milestones_2023": "Over 500 million miles driven"
+      },
+      "end_to_end": {
+        "fsd_v12": {
+          "release": "2024",
+          "architecture": "End-to-end neural network",
+          "improvement": "Replaced 1M+ lines of C++ with neural networks",
+          "style": "More human-like driving"
+        },
+        "fsd_v13": {
+          "release": "2025",
+          "feature": "Unsupervised learning",
+          "miles": "Over 5 billion",
+          "safety": "10x safer than human drivers"
+        }
+      }
+    },
+    {
+      "section_id": "robotaxi_vehicle",
+      "title_zh": "Robotaxi车辆",
+      "title_en": "Robotaxi Vehicle",
+      "cybercab": {
+        "design": ["No steering wheel", "No pedals", "Butterfly doors", "2-seat layout"],
+        "target_cost": "Under $30,000",
+        "specs": {
+          "technology": "FSD hardware only",
+          "charging": "Wireless charging",
+          "range_km": 400,
+          "lifespan_miles": 1000000
+        },
+        "timeline": {
+          "unveiling": "2024-10",
+          "production": "2026",
+          "deployment": "2027"
+        }
+      },
+      "retrofit": {
+        "models": "Model 3/Y",
+        "compatibility": "FSD hardware 3.0+",
+        "activation": "Software update",
+        "requirements": ["In-car camera monitoring", "Regular maintenance checks"]
+      }
+    },
+    {
+      "section_id": "business_model",
+      "title_zh": "商业模式",
+      "title_en": "Business Model",
+      "tesla_fleet": {
+        "model": "Tesla-owned and operated",
+        "hours": "24/7 service",
+        "management": "Centralized dispatch and maintenance",
+        "markets": ["Major urban areas", "Airport transfers", "Fixed-route services"]
+      },
+      "owner_participation": {
+        "tesla_network": [
+          "Owners can add vehicles to Robotaxi network",
+          "Automatic接单 during idle time",
+          "Revenue sharing with Tesla"
+        ],
+        "economics": {
+          "owner_share": "70-80%",
+          "tesla_share": "20-30% platform fee",
+          "annual_income_per_car": "$30,000"
+        },
+        "calculation": {
+          "daily_trips": 20,
+          "average_fare": "$15",
+          "annual_gross": "$30,000",
+          "net_after_maintenance": "$20,000"
+        }
+      }
+    },
+    {
+      "section_id": "regulation",
+      "title_zh": "监管与合规",
+      "title_en": "Regulation and Compliance",
+      "nhtsa": {
+        "process": ["Submit safety data", "Simulation testing", "Real-world testing", "Final approval"],
+        "progress": {
+          "2024": "Application submitted",
+          "2025": "Partial approval received",
+          "2026": "Full approval expected"
+        }
+      },
+      "state_regulations": {
+        "texas": {"status": "Testing allowed 2025", "city": "Austin", "environment": "Relatively permissive"},
+        "california": {"status": "Stricter process", "permits": "DMV and CPUC required", "expected": "2026"},
+        "arizona": {"status": "Testing allowed"},
+        "florida": {"status": "Legislation in progress"},
+        "nevada": {"status": "Approval pending"}
+      }
+    },
+    {
+      "section_id": "competition",
+      "title_zh": "竞争格局",
+      "title_en": "Competitive Landscape",
+      "waymo": {
+        "strengths": ["Deep technical积累", "Operating in multiple cities", "Good safety record"],
+        "weaknesses": ["LiDAR-dependent, high cost", "Geofenced limitations", "Slow expansion"],
+        "metrics": {
+          "weekly_paid_trips": "100,000+",
+          "autonomous_miles": "Tens of millions",
+          "cities": ["San Francisco", "Phoenix", "Los Angeles"]
+        }
+      },
+      "cruise": {
+        "status": [
+          "Suspended operations after 2023 incident",
+          "Resumed testing 2025",
+          "Backed by parent GM"
+        ]
+      },
+      "chinese": {
+        "baidu_apollo": {
+          "service": "萝卜快跑",
+          "operation": "Multiple Chinese cities",
+          "orders": "Over 5 million"
+        },
+        "others": ["Pony.ai", "WeRide"]
+      }
+    }
+  ],
+  "key_data": {
+    "fsd_milestones": [
+      {"time": "2015-10", "milestone": "Autopilot 1.0 release", "miles": "-"},
+      {"time": "2020-10", "milestone": "FSD Beta release", "miles": "1 million"},
+      {"time": "2023", "milestone": "FSD v11", "miles": "500 million"},
+      {"time": "2024", "milestone": "FSD v12", "miles": "2 billion"},
+      {"time": "2025", "milestone": "FSD v13", "miles": "5 billion"}
+    ],
+    "economics": {
+      "vehicle_cost_usd": 30000,
+      "cost_per_mile_usd": 0.2,
+      "revenue_per_mile_usd": 1.5,
+      "daily_miles": 300,
+      "annual_revenue_per_car_usd": 150000,
+      "owner_net_annual_usd": "20000-30000"
+    },
+    "competition_comparison": [
+      {"company": "Tesla", "tech": "Pure vision", "cities": "Austin (testing)", "weekly_orders": "-"},
+      {"company": "Waymo", "tech": "LiDAR", "cities": "3 cities", "weekly_orders": "100,000+"},
+      {"company": "Baidu Apollo", "tech": "Multi-sensor", "cities": "Multiple China", "weekly_orders": "200,000+"}
+    ]
+  },
+  "updates_2025_2026": {
+    "2025_progress": {
+      "austin_testing": [
+        "June 2025: Robotaxi testing began in Austin",
+        "Initial fleet: ~100 vehicles",
+        "Test area: Downtown",
+        "Safety drivers: Initially equipped, gradually removed"
+      ],
+      "fsd_v13": [
+        "Unsupervised learning version",
+        "Significant safety improvement",
+        "Rolled out to more users"
+      ]
+    },
+    "2026_outlook": {
+      "expansion": [
+        "California: Obtain operating permit",
+        "Arizona: Scale up operations",
+        "Florida: Launch service",
+        "Target: 10+ cities"
+      ],
+      "cybercab_production": [
+        "Production begins 2026",
+        "Target volume: 100,000 units",
+        "Cost target: Under $30,000"
+      ],
+      "business_validation": [
+        "Validate unit economics",
+        "Optimize dispatch algorithms",
+        "Establish maintenance network"
+      ]
+    }
+  },
+  "sources": [
+    "Tesla AI Day presentations (2021, 2022, 2023)",
+    "Tesla FSD release notes and updates",
+    "NHTSA autonomous vehicle reports",
+    "State DMV regulations and permits",
+    "Waymo and Cruise public data",
+    "Industry analyst reports on autonomous vehicles",
+    "Musk's X posts on Robotaxi progress",
+    "Tesla shareholder meeting presentations"
+  ]
+}

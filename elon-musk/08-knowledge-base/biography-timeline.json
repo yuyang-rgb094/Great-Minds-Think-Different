@@ -1,0 +1,290 @@
+{
+  "topic_id": "biography-timeline",
+  "title_zh": "埃隆·马斯克生平时间线",
+  "title_en": "Elon Musk Biography Timeline",
+  "version": "2025-06-01",
+  "sections": [
+    {
+      "section_id": "overview",
+      "title_zh": "概述",
+      "title_en": "Overview",
+      "content_zh": "埃隆·里夫·马斯克（Elon Reeve Musk）是当代最具影响力的企业家和创新者之一。他出生于南非，先后在加拿大和美国发展，创立了多家改变世界的公司，包括特斯拉、SpaceX、Neuralink等。他的愿景是让人类成为多行星物种，并确保人工智能的安全发展。",
+      "content_en": "Elon Reeve Musk is one of the most influential entrepreneurs and innovators of our time. Born in South Africa, he developed his career in Canada and the United States, founding multiple world-changing companies including Tesla, SpaceX, and Neuralink. His vision is to make humanity a multi-planetary species and ensure the safe development of artificial intelligence."
+    },
+    {
+      "section_id": "early_life",
+      "title_zh": "早年生活",
+      "title_en": "Early Life",
+      "period": "1971-1995",
+      "content_zh": "马斯克1971年6月28日出生于南非比勒陀利亚。10岁自学编程，12岁开发Blastar游戏。1989年移居加拿大就读女王大学，后转入宾夕法尼亚大学获得物理学和经济学双学位。1995年被斯坦福大学博士项目录取但两天后即辍学创业。",
+      "content_en": "Musk was born on June 28, 1971, in Pretoria, South Africa. He taught himself programming at age 10 and developed the Blastar game at age 12. In 1989, he moved to Canada to attend Queen's University, then transferred to the University of Pennsylvania, earning dual degrees in Physics and Economics. In 1995, he was admitted to Stanford's PhD program but dropped out after just two days to start his entrepreneurial journey."
+    },
+    {
+      "section_id": "first_ventures",
+      "title_zh": "第一次创业",
+      "title_en": "First Ventures",
+      "period": "1995-2002",
+      "content_zh": "1995年与弟弟创立Zip2，1999年以3.07亿美元被康柏收购。随后创立X.com，后与Confinity合并成为PayPal，2002年以15亿美元被eBay收购，马斯克获得1.65亿美元。",
+      "content_en": "In 1995, founded Zip2 with his brother, sold to Compaq for $307 million in 1999. Then founded X.com, which merged with Confinity to become PayPal, acquired by eBay for $1.5 billion in 2002, with Musk receiving $165 million."
+    },
+    {
+      "section_id": "spacex_tesla_era",
+      "title_zh": "SpaceX与特斯拉时代",
+      "title_en": "SpaceX and Tesla Era",
+      "period": "2002-2010",
+      "content_zh": "2002年6月创立SpaceX。2004年投资630万美元成为特斯拉董事长和最大股东。2008年金融危机期间两家公司濒临破产，但猎鹰1号第四次发射成功挽救了SpaceX。",
+      "content_en": "Founded SpaceX in June 2002. In 2004, invested $6.3 million to become Tesla's Chairman and largest shareholder. During the 2008 financial crisis, both companies were near bankruptcy, but Falcon 1's fourth launch success saved SpaceX."
+    },
+    {
+      "section_id": "rise_expansion",
+      "title_zh": "崛起与扩张",
+      "title_en": "Rise and Expansion",
+      "period": "2008-2016",
+      "content_zh": "2010年特斯拉IPO筹集2.26亿美元。2006年与表亲共同创立SolarCity，2016年被特斯拉以26亿美元收购。期间经历两次婚姻。",
+      "content_en": "Tesla IPO in 2010 raised $226 million. Co-founded SolarCity with cousins in 2006, acquired by Tesla for $2.6 billion in 2016. Experienced two marriages during this period."
+    },
+    {
+      "section_id": "new_frontiers",
+      "title_zh": "新领域拓展",
+      "title_en": "New Frontiers",
+      "period": "2016-2022",
+      "content_zh": "2016年创立Neuralink和The Boring Company。2018-2021年与格莱姆斯交往并生下两个孩子。2021年与Neuralink高管希冯·齐利斯生下双胞胎。",
+      "content_en": "Founded Neuralink and The Boring Company in 2016. 2018-2021 relationship with Grimes produced two children. In 2021, had twins with Neuralink executive Shivon Zilis."
+    },
+    {
+      "section_id": "x_platform_era",
+      "title_zh": "X平台时代",
+      "title_en": "X Platform Era",
+      "period": "2022-2024",
+      "content_zh": "2022年10月以440亿美元收购Twitter并更名为X。2023年7月创立xAI开发Grok AI。",
+      "content_en": "October 2022: Acquired Twitter for $44 billion and renamed it to X. July 2023: Founded xAI to develop Grok AI."
+    },
+    {
+      "section_id": "updates_2025_2026",
+      "title_zh": "2025-2026更新",
+      "title_en": "2025-2026 Updates",
+      "content_zh": "2025年1-5月担任DOGE特别政府雇员推动联邦效率改革。2026年2月宣布SpaceX与xAI合并，估值1.25万亿美元，计划6月以STAR代码IPO。",
+      "content_en": "January-May 2025: Served as special government employee at DOGE pushing federal efficiency reforms. February 2026: Announced SpaceX-xAI merger valued at $1.25 trillion, planning June IPO under ticker STAR."
+    }
+  ],
+  "key_facts": [
+    {
+      "date": "1971-06-28",
+      "event_zh": "出生于南非比勒陀利亚",
+      "event_en": "Born in Pretoria, South Africa",
+      "category": "birth"
+    },
+    {
+      "date": "1983",
+      "event_zh": "12岁开发Blastar游戏",
+      "event_en": "Developed Blastar game at age 12",
+      "category": "early_achievement"
+    },
+    {
+      "date": "1995",
+      "event_zh": "创立Zip2",
+      "event_en": "Founded Zip2",
+      "category": "company_founded"
+    },
+    {
+      "date": "1999-02",
+      "event_zh": "Zip2被康柏以3.07亿美元收购",
+      "event_en": "Zip2 acquired by Compaq for $307 million",
+      "category": "exit"
+    },
+    {
+      "date": "1999-03",
+      "event_zh": "创立X.com",
+      "event_en": "Founded X.com",
+      "category": "company_founded"
+    },
+    {
+      "date": "2000",
+      "event_zh": "与贾斯汀·威尔逊结婚",
+      "event_en": "Married Justine Wilson",
+      "category": "personal"
+    },
+    {
+      "date": "2002-06",
+      "event_zh": "创立SpaceX",
+      "event_en": "Founded SpaceX",
+      "category": "company_founded"
+    },
+    {
+      "date": "2002-10",
+      "event_zh": "PayPal被eBay以15亿美元收购",
+      "event_en": "PayPal acquired by eBay for $1.5 billion",
+      "category": "exit"
+    },
+    {
+      "date": "2004",
+      "event_zh": "投资特斯拉630万美元",
+      "event_en": "Invested $6.3 million in Tesla",
+      "category": "investment"
+    },
+    {
+      "date": "2006",
+      "event_zh": "创立SolarCity",
+      "event_en": "Founded SolarCity",
+      "category": "company_founded"
+    },
+    {
+      "date": "2008-09-28",
+      "event_zh": "猎鹰1号首次成功入轨",
+      "event_en": "Falcon 1 first successful orbital flight",
+      "category": "milestone"
+    },
+    {
+      "date": "2008",
+      "event_zh": "与贾斯汀·威尔逊离婚",
+      "event_en": "Divorced Justine Wilson",
+      "category": "personal"
+    },
+    {
+      "date": "2010-06-29",
+      "event_zh": "特斯拉IPO",
+      "event_en": "Tesla IPO",
+      "category": "milestone"
+    },
+    {
+      "date": "2010",
+      "event_zh": "与妲露拉·莱莉结婚",
+      "event_en": "Married Talulah Riley",
+      "category": "personal"
+    },
+    {
+      "date": "2012",
+      "event_zh": "与妲露拉·莱莉首次离婚",
+      "event_en": "First divorce from Talulah Riley",
+      "category": "personal"
+    },
+    {
+      "date": "2013",
+      "event_zh": "与妲露拉·莱莉复婚",
+      "event_en": "Remarried Talulah Riley",
+      "category": "personal"
+    },
+    {
+      "date": "2016-07",
+      "event_zh": "创立Neuralink",
+      "event_en": "Founded Neuralink",
+      "category": "company_founded"
+    },
+    {
+      "date": "2016-12",
+      "event_zh": "创立The Boring Company",
+      "event_en": "Founded The Boring Company",
+      "category": "company_founded"
+    },
+    {
+      "date": "2016",
+      "event_zh": "与妲露拉·莱莉再次离婚",
+      "event_en": "Second divorce from Talulah Riley",
+      "category": "personal"
+    },
+    {
+      "date": "2016-11",
+      "event_zh": "特斯拉收购SolarCity",
+      "event_en": "Tesla acquired SolarCity",
+      "category": "acquisition"
+    },
+    {
+      "date": "2018",
+      "event_zh": "开始与格莱姆斯交往",
+      "event_en": "Began relationship with Grimes",
+      "category": "personal"
+    },
+    {
+      "date": "2020-05-04",
+      "event_zh": "儿子X Æ A-Xii出生",
+      "event_en": "Son X Æ A-Xii born",
+      "category": "personal"
+    },
+    {
+      "date": "2021-11",
+      "event_zh": "与希冯·齐利斯生下双胞胎",
+      "event_en": "Twins born with Shivon Zilis",
+      "category": "personal"
+    },
+    {
+      "date": "2021-12",
+      "event_zh": "女儿Exa Dark Sideræl (Y)出生",
+      "event_en": "Daughter Exa Dark Sideræl (Y) born",
+      "category": "personal"
+    },
+    {
+      "date": "2022-10-27",
+      "event_zh": "完成Twitter收购",
+      "event_en": "Completed Twitter acquisition",
+      "category": "acquisition"
+    },
+    {
+      "date": "2023-07",
+      "event_zh": "创立xAI",
+      "event_en": "Founded xAI",
+      "category": "company_founded"
+    },
+    {
+      "date": "2025-01",
+      "event_zh": "被任命为DOGE特别政府雇员",
+      "event_en": "Appointed as special government employee at DOGE",
+      "category": "government"
+    },
+    {
+      "date": "2025-05-30",
+      "event_zh": "辞去DOGE职务",
+      "event_en": "Resigned from DOGE position",
+      "category": "government"
+    },
+    {
+      "date": "2026-02",
+      "event_zh": "宣布SpaceX与xAI合并",
+      "event_en": "Announced SpaceX-xAI merger",
+      "category": "merger"
+    },
+    {
+      "date": "2026-06",
+      "event_zh": "SpaceX-xAI计划IPO",
+      "event_en": "SpaceX-xAI planned IPO",
+      "category": "ipo"
+    }
+  ],
+  "children": [
+    {"name": "Nevada", "birth_year": 2002, "status": "deceased", "mother": "Justine Wilson"},
+    {"name": "Griffin", "birth_year": 2004, "mother": "Justine Wilson"},
+    {"name": "Xavier", "birth_year": 2004, "mother": "Justine Wilson"},
+    {"name": "Kai", "birth_year": 2006, "mother": "Justine Wilson"},
+    {"name": "Saxon", "birth_year": 2006, "mother": "Justine Wilson"},
+    {"name": "Damian", "birth_year": 2006, "mother": "Justine Wilson"},
+    {"name": "X Æ A-Xii", "birth_year": 2020, "mother": "Grimes"},
+    {"name": "Exa Dark Sideræl (Y)", "birth_year": 2021, "mother": "Grimes"},
+    {"name": "Strider", "birth_year": 2021, "mother": "Shivon Zilis"},
+    {"name": "Azure", "birth_year": 2021, "mother": "Shivon Zilis"}
+  ],
+  "sources": [
+    {
+      "title": "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",
+      "author": "Ashlee Vance",
+      "publisher": "Ecco",
+      "year": 2015
+    },
+    {
+      "title": "Elon Musk",
+      "author": "Walter Isaacson",
+      "publisher": "Simon & Schuster",
+      "year": 2023
+    },
+    {
+      "source": "Tesla, Inc. SEC filings and investor presentations"
+    },
+    {
+      "source": "SpaceX official website and press releases"
+    },
+    {
+      "source": "Forbes Billionaires List"
+    },
+    {
+      "source": "Musk's X posts and interviews"
+    }
+  ]
+}

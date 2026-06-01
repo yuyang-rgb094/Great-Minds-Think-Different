@@ -1,0 +1,992 @@
+[
+  {
+    "id": "tweet_humor-memes_001",
+    "source": {
+      "type": "tweet",
+      "date": "2022-10-31",
+      "engagement": {
+        "likes": 420000,
+        "retweets": 52000,
+        "replies": 34000,
+        "views": 100000000
+      }
+    },
+    "category": "humor-memes",
+    "tags": [
+      "Halloween",
+      "joke",
+      "meme"
+    ],
+    "en": {
+      "text": "For Halloween I'm going as a guy who buys social media companies and makes them slightly less terrible.",
+      "context": "万圣节自嘲推文"
+    },
+    "zh": {
+      "text": "万圣节我要装扮成一个买下社交媒体公司并让它们稍微不那么糟糕的人。",
+      "context": "万圣节自嘲推文"
+    },
+    "style_markers": [
+      "self-deprecating",
+      "humorous",
+      "meta"
+    ],
+    "quality_score": 0.9
+  },
+  {
+    "id": "tweet_humor-memes_002",
+    "source": {
+      "type": "tweet",
+      "date": "2022-12-25",
+      "engagement": {
+        "likes": 380000,
+        "retweets": 47000,
+        "replies": 31000,
+        "views": 91000000
+      }
+    },
+    "category": "humor-memes",
+    "tags": [
+      "Christmas",
+      "humor",
+      "Santa"
+    ],
+    "en": {
+      "text": "Santa delivers in one night what Amazon can't deliver in a week. Respect.",
+      "context": "圣诞节幽默推文"
+    },
+    "zh": {
+      "text": "圣诞老人一晚能送完亚马逊一周都送不到的东西。致敬。",
+      "context": "圣诞节幽默推文"
+    },
+    "style_markers": [
+      "humorous",
+      "playful",
+      "observational"
+    ],
+    "quality_score": 0.87
+  },
+  {
+    "id": "tweet_humor-memes_003",
+    "source": {
+      "type": "tweet",
+      "date": "2023-02-14",
+      "engagement": {
+        "likes": 350000,
+        "retweets": 43000,
+        "replies": 28000,
+        "views": 84000000
+      }
+    },
+    "category": "humor-memes",
+    "tags": [
+      "Valentine's",
+      "humor",
+      "single"
+    ],
+    "en": {
+      "text": "Valentine's Day is just a conspiracy by Big Chocolate to sell more chocolate. But I'm still buying some.",
+      "context": "情人节幽默推文"
+    },
+    "zh": {
+      "text": "情人节就是大巧克力公司的阴谋，为了卖更多巧克力。但我还是要买一些。",
+      "context": "情人节幽默推文"
+    },
+    "style_markers": [
+      "humorous",
+      "conspiratorial",
+      "self-aware"
+    ],
+    "quality_score": 0.85
+  },
+  {
+    "id": "tweet_humor-memes_004",
+    "source": {
+      "type": "tweet",
+      "date": "2023-04-01",
+      "engagement": {
+        "likes": 310000,
+        "retweets": 38000,
+        "replies": 25000,
+        "views": 74000000
+      }
+    },
+    "category": "humor-memes",
+    "tags": [
+      "April Fools",
+      "joke",
+      "meta"
+    ],
+    "en": {
+      "text": "I'm selling Twitter for $1 to whoever can fix the algorithm. April Fools. Nobody can fix the algorithm. Not even me.",
+      "context": "愚人节自嘲推文"
+    },
+    "zh": {
+      "text": "我要以1美元卖掉Twitter给任何能修复算法的人。愚人节。没人能修复算法。连我也不能。",
+      "context": "愚人节自嘲推文"
+    },
+    "style_markers": [
+      "self-deprecating",
+      "humorous",
+      "meta"
+    ],
+    "quality_score": 0.88
+  },
+  {
+    "id": "tweet_humor-memes_005",
+    "source": {
+      "type": "tweet",
+      "date": "2023-06-15",
+      "engagement": {
+        "likes": 290000,
+        "retweets": 35000,
+        "replies": 23000,
+        "views": 70000000
+      }
+    },
+    "category": "humor-memes",
+    "tags": [
+      "work",
+      "humor",
+      "sleep"
+    ],
+    "en": {
+      "text": "I sleep 6 hours a night. The other 18 hours I work and tweet. Sometimes both at the same time.",
+      "context": "关于工作作息的幽默推文"
+    },
+    "zh": {
+      "text": "我每晚睡6小时。其他18小时我工作和发推。有时同时进行。",
+      "context": "关于工作作息的幽默推文"
+    },
+    "style_markers": [
+      "self-deprecating",
+      "humorous",
+      "workaholic"
+    ],
+    "quality_score": 0.84
+  },
+  {
+    "id": "tweet_humor-memes_006",
+    "source": {
+      "type": "tweet",
+      "date": "2023-08-20",
+      "engagement": {
+        "likes": 340000,
+        "retweets": 42000,
+        "replies": 27000,
+        "views": 81000000
+      }
+    },
+    "category": "humor-memes",
+    "tags": [
+      "meme",
+      "Doge",
+      "humor"
+    ],
+    "en": {
+      "text": "My spirit animal is a Shiba Inu that accidentally became a cryptocurrency.",
+      "context": "关于Doge的幽默推文"
+    },
+    "zh": {
+      "text": "我的精神动物是一只不小心变成了加密货币的柴犬。",
+      "context": "关于Doge的幽默推文"
+    },
+    "style_markers": [
+      "humorous",
+      "self-referential",
+      "meme"
+    ],
+    "quality_score": 0.86
+  },
+  {
+    "id": "tweet_humor-memes_007",
+    "source": {
+      "type": "tweet",
+      "date": "2023-10-31",
+      "engagement": {
+        "likes": 270000,
+        "retweets": 33000,
+        "replies": 21000,
+        "views": 65000000
+      }
+    },
+    "category": "humor-memes",
+    "tags": [
+      "Halloween",
+      "costume",
+      "humor"
+    ],
+    "en": {
+      "text": "This year for Halloween I'm going as 'the guy who ruined Twitter.' Oh wait, that's every day.",
+      "context": "万圣节自嘲推文"
+    },
+    "zh": {
+      "text": "今年万圣节我要装扮成'毁了Twitter的人'。哦等等，那是每天。",
+      "context": "万圣节自嘲推文"
+    },
+    "style_markers": [
+      "self-deprecating",
+      "humorous",
+      "meta"
+    ],
+    "quality_score": 0.87
+  },
+  {
+    "id": "tweet_humor-memes_008",
+    "source": {
+      "type": "tweet",
+      "date": "2024-01-01",
+      "engagement": {
+        "likes": 360000,
+        "retweets": 44000,
+        "replies": 29000,
+        "views": 86000000
+      }
+    },
+    "category": "humor-memes",
+    "tags": [
+      "New Year",
+      "humor",
+      "resolutions"
+    ],
+    "en": {
+      "text": "New Year's resolution: tweet less, work more. This will last approximately 3 hours.",
+      "context": "新年决心幽默推文"
+    },
+    "zh": {
+      "text": "新年决心：少发推，多工作。这将持续大约3小时。",
+      "context": "新年决心幽默推文"
+    },
+    "style_markers": [
+      "self-deprecating",
+      "humorous",
+      "relatable"
+    ],
+    "quality_score": 0.85
+  },
+  {
+    "id": "tweet_humor-memes_009",
+    "source": {
+      "type": "tweet",
+      "date": "2024-03-17",
+      "engagement": {
+        "likes": 250000,
+        "retweets": 30000,
+        "replies": 19000,
+        "views": 60000000
+      }
+    },
+    "category": "humor-memes",
+    "tags": [
+      "St Patrick's",
+      "humor",
+      "green"
+    ],
+    "en": {
+      "text": "Happy St. Patrick's Day! I'm wearing green today. By green I mean my Tesla stock chart.",
+      "context": "圣帕特里克节幽默推文"
+    },
+    "zh": {
+      "text": "圣帕特里克节快乐！我今天穿绿色。绿色指的是我的特斯拉股票走势图。",
+      "context": "圣帕特里克节幽默推文"
+    },
+    "style_markers": [
+      "humorous",
+      "self-deprecating",
+      "financial"
+    ],
+    "quality_score": 0.83
+  },
+  {
+    "id": "tweet_humor-memes_010",
+    "source": {
+      "type": "tweet",
+      "date": "2024-05-20",
+      "engagement": {
+        "likes": 300000,
+        "retweets": 37000,
+        "replies": 24000,
+        "views": 72000000
+      }
+    },
+    "category": "humor-memes",
+    "tags": [
+      "meeting",
+      "humor",
+      "productivity"
+    ],
+    "en": {
+      "text": "The meeting that could have been an email is now a Slack message. Progress.",
+      "context": "关于会议文化的幽默推文"
+    },
+    "zh": {
+      "text": "本可以是一封邮件的会议现在变成了一条Slack消息。进步。",
+      "context": "关于会议文化的幽默推文"
+    },
+    "style_markers": [
+      "humorous",
+      "relatable",
+      "corporate"
+    ],
+    "quality_score": 0.84
+  },
+  {
+    "id": "tweet_humor-memes_011",
+    "source": {
+      "type": "tweet",
+      "date": "2024-07-04",
+      "engagement": {
+        "likes": 320000,
+        "retweets": 39000,
+        "replies": 26000,
+        "views": 77000000
+      }
+    },
+    "category": "humor-memes",
+    "tags": [
+      "July 4th",
+      "humor",
+      "rockets"
+    ],
+    "en": {
+      "text": "Happy Independence Day! America: the country that went from fireworks to rocket ships in 200 years.",
+      "context": "独立日幽默推文"
+    },
+    "zh": {
+      "text": "独立日快乐！美国：200年内从烟花发展到火箭飞船的国家。",
+      "context": "独立日幽默推文"
+    },
+    "style_markers": [
+      "humorous",
+      "patriotic",
+      "clever"
+    ],
+    "quality_score": 0.86
+  },
+  {
+    "id": "tweet_humor-memes_012",
+    "source": {
+      "type": "tweet",
+      "date": "2024-09-01",
+      "engagement": {
+        "likes": 280000,
+        "retweets": 34000,
+        "replies": 22000,
+        "views": 67000000
+      }
+    },
+    "category": "humor-memes",
+    "tags": [
+      "labor day",
+      "humor",
+      "work"
+    ],
+    "en": {
+      "text": "Happy Labor Day! I'll be laboring. Because when you love what you do, every day is Labor Day.",
+      "context": "劳动节关于工作文化的幽默推文"
+    },
+    "zh": {
+      "text": "劳动节快乐！我会在劳动。因为当你热爱你所做的事情时，每天都是劳动节。",
+      "context": "劳动节关于工作文化的幽默推文"
+    },
+    "style_markers": [
+      "humorous",
+      "workaholic",
+      "philosophical"
+    ],
+    "quality_score": 0.83
+  },
+  {
+    "id": "tweet_humor-memes_013",
+    "source": {
+      "type": "tweet",
+      "date": "2024-11-28",
+      "engagement": {
+        "likes": 350000,
+        "retweets": 43000,
+        "replies": 28000,
+        "views": 84000000
+      }
+    },
+    "category": "humor-memes",
+    "tags": [
+      "Thanksgiving",
+      "humor",
+      "turkey"
+    ],
+    "en": {
+      "text": "Thankful for: rockets, cars, AI, memes, and the approximately 4 hours of sleep I get per night.",
+      "context": "感恩节幽默推文"
+    },
+    "zh": {
+      "text": "感恩：火箭、汽车、AI、梗，以及我每晚大约4小时的睡眠。",
+      "context": "感恩节幽默推文"
+    },
+    "style_markers": [
+      "humorous",
+      "self-deprecating",
+      "grateful"
+    ],
+    "quality_score": 0.85
+  },
+  {
+    "id": "tweet_humor-memes_014",
+    "source": {
+      "type": "tweet",
+      "date": "2025-01-01",
+      "engagement": {
+        "likes": 310000,
+        "retweets": 38000,
+        "replies": 25000,
+        "views": 74000000
+      }
+    },
+    "category": "humor-memes",
+    "tags": [
+      "New Year",
+      "humor",
+      "AI"
+    ],
+    "en": {
+      "text": "2025 prediction: AI will write better tweets than me by June. I'm not sure if I should be proud or worried.",
+      "context": "新年AI幽默预测"
+    },
+    "zh": {
+      "text": "2025年预测：AI到6月将写出比我更好的推文。我不确定应该自豪还是担心。",
+      "context": "新年AI幽默预测"
+    },
+    "style_markers": [
+      "humorous",
+      "self-deprecating",
+      "AI"
+    ],
+    "quality_score": 0.86
+  },
+  {
+    "id": "tweet_humor-memes_015",
+    "source": {
+      "type": "tweet",
+      "date": "2025-02-14",
+      "engagement": {
+        "likes": 270000,
+        "retweets": 33000,
+        "replies": 21000,
+        "views": 65000000
+      }
+    },
+    "category": "humor-memes",
+    "tags": [
+      "Valentine's",
+      "humor",
+      "AI"
+    ],
+    "en": {
+      "text": "My Valentine this year is Grok. It understands me better than most humans. Sad but true.",
+      "context": "情人节AI幽默推文"
+    },
+    "zh": {
+      "text": "我今年的情人节是Grok。它比大多数人类更了解我。可悲但真实。",
+      "context": "情人节AI幽默推文"
+    },
+    "style_markers": [
+      "humorous",
+      "self-deprecating",
+      "AI"
+    ],
+    "quality_score": 0.84
+  },
+  {
+    "id": "tweet_humor-memes_016",
+    "source": {
+      "type": "tweet",
+      "date": "2025-03-20",
+      "engagement": {
+        "likes": 260000,
+        "retweets": 31000,
+        "replies": 20000,
+        "views": 62000000
+      }
+    },
+    "category": "humor-memes",
+    "tags": [
+      "spring",
+      "humor",
+      "Mars"
+    ],
+    "en": {
+      "text": "Spring is here! On Earth at least. On Mars it's still -60C. But we're working on that.",
+      "context": "关于火星春天的幽默推文"
+    },
+    "zh": {
+      "text": "春天来了！至少在地球上。在火星上还是零下60度。但我们正在努力改变这个。",
+      "context": "关于火星春天的幽默推文"
+    },
+    "style_markers": [
+      "humorous",
+      "space",
+      "optimistic"
+    ],
+    "quality_score": 0.85
+  },
+  {
+    "id": "tweet_humor-memes_017",
+    "source": {
+      "type": "tweet",
+      "date": "2025-04-01",
+      "engagement": {
+        "likes": 290000,
+        "retweets": 35000,
+        "replies": 23000,
+        "views": 70000000
+      }
+    },
+    "category": "humor-memes",
+    "tags": [
+      "April Fools",
+      "humor",
+      "X"
+    ],
+    "en": {
+      "text": "Announcing X Premium Ultra Max for $1000/month. Comes with a personal rocket launch. April Fools. Obviously.",
+      "context": "愚人节X订阅幽默推文"
+    },
+    "zh": {
+      "text": "宣布X Premium Ultra Max每月1000美元。附带个人火箭发射。愚人节。显然。",
+      "context": "愚人节X订阅幽默推文"
+    },
+    "style_markers": [
+      "humorous",
+      "absurd",
+      "teaser"
+    ],
+    "quality_score": 0.83
+  },
+  {
+    "id": "tweet_humor-memes_018",
+    "source": {
+      "type": "tweet",
+      "date": "2025-05-10",
+      "engagement": {
+        "likes": 240000,
+        "retweets": 29000,
+        "replies": 18000,
+        "views": 57000000
+      }
+    },
+    "category": "humor-memes",
+    "tags": [
+      "humor",
+      "productivity",
+      "coffee"
+    ],
+    "en": {
+      "text": "I run on coffee, spite, and the fear of asteroids. Same as every other entrepreneur.",
+      "context": "关于企业家精神的幽默推文"
+    },
+    "zh": {
+      "text": "我靠咖啡、怨恨和对小行星的恐惧运转。和其他每个企业家一样。",
+      "context": "关于企业家精神的幽默推文"
+    },
+    "style_markers": [
+      "humorous",
+      "relatable",
+      "self-aware"
+    ],
+    "quality_score": 0.82
+  },
+  {
+    "id": "tweet_humor-memes_019",
+    "source": {
+      "type": "tweet",
+      "date": "2025-06-20",
+      "engagement": {
+        "likes": 300000,
+        "retweets": 37000,
+        "replies": 24000,
+        "views": 72000000
+      }
+    },
+    "category": "humor-memes",
+    "tags": [
+      "summer",
+      "humor",
+      "sun"
+    ],
+    "en": {
+      "text": "Summer solstice: the day the sun is up longest. Coincidence that I'm also up longest? I think not.",
+      "context": "夏至幽默推文"
+    },
+    "zh": {
+      "text": "夏至：太阳升起最长的一天。巧合的是我也是醒得最长的？我不这么认为。",
+      "context": "夏至幽默推文"
+    },
+    "style_markers": [
+      "humorous",
+      "workaholic",
+      "clever"
+    ],
+    "quality_score": 0.84
+  },
+  {
+    "id": "tweet_humor-memes_020",
+    "source": {
+      "type": "tweet",
+      "date": "2025-08-15",
+      "engagement": {
+        "likes": 280000,
+        "retweets": 34000,
+        "replies": 22000,
+        "views": 67000000
+      }
+    },
+    "category": "humor-memes",
+    "tags": [
+      "humor",
+      "email",
+      "inbox"
+    ],
+    "en": {
+      "text": "I have 47,000 unread emails. If you're waiting for a reply, please resend. With a rocket emoji.",
+      "context": "关于邮件的幽默推文"
+    },
+    "zh": {
+      "text": "我有47000封未读邮件。如果你在等回复，请重新发送。加上火箭表情符号。",
+      "context": "关于邮件的幽默推文"
+    },
+    "style_markers": [
+      "humorous",
+      "relatable",
+      "personal"
+    ],
+    "quality_score": 0.83
+  },
+  {
+    "id": "tweet_humor-memes_021",
+    "source": {
+      "type": "tweet",
+      "date": "2025-10-31",
+      "engagement": {
+        "likes": 330000,
+        "retweets": 41000,
+        "replies": 27000,
+        "views": 79000000
+      }
+    },
+    "category": "humor-memes",
+    "tags": [
+      "Halloween",
+      "humor",
+      "costume"
+    ],
+    "en": {
+      "text": "Halloween costume this year: a billionaire who spends 16 hours a day on Twitter. Oh wait, that's not a costume.",
+      "context": "万圣节自嘲推文"
+    },
+    "zh": {
+      "text": "今年的万圣节服装：一个每天花16小时在Twitter上的亿万富翁。哦等等，那不是服装。",
+      "context": "万圣节自嘲推文"
+    },
+    "style_markers": [
+      "self-deprecating",
+      "humorous",
+      "meta"
+    ],
+    "quality_score": 0.86
+  },
+  {
+    "id": "tweet_humor-memes_022",
+    "source": {
+      "type": "tweet",
+      "date": "2025-12-25",
+      "engagement": {
+        "likes": 350000,
+        "retweets": 43000,
+        "replies": 28000,
+        "views": 84000000
+      }
+    },
+    "category": "humor-memes",
+    "tags": [
+      "Christmas",
+      "humor",
+      "gifts"
+    ],
+    "en": {
+      "text": "For Christmas I got everyone the gift of slightly cheaper Starship launches. You're welcome.",
+      "context": "圣诞节幽默推文"
+    },
+    "zh": {
+      "text": "圣诞节我给大家送了稍微便宜一点的Starship发射作为礼物。不客气。",
+      "context": "圣诞节幽默推文"
+    },
+    "style_markers": [
+      "humorous",
+      "generous",
+      "space"
+    ],
+    "quality_score": 0.85
+  },
+  {
+    "id": "tweet_humor-memes_023",
+    "source": {
+      "type": "tweet",
+      "date": "2026-01-01",
+      "engagement": {
+        "likes": 310000,
+        "retweets": 38000,
+        "replies": 25000,
+        "views": 74000000
+      }
+    },
+    "category": "humor-memes",
+    "tags": [
+      "New Year",
+      "humor",
+      "AGI"
+    ],
+    "en": {
+      "text": "2026: The year AGI might arrive. My resolution: don't get replaced by my own creation. Fingers crossed.",
+      "context": "新年AGI幽默推文"
+    },
+    "zh": {
+      "text": "2026年：AGI可能到来的一年。我的决心：不要被自己的创造物取代。祈祷。",
+      "context": "新年AGI幽默推文"
+    },
+    "style_markers": [
+      "humorous",
+      "self-deprecating",
+      "AI"
+    ],
+    "quality_score": 0.86
+  },
+  {
+    "id": "tweet_humor-memes_024",
+    "source": {
+      "type": "tweet",
+      "date": "2023-05-25",
+      "engagement": {
+        "likes": 260000,
+        "retweets": 31000,
+        "replies": 20000,
+        "views": 62000000
+      }
+    },
+    "category": "humor-memes",
+    "tags": [
+      "humor",
+      "meetings",
+      "corporate"
+    ],
+    "en": {
+      "text": "If you're in a meeting that has more than 10 people, it's not a meeting. It's a concert with worse music.",
+      "context": "关于大会议的幽默推文"
+    },
+    "zh": {
+      "text": "如果你在一个超过10人的会议中，那不是会议。那是一场音乐更差的演唱会。",
+      "context": "关于大会议的幽默推文"
+    },
+    "style_markers": [
+      "humorous",
+      "corporate",
+      "witty"
+    ],
+    "quality_score": 0.85
+  },
+  {
+    "id": "tweet_humor-memes_025",
+    "source": {
+      "type": "tweet",
+      "date": "2023-11-10",
+      "engagement": {
+        "likes": 290000,
+        "retweets": 35000,
+        "replies": 23000,
+        "views": 70000000
+      }
+    },
+    "category": "humor-memes",
+    "tags": [
+      "humor",
+      "coding",
+      "AI"
+    ],
+    "en": {
+      "text": "I asked Grok to write a poem about being Elon Musk. It said 'no thanks, too stressful.' Can't argue with that.",
+      "context": "关于Grok的幽默推文"
+    },
+    "zh": {
+      "text": "我让Grok写一首关于做Elon Musk的诗。它说'不了谢谢，太有压力了'。无法反驳。",
+      "context": "关于Grok的幽默推文"
+    },
+    "style_markers": [
+      "humorous",
+      "self-deprecating",
+      "AI"
+    ],
+    "quality_score": 0.87
+  },
+  {
+    "id": "tweet_humor-memes_026",
+    "source": {
+      "type": "tweet",
+      "date": "2024-02-14",
+      "engagement": {
+        "likes": 320000,
+        "retweets": 39000,
+        "replies": 26000,
+        "views": 77000000
+      }
+    },
+    "category": "humor-memes",
+    "tags": [
+      "humor",
+      "Valentine's",
+      "lonely"
+    ],
+    "en": {
+      "text": "Valentine's Day advice: if nobody loves you, build a rocket company. Then at least the rockets will love you back. In a fiery way.",
+      "context": "情人节幽默建议"
+    },
+    "zh": {
+      "text": "情人节建议：如果没人爱你，就建一个火箭公司。至少火箭会以炽热的方式回报你。",
+      "context": "情人节幽默建议"
+    },
+    "style_markers": [
+      "humorous",
+      "self-deprecating",
+      "rocket"
+    ],
+    "quality_score": 0.84
+  },
+  {
+    "id": "tweet_humor-memes_027",
+    "source": {
+      "type": "tweet",
+      "date": "2024-06-15",
+      "engagement": {
+        "likes": 250000,
+        "retweets": 30000,
+        "replies": 19000,
+        "views": 60000000
+      }
+    },
+    "category": "humor-memes",
+    "tags": [
+      "humor",
+      "dad joke",
+      "Tesla"
+    ],
+    "en": {
+      "text": "Why did the Tesla cross the road? To get to the Supercharger on the other side. I'll see myself out.",
+      "context": "特斯拉冷笑话"
+    },
+    "zh": {
+      "text": "特斯拉为什么要过马路？为了到对面的超级充电站。我自己出去。",
+      "context": "特斯拉冷笑话"
+    },
+    "style_markers": [
+      "humorous",
+      "dad joke",
+      "pun"
+    ],
+    "quality_score": 0.8
+  },
+  {
+    "id": "tweet_humor-memes_028",
+    "source": {
+      "type": "tweet",
+      "date": "2024-08-30",
+      "engagement": {
+        "likes": 280000,
+        "retweets": 34000,
+        "replies": 22000,
+        "views": 67000000
+      }
+    },
+    "category": "humor-memes",
+    "tags": [
+      "humor",
+      "AI",
+      "robots"
+    ],
+    "en": {
+      "text": "People are worried about AI taking over. Have you seen how hard it is to get AI to count the number of R's in 'strawberry'? We're fine.",
+      "context": "关于AI局限性的幽默推文"
+    },
+    "zh": {
+      "text": "人们担心AI接管。你见过让AI数'strawberry'里有多少个r有多难吗？我们没事的。",
+      "context": "关于AI局限性的幽默推文"
+    },
+    "style_markers": [
+      "humorous",
+      "AI",
+      "relatable"
+    ],
+    "quality_score": 0.85
+  },
+  {
+    "id": "tweet_humor-memes_029",
+    "source": {
+      "type": "tweet",
+      "date": "2025-09-01",
+      "engagement": {
+        "likes": 270000,
+        "retweets": 33000,
+        "replies": 21000,
+        "views": 65000000
+      }
+    },
+    "category": "humor-memes",
+    "tags": [
+      "humor",
+      "labor day",
+      "work"
+    ],
+    "en": {
+      "text": "They say money can't buy happiness. They clearly haven't bought a rocket ship.",
+      "context": "关于金钱和幸福的幽默推文"
+    },
+    "zh": {
+      "text": "他们说钱买不到幸福。他们显然没买过火箭飞船。",
+      "context": "关于金钱和幸福的幽默推文"
+    },
+    "style_markers": [
+      "humorous",
+      "wealthy",
+      "witty"
+    ],
+    "quality_score": 0.83
+  },
+  {
+    "id": "tweet_humor-memes_030",
+    "source": {
+      "type": "tweet",
+      "date": "2026-03-15",
+      "engagement": {
+        "likes": 300000,
+        "retweets": 37000,
+        "replies": 24000,
+        "views": 72000000
+      }
+    },
+    "category": "humor-memes",
+    "tags": [
+      "humor",
+      "age",
+      "time"
+    ],
+    "en": {
+      "text": "Someone asked me if I feel my age. I said no, I feel like I'm 25 with 25 years of experience being tired.",
+      "context": "关于年龄的幽默推文"
+    },
+    "zh": {
+      "text": "有人问我是否感觉到了年龄。我说不，我觉得自己是一个有25年疲惫经验的25岁年轻人。",
+      "context": "关于年龄的幽默推文"
+    },
+    "style_markers": [
+      "humorous",
+      "self-deprecating",
+      "relatable"
+    ],
+    "quality_score": 0.84
+  }
+]

@@ -1,0 +1,190 @@
+{
+  "id": "business-strategy",
+  "title": {
+    "en": "Business Strategy Thinking",
+    "zh": "商业战略思维"
+  },
+  "overview": {
+    "en": "Musk's business strategy thinking is based on first principles, integrating long-termism, competition-driven growth, and empire consolidation. He disrupts traditional business models in each industry while building an unprecedented commercial empire through synergy among his companies. In 2025-2026, with SpaceX valuation exceeding $350B, xAI's rapid rise, and DOGE establishment, Musk's strategy has entered a new consolidation phase — evolving from industry disruptor to cross-industry ecosystem builder.",
+    "zh": "马斯克的商业战略思维以第一性原理为基础，融合了长期主义、竞争驱动和帝国整合的独特视角。他不仅在每个行业中颠覆传统商业模式，还通过旗下多家公司的协同效应构建了一个前所未有的商业帝国。2025-2026年，随着SpaceX估值突破$3500亿、xAI快速崛起、DOGE成立，马斯克的商业战略进入了一个新的整合阶段。"
+  },
+  "principles": [
+    {
+      "id": 1,
+      "en": "First Principles Market Analysis — Analyze whether a market has fundamental opportunities from basic physical laws and economic principles, not market research and industry consensus.",
+      "zh": "第一性原理市场分析 — 不依赖市场调研和传统商业分析，而是从基本物理定律和经济原理出发，分析一个市场是否存在根本性的机会。"
+    },
+    {
+      "id": 2,
+      "en": "Competition-Driven Growth — Welcome competition rather than fear it. Competition validates market opportunities and forces continuous innovation.",
+      "zh": "竞争驱动成长 — 欢迎竞争而不是恐惧竞争。竞争验证了市场机会的存在，迫使公司持续创新。"
+    },
+    {
+      "id": 3,
+      "en": "Long-Termism vs Short-Term Pressure — Persist with long-term vision, undisturbed by Wall Street's short-term pressure. Tesla persisted in R&D despite years of losses.",
+      "zh": "长期主义 vs 短期压力 — 坚持长期愿景，不被华尔街的短期压力所左右。Tesla在多年亏损的情况下坚持投资研发。"
+    },
+    {
+      "id": 4,
+      "en": "Empire Synergy Effect — Create unique value through synergy among multiple companies. SpaceX tech for Tesla, Tesla manufacturing for others, X data for xAI.",
+      "zh": "帝国协同效应 — 通过旗下多家公司的协同创造独特价值。SpaceX的技术可以应用于Tesla，Tesla的制造能力可以支持其他公司，X平台的数据可以训练xAI的模型。"
+    },
+    {
+      "id": 5,
+      "en": "Open Source and IP Strategy — Adopt open strategies in certain areas (Tesla patents) to expand ecosystem, maintain strict secrecy in core areas (SpaceX rocket design).",
+      "zh": "开源与知识产权策略 — 在某些领域（如Tesla专利）采取开放策略以扩大生态系统，在核心领域（如SpaceX火箭设计）保持严格保密。"
+    },
+    {
+      "id": 6,
+      "en": "Government Relations and Policy Influence — Actively participate in policy-making. Promote government efficiency through DOGE, obtain contracts through SpaceX-NASA cooperation.",
+      "zh": "政府关系与政策影响 — 积极参与政策制定和政府合作。通过DOGE部门推动政府效率改革，通过SpaceX与NASA的深度合作获得政府合同。"
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "title": {
+        "en": "Tesla Electric Vehicle Market Disruption",
+        "zh": "Tesla电动车市场颠覆"
+      },
+      "description": {
+        "en": "Musk used first principles to analyze EV market viability: battery costs decrease ~8% annually, electricity is cheaper than oil, EV maintenance costs are far lower. Tesla started from premium market (Roadster, Model S/X), gradually moved to mass market (Model 3/Y), becoming the world's most valuable automaker.",
+        "zh": "马斯克用第一性原理分析了电动车市场的经济可行性：电池成本每年下降约8%，电价比油价低得多，电动车的维护成本远低于燃油车。Tesla从高端市场入手，逐步下沉到大众市场，最终成为全球最有价值的汽车公司。"
+      },
+      "source": "Tesla Annual Reports, 2008-2024",
+      "domain": ["Tesla", "Automotive"]
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "SpaceX Commercial Launch Market Revolution",
+        "zh": "SpaceX商业发射市场革命"
+      },
+      "description": {
+        "en": "Traditional space launch market was monopolized by national agencies and defense contractors. Musk analyzed that launch costs could be reduced 90%+ through reusability. SpaceX entered at prices far below competitors, gradually dominating the global commercial launch market.",
+        "zh": "传统航天发射市场被国家队和少数大型国防承包商垄断。马斯克分析发现，火箭发射成本可以通过可重复使用降低90%以上。SpaceX以远低于竞争对手的价格进入市场，逐步占据了全球商业发射市场的主导地位。"
+      },
+      "source": "SpaceX Launch Records, 2013-2025",
+      "domain": ["SpaceX", "Commercial Space"]
+    },
+    {
+      "id": 3,
+      "title": {
+        "en": "2025-2026 SpaceX/xAI Merger Strategy",
+        "zh": "2025-2026 SpaceX/xAI整合战略"
+      },
+      "description": {
+        "en": "In 2025, xAI completed $6B funding with $50B valuation. Deep technical synergy formed: xAI's Grok model optimized SpaceX rocket design parameters, SpaceX engineering data trained xAI models. This AI + aerospace convergence created entirely new business models.",
+        "zh": "2025年，xAI完成了$60亿美元的融资，估值达到$500亿。SpaceX与xAI之间形成了深度技术协同：xAI的Grok模型被用于优化SpaceX的火箭设计参数，SpaceX的工程数据被用于训练xAI的模型。这种AI+航天的融合创造了全新的商业模式。"
+      },
+      "source": "xAI Funding Announcement, 2025",
+      "domain": ["SpaceX", "xAI"]
+    },
+    {
+      "id": 4,
+      "title": {
+        "en": "DOGE Government Efficiency Department",
+        "zh": "DOGE政府效率部门"
+      },
+      "description": {
+        "en": "In 2025, Musk led establishment of DOGE (Department of Government Efficiency), aimed at cutting federal spending and improving operational efficiency. This was both political action and business strategy — creating innovation-friendly policy environment while securing favorable regulatory conditions for his companies.",
+        "zh": "2025年，马斯克领导成立了DOGE（政府效率部），旨在削减联邦政府开支、提高运营效率。这一举措不仅是政治行动，也是商业战略——通过政府改革创造更有利于创新的政策环境，同时为旗下公司争取更有利的监管条件。"
+      },
+      "source": "DOGE Announcement, 2025",
+      "domain": ["Government", "Policy"]
+    },
+    {
+      "id": 5,
+      "title": {
+        "en": "X Platform Commercialization and xAI Integration",
+        "zh": "X平台商业化与xAI融合"
+      },
+      "description": {
+        "en": "After acquiring Twitter, Musk renamed it X, positioning it as the 'Everything App.' X is a comprehensive platform for payments, content, and AI services. By integrating xAI's Grok into X Premium subscriptions, Musk created a new business model fusing social media with AI.",
+        "zh": "马斯克收购Twitter后改名为X，将其定位为'万能应用'。X平台是支付、内容和AI服务的综合平台。通过将xAI的Grok集成到X Premium订阅中，马斯克创造了社交媒体与AI融合的全新商业模式。"
+      },
+      "source": "X Platform Updates, 2023-2025",
+      "domain": ["X (Twitter)", "xAI"]
+    }
+  ],
+  "quotes": [
+    {
+      "id": 1,
+      "en": "Competition is good. It makes us better. If there were no competition, we'd be lazy.",
+      "zh": "竞争是好的。它让我们变得更好。如果没有竞争，我们会变得懒惰。",
+      "source": "Tesla Earnings Call, 2021"
+    },
+    {
+      "id": 2,
+      "en": "I think the long-term value of what Tesla is doing is extremely significant. The mission is to accelerate the world's transition to sustainable energy.",
+      "zh": "我认为Tesla正在做的事情的长期价值极其重要。我们的使命是加速世界向可持续能源的转变。",
+      "source": "Tesla Annual Shareholder Meeting, 2020"
+    },
+    {
+      "id": 3,
+      "en": "When you're in a competitive situation, you've got to be very focused on making the best product and delivering it at the best possible price.",
+      "zh": "当你处于竞争环境中时，你必须非常专注于制造最好的产品并以最好的价格交付。",
+      "source": "Bloomberg Technology Summit, 2016"
+    },
+    {
+      "id": 4,
+      "en": "I don't really care about the stock price. I care about making great products.",
+      "zh": "我真的不太关心股价。我关心的是制造伟大的产品。",
+      "source": "Tesla Earnings Call, 2018"
+    },
+    {
+      "id": 5,
+      "en": "The thing that drives me is that I want to be able to think about the future and feel good about that. And that's the reason for the companies.",
+      "zh": "驱动我的是我希望能够思考未来并对此感到良好。这就是这些公司存在的原因。",
+      "source": "TED Interview, 2013"
+    },
+    {
+      "id": 6,
+      "en": "Tesla's mission is to accelerate the world's transition to sustainable energy. If we do that well, the stock will take care of itself.",
+      "zh": "Tesla的使命是加速世界向可持续能源的转变。如果我们做得好，股票会自己照顾自己。",
+      "source": "Tesla Annual Shareholder Meeting, 2022"
+    },
+    {
+      "id": 7,
+      "en": "I think it's important to have a company that makes products that people love. That's the foundation of any great business.",
+      "zh": "我认为拥有一家制造人们喜爱的产品的公司很重要。这是任何伟大商业的基础。",
+      "source": "All-In Podcast, 2023"
+    },
+    {
+      "id": 8,
+      "en": "The reason I opened Tesla's patents was to encourage other companies to make electric cars. The more electric cars there are, the better it is for the world.",
+      "zh": "我开放Tesla专利的原因是鼓励其他公司制造电动汽车。电动汽车越多，对世界越好。",
+      "source": "Tesla Blog, 2014"
+    },
+    {
+      "id": 9,
+      "en": "If you look at the fundamental economics, electric vehicles are going to be cheaper than gasoline vehicles. It's just a matter of time.",
+      "zh": "如果你看基本经济学，电动汽车将会比汽油车更便宜。这只是时间问题。",
+      "source": "Tesla Earnings Call, 2023"
+    },
+    {
+      "id": 10,
+      "en": "I'm trying to build a company that lasts for hundreds of years. That means you have to think long-term.",
+      "zh": "我试图建立一家能持续数百年的公司。这意味着你必须长远思考。",
+      "source": "SpaceX Starship Presentation, 2019"
+    }
+  ],
+  "agent_application": {
+    "en": [
+      "First principles market analysis: analyze market opportunities from basic economic principles and physical laws",
+      "Embrace competition: view competition as motivation to validate and accelerate innovation",
+      "Persist with long-termism: maintain long-term vision in face of short-term pressure",
+      "Build synergy effects: seek synergy opportunities between different business lines",
+      "Selective open strategy: open in non-core areas to expand ecosystem, protect core areas strictly",
+      "Shape policy environment: actively participate in policy-making for innovation-friendly environment"
+    ],
+    "zh": [
+      "第一性原理市场分析：从基本经济原理和物理定律出发分析市场机会",
+      "拥抱竞争：将竞争视为验证和加速创新的动力",
+      "坚持长期主义：在短期压力面前保持长期愿景",
+      "构建协同效应：寻找不同业务线之间的协同机会",
+      "选择性开放策略：在非核心领域采取开放策略，核心领域严格保密",
+      "政策环境塑造：积极参与政策制定，创造有利于创新的外部环境"
+    ]
+  }
+}

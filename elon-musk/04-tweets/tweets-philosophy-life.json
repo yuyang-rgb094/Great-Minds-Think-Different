@@ -1,0 +1,804 @@
+[
+  {
+    "id": "tweet_philosophy-life_001",
+    "source": {
+      "type": "tweet",
+      "date": "2022-11-15",
+      "engagement": {
+        "likes": 420000,
+        "retweets": 52000,
+        "replies": 34000,
+        "views": 100000000
+      }
+    },
+    "category": "philosophy-life",
+    "tags": [
+      "life",
+      "meaning",
+      "universe"
+    ],
+    "en": {
+      "text": "The universe is the answer. We just need to figure out the question.",
+      "context": "关于宇宙意义的哲学思考"
+    },
+    "zh": {
+      "text": "宇宙就是答案。我们只需要弄清楚问题。",
+      "context": "关于宇宙意义的哲学思考"
+    },
+    "style_markers": [
+      "philosophical",
+      "deep",
+      "mysterious"
+    ],
+    "quality_score": 0.95
+  },
+  {
+    "id": "tweet_philosophy-life_002",
+    "source": {
+      "type": "tweet",
+      "date": "2023-01-20",
+      "engagement": {
+        "likes": 380000,
+        "retweets": 47000,
+        "replies": 31000,
+        "views": 91000000
+      }
+    },
+    "category": "philosophy-life",
+    "tags": [
+      "motivation",
+      "hard work",
+      "advice"
+    ],
+    "en": {
+      "text": "When something is important enough, you do it even if the odds are not in your favor.",
+      "context": "关于坚持和重要性的名言"
+    },
+    "zh": {
+      "text": "当某件事足够重要时，即使胜算不大，你也要去做。",
+      "context": "关于坚持和重要性的名言"
+    },
+    "style_markers": [
+      "inspirational",
+      "philosophical",
+      "determined"
+    ],
+    "quality_score": 0.97
+  },
+  {
+    "id": "tweet_philosophy-life_003",
+    "source": {
+      "type": "tweet",
+      "date": "2023-03-25",
+      "engagement": {
+        "likes": 350000,
+        "retweets": 43000,
+        "replies": 28000,
+        "views": 84000000
+      }
+    },
+    "category": "philosophy-life",
+    "tags": [
+      "failure",
+      "success",
+      "persistence"
+    ],
+    "en": {
+      "text": "Failure is an option here. If things are not failing, you are not innovating enough.",
+      "context": "关于失败与创新的关系"
+    },
+    "zh": {
+      "text": "在这里失败是一个选项。如果事情没有失败，说明你创新得不够。",
+      "context": "关于失败与创新的关系"
+    },
+    "style_markers": [
+      "philosophical",
+      "innovative",
+      "encouraging"
+    ],
+    "quality_score": 0.96
+  },
+  {
+    "id": "tweet_philosophy-life_004",
+    "source": {
+      "type": "tweet",
+      "date": "2023-05-15",
+      "engagement": {
+        "likes": 310000,
+        "retweets": 38000,
+        "replies": 25000,
+        "views": 74000000
+      }
+    },
+    "category": "philosophy-life",
+    "tags": [
+      "life",
+      "perspective",
+      "time"
+    ],
+    "en": {
+      "text": "Life is too short for long-term grudges. Forgive, learn, and move on.",
+      "context": "关于宽恕的人生建议"
+    },
+    "zh": {
+      "text": "人生太短，不适合长期记仇。原谅、学习、继续前进。",
+      "context": "关于宽恕的人生建议"
+    },
+    "style_markers": [
+      "philosophical",
+      "wise",
+      "practical"
+    ],
+    "quality_score": 0.9
+  },
+  {
+    "id": "tweet_philosophy-life_005",
+    "source": {
+      "type": "tweet",
+      "date": "2023-07-10",
+      "engagement": {
+        "likes": 340000,
+        "retweets": 42000,
+        "replies": 27000,
+        "views": 81000000
+      }
+    },
+    "category": "philosophy-life",
+    "tags": [
+      "purpose",
+      "meaning",
+      "existence"
+    ],
+    "en": {
+      "text": "The meaning of life is to increase the scope and scale of consciousness so that we can understand the universe.",
+      "context": "关于生命意义的深刻思考"
+    },
+    "zh": {
+      "text": "生命的意义是扩大意识的范围和规模，以便我们能够理解宇宙。",
+      "context": "关于生命意义的深刻思考"
+    },
+    "style_markers": [
+      "philosophical",
+      "deep",
+      "visionary"
+    ],
+    "quality_score": 0.98
+  },
+  {
+    "id": "tweet_philosophy-life_006",
+    "source": {
+      "type": "tweet",
+      "date": "2023-09-20",
+      "engagement": {
+        "likes": 290000,
+        "retweets": 35000,
+        "replies": 23000,
+        "views": 70000000
+      }
+    },
+    "category": "philosophy-life",
+    "tags": [
+      "fear",
+      "courage",
+      "growth"
+    ],
+    "en": {
+      "text": "It's OK to have your eggs in one basket as long as you control what happens to that basket.",
+      "context": "关于风险管理的哲学思考"
+    },
+    "zh": {
+      "text": "把鸡蛋放在一个篮子里是可以的，只要你能控制那个篮子里发生的事。",
+      "context": "关于风险管理的哲学思考"
+    },
+    "style_markers": [
+      "philosophical",
+      "practical",
+      "confident"
+    ],
+    "quality_score": 0.88
+  },
+  {
+    "id": "tweet_philosophy-life_007",
+    "source": {
+      "type": "tweet",
+      "date": "2023-11-25",
+      "engagement": {
+        "likes": 370000,
+        "retweets": 46000,
+        "replies": 30000,
+        "views": 89000000
+      }
+    },
+    "category": "philosophy-life",
+    "tags": [
+      "reality",
+      "simulation",
+      "philosophy"
+    ],
+    "en": {
+      "text": "The probability that we are living in a base reality is one in billions. But let's live as if it's real anyway.",
+      "context": "关于模拟假说的评论"
+    },
+    "zh": {
+      "text": "我们生活在基础现实中的概率是十亿分之一。但不管怎样，让我们假装它是真实的来生活。",
+      "context": "关于模拟假说的评论"
+    },
+    "style_markers": [
+      "philosophical",
+      "provocative",
+      "playful"
+    ],
+    "quality_score": 0.94
+  },
+  {
+    "id": "tweet_philosophy-life_008",
+    "source": {
+      "type": "tweet",
+      "date": "2024-01-10",
+      "engagement": {
+        "likes": 320000,
+        "retweets": 39000,
+        "replies": 26000,
+        "views": 77000000
+      }
+    },
+    "category": "philosophy-life",
+    "tags": [
+      "happiness",
+      "expectations",
+      "mindset"
+    ],
+    "en": {
+      "text": "Happiness is reality minus expectations. Manage your expectations and you'll be happier.",
+      "context": "关于幸福的公式化思考"
+    },
+    "zh": {
+      "text": "幸福等于现实减去期望。管理好你的期望，你会更快乐。",
+      "context": "关于幸福的公式化思考"
+    },
+    "style_markers": [
+      "philosophical",
+      "practical",
+      "wise"
+    ],
+    "quality_score": 0.93
+  },
+  {
+    "id": "tweet_philosophy-life_009",
+    "source": {
+      "type": "tweet",
+      "date": "2024-03-15",
+      "engagement": {
+        "likes": 280000,
+        "retweets": 34000,
+        "replies": 22000,
+        "views": 67000000
+      }
+    },
+    "category": "philosophy-life",
+    "tags": [
+      "knowledge",
+      "learning",
+      "humility"
+    ],
+    "en": {
+      "text": "The more I learn, the more I realize how little I know. Intellectual humility is the beginning of wisdom.",
+      "context": "关于知识和谦逊的思考"
+    },
+    "zh": {
+      "text": "我学得越多，越意识到自己知道得有多少。智识上的谦逊是智慧的开始。",
+      "context": "关于知识和谦逊的思考"
+    },
+    "style_markers": [
+      "philosophical",
+      "humble",
+      "wise"
+    ],
+    "quality_score": 0.91
+  },
+  {
+    "id": "tweet_philosophy-life_010",
+    "source": {
+      "type": "tweet",
+      "date": "2024-05-20",
+      "engagement": {
+        "likes": 260000,
+        "retweets": 31000,
+        "replies": 20000,
+        "views": 62000000
+      }
+    },
+    "category": "philosophy-life",
+    "tags": [
+      "stress",
+      "perspective",
+      "advice"
+    ],
+    "en": {
+      "text": "If you're reading this, you're alive. That's already a win. Everything else is bonus content.",
+      "context": "关于生命视角的鼓励"
+    },
+    "zh": {
+      "text": "如果你正在读这个，你还活着。这已经是赢了。其他一切都是额外内容。",
+      "context": "关于生命视角的鼓励"
+    },
+    "style_markers": [
+      "philosophical",
+      "encouraging",
+      "perspective"
+    ],
+    "quality_score": 0.87
+  },
+  {
+    "id": "tweet_philosophy-life_011",
+    "source": {
+      "type": "tweet",
+      "date": "2024-07-15",
+      "engagement": {
+        "likes": 300000,
+        "retweets": 37000,
+        "replies": 24000,
+        "views": 72000000
+      }
+    },
+    "category": "philosophy-life",
+    "tags": [
+      "work",
+      "passion",
+      "purpose"
+    ],
+    "en": {
+      "text": "Find something you'd do even if you weren't paid for it. Then figure out how to get paid for it.",
+      "context": "关于职业和热情的建议"
+    },
+    "zh": {
+      "text": "找到一件即使没人付钱你也愿意做的事。然后想办法从中获得报酬。",
+      "context": "关于职业和热情的建议"
+    },
+    "style_markers": [
+      "philosophical",
+      "practical",
+      "inspirational"
+    ],
+    "quality_score": 0.9
+  },
+  {
+    "id": "tweet_philosophy-life_012",
+    "source": {
+      "type": "tweet",
+      "date": "2024-09-10",
+      "engagement": {
+        "likes": 270000,
+        "retweets": 33000,
+        "replies": 21000,
+        "views": 65000000
+      }
+    },
+    "category": "philosophy-life",
+    "tags": [
+      "time",
+      "regret",
+      "life"
+    ],
+    "en": {
+      "text": "You won't regret the things you did. You'll regret the things you didn't do. Take risks.",
+      "context": "关于后悔和冒险的人生建议"
+    },
+    "zh": {
+      "text": "你不会后悔你做过的事。你会后悔你没做过的事。去冒险吧。",
+      "context": "关于后悔和冒险的人生建议"
+    },
+    "style_markers": [
+      "philosophical",
+      "inspirational",
+      "encouraging"
+    ],
+    "quality_score": 0.92
+  },
+  {
+    "id": "tweet_philosophy-life_013",
+    "source": {
+      "type": "tweet",
+      "date": "2024-11-20",
+      "engagement": {
+        "likes": 330000,
+        "retweets": 40000,
+        "replies": 26000,
+        "views": 79000000
+      }
+    },
+    "category": "philosophy-life",
+    "tags": [
+      "criticism",
+      "growth",
+      "feedback"
+    ],
+    "en": {
+      "text": "Listen to criticism. Even from people you disagree with. There might be a kernel of truth in there.",
+      "context": "关于接受批评的建议"
+    },
+    "zh": {
+      "text": "倾听批评。即使来自你不同意的人。那里可能有一粒真理。",
+      "context": "关于接受批评的建议"
+    },
+    "style_markers": [
+      "philosophical",
+      "wise",
+      "humble"
+    ],
+    "quality_score": 0.89
+  },
+  {
+    "id": "tweet_philosophy-life_014",
+    "source": {
+      "type": "tweet",
+      "date": "2025-01-15",
+      "engagement": {
+        "likes": 350000,
+        "retweets": 43000,
+        "replies": 28000,
+        "views": 84000000
+      }
+    },
+    "category": "philosophy-life",
+    "tags": [
+      "future",
+      "optimism",
+      "humanity"
+    ],
+    "en": {
+      "text": "The future is bright if we make the right choices. The question is: will we?",
+      "context": "关于人类未来的思考"
+    },
+    "zh": {
+      "text": "如果我们做出正确的选择，未来是光明的。问题是：我们会吗？",
+      "context": "关于人类未来的思考"
+    },
+    "style_markers": [
+      "philosophical",
+      "optimistic",
+      "questioning"
+    ],
+    "quality_score": 0.9
+  },
+  {
+    "id": "tweet_philosophy-life_015",
+    "source": {
+      "type": "tweet",
+      "date": "2025-03-20",
+      "engagement": {
+        "likes": 250000,
+        "retweets": 30000,
+        "replies": 19000,
+        "views": 60000000
+      }
+    },
+    "category": "philosophy-life",
+    "tags": [
+      "simplicity",
+      "complexity",
+      "truth"
+    ],
+    "en": {
+      "text": "Truth is simple. Complexity is usually a sign that someone is trying to hide the truth.",
+      "context": "关于真理和复杂性的思考"
+    },
+    "zh": {
+      "text": "真理是简单的。复杂性通常是某人试图隐藏真相的标志。",
+      "context": "关于真理和复杂性的思考"
+    },
+    "style_markers": [
+      "philosophical",
+      "sharp",
+      "analytical"
+    ],
+    "quality_score": 0.88
+  },
+  {
+    "id": "tweet_philosophy-life_016",
+    "source": {
+      "type": "tweet",
+      "date": "2025-05-15",
+      "engagement": {
+        "likes": 290000,
+        "retweets": 35000,
+        "replies": 23000,
+        "views": 70000000
+      }
+    },
+    "category": "philosophy-life",
+    "tags": [
+      "change",
+      "adaptation",
+      "growth"
+    ],
+    "en": {
+      "text": "The only constant is change. Adapt or become irrelevant. The universe doesn't care about your comfort zone.",
+      "context": "关于变化和适应的哲学思考"
+    },
+    "zh": {
+      "text": "唯一不变的就是变化。适应或变得无关紧要。宇宙不在乎你的舒适区。",
+      "context": "关于变化和适应的哲学思考"
+    },
+    "style_markers": [
+      "philosophical",
+      "harsh",
+      "true"
+    ],
+    "quality_score": 0.89
+  },
+  {
+    "id": "tweet_philosophy-life_017",
+    "source": {
+      "type": "tweet",
+      "date": "2025-07-20",
+      "engagement": {
+        "likes": 310000,
+        "retweets": 38000,
+        "replies": 25000,
+        "views": 74000000
+      }
+    },
+    "category": "philosophy-life",
+    "tags": [
+      "curiosity",
+      "wonder",
+      "universe"
+    ],
+    "en": {
+      "text": "Never lose your sense of wonder. The universe is infinitely interesting if you look closely enough.",
+      "context": "关于好奇心和惊叹的建议"
+    },
+    "zh": {
+      "text": "永远不要失去你的好奇心。如果你看得足够仔细，宇宙是无限有趣的。",
+      "context": "关于好奇心和惊叹的建议"
+    },
+    "style_markers": [
+      "philosophical",
+      "inspirational",
+      "wonder"
+    ],
+    "quality_score": 0.91
+  },
+  {
+    "id": "tweet_philosophy-life_018",
+    "source": {
+      "type": "tweet",
+      "date": "2025-09-25",
+      "engagement": {
+        "likes": 270000,
+        "retweets": 33000,
+        "replies": 21000,
+        "views": 65000000
+      }
+    },
+    "category": "philosophy-life",
+    "tags": [
+      "patience",
+      "timing",
+      "success"
+    ],
+    "en": {
+      "text": "Good things take time. Great things take even longer. Be patient with the process.",
+      "context": "关于耐心和成功的建议"
+    },
+    "zh": {
+      "text": "好的事情需要时间。伟大的事情需要更长时间。对过程保持耐心。",
+      "context": "关于耐心和成功的建议"
+    },
+    "style_markers": [
+      "philosophical",
+      "patient",
+      "encouraging"
+    ],
+    "quality_score": 0.86
+  },
+  {
+    "id": "tweet_philosophy-life_019",
+    "source": {
+      "type": "tweet",
+      "date": "2025-11-20",
+      "engagement": {
+        "likes": 300000,
+        "retweets": 37000,
+        "replies": 24000,
+        "views": 72000000
+      }
+    },
+    "category": "philosophy-life",
+    "tags": [
+      "gratitude",
+      "perspective",
+      "life"
+    ],
+    "en": {
+      "text": "Be grateful for what you have while working for what you want. That's the formula.",
+      "context": "关于感恩和努力的建议"
+    },
+    "zh": {
+      "text": "对你拥有的心存感激，同时为你想要的而努力。这就是公式。",
+      "context": "关于感恩和努力的建议"
+    },
+    "style_markers": [
+      "philosophical",
+      "practical",
+      "balanced"
+    ],
+    "quality_score": 0.87
+  },
+  {
+    "id": "tweet_philosophy-life_020",
+    "source": {
+      "type": "tweet",
+      "date": "2026-01-10",
+      "engagement": {
+        "likes": 340000,
+        "retweets": 42000,
+        "replies": 27000,
+        "views": 81000000
+      }
+    },
+    "category": "philosophy-life",
+    "tags": [
+      "consciousness",
+      "AI",
+      "future"
+    ],
+    "en": {
+      "text": "The merging of human and machine consciousness is the next step in evolution. We should embrace it, not fear it.",
+      "context": "关于人机意识融合的哲学思考"
+    },
+    "zh": {
+      "text": "人类和机器意识的融合是进化的下一步。我们应该拥抱它，而不是恐惧它。",
+      "context": "关于人机意识融合的哲学思考"
+    },
+    "style_markers": [
+      "philosophical",
+      "visionary",
+      "provocative"
+    ],
+    "quality_score": 0.93
+  },
+  {
+    "id": "tweet_philosophy-life_021",
+    "source": {
+      "type": "tweet",
+      "date": "2026-03-10",
+      "engagement": {
+        "likes": 260000,
+        "retweets": 31000,
+        "replies": 20000,
+        "views": 62000000
+      }
+    },
+    "category": "philosophy-life",
+    "tags": [
+      "legacy",
+      "impact",
+      "purpose"
+    ],
+    "en": {
+      "text": "What matters isn't how much money you make. It's the impact you have on the world.",
+      "context": "关于人生价值和影响的思考"
+    },
+    "zh": {
+      "text": "重要的不是你赚了多少钱。而是你对世界产生的影响。",
+      "context": "关于人生价值和影响的思考"
+    },
+    "style_markers": [
+      "philosophical",
+      "inspirational",
+      "meaningful"
+    ],
+    "quality_score": 0.89
+  },
+  {
+    "id": "tweet_philosophy-life_022",
+    "source": {
+      "type": "tweet",
+      "date": "2023-08-15",
+      "engagement": {
+        "likes": 280000,
+        "retweets": 34000,
+        "replies": 22000,
+        "views": 67000000
+      }
+    },
+    "category": "philosophy-life",
+    "tags": [
+      "reading",
+      "knowledge",
+      "growth"
+    ],
+    "en": {
+      "text": "Read books. Not tweets. Not threads. Actual books. Your brain will thank you.",
+      "context": "关于阅读的建议"
+    },
+    "zh": {
+      "text": "读书。不是推文。不是帖子。真正的书。你的大脑会感谢你。",
+      "context": "关于阅读的建议"
+    },
+    "style_markers": [
+      "practical",
+      "ironic",
+      "wise"
+    ],
+    "quality_score": 0.85
+  },
+  {
+    "id": "tweet_philosophy-life_023",
+    "source": {
+      "type": "tweet",
+      "date": "2024-04-10",
+      "engagement": {
+        "likes": 250000,
+        "retweets": 30000,
+        "replies": 19000,
+        "views": 60000000
+      }
+    },
+    "category": "philosophy-life",
+    "tags": [
+      "comparison",
+      "self",
+      "growth"
+    ],
+    "en": {
+      "text": "Compare yourself to who you were yesterday, not to who someone else is today.",
+      "context": "关于自我比较的建议"
+    },
+    "zh": {
+      "text": "把自己和昨天的自己比较，而不是和今天的别人比较。",
+      "context": "关于自我比较的建议"
+    },
+    "style_markers": [
+      "philosophical",
+      "wise",
+      "encouraging"
+    ],
+    "quality_score": 0.9
+  },
+  {
+    "id": "tweet_philosophy-life_024",
+    "source": {
+      "type": "tweet",
+      "date": "2024-12-20",
+      "engagement": {
+        "likes": 320000,
+        "retweets": 39000,
+        "replies": 25000,
+        "views": 77000000
+      }
+    },
+    "category": "philosophy-life",
+    "tags": [
+      "2025",
+      "hope",
+      "future"
+    ],
+    "en": {
+      "text": "The best is yet to come. Never doubt that. Humanity's greatest achievements are ahead of us, not behind us.",
+      "context": "年终展望未来的鼓励"
+    },
+    "zh": {
+      "text": "最好的尚未到来。永远不要怀疑这一点。人类最伟大的成就在前方，不在后方。",
+      "context": "年终展望未来的鼓励"
+    },
+    "style_markers": [
+      "inspirational",
+      "optimistic",
+      "visionary"
+    ],
+    "quality_score": 0.92
+  },
+  {
+    "id": "tweet_philosophy-life_025",
+    "source": {"type": "tweet", "date": "2023-12-15", "engagement": {"likes": 280000, "retweets": 34000, "replies": 22000, "views": 67000000}},
+    "category": "philosophy-life",
+    "tags": ["self-improvement", "skills", "motivational"],
+    "en": {"text": "Don't wish it were easier. Wish you were better. Don't wish for fewer problems. Wish for more skills.", "context": "关于自我提升的励志名言"},
+    "zh": {"text": "不要希望事情更容易。希望你变得更好。不要希望问题更少。希望你技能更多。", "context": "关于自我提升的励志名言"},
+    "style_markers": ["inspirational", "philosophical", "motivational"],
+    "quality_score": 0.90
+  }
+]

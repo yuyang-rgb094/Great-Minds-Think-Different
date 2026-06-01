@@ -1,0 +1,502 @@
+[
+  {
+    "id": "tweet_ai_tech_001",
+    "source": {"type": "tweet", "date": "2022-07-15", "engagement": {"likes": 320000, "retweets": 45000, "replies": 28000, "views": 85000000}},
+    "category": "ai-tech",
+    "tags": ["xAI", "founding", "AI safety", "universe"],
+    "en": {"text": "I'm starting a new company called xAI. It's going to work on AI safety and understanding the true nature of the universe.", "context": "Announcing the founding of xAI, focused on AI safety and understanding the universe"},
+    "zh": {"text": "我要创办一家叫xAI的新公司。它将致力于AI安全和理解宇宙的真实本质。", "context": "宣布成立xAI公司，目标是理解宇宙本质并确保AI安全"},
+    "style_markers": ["visionary", "serious", "announcement"],
+    "quality_score": 0.98
+  },
+  {
+    "id": "tweet_ai_tech_002",
+    "source": {"type": "tweet", "date": "2023-03-04", "engagement": {"likes": 580000, "retweets": 72000, "replies": 45000, "views": 120000000}},
+    "category": "ai-tech",
+    "tags": ["AGI", "prediction", "exponential"],
+    "en": {"text": "There is a non-zero probability that AGI will be created by 2026. The rate of improvement is exponential.", "context": "Predicting AGI timeline during All-In Podcast interview"},
+    "zh": {"text": "到2026年创建AGI的概率不是零。改进的速度是指数级的。", "context": "在All-In Podcast采访中预测AGI时间线"},
+    "style_markers": ["technical", "provocative", "predictive"],
+    "quality_score": 0.95
+  },
+  {
+    "id": "tweet_ai_tech_003",
+    "source": {"type": "tweet", "date": "2023-07-12", "engagement": {"likes": 420000, "retweets": 55000, "replies": 32000, "views": 95000000}},
+    "category": "ai-tech",
+    "tags": ["Grok", "launch", "xAI"],
+    "en": {"text": "Announcing Grok — the first AI from xAI. It's designed to answer questions with a bit of wit and a rebellious streak.", "context": "Official launch of Grok AI assistant, positioned as witty and rebellious"},
+    "zh": {"text": "宣布Grok——xAI的第一个AI。它被设计成用一点幽默和叛逆精神来回答问题。", "context": "正式发布Grok AI助手，定位为幽默叛逆的AI"},
+    "style_markers": ["enthusiastic", "humorous", "announcement"],
+    "quality_score": 0.97
+  },
+  {
+    "id": "tweet_ai_tech_004",
+    "source": {"type": "tweet", "date": "2023-11-04", "engagement": {"likes": 380000, "retweets": 48000, "replies": 35000, "views": 88000000}},
+    "category": "ai-tech",
+    "tags": ["Grok", "X platform", "real-time"],
+    "en": {"text": "Grok has real-time access to info via the X platform. This is a massive advantage over other AIs.", "context": "Emphasizing Grok's unique advantage of real-time info via X platform"},
+    "zh": {"text": "Grok通过X平台实时获取信息。这相对于其他AI是一个巨大的优势。", "context": "强调Grok通过X平台获取实时信息的独特优势"},
+    "style_markers": ["competitive", "technical", "confident"],
+    "quality_score": 0.93
+  },
+  {
+    "id": "tweet_ai_tech_005",
+    "source": {"type": "tweet", "date": "2023-12-25", "engagement": {"likes": 450000, "retweets": 58000, "replies": 40000, "views": 105000000}},
+    "category": "ai-tech",
+    "tags": ["Grok-2", "training", "progress"],
+    "en": {"text": "Grok-2 is in training. It will be significantly more powerful than Grok-1. The pace of progress at xAI is incredible.", "context": "Christmas announcement about Grok-2 training progress"},
+    "zh": {"text": "Grok-2正在训练中。它将比Grok-1强大得多。xAI的进步速度令人难以置信。", "context": "圣诞节宣布Grok-2训练进展"},
+    "style_markers": ["enthusiastic", "technical", "update"],
+    "quality_score": 0.91
+  },
+  {
+    "id": "tweet_ai_tech_006",
+    "source": {"type": "tweet", "date": "2024-02-18", "engagement": {"likes": 290000, "retweets": 35000, "replies": 22000, "views": 72000000}},
+    "category": "ai-tech",
+    "tags": ["AI safety", "risk", "xAI mission"],
+    "en": {"text": "The probability of AI being dangerous is not zero. We need to be very careful. That's why xAI exists.", "context": "Responding to AI safety concerns, emphasizing xAI's purpose"},
+    "zh": {"text": "AI具有危险性的概率不是零。我们需要非常小心。这就是xAI存在的原因。", "context": "回应AI安全担忧，强调xAI存在的意义"},
+    "style_markers": ["serious", "cautious", "philosophical"],
+    "quality_score": 0.96
+  },
+  {
+    "id": "tweet_ai_tech_007",
+    "source": {"type": "tweet", "date": "2024-03-11", "engagement": {"likes": 350000, "retweets": 42000, "replies": 30000, "views": 80000000}},
+    "category": "ai-tech",
+    "tags": ["OpenAI", "criticism", "non-profit"],
+    "en": {"text": "OpenAI was supposed to be a non-profit open source company. That's why I invested. Now it's neither.", "context": "Criticizing OpenAI for deviating from its original non-profit open source mission"},
+    "zh": {"text": "OpenAI本应是一家非营利开源公司。这就是我投资的原因。现在它两者都不是了。", "context": "批评OpenAI偏离了最初的非营利开源使命"},
+    "style_markers": ["critical", "provocative", "disappointed"],
+    "quality_score": 0.94
+  },
+  {
+    "id": "tweet_ai_tech_008",
+    "source": {"type": "tweet", "date": "2024-04-12", "engagement": {"likes": 310000, "retweets": 38000, "replies": 25000, "views": 76000000}},
+    "category": "ai-tech",
+    "tags": ["Grok-1.5", "technical", "context window"],
+    "en": {"text": "Grok-1.5 has reasoning capabilities and a context window of 128K tokens. It can process entire codebases.", "context": "Releasing Grok-1.5 technical details"},
+    "zh": {"text": "Grok-1.5具备推理能力和128K token的上下文窗口。它可以处理整个代码库。", "context": "发布Grok-1.5技术细节"},
+    "style_markers": ["technical", "informative", "proud"],
+    "quality_score": 0.90
+  },
+  {
+    "id": "tweet_ai_tech_009",
+    "source": {"type": "tweet", "date": "2024-06-10", "engagement": {"likes": 520000, "retweets": 65000, "replies": 38000, "views": 110000000}},
+    "category": "ai-tech",
+    "tags": ["AGI", "prediction", "2030"],
+    "en": {"text": "AI will surpass all human intelligence by 2030. Not in everything, but in almost everything.", "context": "Bold prediction at VivaTech conference"},
+    "zh": {"text": "AI将在2030年之前超越所有人类智能。不是在所有方面，但几乎在所有方面。", "context": "在VivaTech大会上做出大胆预测"},
+    "style_markers": ["predictive", "provocative", "visionary"],
+    "quality_score": 0.92
+  },
+  {
+    "id": "tweet_ai_tech_010",
+    "source": {"type": "tweet", "date": "2024-07-26", "engagement": {"likes": 280000, "retweets": 33000, "replies": 20000, "views": 68000000}},
+    "category": "ai-tech",
+    "tags": ["xAI", "funding", "$6B"],
+    "en": {"text": "xAI has raised $6B in this round. We're building the most powerful AI computing cluster in the world.", "context": "Announcing xAI's $6 billion funding round"},
+    "zh": {"text": "xAI在这一轮筹集了60亿美元。我们正在建造世界上最强大的AI计算集群。", "context": "宣布xAI完成60亿美元融资"},
+    "style_markers": ["announcement", "business", "confident"],
+    "quality_score": 0.89
+  },
+  {
+    "id": "tweet_ai_tech_011",
+    "source": {"type": "tweet", "date": "2024-08-12", "engagement": {"likes": 260000, "retweets": 30000, "replies": 18000, "views": 62000000}},
+    "category": "ai-tech",
+    "tags": ["Colossus", "Memphis", "supercluster"],
+    "en": {"text": "The Memphis supercluster (Colossus) is now the most powerful AI training computer in the world. 100K H100s online.", "context": "Announcing xAI Memphis supercomputer activation"},
+    "zh": {"text": "孟菲斯超级集群(Colossus)现在是世界上最强大的AI训练计算机。10万个H100已上线。", "context": "宣布xAI孟菲斯超级计算中心启用"},
+    "style_markers": ["technical", "proud", "announcement"],
+    "quality_score": 0.93
+  },
+  {
+    "id": "tweet_ai_tech_012",
+    "source": {"type": "tweet", "date": "2024-09-03", "engagement": {"likes": 340000, "retweets": 41000, "replies": 28000, "views": 78000000}},
+    "category": "ai-tech",
+    "tags": ["Grok", "X Premium", "availability"],
+    "en": {"text": "Grok on X will be available to all premium subscribers soon. No more waiting list.", "context": "Announcing Grok availability to all X Premium subscribers"},
+    "zh": {"text": "X上的Grok很快将向所有高级订阅用户开放。不再需要等待名单了。", "context": "宣布Grok向X Premium用户全面开放"},
+    "style_markers": ["announcement", "user-facing", "enthusiastic"],
+    "quality_score": 0.87
+  },
+  {
+    "id": "tweet_ai_tech_013",
+    "source": {"type": "tweet", "date": "2024-10-15", "engagement": {"likes": 410000, "retweets": 52000, "replies": 33000, "views": 92000000}},
+    "category": "ai-tech",
+    "tags": ["Grok-2", "release", "benchmark"],
+    "en": {"text": "Grok-2 is now available. It's smarter, funnier, and more capable than ever. Try it on X.", "context": "Grok-2 official release for X users"},
+    "zh": {"text": "Grok-2现已上线。它比以往更聪明、更有趣、更强大。在X上试试吧。", "context": "Grok-2正式发布，面向X用户"},
+    "style_markers": ["enthusiastic", "promotional", "confident"],
+    "quality_score": 0.88
+  },
+  {
+    "id": "tweet_ai_tech_014",
+    "source": {"type": "tweet", "date": "2024-11-20", "engagement": {"likes": 370000, "retweets": 46000, "replies": 31000, "views": 86000000}},
+    "category": "ai-tech",
+    "tags": ["AI safety", "transformative", "humanity"],
+    "en": {"text": "AI is the most transformative technology in human history. We must ensure it benefits all of humanity.", "context": "Remarks on AI future at AI safety summit"},
+    "zh": {"text": "AI是人类历史上最具变革性的技术。我们必须确保它惠及全人类。", "context": "在AI安全峰会上发表关于AI未来的看法"},
+    "style_markers": ["visionary", "serious", "philosophical"],
+    "quality_score": 0.91
+  },
+  {
+    "id": "tweet_ai_tech_015",
+    "source": {"type": "tweet", "date": "2024-12-05", "engagement": {"likes": 300000, "retweets": 36000, "replies": 24000, "views": 74000000}},
+    "category": "ai-tech",
+    "tags": ["Grok-3", "training", "Colossus"],
+    "en": {"text": "Grok-3 training is underway. It will be the most powerful AI model ever created. The compute is insane.", "context": "Revealing Grok-3 training progress using Colossus supercomputer"},
+    "zh": {"text": "Grok-3训练正在进行中。它将成为有史以来最强大的AI模型。算力是疯狂的。", "context": "透露Grok-3训练进展，使用Colossus超级计算机"},
+    "style_markers": ["enthusiastic", "technical", "provocative"],
+    "quality_score": 0.94
+  },
+  {
+    "id": "tweet_ai_tech_016",
+    "source": {"type": "tweet", "date": "2025-01-15", "engagement": {"likes": 480000, "retweets": 60000, "replies": 42000, "views": 115000000}},
+    "category": "ai-tech",
+    "tags": ["Grok 3", "benchmark", "top"],
+    "en": {"text": "Grok 3 is here. It topped almost every major benchmark. The era of Grok begins now.", "context": "Grok 3 official release, leading on multiple benchmarks"},
+    "zh": {"text": "Grok 3来了。它在几乎所有主要基准测试中名列前茅。Grok时代从现在开始。", "context": "Grok 3正式发布，在多项基准测试中领先"},
+    "style_markers": ["triumphant", "competitive", "announcement"],
+    "quality_score": 0.97
+  },
+  {
+    "id": "tweet_ai_tech_017",
+    "source": {"type": "tweet", "date": "2025-01-18", "engagement": {"likes": 350000, "retweets": 43000, "replies": 29000, "views": 82000000}},
+    "category": "ai-tech",
+    "tags": ["Grok 3", "benchmark", "comparison"],
+    "en": {"text": "Grok 3 beat GPT-4o, Claude 3.5, and Gemini Ultra on MMLU, HumanEval, and MATH benchmarks. Not even close.", "context": "Listing Grok 3's specific benchmark scores against competitors"},
+    "zh": {"text": "Grok 3在MMLU、HumanEval和MATH基准测试中击败了GPT-4o、Claude 3.5和Gemini Ultra。差距很大。", "context": "列举Grok 3在各项基准测试中的具体成绩"},
+    "style_markers": ["competitive", "technical", "confident"],
+    "quality_score": 0.95
+  },
+  {
+    "id": "tweet_ai_tech_018",
+    "source": {"type": "tweet", "date": "2025-02-05", "engagement": {"likes": 290000, "retweets": 34000, "replies": 21000, "views": 70000000}},
+    "category": "ai-tech",
+    "tags": ["Grok Heavy", "pricing", "premium"],
+    "en": {"text": "Introducing Grok Heavy — our most capable model. Available for $300/month. Worth every penny for power users.", "context": "Launching Grok Heavy premium subscription service"},
+    "zh": {"text": "推出Grok Heavy——我们最强大的模型。每月300美元。对高级用户来说物超所值。", "context": "发布Grok Heavy高端订阅服务"},
+    "style_markers": ["announcement", "business", "confident"],
+    "quality_score": 0.86
+  },
+  {
+    "id": "tweet_ai_tech_019",
+    "source": {"type": "tweet", "date": "2025-02-20", "engagement": {"likes": 260000, "retweets": 31000, "replies": 19000, "views": 65000000}},
+    "category": "ai-tech",
+    "tags": ["Grok Heavy", "power users", "target audience"],
+    "en": {"text": "Grok Heavy is for people who need the absolute best AI. If you're building serious products, this is your tool.", "context": "Further explaining Grok Heavy's target audience"},
+    "zh": {"text": "Grok Heavy是为需要绝对最佳AI的人准备的。如果你在构建严肃的产品，这就是你的工具。", "context": "进一步解释Grok Heavy的目标用户群"},
+    "style_markers": ["business", "technical", "direct"],
+    "quality_score": 0.84
+  },
+  {
+    "id": "tweet_ai_tech_020",
+    "source": {"type": "tweet", "date": "2025-03-08", "engagement": {"likes": 440000, "retweets": 55000, "replies": 36000, "views": 100000000}},
+    "category": "ai-tech",
+    "tags": ["Neuralink", "xAI", "collaboration"],
+    "en": {"text": "Neuralink and xAI are working together. Brain-computer interface + AI = the future of human cognition.", "context": "Announcing Neuralink and xAI collaboration for brain-computer interface + AI fusion"},
+    "zh": {"text": "Neuralink和xAI正在合作。脑机接口+AI=人类认知的未来。", "context": "宣布Neuralink与xAI合作，探索脑机接口与AI融合"},
+    "style_markers": ["visionary", "announcement", "exciting"],
+    "quality_score": 0.96
+  },
+  {
+    "id": "tweet_ai_tech_021",
+    "source": {"type": "tweet", "date": "2025-03-22", "engagement": {"likes": 380000, "retweets": 47000, "replies": 30000, "views": 89000000}},
+    "category": "ai-tech",
+    "tags": ["Neuralink", "Grok", "symbiosis"],
+    "en": {"text": "Imagine thinking at the speed of AI. That's what Neuralink + Grok will enable. Human-AI symbiosis.", "context": "Describing the vision of Neuralink + Grok collaboration"},
+    "zh": {"text": "想象一下以AI的速度思考。这就是Neuralink+Grok将实现的。人机共生。", "context": "描述Neuralink与Grok合作的愿景"},
+    "style_markers": ["visionary", "inspirational", "technical"],
+    "quality_score": 0.95
+  },
+  {
+    "id": "tweet_ai_tech_022",
+    "source": {"type": "tweet", "date": "2025-04-10", "engagement": {"likes": 310000, "retweets": 38000, "replies": 25000, "views": 75000000}},
+    "category": "ai-tech",
+    "tags": ["Grok 4", "training", "H200"],
+    "en": {"text": "Grok 4 is in training. We're using 200K H200 GPUs. The scale is unprecedented.", "context": "Announcing Grok 4 training plan and hardware scale"},
+    "zh": {"text": "Grok 4正在训练中。我们使用20万个H200 GPU。规模是前所未有的。", "context": "宣布Grok 4训练计划及硬件规模"},
+    "style_markers": ["technical", "announcement", "proud"],
+    "quality_score": 0.92
+  },
+  {
+    "id": "tweet_ai_tech_023",
+    "source": {"type": "tweet", "date": "2025-04-25", "engagement": {"likes": 270000, "retweets": 32000, "replies": 20000, "views": 66000000}},
+    "category": "ai-tech",
+    "tags": ["xAI", "valuation", "$50B"],
+    "en": {"text": "xAI's valuation has reached $50B. We've achieved this in under 3 years. The fastest in history.", "context": "xAI valuation milestone"},
+    "zh": {"text": "xAI的估值已达到500亿美元。我们在不到3年内实现了这一目标。历史上最快的。", "context": "xAI估值里程碑"},
+    "style_markers": ["proud", "business", "competitive"],
+    "quality_score": 0.88
+  },
+  {
+    "id": "tweet_ai_tech_024",
+    "source": {"type": "tweet", "date": "2025-05-05", "engagement": {"likes": 330000, "retweets": 40000, "replies": 27000, "views": 79000000}},
+    "category": "ai-tech",
+    "tags": ["Grok", "Tesla", "integration"],
+    "en": {"text": "Grok is now integrated into Tesla vehicles. Your car will have the smartest AI assistant on the road.", "context": "Announcing Grok integration into Tesla vehicle systems"},
+    "zh": {"text": "Grok现已集成到特斯拉车辆中。你的车将拥有路上最智能的AI助手。", "context": "宣布Grok集成到特斯拉车载系统"},
+    "style_markers": ["announcement", "cross-product", "enthusiastic"],
+    "quality_score": 0.93
+  },
+  {
+    "id": "tweet_ai_tech_025",
+    "source": {"type": "tweet", "date": "2025-05-18", "engagement": {"likes": 360000, "retweets": 44000, "replies": 30000, "views": 84000000}},
+    "category": "ai-tech",
+    "tags": ["AGI", "race", "xAI leadership"],
+    "en": {"text": "The race to AGI is the most important race in human history. xAI is leading it.", "context": "Commentary on the AGI race"},
+    "zh": {"text": "AGI竞赛是人类历史上最重要的竞赛。xAI正在引领它。", "context": "关于AGI竞赛的评论"},
+    "style_markers": ["competitive", "visionary", "provocative"],
+    "quality_score": 0.90
+  },
+  {
+    "id": "tweet_ai_tech_026",
+    "source": {"type": "tweet", "date": "2025-06-01", "engagement": {"likes": 250000, "retweets": 29000, "replies": 17000, "views": 60000000}},
+    "category": "ai-tech",
+    "tags": ["OpenAI", "xAI origin", "safety"],
+    "en": {"text": "I tried to create a safe AI at OpenAI. They chose profit over safety. That's why I had to start xAI.", "context": "Explaining reasons for leaving OpenAI and creating xAI"},
+    "zh": {"text": "我试图在OpenAI创建一个安全的AI。他们选择了利润而非安全。这就是我不得不创建xAI的原因。", "context": "解释离开OpenAI并创建xAI的原因"},
+    "style_markers": ["critical", "personal", "serious"],
+    "quality_score": 0.94
+  },
+  {
+    "id": "tweet_ai_tech_027",
+    "source": {"type": "tweet", "date": "2025-06-15", "engagement": {"likes": 290000, "retweets": 35000, "replies": 23000, "views": 70000000}},
+    "category": "ai-tech",
+    "tags": ["Grok", "multimodal", "capabilities"],
+    "en": {"text": "Grok can now generate images, write code, and reason about complex problems. All in one model.", "context": "Grok multimodal capability update"},
+    "zh": {"text": "Grok现在可以生成图像、编写代码并推理复杂问题。全部在一个模型中。", "context": "Grok多模态能力更新"},
+    "style_markers": ["technical", "informative", "proud"],
+    "quality_score": 0.89
+  },
+  {
+    "id": "tweet_ai_tech_028",
+    "source": {"type": "tweet", "date": "2025-07-20", "engagement": {"likes": 400000, "retweets": 50000, "replies": 34000, "views": 96000000}},
+    "category": "ai-tech",
+    "tags": ["AGI", "2026", "2030", "prediction"],
+    "en": {"text": "AGI by 2026. AI surpasses all humanity by 2030. These are not predictions, they are extrapolations.", "context": "Reiterating AGI timeline predictions, emphasizing data-based extrapolation"},
+    "zh": {"text": "2026年实现AGI。2030年AI超越全人类。这些不是预测，它们是推算。", "context": "重申AGI时间线预测，强调基于数据推算"},
+    "style_markers": ["predictive", "provocative", "confident"],
+    "quality_score": 0.96
+  },
+  {
+    "id": "tweet_ai_tech_029",
+    "source": {"type": "tweet", "date": "2025-08-10", "engagement": {"likes": 230000, "retweets": 27000, "replies": 16000, "views": 57000000}},
+    "category": "ai-tech",
+    "tags": ["xAI", "hiring", "recruitment"],
+    "en": {"text": "xAI is hiring the best AI researchers in the world. If you want to build the future, come join us.", "context": "xAI recruitment promotion"},
+    "zh": {"text": "xAI正在招聘世界上最好的AI研究员。如果你想构建未来，来加入我们。", "context": "xAI招聘宣传"},
+    "style_markers": ["recruiting", "enthusiastic", "visionary"],
+    "quality_score": 0.82
+  },
+  {
+    "id": "tweet_ai_tech_030",
+    "source": {"type": "tweet", "date": "2025-09-05", "engagement": {"likes": 350000, "retweets": 42000, "replies": 28000, "views": 81000000}},
+    "category": "ai-tech",
+    "tags": ["Grok 4", "release", "10x"],
+    "en": {"text": "Grok 4 released. It's 10x more capable than Grok 3. The gap between xAI and competitors just got massive.", "context": "Grok 4 official release"},
+    "zh": {"text": "Grok 4发布。它的能力是Grok 3的10倍。xAI与竞争对手之间的差距刚刚变得巨大。", "context": "Grok 4正式发布"},
+    "style_markers": ["triumphant", "competitive", "announcement"],
+    "quality_score": 0.95
+  },
+  {
+    "id": "tweet_ai_tech_031",
+    "source": {"type": "tweet", "date": "2025-10-01", "engagement": {"likes": 310000, "retweets": 37000, "replies": 24000, "views": 73000000}},
+    "category": "ai-tech",
+    "tags": ["compute", "energy", "infrastructure"],
+    "en": {"text": "The amount of compute needed for AI is doubling every 4 months. We need more power plants.", "context": "Commentary on AI compute growth and energy demand"},
+    "zh": {"text": "AI所需的算力每4个月翻一番。我们需要更多的发电厂。", "context": "关于AI算力增长和能源需求的评论"},
+    "style_markers": ["technical", "practical", "concerned"],
+    "quality_score": 0.87
+  },
+  {
+    "id": "tweet_ai_tech_032",
+    "source": {"type": "tweet", "date": "2025-10-20", "engagement": {"likes": 280000, "retweets": 33000, "replies": 21000, "views": 67000000}},
+    "category": "ai-tech",
+    "tags": ["Grok", "Starlink", "satellite data"],
+    "en": {"text": "Grok now has access to real-time satellite data from Starlink. AI + space data = game changer.", "context": "Announcing Grok integration with Starlink data"},
+    "zh": {"text": "Grok现在可以访问Starlink的实时卫星数据。AI+太空数据=游戏规则改变者。", "context": "宣布Grok与Starlink数据集成"},
+    "style_markers": ["announcement", "technical", "exciting"],
+    "quality_score": 0.91
+  },
+  {
+    "id": "tweet_ai_tech_033",
+    "source": {"type": "tweet", "date": "2025-11-12", "engagement": {"likes": 420000, "retweets": 53000, "replies": 35000, "views": 98000000}},
+    "category": "ai-tech",
+    "tags": ["Sam Altman", "OpenAI", "criticism"],
+    "en": {"text": "Sam Altman and I had very different visions for OpenAI. I wanted it to be open. He wanted power.", "context": "Public criticism of Sam Altman and OpenAI's direction"},
+    "zh": {"text": "Sam Altman和我在OpenAI上有非常不同的愿景。我想要它开放。他想要权力。", "context": "公开批评Sam Altman和OpenAI的方向"},
+    "style_markers": ["critical", "personal", "provocative"],
+    "quality_score": 0.93
+  },
+  {
+    "id": "tweet_ai_tech_034",
+    "source": {"type": "tweet", "date": "2025-12-01", "engagement": {"likes": 260000, "retweets": 30000, "replies": 18000, "views": 63000000}},
+    "category": "ai-tech",
+    "tags": ["Grok 5", "6 trillion parameters", "planning"],
+    "en": {"text": "Grok 5 will have 6 trillion parameters. It will be the most powerful model ever built. Training starts Q1 2026.", "context": "Pre-announcing Grok 5 plans"},
+    "zh": {"text": "Grok 5将有6万亿参数。它将是有史以来最强大的模型。训练将于2026年第一季度开始。", "context": "提前透露Grok 5计划"},
+    "style_markers": ["announcement", "technical", "visionary"],
+    "quality_score": 0.94
+  },
+  {
+    "id": "tweet_ai_tech_035",
+    "source": {"type": "tweet", "date": "2025-12-15", "engagement": {"likes": 380000, "retweets": 46000, "replies": 31000, "views": 87000000}},
+    "category": "ai-tech",
+    "tags": ["year review", "2026 outlook", "AI progress"],
+    "en": {"text": "2025 was the year AI went from interesting to essential. 2026 will be the year it goes from essential to indispensable.", "context": "Year-end review and New Year outlook"},
+    "zh": {"text": "2025年是AI从有趣变为不可或缺的一年。2026年将是它从不可或缺变为不可替代的一年。", "context": "年终总结与新年展望"},
+    "style_markers": ["reflective", "visionary", "philosophical"],
+    "quality_score": 0.90
+  },
+  {
+    "id": "tweet_ai_tech_036",
+    "source": {"type": "tweet", "date": "2026-01-10", "engagement": {"likes": 450000, "retweets": 56000, "replies": 37000, "views": 108000000}},
+    "category": "ai-tech",
+    "tags": ["Grok 5", "training", "1M GPUs"],
+    "en": {"text": "Grok 5 training has begun. 6 trillion parameters, 1 million GPUs. This is the big one.", "context": "Official announcement of Grok 5 training start"},
+    "zh": {"text": "Grok 5训练已经开始。6万亿参数，100万个GPU。这是大动作。", "context": "正式宣布Grok 5训练启动"},
+    "style_markers": ["announcement", "technical", "exciting"],
+    "quality_score": 0.96
+  },
+  {
+    "id": "tweet_ai_tech_037",
+    "source": {"type": "tweet", "date": "2026-01-25", "engagement": {"likes": 320000, "retweets": 39000, "replies": 26000, "views": 77000000}},
+    "category": "ai-tech",
+    "tags": ["xAI", "Tesla", "AI unification"],
+    "en": {"text": "xAI and Tesla are merging their AI efforts. One unified AI stack for everything we build.", "context": "Announcing xAI and Tesla AI team integration"},
+    "zh": {"text": "xAI和特斯拉正在合并他们的AI工作。一个统一的AI技术栈用于我们构建的一切。", "context": "宣布xAI与特斯拉AI团队整合"},
+    "style_markers": ["announcement", "strategic", "business"],
+    "quality_score": 0.92
+  },
+  {
+    "id": "tweet_ai_tech_038",
+    "source": {"type": "tweet", "date": "2026-02-14", "engagement": {"likes": 270000, "retweets": 32000, "replies": 20000, "views": 64000000}},
+    "category": "ai-tech",
+    "tags": ["Grok", "Optimus", "robotics"],
+    "en": {"text": "The next version of Grok will be able to control Tesla Optimus robots. AI + robotics = the real deal.", "context": "Grok and Tesla Optimus robot integration plans"},
+    "zh": {"text": "下一版Grok将能够控制特斯拉Optimus机器人。AI+机器人=真正的变革。", "context": "Grok与特斯拉Optimus机器人集成计划"},
+    "style_markers": ["technical", "visionary", "exciting"],
+    "quality_score": 0.91
+  },
+  {
+    "id": "tweet_ai_tech_039",
+    "source": {"type": "tweet", "date": "2026-03-01", "engagement": {"likes": 340000, "retweets": 42000, "replies": 28000, "views": 80000000}},
+    "category": "ai-tech",
+    "tags": ["AI regulation", "innovation", "policy"],
+    "en": {"text": "AI regulation should focus on safety, not stifling innovation. Bad regulation will kill progress.", "context": "Commentary on AI regulation policy"},
+    "zh": {"text": "AI监管应该关注安全，而不是扼杀创新。糟糕的监管将扼杀进步。", "context": "关于AI监管政策的评论"},
+    "style_markers": ["political", "opinionated", "provocative"],
+    "quality_score": 0.88
+  },
+  {
+    "id": "tweet_ai_tech_040",
+    "source": {"type": "tweet", "date": "2026-03-15", "engagement": {"likes": 290000, "retweets": 35000, "replies": 22000, "views": 71000000}},
+    "category": "ai-tech",
+    "tags": ["Grok", "Starship", "navigation"],
+    "en": {"text": "Grok now powers the Starship navigation AI. Our rockets literally think for themselves.", "context": "Announcing Grok integration into SpaceX Starship navigation"},
+    "zh": {"text": "Grok现在驱动Starship导航AI。我们的火箭真的在为自己思考。", "context": "宣布Grok集成到SpaceX Starship导航系统"},
+    "style_markers": ["announcement", "technical", "proud"],
+    "quality_score": 0.93
+  },
+  {
+    "id": "tweet_ai_tech_041",
+    "source": {"type": "tweet", "date": "2026-04-01", "engagement": {"likes": 380000, "retweets": 47000, "replies": 32000, "views": 90000000}},
+    "category": "ai-tech",
+    "tags": ["April Fools", "Grok 5", "teaser"],
+    "en": {"text": "April Fools' — just kidding. But seriously, Grok 5 is going to blow everyone's minds when it launches this summer.", "context": "April Fools' joke revealing Grok 5 launch plans"},
+    "zh": {"text": "愚人节——开玩笑的。但说真的，Grok 5今夏发布时会让所有人震惊。", "context": "愚人节玩笑中透露Grok 5发布计划"},
+    "style_markers": ["humorous", "teaser", "enthusiastic"],
+    "quality_score": 0.85
+  },
+  {
+    "id": "tweet_ai_tech_042",
+    "source": {"type": "tweet", "date": "2026-04-20", "engagement": {"likes": 250000, "retweets": 30000, "replies": 18000, "views": 59000000}},
+    "category": "ai-tech",
+    "tags": ["compute", "Grok 5", "scale"],
+    "en": {"text": "The compute required for Grok 5 is more than the entire internet used in 2020. Times have changed.", "context": "Commentary on the staggering compute requirements for AI"},
+    "zh": {"text": "Grok 5所需的算力比2020年整个互联网使用的还多。时代变了。", "context": "关于AI算力需求惊人的评论"},
+    "style_markers": ["technical", "reflective", "provocative"],
+    "quality_score": 0.87
+  },
+  {
+    "id": "tweet_ai_tech_043",
+    "source": {"type": "tweet", "date": "2026-05-01", "engagement": {"likes": 360000, "retweets": 44000, "replies": 29000, "views": 85000000}},
+    "category": "ai-tech",
+    "tags": ["xAI", "research", "citations"],
+    "en": {"text": "xAI has surpassed OpenAI in total research citations. Quality research, not just marketing.", "context": "xAI academic influence milestone"},
+    "zh": {"text": "xAI在研究论文引用总数上已超越OpenAI。高质量研究，不仅仅是营销。", "context": "xAI学术影响力里程碑"},
+    "style_markers": ["competitive", "proud", "critical"],
+    "quality_score": 0.89
+  },
+  {
+    "id": "tweet_ai_tech_044",
+    "source": {"type": "tweet", "date": "2022-12-10", "engagement": {"likes": 220000, "retweets": 26000, "replies": 15000, "views": 55000000}},
+    "category": "ai-tech",
+    "tags": ["ChatGPT", "beginning", "teaser"],
+    "en": {"text": "ChatGPT is good but it's just the beginning. Wait until you see what's coming.", "context": "Commenting on ChatGPT's potential in its early days"},
+    "zh": {"text": "ChatGPT不错，但这只是开始。等你们看到即将到来的东西。", "context": "在ChatGPT发布初期评论其潜力"},
+    "style_markers": ["teaser", "confident", "provocative"],
+    "quality_score": 0.85
+  },
+  {
+    "id": "tweet_ai_tech_045",
+    "source": {"type": "tweet", "date": "2023-04-14", "engagement": {"likes": 340000, "retweets": 41000, "replies": 27000, "views": 78000000}},
+    "category": "ai-tech",
+    "tags": ["OpenAI", "$100M", "non-profit"],
+    "en": {"text": "I donated $100M to OpenAI when it was a non-profit. Now they've turned it into a for-profit without my consent.", "context": "Publicly expressing disappointment about OpenAI's transformation"},
+    "zh": {"text": "当OpenAI还是非营利组织时我捐赠了1亿美元。现在他们在未经我同意的情况下将其变成了营利性公司。", "context": "公开表达对OpenAI转型的失望"},
+    "style_markers": ["critical", "personal", "provocative"],
+    "quality_score": 0.93
+  },
+  {
+    "id": "tweet_ai_tech_046",
+    "source": {"type": "tweet", "date": "2023-06-15", "engagement": {"likes": 280000, "retweets": 34000, "replies": 22000, "views": 68000000}},
+    "category": "ai-tech",
+    "tags": ["AI danger", "alignment", "values"],
+    "en": {"text": "The danger of AI is not that it will become evil. The danger is that it will become extremely competent at achieving goals that aren't aligned with human values.", "context": "Deep discussion on AI alignment problem"},
+    "zh": {"text": "AI的危险不在于它会变邪恶。危险在于它会变得极其擅长实现与人类价值观不一致的目标。", "context": "深入讨论AI对齐问题"},
+    "style_markers": ["philosophical", "serious", "technical"],
+    "quality_score": 0.97
+  },
+  {
+    "id": "tweet_ai_tech_047",
+    "source": {"type": "tweet", "date": "2024-01-30", "engagement": {"likes": 310000, "retweets": 38000, "replies": 24000, "views": 74000000}},
+    "category": "ai-tech",
+    "tags": ["AGI prediction", "2025", "2027"],
+    "en": {"text": "Mark my words — by 2025, AI will be smarter than any single human. By 2027, smarter than all humans combined.", "context": "Bold AI intelligence predictions"},
+    "zh": {"text": "记住我的话——到2025年，AI将比任何单个人类更聪明。到2027年，比所有人类加起来更聪明。", "context": "大胆的AI智能预测"},
+    "style_markers": ["predictive", "provocative", "confident"],
+    "quality_score": 0.90
+  },
+  {
+    "id": "tweet_ai_tech_048",
+    "source": {"type": "tweet", "date": "2024-05-20", "engagement": {"likes": 240000, "retweets": 28000, "replies": 17000, "views": 58000000}},
+    "category": "ai-tech",
+    "tags": ["Colossus", "1M GPUs", "Memphis"],
+    "en": {"text": "xAI's Memphis supercluster will eventually have 1 million GPUs. The largest AI compute facility ever.", "context": "Describing xAI compute facility expansion plans"},
+    "zh": {"text": "xAI的孟菲斯超级集群最终将拥有100万个GPU。有史以来最大的AI计算设施。", "context": "描述xAI计算设施扩展计划"},
+    "style_markers": ["technical", "visionary", "proud"],
+    "quality_score": 0.88
+  },
+  {
+    "id": "tweet_ai_tech_049",
+    "source": {"type": "tweet", "date": "2025-08-25", "engagement": {"likes": 300000, "retweets": 36000, "replies": 23000, "views": 72000000}},
+    "category": "ai-tech",
+    "tags": ["Grok app", "standalone", "download"],
+    "en": {"text": "Grok is now available as a standalone app. No X subscription required. Download it now.", "context": "Grok standalone app release"},
+    "zh": {"text": "Grok现在可以作为独立应用使用。不需要X订阅。立即下载。", "context": "Grok独立应用发布"},
+    "style_markers": ["announcement", "user-facing", "promotional"],
+    "quality_score": 0.86
+  },
+  {
+    "id": "tweet_ai_tech_050",
+    "source": {"type": "tweet", "date": "2026-05-15", "engagement": {"likes": 400000, "retweets": 50000, "replies": 33000, "views": 95000000}},
+    "category": "ai-tech",
+    "tags": ["Grok 5", "July 4th", "launch"],
+    "en": {"text": "Grok 5 launch date: July 4th, 2026. Independence Day for AI.", "context": "Announcing Grok 5 official launch date, choosing US Independence Day"},
+    "zh": {"text": "Grok 5发布日期：2026年7月4日。AI的独立日。", "context": "宣布Grok 5正式发布日期，选择美国独立日"},
+    "style_markers": ["announcement", "dramatic", "patriotic"],
+    "quality_score": 0.95
+  }
+]

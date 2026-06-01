@@ -1,0 +1,665 @@
+[
+  {
+    "id": "tweet_xai-acquisition_001",
+    "source": {
+      "type": "tweet",
+      "date": "2025-03-15",
+      "engagement": {
+        "likes": 520000,
+        "retweets": 65000,
+        "replies": 42000,
+        "views": 125000000
+      }
+    },
+    "category": "xai-acquisition",
+    "tags": [
+      "xAI",
+      "X",
+      "$33B",
+      "acquisition"
+    ],
+    "en": {
+      "text": "xAI is acquiring X for $33 billion. This will create the most powerful AI + social media company in the world.",
+      "context": "宣布xAI收购X"
+    },
+    "zh": {
+      "text": "xAI以330亿美元收购X。这将创建世界上最强大的AI+社交媒体公司。",
+      "context": "宣布xAI收购X"
+    },
+    "style_markers": [
+      "announcement",
+      "historic",
+      "triumphant"
+    ],
+    "quality_score": 0.98
+  },
+  {
+    "id": "tweet_xai-acquisition_002",
+    "source": {
+      "type": "tweet",
+      "date": "2025-03-18",
+      "engagement": {
+        "likes": 480000,
+        "retweets": 60000,
+        "replies": 39000,
+        "views": 115000000
+      }
+    },
+    "category": "xai-acquisition",
+    "tags": [
+      "X",
+      "everything app",
+      "AI"
+    ],
+    "en": {
+      "text": "X is the everything app. With xAI's technology, it will become the everything app on steroids.",
+      "context": "关于收购后X的愿景"
+    },
+    "zh": {
+      "text": "X是万能应用。有了xAI的技术，它将成为超级万能应用。",
+      "context": "关于收购后X的愿景"
+    },
+    "style_markers": [
+      "visionary",
+      "excited",
+      "announcement"
+    ],
+    "quality_score": 0.96
+  },
+  {
+    "id": "tweet_xai-acquisition_003",
+    "source": {
+      "type": "tweet",
+      "date": "2025-03-22",
+      "engagement": {
+        "likes": 440000,
+        "retweets": 55000,
+        "replies": 36000,
+        "views": 105000000
+      }
+    },
+    "category": "xai-acquisition",
+    "tags": [
+      "data",
+      "AI training",
+      "X platform"
+    ],
+    "en": {
+      "text": "X's real-time data is the most valuable AI training dataset in the world. xAI will unlock its full potential.",
+      "context": "关于X数据对AI训练的价值"
+    },
+    "zh": {
+      "text": "X的实时数据是世界上最有价值的AI训练数据集。xAI将释放其全部潜力。",
+      "context": "关于X数据对AI训练的价值"
+    },
+    "style_markers": [
+      "technical",
+      "strategic",
+      "visionary"
+    ],
+    "quality_score": 0.95
+  },
+  {
+    "id": "tweet_xai-acquisition_004",
+    "source": {
+      "type": "tweet",
+      "date": "2025-04-01",
+      "engagement": {
+        "likes": 380000,
+        "retweets": 47000,
+        "replies": 31000,
+        "views": 91000000
+      }
+    },
+    "category": "xai-acquisition",
+    "tags": [
+      "social media",
+      "AI",
+      "integration"
+    ],
+    "en": {
+      "text": "Social media + AI is the future. Every post, every interaction will make AI smarter. The flywheel is incredible.",
+      "context": "关于社交媒体与AI融合的愿景"
+    },
+    "zh": {
+      "text": "社交媒体+AI是未来。每一条帖子、每一次互动都会让AI更聪明。飞轮效应令人难以置信。",
+      "context": "关于社交媒体与AI融合的愿景"
+    },
+    "style_markers": [
+      "visionary",
+      "excited",
+      "technical"
+    ],
+    "quality_score": 0.93
+  },
+  {
+    "id": "tweet_xai-acquisition_005",
+    "source": {
+      "type": "tweet",
+      "date": "2025-04-10",
+      "engagement": {
+        "likes": 350000,
+        "retweets": 43000,
+        "replies": 28000,
+        "views": 84000000
+      }
+    },
+    "category": "xai-acquisition",
+    "tags": [
+      "Grok",
+      "X",
+      "integration"
+    ],
+    "en": {
+      "text": "Grok will be deeply integrated into X. Every user will have a personal AI assistant that knows their preferences.",
+      "context": "Grok与X深度集成计划"
+    },
+    "zh": {
+      "text": "Grok将深度集成到X中。每个用户都将拥有一个了解他们偏好的个人AI助手。",
+      "context": "Grok与X深度集成计划"
+    },
+    "style_markers": [
+      "announcement",
+      "technical",
+      "user-focused"
+    ],
+    "quality_score": 0.92
+  },
+  {
+    "id": "tweet_xai-acquisition_006",
+    "source": {
+      "type": "tweet",
+      "date": "2025-04-20",
+      "engagement": {
+        "likes": 310000,
+        "retweets": 38000,
+        "replies": 25000,
+        "views": 74000000
+      }
+    },
+    "category": "xai-acquisition",
+    "tags": [
+      "$33B",
+      "valuation",
+      "fair price"
+    ],
+    "en": {
+      "text": "$33B for X is a fair price. The platform has 600M users and is growing. The AI synergy is worth multiples of that.",
+      "context": "为收购价格辩护"
+    },
+    "zh": {
+      "text": "330亿美元收购X是公平的价格。平台有6亿用户且在增长。AI协同效应价值远超于此。",
+      "context": "为收购价格辩护"
+    },
+    "style_markers": [
+      "business",
+      "confident",
+      "analytical"
+    ],
+    "quality_score": 0.89
+  },
+  {
+    "id": "tweet_xai-acquisition_007",
+    "source": {
+      "type": "tweet",
+      "date": "2025-05-05",
+      "engagement": {
+        "likes": 290000,
+        "retweets": 35000,
+        "replies": 23000,
+        "views": 70000000
+      }
+    },
+    "category": "xai-acquisition",
+    "tags": [
+      "content",
+      "AI generation",
+      "X"
+    ],
+    "en": {
+      "text": "AI-generated content on X will be clearly labeled. Transparency is essential for trust.",
+      "context": "关于AI内容标注的声明"
+    },
+    "zh": {
+      "text": "X上的AI生成内容将被明确标注。透明度对信任至关重要。",
+      "context": "关于AI内容标注的声明"
+    },
+    "style_markers": [
+      "principled",
+      "transparent",
+      "responsible"
+    ],
+    "quality_score": 0.88
+  },
+  {
+    "id": "tweet_xai-acquisition_008",
+    "source": {
+      "type": "tweet",
+      "date": "2025-05-15",
+      "engagement": {
+        "likes": 330000,
+        "retweets": 40000,
+        "replies": 26000,
+        "views": 79000000
+      }
+    },
+    "category": "xai-acquisition",
+    "tags": [
+      "regulatory",
+      "approval",
+      "acquisition"
+    ],
+    "en": {
+      "text": "The xAI-X acquisition has received regulatory approval. The deal closes this month. History in the making.",
+      "context": "收购获得监管批准"
+    },
+    "zh": {
+      "text": "xAI-X收购已获得监管批准。交易本月完成。正在创造历史。",
+      "context": "收购获得监管批准"
+    },
+    "style_markers": [
+      "announcement",
+      "historic",
+      "triumphant"
+    ],
+    "quality_score": 0.94
+  },
+  {
+    "id": "tweet_xai-acquisition_009",
+    "source": {
+      "type": "tweet",
+      "date": "2025-05-25",
+      "engagement": {
+        "likes": 400000,
+        "retweets": 50000,
+        "replies": 33000,
+        "views": 96000000
+      }
+    },
+    "category": "xai-acquisition",
+    "tags": [
+      "deal closed",
+      "xAI",
+      "X",
+      "historic"
+    ],
+    "en": {
+      "text": "The xAI-X deal is officially closed. The era of AI-powered social media begins today.",
+      "context": "收购交易正式完成"
+    },
+    "zh": {
+      "text": "xAI-X交易正式完成。AI驱动的社交媒体时代从今天开始。",
+      "context": "收购交易正式完成"
+    },
+    "style_markers": [
+      "historic",
+      "triumphant",
+      "announcement"
+    ],
+    "quality_score": 0.97
+  },
+  {
+    "id": "tweet_xai-acquisition_010",
+    "source": {
+      "type": "tweet",
+      "date": "2025-06-05",
+      "engagement": {
+        "likes": 270000,
+        "retweets": 33000,
+        "replies": 21000,
+        "views": 65000000
+      }
+    },
+    "category": "xai-acquisition",
+    "tags": [
+      "X AI",
+      "features",
+      "new capabilities"
+    ],
+    "en": {
+      "text": "X now has AI-powered features: smart feed, real-time translation, automated content moderation. All powered by Grok.",
+      "context": "X新AI功能发布"
+    },
+    "zh": {
+      "text": "X现在拥有AI驱动的功能：智能信息流、实时翻译、自动内容审核。全部由Grok驱动。",
+      "context": "X新AI功能发布"
+    },
+    "style_markers": [
+      "announcement",
+      "technical",
+      "proud"
+    ],
+    "quality_score": 0.9
+  },
+  {
+    "id": "tweet_xai-acquisition_011",
+    "source": {
+      "type": "tweet",
+      "date": "2025-06-20",
+      "engagement": {
+        "likes": 250000,
+        "retweets": 30000,
+        "replies": 19000,
+        "views": 60000000
+      }
+    },
+    "category": "xai-acquisition",
+    "tags": [
+      "advertising",
+      "AI",
+      "revenue"
+    ],
+    "en": {
+      "text": "AI-powered advertising on X is 10x more effective than traditional ads. Advertisers are coming back in droves.",
+      "context": "关于AI广告效果的评论"
+    },
+    "zh": {
+      "text": "X上的AI驱动广告比传统广告有效10倍。广告商正在大量回归。",
+      "context": "关于AI广告效果的评论"
+    },
+    "style_markers": [
+      "business",
+      "proud",
+      "competitive"
+    ],
+    "quality_score": 0.87
+  },
+  {
+    "id": "tweet_xai-acquisition_012",
+    "source": {
+      "type": "tweet",
+      "date": "2025-07-10",
+      "engagement": {
+        "likes": 300000,
+        "retweets": 37000,
+        "replies": 24000,
+        "views": 72000000
+      }
+    },
+    "category": "xai-acquisition",
+    "tags": [
+      "X revenue",
+      "growth",
+      "AI"
+    ],
+    "en": {
+      "text": "X revenue has tripled since the xAI acquisition. The AI integration is a game changer for the business.",
+      "context": "X收入增长数据"
+    },
+    "zh": {
+      "text": "X的收入自xAI收购以来增长了三倍。AI集成对业务来说是游戏规则改变者。",
+      "context": "X收入增长数据"
+    },
+    "style_markers": [
+      "proud",
+      "business",
+      "triumphant"
+    ],
+    "quality_score": 0.89
+  },
+  {
+    "id": "tweet_xai-acquisition_013",
+    "source": {
+      "type": "tweet",
+      "date": "2025-08-05",
+      "engagement": {
+        "likes": 280000,
+        "retweets": 34000,
+        "replies": 22000,
+        "views": 67000000
+      }
+    },
+    "category": "xai-acquisition",
+    "tags": [
+      "X AI",
+      "personal assistant",
+      "Grok"
+    ],
+    "en": {
+      "text": "Every X user now has a personal Grok AI assistant. It learns your preferences, summarizes your feed, and answers questions.",
+      "context": "Grok个人助手全面推出"
+    },
+    "zh": {
+      "text": "每个X用户现在都有一个个人Grok AI助手。它学习你的偏好，总结你的信息流，回答问题。",
+      "context": "Grok个人助手全面推出"
+    },
+    "style_markers": [
+      "announcement",
+      "user-focused",
+      "proud"
+    ],
+    "quality_score": 0.91
+  },
+  {
+    "id": "tweet_xai-acquisition_014",
+    "source": {
+      "type": "tweet",
+      "date": "2025-09-10",
+      "engagement": {
+        "likes": 260000,
+        "retweets": 31000,
+        "replies": 20000,
+        "views": 62000000
+      }
+    },
+    "category": "xai-acquisition",
+    "tags": [
+      "X",
+      "creators",
+      "AI tools"
+    ],
+    "en": {
+      "text": "X creators can now use AI tools to generate content, analyze engagement, and grow their audience. The creator economy is being supercharged.",
+      "context": "X创作者AI工具发布"
+    },
+    "zh": {
+      "text": "X创作者现在可以使用AI工具生成内容、分析互动并增长受众。创作者经济正在被超级充电。",
+      "context": "X创作者AI工具发布"
+    },
+    "style_markers": [
+      "announcement",
+      "creator-focused",
+      "excited"
+    ],
+    "quality_score": 0.86
+  },
+  {
+    "id": "tweet_xai-acquisition_015",
+    "source": {
+      "type": "tweet",
+      "date": "2025-10-15",
+      "engagement": {
+        "likes": 320000,
+        "retweets": 39000,
+        "replies": 25000,
+        "views": 77000000
+      }
+    },
+    "category": "xai-acquisition",
+    "tags": [
+      "X",
+      "1 billion users",
+      "milestone"
+    ],
+    "en": {
+      "text": "X has crossed 1 billion monthly active users. The AI-powered platform is the most popular in the world.",
+      "context": "X用户里程碑"
+    },
+    "zh": {
+      "text": "X月活跃用户已突破10亿。AI驱动的平台是世界上最受欢迎的。",
+      "context": "X用户里程碑"
+    },
+    "style_markers": [
+      "proud",
+      "triumphant",
+      "historic"
+    ],
+    "quality_score": 0.93
+  },
+  {
+    "id": "tweet_xai-acquisition_016",
+    "source": {
+      "type": "tweet",
+      "date": "2025-11-20",
+      "engagement": {
+        "likes": 290000,
+        "retweets": 35000,
+        "replies": 23000,
+        "views": 70000000
+      }
+    },
+    "category": "xai-acquisition",
+    "tags": [
+      "X AI",
+      "search",
+      "Google competitor"
+    ],
+    "en": {
+      "text": "X AI search is now better than Google for real-time information. The data advantage is unbeatable.",
+      "context": "X AI搜索功能评价"
+    },
+    "zh": {
+      "text": "X AI搜索在实时信息方面现在比Google更好。数据优势是无与伦比的。",
+      "context": "X AI搜索功能评价"
+    },
+    "style_markers": [
+      "competitive",
+      "proud",
+      "provocative"
+    ],
+    "quality_score": 0.88
+  },
+  {
+    "id": "tweet_xai-acquisition_017",
+    "source": {
+      "type": "tweet",
+      "date": "2026-01-10",
+      "engagement": {
+        "likes": 350000,
+        "retweets": 43000,
+        "replies": 28000,
+        "views": 84000000
+      }
+    },
+    "category": "xai-acquisition",
+    "tags": [
+      "X",
+      "AI platform",
+      "valuation"
+    ],
+    "en": {
+      "text": "X is now worth $100B post-acquisition. The xAI integration was the best decision we made. The synergy is real.",
+      "context": "X估值里程碑"
+    },
+    "zh": {
+      "text": "X收购后现在价值1000亿美元。xAI集成是我们做出的最好决定。协同效应是真实的。",
+      "context": "X估值里程碑"
+    },
+    "style_markers": [
+      "proud",
+      "business",
+      "vindicated"
+    ],
+    "quality_score": 0.92
+  },
+  {
+    "id": "tweet_xai-acquisition_018",
+    "source": {
+      "type": "tweet",
+      "date": "2026-02-20",
+      "engagement": {
+        "likes": 270000,
+        "retweets": 33000,
+        "replies": 21000,
+        "views": 65000000
+      }
+    },
+    "category": "xai-acquisition",
+    "tags": [
+      "X",
+      "AI moderation",
+      "Community Notes"
+    ],
+    "en": {
+      "text": "AI + Community Notes = the most effective content moderation system ever created. Accuracy rate: 99.2%.",
+      "context": "AI增强的Community Notes数据"
+    },
+    "zh": {
+      "text": "AI+Community Notes=有史以来最有效的内容审核系统。准确率：99.2%。",
+      "context": "AI增强的Community Notes数据"
+    },
+    "style_markers": [
+      "proud",
+      "technical",
+      "factual"
+    ],
+    "quality_score": 0.89
+  },
+  {
+    "id": "tweet_xai-acquisition_019",
+    "source": {
+      "type": "tweet",
+      "date": "2026-03-25",
+      "engagement": {
+        "likes": 310000,
+        "retweets": 38000,
+        "replies": 25000,
+        "views": 74000000
+      }
+    },
+    "category": "xai-acquisition",
+    "tags": [
+      "X",
+      "video",
+      "AI generation"
+    ],
+    "en": {
+      "text": "X now supports AI-generated video content. Creators can produce studio-quality videos with a text prompt.",
+      "context": "X AI视频生成功能发布"
+    },
+    "zh": {
+      "text": "X现在支持AI生成视频内容。创作者可以用文字提示制作工作室质量的视频。",
+      "context": "X AI视频生成功能发布"
+    },
+    "style_markers": [
+      "announcement",
+      "innovative",
+      "excited"
+    ],
+    "quality_score": 0.87
+  },
+  {
+    "id": "tweet_xai-acquisition_020",
+    "source": {
+      "type": "tweet",
+      "date": "2026-05-05",
+      "engagement": {
+        "likes": 340000,
+        "retweets": 42000,
+        "replies": 27000,
+        "views": 81000000
+      }
+    },
+    "category": "xai-acquisition",
+    "tags": [
+      "X",
+      "everything app",
+      "payments",
+      "AI"
+    ],
+    "en": {
+      "text": "X is now the everything app: social media, AI assistant, payments, video, shopping. All in one. All AI-powered.",
+      "context": "X作为万能应用的全面实现"
+    },
+    "zh": {
+      "text": "X现在是万能应用：社交媒体、AI助手、支付、视频、购物。全部在一个平台。全部AI驱动。",
+      "context": "X作为万能应用的全面实现"
+    },
+    "style_markers": [
+      "visionary",
+      "proud",
+      "triumphant"
+    ],
+    "quality_score": 0.94
+  }
+]

@@ -1,0 +1,190 @@
+{
+  "id": "engineering-philosophy",
+  "title": {
+    "en": "Engineering Philosophy",
+    "zh": "工程哲学"
+  },
+  "overview": {
+    "en": "Musk's engineering philosophy integrates minimalism, rapid iteration, and manufacturing-first design principles. His core philosophy is 'the best part is no part' — eliminating failure points through design simplification. This methodology has been fully validated in SpaceX and Tesla engineering practices.",
+    "zh": "马斯克的工程哲学融合了极简主义、快速迭代和制造优先的设计理念。他的核心理念是'最好的部件就是没有部件'——通过简化设计来消除故障点。这种方法论在SpaceX和Tesla的工程实践中得到了充分验证。"
+  },
+  "principles": [
+    {
+      "id": 1,
+      "en": "The Best Part Is No Part — Every component is a potential failure point. The best engineering design eliminates unnecessary parts rather than adding more features.",
+      "zh": "最好的部件就是没有部件 — 每一个零件都是潜在的故障点。最好的工程设计是消除不必要的零件，而不是添加更多功能。"
+    },
+    {
+      "id": 2,
+      "en": "Rapid Iteration: Build, Test, Fail, Improve — Don't pursue one-time perfection. Build prototypes quickly, discover problems in testing, learn from failures, then improve rapidly.",
+      "zh": "快速迭代：构建、测试、失败、改进 — 不要追求一次性完美。快速构建原型，在测试中发现问题，从失败中学习，然后迅速改进。"
+    },
+    {
+      "id": 3,
+      "en": "Design for Manufacturability — Design must consider not just function, but how to manufacture efficiently. A design perfect on paper but not producible efficiently is not a good design.",
+      "zh": "为制造而设计 — 设计不仅要考虑功能，更要考虑如何高效制造。一个在图纸上完美的设计，如果无法高效生产，就不是好设计。"
+    },
+    {
+      "id": 4,
+      "en": "Hardware Can 'Move Fast and Break Things' Too — Agile development philosophy applies to hardware through modular design, rapid prototyping, and automated testing.",
+      "zh": "硬件也能'快速行动，打破常规' — 通过模块化设计、快速原型制作和自动化测试，软件行业的敏捷开发理念同样适用于硬件。"
+    },
+    {
+      "id": 5,
+      "en": "Quality vs Speed Balance — Never compromise quality in critical safety areas, but accept 'good enough' in non-critical areas to gain speed.",
+      "zh": "质量与速度的平衡 — 在关键安全领域绝不妥协质量，但在非关键领域可以接受'足够好'以换取速度。"
+    },
+    {
+      "id": 6,
+      "en": "Vertical Integration of Engineering Capabilities — Design and manufacture key components in-house as much as possible. Mastering core technology is the foundation of engineering autonomy.",
+      "zh": "垂直整合工程能力 — 尽可能自己设计和制造关键部件。掌握核心技术是工程自主权的基础。"
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "title": {
+        "en": "SpaceX Rocket Engine Simplification",
+        "zh": "SpaceX火箭发动机简化"
+      },
+      "description": {
+        "en": "Traditional rocket engines use complex turbopump systems and extensive plumbing. SpaceX's Merlin engine adopted simplified pintle injector design, dramatically reducing part count. Musk insisted on 'delete any part that can be deleted,' making the Merlin engine cost only about one-tenth of comparable engines.",
+        "zh": "传统火箭发动机使用复杂的涡轮泵系统和大量管路。SpaceX的Merlin发动机采用了简化的气钉喷注器设计，大幅减少了零件数量。马斯克坚持'删除任何可以删除的部件'，使得Merlin发动机的成本仅为同类发动机的十分之一左右。"
+      },
+      "source": "SpaceX Engineering Conference, 2018",
+      "domain": ["SpaceX", "Propulsion"]
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "Tesla Model 3 Manufacturing Revolution",
+        "zh": "Tesla Model 3制造革命"
+      },
+      "description": {
+        "en": "The Model 3 production line went through 'production hell.' Musk personally slept on the factory floor and inspected every production step. Through automation, simplified assembly, and reduced part variety, Tesla increased Model 3 weekly production from under 1,000 to over 5,000 vehicles.",
+        "zh": "Model 3的生产线经历了'生产地狱'。马斯克亲自睡在工厂地板上，亲自检查每一个生产环节。最终，通过引入自动化、简化装配流程、减少零件种类，Tesla将Model 3的周产量从不到1000辆提升到超过5000辆。"
+      },
+      "source": "Tesla Q3 2018 Earnings Call",
+      "domain": ["Tesla", "Manufacturing"]
+    },
+    {
+      "id": 3,
+      "title": {
+        "en": "Starship Rapid Prototype Iteration",
+        "zh": "Starship快速原型迭代"
+      },
+      "description": {
+        "en": "Starship development adopted extreme rapid iteration. SpaceX built and tested prototypes at astonishing pace at Boca Chica, Texas. From MK1 to SN15, each test revealed new problems and each iteration brought massive improvements. This 'fly and fix' approach was unimaginable in traditional aerospace.",
+        "zh": "Starship的开发采用了极端的快速迭代方法。SpaceX在德克萨斯州博卡奇卡的基地以惊人的速度建造和测试原型机。从MK1到SN15，每次测试都暴露新问题，每次迭代都带来巨大改进。这种'边飞边改'的方式在传统航天工业中是不可想象的。"
+      },
+      "source": "SpaceX Starship Update, 2021",
+      "domain": ["SpaceX", "Prototyping"]
+    },
+    {
+      "id": 4,
+      "title": {
+        "en": "Tesla Gigacasting Technology",
+        "zh": "Tesla一体化压铸技术"
+      },
+      "description": {
+        "en": "Tesla invented gigacasting technology, merging 70 parts of the Model Y rear underbody into a single casting. This dramatically reduced part count and assembly time, reduced weight, and improved structural strength. A perfect embodiment of 'the best part is no part.'",
+        "zh": "Tesla发明了一体化压铸技术，将Model Y后底板的70个零件合并为一个压铸件。这不仅大幅减少了零件数量和装配时间，还减轻了重量、提高了结构强度。这是'最好的部件就是没有部件'哲学的完美体现。"
+      },
+      "source": "Tesla Battery Day, 2020",
+      "domain": ["Tesla", "Manufacturing"]
+    },
+    {
+      "id": 5,
+      "title": {
+        "en": "SpaceX Reuse Technology Rapid Evolution",
+        "zh": "SpaceX回收技术的快速进化"
+      },
+      "description": {
+        "en": "SpaceX's rocket landing technology underwent rapid evolution from impossible to routine. From first failed landing attempt to Falcon 9 first stage boosters successfully landing over 200 times, SpaceX turned recovery from experiment to routine operation through data analysis and design improvement after each mission.",
+        "zh": "SpaceX的火箭回收技术经历了从不可能到常规操作的快速进化。从第一次尝试着陆失败，到Falcon 9一级助推器成功回收超过200次，SpaceX通过每次任务的数据分析和设计改进，将回收从实验变成了日常操作。"
+      },
+      "source": "SpaceX Launch Webcasts, 2015-2024",
+      "domain": ["SpaceX", "Reuse"]
+    }
+  ],
+  "quotes": [
+    {
+      "id": 1,
+      "en": "The best part is no part. The best process is no process. So I want to have fewer parts, fewer processes, and then make sure those remaining parts and processes are as good as possible.",
+      "zh": "最好的部件就是没有部件。最好的流程就是没有流程。所以我想要更少的部件、更少的流程，然后确保剩余的部件和流程尽可能好。",
+      "source": "Tesla Annual Shareholder Meeting, 2020"
+    },
+    {
+      "id": 2,
+      "en": "I do think that the approach of building many prototypes, testing them, and iterating quickly is the correct approach.",
+      "zh": "我确实认为，构建大量原型、测试它们并快速迭代的方法是正确的方法。",
+      "source": "SpaceX Starship Update, 2021"
+    },
+    {
+      "id": 3,
+      "en": "If things are not failing, you are not innovating enough.",
+      "zh": "如果事情没有失败，说明你的创新还不够。",
+      "source": "SpaceX Press Conference, 2014"
+    },
+    {
+      "id": 4,
+      "en": "I think the key is to be able to have a tight feedback loop. If you can iterate very quickly, then you can make progress very quickly.",
+      "zh": "我认为关键是能够拥有一个紧密的反馈循环。如果你能非常快速地迭代，那么你就能非常快速地取得进展。",
+      "source": "Third Row Tesla Podcast, 2020"
+    },
+    {
+      "id": 5,
+      "en": "Persistence is very important. You should not give up unless you are forced to give up.",
+      "zh": "坚持非常重要。除非被迫放弃，否则你不应该放弃。",
+      "source": "SpaceX Launch Webcast, 2015"
+    },
+    {
+      "id": 6,
+      "en": "Engineering is the closest thing to magic that exists in the world.",
+      "zh": "工程学是这个世界上最接近魔法的东西。",
+      "source": "Tesla AI Day, 2022"
+    },
+    {
+      "id": 7,
+      "en": "The factory is the machine that builds the machine. The factory itself is more important than the product it makes.",
+      "zh": "工厂是制造机器的机器。工厂本身比它制造的产品更重要。",
+      "source": "Tesla Annual Shareholder Meeting, 2018"
+    },
+    {
+      "id": 8,
+      "en": "You want to have a design that is easy to manufacture. If the design is hard to manufacture, then it's a bad design, regardless of how good it looks on paper.",
+      "zh": "你想要一个容易制造的设计。如果设计难以制造，那么它就是一个糟糕的设计，不管它在纸上看起来有多好。",
+      "source": "Tesla Earnings Call, 2019"
+    },
+    {
+      "id": 9,
+      "en": "I'd rather be optimistic and wrong than pessimistic and right.",
+      "zh": "我宁愿乐观而犯错，也不愿悲观而正确。",
+      "source": "Inc. Magazine Interview, 2012"
+    },
+    {
+      "id": 10,
+      "en": "The path is the goal. It's not about the destination, it's about the journey. And the journey is the fun part.",
+      "zh": "路径就是目标。重要的不是目的地，而是旅程。旅程才是有趣的部分。",
+      "source": "SpaceX Starship Presentation, 2019"
+    }
+  ],
+  "agent_application": {
+    "en": [
+      "Minimalist design first: consider which components and steps can be completely eliminated before adding anything",
+      "Rapid prototype validation: build minimum viable prototypes first, validate assumptions through testing, then iterate",
+      "Manufacturing feasibility check: any design solution must consider implementation feasibility",
+      "Distinguish critical vs non-critical: maintain highest standards in safety-critical areas; accept 'good enough' elsewhere",
+      "Tight feedback loop: establish rapid feedback mechanisms, evaluate results immediately after each iteration",
+      "Continuous simplification: each iteration should ask 'what else can be removed?'"
+    ],
+    "zh": [
+      "极简设计优先：在设计任何系统或方案时，首先考虑哪些组件和步骤可以完全消除",
+      "快速原型验证：先构建最小可行原型，通过测试验证假设，然后快速迭代",
+      "制造可行性检查：任何设计方案都必须考虑实施可行性",
+      "区分关键与非关键：在安全关键领域坚持最高标准，在非关键领域接受'足够好'",
+      "紧密反馈循环：建立快速反馈机制，每次迭代后立即评估结果",
+      "持续简化：每次迭代都应该问'还有什么可以删除的？'"
+    ]
+  }
+}

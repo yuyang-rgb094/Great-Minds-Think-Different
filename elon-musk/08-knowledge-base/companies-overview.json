@@ -1,0 +1,269 @@
+{
+  "topic_id": "companies-overview",
+  "title_zh": "旗下公司概览",
+  "title_en": "Companies Overview",
+  "version": "2025-06-01",
+  "companies": [
+    {
+      "name": "Tesla, Inc.",
+      "name_zh": "特斯拉",
+      "founded": 2003,
+      "musk_joined": 2004,
+      "headquarters": "Austin, Texas, USA",
+      "status": "Public",
+      "ticker": "TSLA",
+      "valuation_usd": 800000000000,
+      "employees": 140000,
+      "business_units": [
+        {
+          "name_zh": "电动汽车",
+          "name_en": "Electric Vehicles",
+          "products": ["Model S", "Model 3", "Model X", "Model Y", "Cybertruck", "Semi"]
+        },
+        {
+          "name_zh": "自动驾驶",
+          "name_en": "Full Self-Driving",
+          "products": ["FSD v12", "Autopilot"]
+        },
+        {
+          "name_zh": "能源业务",
+          "name_en": "Energy Generation and Storage",
+          "products": ["Powerwall", "Megapack", "Solar Roof"]
+        },
+        {
+          "name_zh": "充电网络",
+          "name_en": "Supercharger Network",
+          "description": "World's largest fast-charging network"
+        },
+        {
+          "name_zh": "机器人",
+          "name_en": "Robotics",
+          "products": ["Optimus"]
+        }
+      ],
+      "key_milestones": [
+        {"year": 2008, "event": "First Roadster delivered"},
+        {"year": 2012, "event": "Model S launched"},
+        {"year": 2016, "event": "Acquired SolarCity"},
+        {"year": 2020, "event": "Added to S&P 500"},
+        {"year": 2023, "event": "Cybertruck deliveries began"},
+        {"year": 2024, "event": "FSD v12 end-to-end neural network"}
+      ]
+    },
+    {
+      "name": "Space Exploration Technologies Corp.",
+      "name_zh": "SpaceX",
+      "founded": "2002-06",
+      "headquarters": "Starbase, Brownsville, Texas, USA",
+      "status": "Private (IPO planned June 2026)",
+      "valuation_usd": 350000000000,
+      "employees": 130000,
+      "business_units": [
+        {
+          "name_zh": "猎鹰火箭",
+          "name_en": "Falcon Rockets",
+          "products": ["Falcon 9", "Falcon Heavy"]
+        },
+        {
+          "name_zh": "龙飞船",
+          "name_en": "Dragon Spacecraft",
+          "products": ["Cargo Dragon", "Crew Dragon"]
+        },
+        {
+          "name_zh": "星舰",
+          "name_en": "Starship",
+          "description": "Fully reusable Mars transportation system"
+        },
+        {
+          "name_zh": "星链",
+          "name_en": "Starlink",
+          "description": "Global satellite internet constellation (7000+ satellites)"
+        }
+      ],
+      "key_milestones": [
+        {"date": "2008-09-28", "event": "Falcon 1 first successful orbital flight"},
+        {"date": "2015-12-21", "event": "First Falcon 9 landing"},
+        {"date": "2020-05-30", "event": "First commercial crewed spaceflight (Demo-2)"},
+        {"date": "2024-03", "event": "Starship first orbital test flight"},
+        {"date": "2024-10", "event": "Starship booster first catch with chopsticks"},
+        {"date": "2025", "event": "Starship Flight Test 8 success"}
+      ]
+    },
+    {
+      "name": "xAI",
+      "name_zh": "xAI公司",
+      "founded": "2023-07",
+      "headquarters": "San Francisco Bay Area, California, USA",
+      "status": "Private (merging with SpaceX 2026)",
+      "valuation_usd": 50000000000,
+      "employees": 200,
+      "mission_zh": "构建追求真理的AI，理解宇宙本质",
+      "mission_en": "Build maximally truth-seeking AI to understand the universe",
+      "products": [
+        {
+          "name": "Grok 1",
+          "release": "2023",
+          "description": "Initial release"
+        },
+        {
+          "name": "Grok 2",
+          "release": "2024",
+          "description": "Improved reasoning capabilities"
+        },
+        {
+          "name": "Grok 3",
+          "release": "2025",
+          "description": "Topped global AI benchmarks"
+        },
+        {
+          "name": "Grok Heavy",
+          "release": "2025",
+          "price": "$300/month",
+          "description": "Premium tier"
+        },
+        {
+          "name": "Grok 5",
+          "release": "2025-2026",
+          "parameters": "6 trillion",
+          "description": "AGI ambitions"
+        }
+      ],
+      "advantages": [
+        "Real-time access to X platform data",
+        "Rebellious humor personality",
+        "Politically neutral stance",
+        "Synergy with Neuralink BCI"
+      ]
+    },
+    {
+      "name": "Neuralink",
+      "name_zh": "Neuralink",
+      "founded": "2016-07",
+      "headquarters": "San Francisco, California, USA",
+      "status": "Private",
+      "valuation_usd": 8000000000,
+      "employees": 500,
+      "core_technology": [
+        {
+          "name": "N1 Implant",
+          "name_zh": "N1植入体",
+          "description": "Coin-sized brain-computer interface device"
+        },
+        {
+          "name": "R1 Robot",
+          "name_zh": "R1机器人",
+          "description": "High-precision surgical robot for implantation"
+        },
+        {
+          "name": "Wireless Transmission",
+          "name_zh": "无线传输",
+          "description": "Low-power Bluetooth data transmission"
+        }
+      ],
+      "applications": [
+        "Helping paralyzed patients restore movement and communication",
+        "Visual cortex stimulation for vision restoration",
+        "Future memory storage and enhancement"
+      ],
+      "clinical_progress": [
+        {"date": "2024-01", "event": "First human implant (Noland Arbaugh)"},
+        {"date": "2025", "event": "10+ patients implanted"},
+        {"status": "ongoing", "event": "PRIME study multi-center clinical trial"}
+      ]
+    },
+    {
+      "name": "The Boring Company",
+      "name_zh": "The Boring Company",
+      "founded": "2016-12",
+      "headquarters": "Austin, Texas, USA",
+      "status": "Private",
+      "valuation_usd": 7000000000,
+      "employees": 200,
+      "mission": "Solve urban traffic congestion through underground tunnels",
+      "core_technology": [
+        {
+          "name": "Prufrock TBM",
+          "name_zh": "Prufrock隧道掘进机",
+          "description": "10x faster than traditional equipment"
+        },
+        {
+          "name": "Loop System",
+          "name_zh": "Loop系统",
+          "description": "High-speed underground transportation"
+        }
+      ],
+      "projects": [
+        "Las Vegas Convention Center Loop (LVCC Loop)",
+        "Las Vegas Strip tunnel project",
+        "Gigafactory Texas surrounding tunnels"
+      ]
+    },
+    {
+      "name": "X Corp.",
+      "name_zh": "X公司",
+      "former_name": "Twitter",
+      "acquired": "2022-10",
+      "acquisition_price_usd": 44000000000,
+      "headquarters": "San Francisco, California, USA",
+      "status": "Private",
+      "valuation_usd": 19000000000,
+      "employees": 2000,
+      "transformation": [
+        {"date": "2022-10", "event": "Acquisition completed, Musk became CEO"},
+        {"date": "2022-2023", "event": "Mass layoffs (7500 to ~2000)"},
+        {"date": "2023", "event": "Launched X Premium subscription"},
+        {"date": "2024", "event": "Rebranded to X, positioned as everything app"}
+      ],
+      "strategic_value": [
+        "Data engine for xAI training",
+        "Distribution platform for Grok AI",
+        "Core platform for Musk's communication"
+      ],
+      "features": [
+        "Long-form text posts",
+        "Video calls",
+        "Payments (in development)",
+        "Grok AI integration"
+      ]
+    }
+  ],
+  "key_data": {
+    "total_valuation_usd": 1625000000000,
+    "total_employees": 265700,
+    "ipo_planned": {
+      "company": "SpaceX-xAI merged entity",
+      "date": "2026-06",
+      "ticker": "STAR",
+      "valuation_usd": 1250000000000
+    }
+  },
+  "updates_2025_2026": {
+    "spacex_xai_merger": {
+      "date": "2026-02",
+      "valuation_usd": 1250000000000,
+      "structure": "SpaceX acquires xAI via stock swap",
+      "ipo_plan": "June 2026, ticker STAR",
+      "share_structure": "Dual-class shares, Musk retains control"
+    },
+    "tesla_optimus": {
+      "2025": "Testing in Tesla factories",
+      "2026": "Planned small-scale production",
+      "goal": "Address labor shortage, perform dangerous tasks"
+    },
+    "neuralink_commercialization": {
+      "2025": "FDA Breakthrough Device designation",
+      "2026": "Planned larger-scale clinical trials",
+      "target_conditions": ["Paralysis", "ALS", "Blindness"]
+    }
+  },
+  "sources": [
+    "Tesla, Inc. Annual Reports and SEC filings",
+    "SpaceX official website and press releases",
+    "xAI official announcements",
+    "Neuralink blog and clinical trial updates",
+    "The Boring Company project updates",
+    "X platform transparency reports",
+    "Bloomberg, Reuters, CNBC business coverage",
+    "Forbes and Fortune company valuations"
+  ]
+}

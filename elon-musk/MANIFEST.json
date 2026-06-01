@@ -1,0 +1,218 @@
+{
+  "corpus_name": "Elon Musk AI Agent Pre-training Corpus",
+  "corpus_name_zh": "埃隆·马斯克 AI 智能体前置语料库",
+  "version": "1.0.0",
+  "created_date": "2026-06-01",
+  "last_updated": "2026-06-01",
+  "description": {
+    "en": "A comprehensive bilingual corpus for fine-tuning LLMs to emulate Elon Musk's speaking style, knowledge, and personality. Covers 2010-2026 public statements, interviews, tweets, and speeches.",
+    "zh": "用于微调大语言模型以模拟埃隆·马斯克说话风格、知识和人格的综合双语语料库。涵盖 2010-2026 年的公开言论、访谈、推文和演讲。"
+  },
+  "data_coverage": {
+    "start_date": "2010-01-01",
+    "end_date": "2026-05-31",
+    "description_en": "Covers Elon Musk's public statements from 2010 to May 2026",
+    "description_zh": "覆盖马斯克2010年至2026年5月的公开言论"
+  },
+  "statistics": {
+    "total_files": 20,
+    "total_modules": 10,
+    "total_tweets": 400,
+    "total_interview_segments": 110,
+    "total_quotes": 245,
+    "total_few_shot_dialogues": 46,
+    "total_entries": 801,
+    "bilingual_entries": 801,
+    "languages": ["en", "zh"]
+  },
+  "modules": [
+    {
+      "module_id": "01-core-identity",
+      "name": "Core Identity",
+      "name_zh": "核心身份定义",
+      "description": "Fundamental persona definition and identity",
+      "description_zh": "基础人格定义和身份",
+      "files": ["persona-definition.md", "persona-definition.json", "system-prompt.md", "system-prompt.json"],
+      "entry_count": 4,
+      "formats": ["Markdown", "JSON"]
+    },
+    {
+      "module_id": "02-twitter-x-posts",
+      "name": "Twitter/X Posts",
+      "name_zh": "Twitter/X 推文",
+      "description": "Curated tweets from @elonmusk covering various topics",
+      "description_zh": "精选 @elonmusk 推文，涵盖各种话题",
+      "files": ["tweets-curated.md", "tweets-curated.json", "tweets-by-topic.md", "tweets-by-topic.json"],
+      "entry_count": 400,
+      "formats": ["Markdown", "JSON"]
+    },
+    {
+      "module_id": "03-interview-quotes",
+      "name": "Interview Quotes",
+      "name_zh": "访谈引用",
+      "description": "Notable quotes from interviews and speeches",
+      "description_zh": "访谈和演讲中的著名引用",
+      "files": ["interview-quotes.md", "interview-quotes.json", "quotes-by-topic.md", "quotes-by-topic.json"],
+      "entry_count": 110,
+      "formats": ["Markdown", "JSON"]
+    },
+    {
+      "module_id": "04-few-shot-dialogues",
+      "name": "Few-Shot Dialogues",
+      "name_zh": "少样本对话",
+      "description": "Multi-turn conversation examples for training",
+      "description_zh": "用于训练的多轮对话示例",
+      "files": ["dialogues-scenarios.md", "dialogues-scenarios.json", "dialogues-technical.md", "dialogues-technical.json", "dialogues-personal.md", "dialogues-personal.json"],
+      "entry_count": 46,
+      "formats": ["Markdown", "JSON"]
+    },
+    {
+      "module_id": "05-speaking-style",
+      "name": "Speaking Style",
+      "name_zh": "说话风格",
+      "description": "Analysis of Musk's communication patterns and style",
+      "description_zh": "马斯克沟通模式和风格分析",
+      "files": ["style-analysis.md", "style-analysis.json", "speech-patterns.md", "speech-patterns.json"],
+      "entry_count": 2,
+      "formats": ["Markdown", "JSON"]
+    },
+    {
+      "module_id": "06-knowledge-base",
+      "name": "Knowledge Base",
+      "name_zh": "知识库",
+      "description": "Domain knowledge across Tesla, SpaceX, AI, and other fields",
+      "description_zh": "特斯拉、SpaceX、AI 和其他领域的领域知识",
+      "files": ["knowledge-tesla.md", "knowledge-tesla.json", "knowledge-spacex.md", "knowledge-spacex.json", "knowledge-ai.md", "knowledge-ai.json", "knowledge-other.md", "knowledge-other.json"],
+      "entry_count": 4,
+      "formats": ["Markdown", "JSON"]
+    },
+    {
+      "module_id": "07-response-patterns",
+      "name": "Response Patterns",
+      "name_zh": "回复模式",
+      "description": "Common response templates and patterns",
+      "description_zh": "常见回复模板和模式",
+      "files": ["response-templates.md", "response-templates.json", "qa-pairs.md", "qa-pairs.json"],
+      "entry_count": 2,
+      "formats": ["Markdown", "JSON"]
+    },
+    {
+      "module_id": "08-vocabulary-phrases",
+      "name": "Vocabulary & Phrases",
+      "name_zh": "词汇与短语",
+      "description": "Signature vocabulary, catchphrases, and expressions",
+      "description_zh": "标志性词汇、口头禅和表达",
+      "files": ["vocabulary-core.md", "vocabulary-core.json", "phrases-signature.md", "phrases-signature.json"],
+      "entry_count": 2,
+      "formats": ["Markdown", "JSON"]
+    },
+    {
+      "module_id": "09-contextual-awareness",
+      "name": "Contextual Awareness",
+      "name_zh": "情境感知",
+      "description": "Time-aware content and current events context",
+      "description_zh": "时间感知内容和时事背景",
+      "files": ["timeline-2010-2020.md", "timeline-2010-2020.json", "timeline-2021-2024.md", "timeline-2021-2024.json", "timeline-2025-2026.md", "timeline-2025-2026.json"],
+      "entry_count": 3,
+      "formats": ["Markdown", "JSON"]
+    },
+    {
+      "module_id": "10-training-configs",
+      "name": "Training Configurations",
+      "name_zh": "训练配置",
+      "description": "Format guides, system prompts, and fine-tuning recommendations",
+      "description_zh": "格式指南、系统提示词和微调建议",
+      "files": ["chatml-format-guide.md", "chatml-format-guide.json", "sharegpt-format-guide.md", "sharegpt-format-guide.json", "system-prompts-collection.md", "system-prompts-collection.json", "fine-tuning-recommendations.md", "fine-tuning-recommendations.json"],
+      "entry_count": 8,
+      "formats": ["Markdown", "JSON"]
+    }
+  ],
+  "format_specification": {
+    "supported_formats": ["Markdown", "JSON"],
+    "bilingual": true,
+    "required_fields": ["id", "en", "zh", "source"],
+    "optional_fields": ["date", "context", "topic", "tags"],
+    "conversation_formats": ["ChatML", "ShareGPT"]
+  },
+  "usage_guidelines": {
+    "intended_use": {
+      "en": "Fine-tuning LLMs to emulate Elon Musk's speaking style and knowledge",
+      "zh": "微调大语言模型以模拟埃隆·马斯克的说话风格和知识"
+    },
+    "license": {
+      "en": "Research and educational use only",
+      "zh": "仅限研究和教育用途"
+    },
+    "attribution": {
+      "en": "Data sourced from public statements, interviews, and X/Twitter",
+      "zh": "数据来源于公开言论、访谈和 X/Twitter"
+    },
+    "disclaimer": {
+      "en": "This is an unofficial corpus created for research purposes. Not affiliated with Elon Musk or his companies.",
+      "zh": "这是为研究目的创建的非官方语料库。与埃隆·马斯克或其公司无关联。"
+    }
+  },
+  "technical_specifications": {
+    "recommended_models": ["Llama-2", "Llama-3", "Mistral", "Qwen", "Baichuan"],
+    "training_approaches": ["LoRA", "QLoRA", "Full Fine-tuning"],
+    "recommended_rank": 16,
+    "recommended_mixing_ratio": "50:50",
+    "system_prompt_modes": [
+      "general_persona",
+      "technical_engineering",
+      "business_strategy",
+      "humor_casual",
+      "current_events_2025_2026",
+      "twitter_x_style",
+      "interview_mode"
+    ]
+  },
+  "directory_structure": {
+    "root": [
+      "MANIFEST.json",
+      "MANIFEST.md",
+      "README.md"
+    ],
+    "modules": [
+      "01-core-identity/",
+      "02-twitter-x-posts/",
+      "03-interview-quotes/",
+      "04-few-shot-dialogues/",
+      "05-speaking-style/",
+      "06-knowledge-base/",
+      "07-response-patterns/",
+      "08-vocabulary-phrases/",
+      "09-contextual-awareness/",
+      "10-training-configs/"
+    ]
+  },
+  "version_history": [
+    {
+      "version": "1.0.0",
+      "date": "2026-06-01",
+      "changes": [
+        "Initial release",
+        "10 modules with 801 total entries",
+        "Bilingual (English/Chinese) support",
+        "ChatML and ShareGPT format guides",
+        "Complete fine-tuning recommendations"
+      ]
+    }
+  ],
+  "related_resources": {
+    "documentation": [
+      "README.md",
+      "MANIFEST.md"
+    ],
+    "training_configs": [
+      "10-training-configs/chatml-format-guide.md",
+      "10-training-configs/sharegpt-format-guide.md",
+      "10-training-configs/system-prompts-collection.md",
+      "10-training-configs/fine-tuning-recommendations.md"
+    ]
+  },
+  "contact": {
+    "repository": "https://github.com/example/elon-musk-agent-corpus",
+    "issues": "https://github.com/example/elon-musk-agent-corpus/issues"
+  }
+}

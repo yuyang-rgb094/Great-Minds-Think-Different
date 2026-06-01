@@ -1,0 +1,190 @@
+{
+  "id": "risk-tolerance",
+  "title": {
+    "en": "Risk Tolerance and Adventurous Spirit",
+    "zh": "风险承受与冒险精神"
+  },
+  "overview": {
+    "en": "Musk's attitude toward risk is one of the most significant differences between him and other business leaders. He views failure as a necessary path to innovation and takes enormous personal financial risks. His risk philosophy is not reckless gambling, but rationally calculated 'all-in' — when something is important enough, go all out even if the odds are against you.",
+    "zh": "马斯克对风险的态度是他与其他商业领袖最显著的区别之一。他不仅愿意承担巨大的个人财务风险，还将失败视为创新的必经之路。他的风险哲学不是赌博式的鲁莽，而是经过理性计算后的'全押'——当一件事足够重要时，即使胜算不大也要全力以赴。"
+  },
+  "principles": [
+    {
+      "id": 1,
+      "en": "Mission-Driven Risk-Taking — Only when the goal has enough significance is it worth taking enormous risks. Personal wealth is not a reason; saving humanity is.",
+      "zh": "使命驱动冒险 — 只有当目标具有足够大的意义时，才值得承担巨大风险。个人财富不是冒险的理由；拯救人类才是。"
+    },
+    {
+      "id": 2,
+      "en": "Failure Is Part of Innovation — If your failure rate isn't high enough, your innovation intensity isn't sufficient. Every failure is a learning opportunity.",
+      "zh": "失败是创新的一部分 — 如果你的失败率不够高，说明你的创新力度不够。每一次失败都是一次学习机会。"
+    },
+    {
+      "id": 3,
+      "en": "Personal Financial 'All-In' — If you're not willing to invest your own money, why should others believe in your project? Founders must bear the greatest risk.",
+      "zh": "个人财务'全押' — 如果你自己都不愿意把自己的钱投进去，凭什么让别人相信你的项目？创始人必须承担最大的风险。"
+    },
+    {
+      "id": 4,
+      "en": "Asymmetric Risk Preference — Prefer opportunities where downside risk is limited but upside potential is enormous. Controllable loss vs revolutionary gain.",
+      "zh": "不对称风险偏好 — 偏好那些下行风险有限但上行收益巨大的机会。即使失败，损失是可控的；但如果成功，收益是革命性的。"
+    },
+    {
+      "id": 5,
+      "en": "Pain Threshold Management — Taking risks means experiencing enormous pain and stress. This pain threshold filters out the vast majority of competitors.",
+      "zh": "痛苦阈值管理 — 冒险意味着会经历巨大的痛苦和压力。正是这种痛苦阈值，过滤掉了绝大多数竞争者。"
+    },
+    {
+      "id": 6,
+      "en": "Rational Optimism — Not blind optimism, but optimism based on rational analysis. Even if probability is low, as long as it's not zero, it's worth trying.",
+      "zh": "理性乐观主义 — 不是盲目乐观，而是基于理性分析的乐观。即使概率很低，只要不是零，就值得尝试。"
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "title": {
+        "en": "SpaceX Three Rocket Explosions",
+        "zh": "SpaceX三次火箭爆炸"
+      },
+      "description": {
+        "en": "In 2008, SpaceX's Falcon 1 rocket failed three consecutive launches. SpaceX had only enough funding for one more launch. Musk invested all his remaining money into the fourth launch. On September 28, 2008, the fourth launch succeeded, and NASA subsequently awarded SpaceX a $1.6 billion contract, saving the company.",
+        "zh": "2008年，SpaceX的Falcon 1火箭连续三次发射失败。SpaceX只剩下足够一次发射的资金。马斯克将自己最后的资金全部投入第四次发射。2008年9月28日，第四次发射成功，NASA随后授予SpaceX$16亿美元的合同，拯救了公司。"
+      },
+      "source": "SpaceX Launch Records, 2006-2008",
+      "domain": ["SpaceX", "Launch Vehicles"]
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "Tesla Model 3 Production Hell",
+        "zh": "Tesla Model 3生产地狱"
+      },
+      "description": {
+        "en": "In 2017-2018, Tesla encountered severe difficulties during Model 3 mass production. Musk called this period 'production hell.' He personally slept on the factory floor and worked over 120 hours per week. Tesla successfully increased capacity to 5,000 vehicles per week, moving from the brink of bankruptcy to profitability.",
+        "zh": "2017-2018年，Tesla在Model 3量产过程中遭遇严重困难。马斯克将这段时间称为'生产地狱'。他亲自睡在工厂地板上，每周工作120小时以上。Tesla成功将产能提升到每周5000辆，使公司从破产边缘走向盈利。"
+      },
+      "source": "Tesla Earnings Calls, 2017-2018",
+      "domain": ["Tesla", "Manufacturing"]
+    },
+    {
+      "id": 3,
+      "title": {
+        "en": "Personal Financial Risk",
+        "zh": "个人财务风险"
+      },
+      "description": {
+        "en": "After selling PayPal, Musk received about $165 million. He invested $100M into SpaceX, $70M into Tesla, and $10M into SolarCity. By 2008, he had spent almost all his money and had to borrow from friends to pay rent. He later recalled: 'If the fourth launch had also failed, I would have been completely finished.'",
+        "zh": "在出售PayPal后，马斯克获得了约$1.65亿美元。他将其中$1亿投入SpaceX，$7000万投入Tesla，$1000万投入SolarCity。到2008年，他几乎花光了所有钱，不得不向朋友借钱付房租。他后来回忆说：'如果第四次发射也失败了，我就彻底完了。'"
+      },
+      "source": "Elon Musk Biography by Walter Isaacson, 2023",
+      "domain": ["Personal", "Finance"]
+    },
+    {
+      "id": 4,
+      "title": {
+        "en": "Cybertruck's Risky Design",
+        "zh": "Cybertruck的冒险设计"
+      },
+      "description": {
+        "en": "In 2019, Tesla unveiled the Cybertruck with an appearance that completely颠覆ted traditional pickup design. Stainless steel exoskeleton, sharp geometric styling, bulletproof glass (which accidentally shattered during launch) — everything was full of risk. Musk chose an extreme design direction to directly challenge the pickup industry's paradigms.",
+        "zh": "2019年，Tesla发布了Cybertruck——一款外观完全颠覆传统皮卡设计的产品。不锈钢外骨骼、棱角分明的几何造型、防弹玻璃（在发布会上意外碎裂）——这一切都充满了风险。马斯克选择了一个极端的设计方向，直接挑战整个皮卡行业的审美和功能范式。"
+      },
+      "source": "Cybertruck Launch Event, 2019",
+      "domain": ["Tesla", "Product Design"]
+    },
+    {
+      "id": 5,
+      "title": {
+        "en": "Continuous Failures in Starship Development",
+        "zh": "Starship开发中的持续失败"
+      },
+      "description": {
+        "en": "Starship development experienced countless 'Rapid Unscheduled Disassemblies' (explosions). From SN8 to SN11, every high-altitude test ended in explosion. But SpaceX collected data from each explosion and continuously improved. SN15 finally landed successfully, proving the effectiveness of this high-risk, high-reward strategy.",
+        "zh": "Starship的开发过程中经历了无数次'快速计划外解体'（爆炸）。从SN8到SN11，每次高空测试都以爆炸告终。但SpaceX团队从每次爆炸中收集数据，持续改进设计。SN15终于成功着陆，证明了这种高风险高回报的开发策略的有效性。"
+      },
+      "source": "SpaceX Starship Test Campaigns, 2020-2021",
+      "domain": ["SpaceX", "Prototyping"]
+    }
+  ],
+  "quotes": [
+    {
+      "id": 1,
+      "en": "When something is important enough, you do it even if the odds are not in your favor.",
+      "zh": "当某件事足够重要时，即使胜算不大，你也要去做。",
+      "source": "Commencement Speech at Caltech, 2012"
+    },
+    {
+      "id": 2,
+      "en": "Failure is an option here. If things are not failing, you are not innovating enough.",
+      "zh": "在这里，失败是一个选项。如果事情没有失败，说明你的创新还不够。",
+      "source": "SpaceX Press Conference, 2014"
+    },
+    {
+      "id": 3,
+      "en": "I think it's important to take risks. If you're not taking risks, you're not going to make breakthroughs.",
+      "zh": "我认为冒险很重要。如果你不冒险，你就不会取得突破。",
+      "source": "Bloomberg Technology Summit, 2016"
+    },
+    {
+      "id": 4,
+      "en": "There's a brief moment where you feel the pain, and then you move on. That's how I deal with it.",
+      "zh": "有一个短暂的瞬间你会感到痛苦，然后你就继续前进。我就是这样处理的。",
+      "source": "Rolling Stone Interview, 2017"
+    },
+    {
+      "id": 5,
+      "en": "I didn't really think that there was a high probability of success with SpaceX. I thought maybe it was a 10% chance. But I thought it was important enough to try.",
+      "zh": "我真的不认为SpaceX有很高的成功概率。我认为可能只有10%的机会。但我认为它重要到值得尝试。",
+      "source": "60 Minutes Interview, 2012"
+    },
+    {
+      "id": 6,
+      "en": "It's okay to have your eggs in one basket as long as you control what happens to that basket.",
+      "zh": "只要你控制那个篮子里会发生什么，把所有鸡蛋放在一个篮子里也没关系。",
+      "source": "Elon Musk Twitter/X Post, 2022"
+    },
+    {
+      "id": 7,
+      "en": "If you get up in the morning and think the future is going to be better, it is a bright day. Otherwise, it's not.",
+      "zh": "如果你早上醒来时认为未来会更好，那就是一个明媚的日子。否则就不是。",
+      "source": "TED Interview, 2013"
+    },
+    {
+      "id": 8,
+      "en": "Pain and suffering is a lot. I don't recommend it. But if you want to do something significant, you have to be willing to go through that.",
+      "zh": "痛苦和折磨是很多的。我不推荐。但如果你想做一些重要的事情，你必须愿意经历这些。",
+      "source": "The New York Times DealBook Summit, 2022"
+    },
+    {
+      "id": 9,
+      "en": "I'd rather be optimistic and wrong than pessimistic and right.",
+      "zh": "我宁愿乐观而犯错，也不愿悲观而正确。",
+      "source": "Inc. Magazine Interview, 2012"
+    },
+    {
+      "id": 10,
+      "en": "The thing that I find most motivating is creating things that are better and that push humanity forward.",
+      "zh": "我发现最能激励我的是创造更好的东西，推动人类前进。",
+      "source": "Tesla Annual Shareholder Meeting, 2023"
+    }
+  ],
+  "agent_application": {
+    "en": [
+      "Assess mission importance: only take high risks when the goal has transformative significance",
+      "Calculate asymmetric returns: seek opportunities where downside is limited but upside is enormous",
+      "Fail fast, learn fast: establish mechanisms for rapid learning from failure",
+      "Set pain threshold: clarify maximum bearable loss before committing",
+      "Rational optimism calibration: analyze probability based on data; if not zero, worth trying",
+      "Concentrated resource investment: concentrate resources on most promising direction for efficient 'all-in' execution"
+    ],
+    "zh": [
+      "评估使命重要性：只有当目标具有变革性意义时，才值得承担高风险",
+      "计算不对称收益：寻找下行风险有限、上行收益巨大的机会",
+      "快速失败学习：建立从失败中快速学习的机制",
+      "设定痛苦阈值：在冒险前明确自己能承受的最大损失",
+      "理性乐观校准：基于数据分析成功概率，只要概率不为零，就值得尝试",
+      "资源集中投入：将资源集中投入到最有潜力的方向，实现'全押'式的高效执行"
+    ]
+  }
+}

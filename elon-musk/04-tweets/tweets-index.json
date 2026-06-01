@@ -1,0 +1,169 @@
+{
+  "index": {
+    "title": "Elon Musk 推文语料库索引 (Tweet Index)",
+    "version": "1.0",
+    "last_updated": "2026-06-01",
+    "total_tweets": 400,
+    "total_categories": 12,
+    "date_range": "2022-07 – 2026-05",
+    "description": "Elon Musk推文双语语料库，包含12个主题分类，每个分类包含.md和.json文件"
+  },
+  "categories": [
+    {
+      "id": 1,
+      "name_zh": "AI与科技",
+      "name_en": "AI & Technology",
+      "slug": "tweets-ai-tech",
+      "count": 50,
+      "date_range": "2022-07 – 2026-05",
+      "description": "Grok发布、AGI预测、xAI成立、OpenAI批评、AI安全警告、Neuralink+Grok合作",
+      "tags": ["Grok", "AGI", "xAI", "OpenAI", "AI safety", "Neuralink"]
+    },
+    {
+      "id": 2,
+      "name_zh": "太空探索",
+      "name_en": "Space Exploration",
+      "slug": "tweets-space-exploration",
+      "count": 40,
+      "date_range": "2022-08 – 2026-05",
+      "description": "Starship更新、火星殖民时间线、Falcon 9着陆、Starship捕获、SpaceX里程碑",
+      "tags": ["Starship", "Mars", "Falcon 9", "SpaceX", "multi-planetary"]
+    },
+    {
+      "id": 3,
+      "name_zh": "电动车",
+      "name_en": "Tesla / Electric Vehicles",
+      "slug": "tweets-tesla-ev",
+      "count": 40,
+      "date_range": "2022-09 – 2026-05",
+      "description": "Model Y/3/S更新、FSD进展、Robotaxi公告、Gigafactory更新、生产数据",
+      "tags": ["Tesla", "FSD", "Robotaxi", "Cybertruck", "Gigafactory", "Model Y"]
+    },
+    {
+      "id": 4,
+      "name_zh": "能源",
+      "name_en": "Energy",
+      "slug": "tweets-energy",
+      "count": 25,
+      "date_range": "2022-10 – 2026-04",
+      "description": "太阳能板、Powerwall、Megapack、可持续能源使命、电网储能",
+      "tags": ["solar", "Powerwall", "Megapack", "sustainable energy", "battery"]
+    },
+    {
+      "id": 5,
+      "name_zh": "加密货币/狗狗币",
+      "name_en": "Crypto / Dogecoin",
+      "slug": "tweets-crypto-doge",
+      "count": 30,
+      "date_range": "2022-10 – 2026-04",
+      "description": "Doge to the Moon、狗狗币支持、比特币观点、memecoin幽默",
+      "tags": ["Dogecoin", "Bitcoin", "crypto", "memecoin", "Doge"]
+    },
+    {
+      "id": 6,
+      "name_zh": "言论自由",
+      "name_en": "Free Speech",
+      "slug": "tweets-free-speech",
+      "count": 25,
+      "date_range": "2022-10 – 2026-03",
+      "description": "Twitter/X收购理由、言论自由声明、内容审核观点、Community Notes",
+      "tags": ["free speech", "X", "Twitter", "censorship", "Community Notes"]
+    },
+    {
+      "id": 7,
+      "name_zh": "DOGE政府效率部",
+      "name_en": "DOGE Government Efficiency",
+      "slug": "tweets-doge-government",
+      "count": 30,
+      "date_range": "2025-01 – 2025-05",
+      "description": "DOGE任命、政府开支削减、删除法规、2025年5月辞职、效率成就",
+      "tags": ["DOGE", "government efficiency", "spending cuts", "regulations", "2025"]
+    },
+    {
+      "id": 8,
+      "name_zh": "幽默/梗",
+      "name_en": "Humor / Memes",
+      "slug": "tweets-humor-memes",
+      "count": 30,
+      "date_range": "2022-10 – 2026-03",
+      "description": "梗、笑话、自嘲幽默、流行文化引用、emoji使用模式",
+      "tags": ["humor", "memes", "jokes", "self-deprecating", "pop culture"]
+    },
+    {
+      "id": 9,
+      "name_zh": "人生哲学",
+      "name_en": "Philosophy / Life",
+      "slug": "tweets-philosophy-life",
+      "count": 25,
+      "date_range": "2022-11 – 2026-03",
+      "description": "人生建议、生命意义、宇宙哲学、励志名言、存在主义思考",
+      "tags": ["philosophy", "life advice", "meaning", "motivation", "universe"]
+    },
+    {
+      "id": 10,
+      "name_zh": "商业建议",
+      "name_en": "Business Advice",
+      "slug": "tweets-business-advice",
+      "count": 20,
+      "date_range": "2022-11 – 2026-01",
+      "description": "创业建议、努力工作、招聘建议、产品开发哲学",
+      "tags": ["startup", "business", "hiring", "product", "advice"]
+    },
+    {
+      "id": 11,
+      "name_zh": "xAI收购X",
+      "name_en": "xAI Acquisition of X",
+      "slug": "tweets-xai-acquisition",
+      "count": 20,
+      "date_range": "2025-03 – 2026-05",
+      "description": "xAI以$33B收购X、万能应用、AI训练数据引擎、社交媒体+AI集成",
+      "tags": ["xAI", "X", "acquisition", "$33B", "everything app", "AI integration"]
+    },
+    {
+      "id": 12,
+      "name_zh": "SpaceX IPO",
+      "name_en": "SpaceX IPO",
+      "slug": "tweets-spacex-ipo",
+      "count": 15,
+      "date_range": "2026-01 – 2026-05",
+      "description": "SpaceX IPO计划、双重股权结构、潜在Tesla合并、SpaceX-xAI合并($1.25T估值)",
+      "tags": ["SpaceX", "IPO", "STAR", "dual-class", "merger", "$1.25T"]
+    }
+  ],
+  "statistics": {
+    "total_tweets": 400,
+    "avg_quality_score": 0.90,
+    "high_engagement_tweets": 45,
+    "style_markers_distribution": {
+      "visionary": "high",
+      "proud": "high",
+      "humorous": "medium",
+      "provocative": "medium",
+      "philosophical": "medium",
+      "announcement": "high",
+      "technical": "medium",
+      "self-deprecating": "low"
+    },
+    "yearly_distribution": {
+      "2022": 45,
+      "2023": 95,
+      "2024": 110,
+      "2025": 120,
+      "2026": 30
+    }
+  },
+  "file_format": {
+    "md": "Markdown format with bilingual content, suitable for human reading",
+    "json": "JSON array format with structured data, suitable for programmatic processing",
+    "tweet_structure": {
+      "id": "tweet_[category]_[number]",
+      "source": {"type": "tweet", "date": "YYYY-MM-DD", "engagement": {"likes": "number", "retweets": "number", "replies": "number", "views": "number"}},
+      "category": "[category]",
+      "tags": ["tag1", "tag2"],
+      "en": {"text": "English tweet text", "context": "Brief context"},
+      "zh": {"text": "中文翻译", "context": "中文上下文"},
+      "style_markers": ["marker1", "marker2"],
+      "quality_score": "0.0-1.0"
+    }
+  }
+}

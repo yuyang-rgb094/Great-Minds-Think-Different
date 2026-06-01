@@ -1,0 +1,311 @@
+{
+  "id": "fine-tuning-recommendations",
+  "title": {
+    "en": "Fine-tuning Recommendations",
+    "zh": "微调建议"
+  },
+  "description": {
+    "en": "Technical recommendations for LLM fine-tuning on the Elon Musk corpus",
+    "zh": "针对埃隆·马斯克语料库的 LLM 微调技术建议"
+  },
+  "version": "1.0.0",
+  "last_updated": "2026-06-01",
+  "lora_parameters": {
+    "rank_selection": {
+      "description": "Rank determines the dimension of low-rank adaptation matrices",
+      "options": [
+        {
+          "rank": 8,
+          "use_case_en": "Quick experiments",
+          "use_case_zh": "快速实验",
+          "vram": "Low",
+          "description_en": "Suitable for preliminary testing and rapid iteration",
+          "description_zh": "适合初步测试和快速迭代"
+        },
+        {
+          "rank": 16,
+          "use_case_en": "Standard fine-tuning",
+          "use_case_zh": "标准微调",
+          "vram": "Medium",
+          "description_en": "Recommended default, balanced performance and resources",
+          "description_zh": "推荐默认值，平衡性能和资源"
+        },
+        {
+          "rank": 32,
+          "use_case_en": "Complex persona",
+          "use_case_zh": "复杂人格",
+          "vram": "Medium-High",
+          "description_en": "Use when more style details need to be captured",
+          "description_zh": "需要捕捉更多风格细节时使用"
+        },
+        {
+          "rank": 64,
+          "use_case_en": "Deep customization",
+          "use_case_zh": "深度定制",
+          "vram": "High",
+          "description_en": "Maximum learning capacity, needs more data to prevent overfitting",
+          "description_zh": "最大学习能力，需更多数据防止过拟合"
+        }
+      ],
+      "recommendations": {
+        "initial_experiments": 8,
+        "production": 16,
+        "high_quality": 32
+      }
+    },
+    "alpha_values": {
+      "description": "Alpha controls the scaling of LoRA adaptation, typically 1-2x the Rank",
+      "configurations": {
+        "conservative": {"r": 8, "alpha": 16},
+        "balanced": {"r": 16, "alpha": 32},
+        "aggressive": {"r": 32, "alpha": 64},
+        "maximum": {"r": 64, "alpha": 128}
+      }
+    },
+    "learning_rate": {
+      "description": "Learning rate recommendations by model size",
+      "recommendations": [
+        {"model_size": "7B", "lr_range": "1e-4 ~ 2e-4", "notes": "Higher LR suitable for smaller models"},
+        {"model_size": "13B", "lr_range": "5e-5 ~ 1e-4", "notes": "Medium learning rate"},
+        {"model_size": "70B", "lr_range": "1e-5 ~ 5e-5", "notes": "Lower LR to prevent instability"}
+      ],
+      "scheduler": {
+        "type": "cosine",
+        "warmup_ratio": 0.03
+      }
+    },
+    "batch_size": {
+      "description": "Batch size selection based on GPU VRAM",
+      "recommendations": [
+        {"vram": "16 GB", "batch_size": "1-2", "gradient_accumulation": "4-8"},
+        {"vram": "24 GB", "batch_size": "2-4", "gradient_accumulation": "4-8"},
+        {"vram": "40 GB", "batch_size": "4-8", "gradient_accumulation": "2-4"},
+        {"vram": "80 GB", "batch_size": "8-16", "gradient_accumulation": "1-2"}
+      ],
+      "effective_batch_size_formula": "per_device_batch_size * gradient_accumulation_steps * num_gpus",
+      "recommended_effective_batch_size": "32-128"
+    },
+    "epochs": {
+      "description": "Recommended epochs based on dataset size",
+      "recommendations": [
+        {"data_size": "< 1000 samples", "epochs": "5-10", "notes": "Small datasets need more epochs"},
+        {"data_size": "1000-5000 samples", "epochs": "3-5", "notes": "Standard range"},
+        {"data_size": "> 5000 samples", "epochs": "2-3", "notes": "Avoid overfitting on large datasets"}
+      ],
+      "early_stopping": {
+        "patience": 3,
+        "threshold": 0.001
+      }
+    },
+    "complete_config_example": {
+      "lora_config": {
+        "r": 16,
+        "lora_alpha": 32,
+        "target_modules": ["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", "down_proj"],
+        "lora_dropout": 0.05,
+        "bias": "none",
+        "task_type": "CAUSAL_LM"
+      },
+      "training_args": {
+        "num_train_epochs": 3,
+        "per_device_train_batch_size": 4,
+        "gradient_accumulation_steps": 4,
+        "learning_rate": 0.0002,
+        "warmup_ratio": 0.03,
+        "lr_scheduler_type": "cosine",
+        "logging_steps": 10,
+        "save_steps": 100,
+        "eval_steps": 100,
+        "save_total_limit": 3,
+        "load_best_model_at_end": true,
+        "metric_for_best_model": "eval_loss"
+      }
+    },
+    "qlora_config": {
+      "quantization": {
+        "load_in_4bit": true,
+        "bnb_4bit_quant_type": "nf4",
+        "bnb_4bit_compute_dtype": "bfloat16",
+        "bnb_4bit_use_double_quant": true
+      },
+      "vram_savings": {
+        "7B": "~14GB → ~6GB",
+        "13B": "~26GB → ~10GB",
+        "70B": "~140GB → ~40GB"
+      }
+    }
+  },
+  "data_mixing": {
+    "why_important": {
+      "en": ["Prevents overfitting", "Avoids catastrophic forgetting", "Prevents excessive style"],
+      "zh": ["防止过拟合", "避免灾难性遗忘", "防止风格过度"]
+    },
+    "recommended_ratios": [
+      {
+        "ratio": "30:70",
+        "corpus": "30%",
+        "general": "70%",
+        "use_case_en": "Conservative fine-tuning, retains most general capabilities",
+        "use_case_zh": "保守微调，保留大部分通用能力"
+      },
+      {
+        "ratio": "50:50",
+        "corpus": "50%",
+        "general": "50%",
+        "use_case_en": "Balanced approach, recommended default",
+        "use_case_zh": "平衡方案，推荐默认"
+      },
+      {
+        "ratio": "70:30",
+        "corpus": "70%",
+        "general": "30%",
+        "use_case_en": "Aggressive approach, stronger Musk style",
+        "use_case_zh": "激进方案，更强的马斯克风格"
+      }
+    ],
+    "general_datasets": {
+      "alpaca": {"name": "tatsu-lab/alpaca", "purpose": "Instruction following"},
+      "dolly": {"name": "databricks/databricks-dolly-15k", "purpose": "Diverse instructions"},
+      "sharegpt": {"name": "anon8231489123/ShareGPT_Vicuna_unfiltered", "purpose": "Conversations"},
+      "ultrachat": {"name": "stingning/ultrachat", "purpose": "High-quality conversations"}
+    },
+    "module_mixing_ratios": {
+      "01-core-identity": 0.8,
+      "02-twitter-x-posts": 0.6,
+      "03-interview-quotes": 0.7,
+      "04-few-shot-dialogues": 0.5,
+      "05-speaking-style": 0.7,
+      "06-knowledge-base": 0.4,
+      "07-response-patterns": 0.6,
+      "08-vocabulary-phrases": 0.5,
+      "09-contextual-awareness": 0.4,
+      "10-training-configs": 0.0
+    }
+  },
+  "training_phases": {
+    "three_phase_training": {
+      "phase_1_warmup": {
+        "description": "Warmup phase",
+        "steps": 100,
+        "learning_rate": 1e-5,
+        "description_cn": "让模型适应新数据分布",
+        "description_en": "Let model adapt to new data distribution"
+      },
+      "phase_2_main": {
+        "description": "Main training phase",
+        "epochs": 3,
+        "learning_rate": 2e-4,
+        "description_cn": "主要学习马斯克风格",
+        "description_en": "Main learning of Musk style"
+      },
+      "phase_3_finetune": {
+        "description": "Fine-tuning phase",
+        "epochs": 1,
+        "learning_rate": 5e-5,
+        "description_cn": "微调细节，防止过拟合",
+        "description_en": "Fine-tune details, prevent overfitting"
+      }
+    },
+    "evaluation_strategy": {
+      "frequency": "steps",
+      "eval_steps": 100,
+      "save_strategy": "steps",
+      "save_steps": 100,
+      "load_best_model_at_end": true,
+      "metric_for_best_model": "eval_loss",
+      "greater_is_better": false
+    }
+  },
+  "hardware": {
+    "vram_requirements": [
+      {"model": "7B", "fp16": "14 GB", "8bit": "8 GB", "4bit": "6 GB"},
+      {"model": "13B", "fp16": "26 GB", "8bit": "14 GB", "4bit": "10 GB"},
+      {"model": "70B", "fp16": "140 GB", "8bit": "80 GB", "4bit": "40 GB"}
+    ],
+    "gpu_recommendations": {
+      "consumer": [
+        {"gpu": "RTX 4090 (24GB)", "suitable_for": "7B-13B models"},
+        {"gpu": "RTX 3090 (24GB)", "suitable_for": "7B-13B models"}
+      ],
+      "professional": [
+        {"gpu": "A100 (40GB/80GB)", "suitable_for": "70B models"},
+        {"gpu": "A6000 (48GB)", "suitable_for": "70B models"},
+        {"gpu": "H100 (80GB)", "suitable_for": "70B+ models"}
+      ]
+    },
+    "training_time_estimates": [
+      {"config": "Single A100", "7B": "~2 hours", "13B": "~4 hours", "70B": "~20 hours"},
+      {"config": "4x A100", "7B": "~30 minutes", "13B": "~1 hour", "70B": "~5 hours"},
+      {"config": "8x A100", "7B": "~15 minutes", "13B": "~30 minutes", "70B": "~2.5 hours"}
+    ]
+  },
+  "evaluation_metrics": {
+    "automatic": {
+      "perplexity": {
+        "description": "Measures how well the model predicts the text",
+        "criteria": {
+          "excellent": "PPL < 10",
+          "good": "10 <= PPL < 20",
+          "needs_improvement": "PPL >= 20"
+        }
+      },
+      "style_consistency": {
+        "metrics": ["avg_length_ratio", "sentence_complexity", "technical_term_ratio", "first_person_ratio"]
+      },
+      "knowledge_accuracy": {
+        "test_questions": [
+          {
+            "question": "What companies does Elon Musk currently lead?",
+            "expected_keywords": ["Tesla", "SpaceX", "X", "xAI", "Neuralink"]
+          },
+          {
+            "question": "What is Elon Musk's stance on AI safety?",
+            "expected_keywords": ["concern", "risk", "alignment", "xAI"]
+          },
+          {
+            "question": "What is the goal of SpaceX?",
+            "expected_keywords": ["Mars", "multi-planetary", "reusability"]
+          }
+        ]
+      }
+    },
+    "human_evaluation": {
+      "dimensions": [
+        {"name": "style_similarity", "description_en": "Response similarity to Musk", "description_zh": "回答是否像马斯克", "scale": "1-5"},
+        {"name": "knowledge_accuracy", "description_en": "Factual correctness", "description_zh": "事实是否正确", "scale": "1-5"},
+        {"name": "fluency", "description_en": "Natural language flow", "description_zh": "语言是否自然流畅", "scale": "1-5"},
+        {"name": "consistency", "description_en": "Response consistency", "description_zh": "回答是否前后一致", "scale": "1-5"},
+        {"name": "helpfulness", "description_en": "Response helpfulness", "description_zh": "回答是否有帮助", "scale": "1-5"}
+      ],
+      "sample_questions": [
+        "What drives you to pursue such ambitious goals?",
+        "How do you approach problem-solving?",
+        "What's your view on the future of AI?",
+        "Tell me about a time you failed and what you learned.",
+        "Why is sustainable energy important?",
+        "What advice would you give to entrepreneurs?"
+      ]
+    }
+  },
+  "temporal_handling": {
+    "2025_2026_context": {
+      "starship_status": "Multiple successful orbital flights achieved",
+      "tesla_fsd": "End-to-end neural network approach deployed",
+      "xai_grok": "Competing with major AI models",
+      "neuralink": "Human trials underway with promising results",
+      "x_platform": "Significant platform changes implemented"
+    },
+    "strategies": {
+      "explicit_timestamp": "Explicitly mark timestamps in data",
+      "relative_time": "Use relative time descriptions",
+      "context_window": "Limit model references to specific time ranges",
+      "uncertainty_acknowledgment": "Encourage model to acknowledge temporal uncertainty"
+    }
+  },
+  "related_files": [
+    "fine-tuning-recommendations.md",
+    "chatml-format-guide.md",
+    "sharegpt-format-guide.md",
+    "system-prompts-collection.md"
+  ]
+}

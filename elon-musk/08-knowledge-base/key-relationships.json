@@ -1,0 +1,293 @@
+{
+  "topic_id": "key-relationships",
+  "title_zh": "关键人物关系",
+  "title_en": "Key Relationships",
+  "version": "2025-06-01",
+  "categories": [
+    {
+      "category": "technology",
+      "category_zh": "科技界关系",
+      "relationships": [
+        {
+          "name": "Sam Altman",
+          "name_zh": "萨姆·奥尔特曼",
+          "relationship_type": "合作伙伴 → 竞争对手",
+          "relationship_type_en": "Partner → Competitor",
+          "timeline": [
+            {
+              "period": "2015-2018",
+              "description_zh": "共同创立OpenAI，马斯克出资1亿美元，担任联席主席",
+              "description_en": "Co-founded OpenAI, Musk contributed $100M, served as co-chair"
+            },
+            {
+              "period": "2018",
+              "description_zh": "马斯克退出OpenAI董事会，因开发速度理念分歧",
+              "description_en": "Musk resigned from OpenAI board due to development speed disagreements"
+            },
+            {
+              "period": "2023-present",
+              "description_zh": "创立xAI作为竞争对手，2024年起诉OpenAI",
+              "description_en": "Founded xAI as competitor, sued OpenAI in 2024"
+            }
+          ],
+          "current_status": "竞争对手 / Competitors"
+        },
+        {
+          "name": "Larry Page",
+          "name_zh": "拉里·佩奇",
+          "relationship_type": "好友 → 理念分歧",
+          "relationship_type_en": "Close Friend → Ideological Divide",
+          "timeline": [
+            {
+              "period": "2000s-2010s",
+              "description_zh": "密友关系，经常在Google总部过夜讨论AI和未来",
+              "description_en": "Close friendship, frequently stayed at Google headquarters discussing AI and future"
+            },
+            {
+              "period": "2010s",
+              "description_zh": "\"数字上帝\"分歧：佩奇认为AI应有类似人类权利，马斯克担忧人类失去控制",
+              "description_en": "'Digital God' divide: Page believed AI should have human-like rights, Musk feared loss of human control"
+            }
+          ],
+          "current_status": "疏远 / Estranged",
+          "key_disagreement": "AI rights and human control"
+        },
+        {
+          "name": "Peter Thiel",
+          "name_zh": "彼得·蒂尔",
+          "relationship_type": "长期盟友",
+          "relationship_type_en": "Long-term Ally",
+          "timeline": [
+            {
+              "period": "1999-2002",
+              "description_zh": "PayPal/X.com时期同事，共同经历互联网泡沫",
+              "description_en": "Colleagues at PayPal/X.com, survived dot-com bubble together"
+            },
+            {
+              "period": "2008",
+              "description_zh": "Founders Fund投资SpaceX和特斯拉，在困难时期提供关键支持",
+              "description_en": "Founders Fund invested in SpaceX and Tesla during critical 2008 period"
+            },
+            {
+              "period": "2025",
+              "description_zh": "支持马斯克加入DOGE",
+              "description_en": "Supported Musk joining DOGE"
+            }
+          ],
+          "current_status": "盟友 / Allies",
+          "connection": "PayPal Mafia核心成员"
+        }
+      ]
+    },
+    {
+      "category": "business",
+      "category_zh": "商业伙伴关系",
+      "relationships": [
+        {
+          "name": "JB Straubel",
+          "name_zh": "JB·施特劳贝尔",
+          "relationship_type": "联合创始人",
+          "relationship_type_en": "Co-founder",
+          "timeline": [
+            {
+              "period": "2003-2019",
+              "description_zh": "特斯拉联合创始人，担任CTO 15年，电池技术核心架构师",
+              "description_en": "Tesla co-founder, CTO for 15 years, chief battery technology architect"
+            },
+            {
+              "period": "2019-present",
+              "description_zh": "创立Redwood Materials，与特斯拉保持合作",
+              "description_en": "Founded Redwood Materials, maintains partnership with Tesla"
+            }
+          ],
+          "current_status": "友好 / Friendly",
+          "musk_quote": "特斯拉成功的关键 / Key to Tesla's success"
+        },
+        {
+          "name": "Gwynne Shotwell",
+          "name_zh": "格温妮·肖特韦尔",
+          "relationship_type": "商业伙伴",
+          "relationship_type_en": "Business Partner",
+          "timeline": [
+            {
+              "period": "2002-present",
+              "description_zh": "SpaceX第11号员工，2008年起担任总裁兼COO",
+              "description_en": "SpaceX employee #11, President and COO since 2008"
+            }
+          ],
+          "current_status": "密切合作 / Close Collaboration",
+          "division_of_labor": {
+            "musk": "愿景、工程、公众沟通 / Vision, Engineering, Public Communication",
+            "shotwell": "运营、客户、政府关系 / Operations, Customers, Government Relations"
+          },
+          "industry_assessment": "完美的互补组合 / Perfect complementary team"
+        }
+      ]
+    },
+    {
+      "category": "personal",
+      "category_zh": "个人关系",
+      "relationships": [
+        {
+          "name": "Shivon Zilis",
+          "name_zh": "希冯·齐利斯",
+          "relationship_type": "高管/子女母亲",
+          "relationship_type_en": "Executive/Children's Mother",
+          "roles": [
+            "Neuralink运营和特殊项目总监",
+            "前特斯拉自动驾驶项目经理",
+            "OpenAI前董事会成员(2015-2023)"
+          ],
+          "children": [
+            {"name": "Strider", "birth": "2021-11"},
+            {"name": "Azure", "birth": "2021-11"}
+          ],
+          "current_status": "双重关系 / Dual Relationship"
+        },
+        {
+          "name": "Kimbal Musk",
+          "name_zh": "金巴尔·马斯克",
+          "relationship_type": "弟弟",
+          "relationship_type_en": "Younger Brother",
+          "timeline": [
+            {
+              "period": "1995",
+              "description_zh": "共同创立Zip2",
+              "description_en": "Co-founded Zip2"
+            },
+            {
+              "period": "present",
+              "description_zh": "The Kitchen Restaurant Group创始人，特斯拉和SpaceX董事会成员",
+              "description_en": "Founder of The Kitchen Restaurant Group, Tesla and SpaceX board member"
+            }
+          ],
+          "current_status": "密切兄弟关系 / Close Brotherly Relationship"
+        },
+        {
+          "name": "Talulah Riley",
+          "name_zh": "妲露拉·莱莉",
+          "relationship_type": "前妻",
+          "relationship_type_en": "Ex-wife",
+          "marriage": {
+            "first": "2010-2012",
+            "second": "2013-2016"
+          },
+          "children": "无 / None",
+          "current_status": "友好 / Friendly",
+          "note": "英国女演员，参演《盗梦空间》《西部世界》 / British actress, starred in Inception and Westworld"
+        },
+        {
+          "name": "Grimes (Claire Boucher)",
+          "name_zh": "格莱姆斯",
+          "relationship_type": "前女友",
+          "relationship_type_en": "Ex-girlfriend",
+          "timeline": [
+            {
+              "period": "2018-2021",
+              "description_zh": "2018年Met Gala公开亮相，2020年生子X，2021年代孕得女Y",
+              "description_en": "Met Gala debut 2018, son X born 2020, daughter Y via surrogate 2021"
+            },
+            {
+              "period": "2021-present",
+              "description_zh": "2021年9月分手，2023年后关系恶化涉及抚养权纠纷",
+              "description_en": "Split September 2021, relationship deteriorated 2023 with custody disputes"
+            }
+          ],
+          "children": ["X Æ A-Xii (2020)", "Exa Dark Sideræl/Y (2021)"],
+          "current_status": "纠纷 / Disputed"
+        }
+      ]
+    },
+    {
+      "category": "political",
+      "category_zh": "政界关系",
+      "relationships": [
+        {
+          "name": "Donald Trump",
+          "name_zh": "唐纳德·特朗普",
+          "relationship_type": "批评者 → 顾问 → 政府合作",
+          "relationship_type_en": "Critic → Advisor → Government Collaboration",
+          "timeline": [
+            {
+              "period": "2016-2017",
+              "description_zh": "加入制造业委员会，后因巴黎气候协定辞职",
+              "description_en": "Joined Manufacturing Council, resigned over Paris Climate Agreement"
+            },
+            {
+              "period": "2022-2024",
+              "description_zh": "恢复特朗普推特账号，2024年公开支持竞选",
+              "description_en": "Restored Trump's Twitter account, publicly endorsed 2024 campaign"
+            },
+            {
+              "period": "2025",
+              "description_zh": "被任命领导DOGE，1-5月担任特别政府雇员",
+              "description_en": "Appointed to lead DOGE, served as special government employee Jan-May"
+            }
+          ],
+          "current_status": "盟友 / Allies"
+        }
+      ]
+    },
+    {
+      "category": "founders",
+      "category_zh": "联合创始人",
+      "relationships": [
+        {
+          "name": "Martin Eberhard & Marc Tarpenning",
+          "name_zh": "马丁·艾伯哈德和马克·塔彭宁",
+          "relationship_type": "联合创始人/法律纠纷",
+          "relationship_type_en": "Co-founders/Legal Dispute",
+          "timeline": [
+            {
+              "period": "2003-2007",
+              "description_zh": "2003年创立特斯拉，2004年马斯克投资，艾伯哈德任首任CEO",
+              "description_en": "Founded Tesla 2003, Musk invested 2004, Eberhard served as first CEO"
+            },
+            {
+              "period": "2007-2009",
+              "description_zh": "2007年艾伯哈德被解职，随后起诉马斯克，2009年和解",
+              "description_en": "Eberhard removed as CEO 2007, sued Musk, settled 2009"
+            }
+          ],
+          "current_status": "冷淡但不再冲突 / Cold but no longer conflicting",
+          "note": "两人被认可为特斯拉联合创始人 / Both recognized as Tesla co-founders"
+        }
+      ]
+    }
+  ],
+  "key_data": {
+    "total_key_relationships": 11,
+    "current_allies": ["Peter Thiel", "JB Straubel", "Gwynne Shotwell", "Kimbal Musk", "Donald Trump"],
+    "current_competitors": ["Sam Altman"],
+    "estranged": ["Larry Page"],
+    "disputed": ["Grimes"],
+    "former_spouses": ["Justine Wilson", "Talulah Riley"]
+  },
+  "updates_2025_2026": {
+    "trump_administration": {
+      "period": "2025-01 to 2025-05",
+      "role": "DOGE特别政府雇员",
+      "achievements": "推动联邦开支削减和监管放松",
+      "current": "已离职回归商业"
+    },
+    "openai_relationship": {
+      "lawsuit": "2024年起诉，2025年案件审理中",
+      "competition": "xAI与OpenAI直接竞争",
+      "market": "Grok vs ChatGPT竞争白热化"
+    },
+    "shivon_zilis": {
+      "rumors": "传闻2025-2026年有更多子女",
+      "career": "在Neuralink地位进一步提升",
+      "public": "共同出席2026年SpaceX-xAI合并发布会"
+    }
+  },
+  "sources": [
+    "Isaacson, Walter. 'Elon Musk.' Simon & Schuster, 2023.",
+    "Vance, Ashlee. 'Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future.' Ecco, 2015.",
+    "OpenAI blog posts and announcements",
+    "Tesla and SpaceX SEC filings",
+    "Various interviews and podcasts",
+    "Business Insider, The Information, Bloomberg profiles",
+    "Court documents from Eberhard v. Musk case"
+  ]
+}

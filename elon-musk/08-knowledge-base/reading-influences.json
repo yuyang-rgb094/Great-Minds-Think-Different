@@ -1,0 +1,277 @@
+{
+  "topic_id": "reading-influences",
+  "title_zh": "影响马斯克的书籍/思想",
+  "title_en": "Reading and Influences",
+  "version": "2025-06-01",
+  "sections": [
+    {
+      "section_id": "science_fiction",
+      "title_zh": "科幻文学",
+      "title_en": "Science Fiction Literature",
+      "books": [
+        {
+          "title_zh": "银河系漫游指南",
+          "title_en": "The Hitchhiker's Guide to the Galaxy",
+          "author": "Douglas Adams",
+          "influence": [
+            "Sense of humor: Musk's favorite book",
+            "Don't Panic: Placed on Tesla Roadster dashboard sent to space",
+            "Curiosity about universe: Influenced attitude toward space exploration"
+          ],
+          "musk_quote": "The Hitchhiker's Guide taught me that questions are often more important than answers."
+        },
+        {
+          "title_zh": "文化系列",
+          "title_en": "The Culture Series",
+          "author": "Iain M. Banks",
+          "influence": [
+            "AI-human symbiosis",
+            "Post-scarcity society vision",
+            "Possibilities of space civilization"
+          ],
+          "practical_application": [
+            "SpaceX drone ships named after Banks' ship names",
+            "Of Course I Still Love You",
+            "Read the Instructions",
+            "A Shortfall of Gravitas"
+          ]
+        },
+        {
+          "title_zh": "沙丘",
+          "title_en": "Dune",
+          "author": "Frank Herbert",
+          "influence": [
+            "Resource scarcity and survival",
+            "Technology in extreme environments",
+            "Importance of long-term planning"
+          ],
+          "connection_to_mars": [
+            "Mars terraforming challenges similar to Dune's ecological transformation",
+            "Thinking about closed ecological systems"
+          ]
+        },
+        {
+          "title_zh": "基地系列",
+          "title_en": "Foundation Series",
+          "author": "Isaac Asimov",
+          "influence": [
+            "Long-term historical thinking",
+            "Patterns of civilization rise and fall",
+            "Importance of knowledge preservation"
+          ],
+          "musk_application": [
+            "Idea of backing up human civilization on multiple planets",
+            "Long-term thinking about AI development"
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "biographies",
+      "title_zh": "科学传记",
+      "title_en": "Scientific Biographies",
+      "books": [
+        {
+          "title_zh": "爱因斯坦：生活和宇宙",
+          "title_en": "Einstein: His Life and Universe",
+          "author": "Walter Isaacson",
+          "influence": [
+            "First principles thinking",
+            "Courage to challenge authority",
+            "Beauty of theoretical physics"
+          ],
+          "musk_learning": [
+            "Thinking methodology learned from physics",
+            "Pursuit of fundamental laws of universe"
+          ]
+        },
+        {
+          "title_zh": "特斯拉：失落的发明",
+          "title_en": "Tesla: Man Out of Time",
+          "author": "Margaret Cheney",
+          "influence": [
+            "Nikola Tesla's innovative spirit",
+            "AC power system revolution",
+            "Origin of company naming"
+          ],
+          "historical_connection": [
+            "Musk named company Tesla to honor the inventor",
+            "Interest in AC and wireless transmission"
+          ]
+        },
+        {
+          "title_zh": "爱迪生",
+          "title_en": "Edison",
+          "author": "Edmund Morris",
+          "influence": [
+            "Commercialization mindset of invention",
+            "Laboratory R&D model",
+            "Persistence and determination"
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "physics",
+      "title_zh": "物理学与科学思维",
+      "title_en": "Physics and Scientific Thinking",
+      "feynman": {
+        "works": [
+          "The Feynman Lectures on Physics",
+          "What Do You Care What Other People Think?"
+        ],
+        "influence": [
+          {
+            "concept": "First Principles Thinking",
+            "description": "Break down problems to fundamental truths, then build up"
+          },
+          {
+            "concept": "Question Everything",
+            "description": "Not satisfied with surface explanations"
+          },
+          {
+            "concept": "Simple Explanation",
+            "description": "Complex concepts should be explainable in simple language"
+          }
+        ],
+        "musk_applications": [
+          "Battery costs: Recalculated from raw material costs",
+          "Rocket costs: Questioned why rockets couldn't be reused",
+          "Tunnel costs: Rethought excavation technology"
+        ]
+      },
+      "physics_training": {
+        "education": [
+          "Physics Bachelor's from University of Pennsylvania",
+          "Attended Stanford Applied Physics PhD program"
+        ],
+        "applications": [
+          "Start thinking from fundamental principles",
+          "Quantify everything, speak with numbers",
+          "Accept uncertainty, embrace risk"
+        ]
+      }
+    },
+    {
+      "section_id": "philosophy",
+      "title_zh": "哲学与思想",
+      "title_en": "Philosophy and Ideas",
+      "effective_altruism": {
+        "core_ideas": [
+          "Use evidence and reason to determine how to most effectively benefit others",
+          "Focus on long-term future and existential risks",
+          "Quantify impact of charity"
+        ],
+        "musk_application": [
+          "Focus on AI safety, climate change, multi-planetary survival",
+          "Use wealth to solve humanity's greatest challenges",
+          "Long-termism thinking"
+        ]
+      },
+      "long_termism": {
+        "core_ideas": [
+          "Well-being of future potential humans has enormous moral importance",
+          "Our actions should consider impact on distant future",
+          "Focus on problems that can affect long-term future"
+        ],
+        "musk_practice": [
+          "Mars colonization: Ensure long-term survival of human civilization",
+          "AI safety: Prevent future AI catastrophe",
+          "Sustainable energy: Protect Earth's environment"
+        ]
+      }
+    },
+    {
+      "section_id": "other_influences",
+      "title_zh": "其他重要影响",
+      "title_en": "Other Important Influences",
+      "books": [
+        {
+          "title": "Zero to One",
+          "author": "Peter Thiel",
+          "influence": [
+            "Monopoly is better than competition",
+            "0 to 1 innovation more valuable than 1 to n copying",
+            "Importance of long-term planning"
+          ]
+        },
+        {
+          "title": "Structures: Or Why Things Don't Fall Down",
+          "author": "J.E. Gordon",
+          "influence": [
+            "Fundamental principles of engineering design",
+            "Application of materials science",
+            "Inspiration for SpaceX rocket design"
+          ]
+        },
+        {
+          "title": "Howard Hughes: His Life and Madness",
+          "author": "Donald Barlett and James Steele",
+          "influence": [
+            "Complex entrepreneur image",
+            "Crossing aviation and film industries",
+            "Cautionary tale for innovators"
+          ]
+        }
+      ]
+    }
+  ],
+  "key_data": {
+    "recommended_books": [
+      {"title_zh": "银河系漫游指南", "title_en": "The Hitchhiker's Guide to the Galaxy", "author": "Douglas Adams", "theme": "Sci-fi humor", "influence_area": "Space exploration, company culture"},
+      {"title_zh": "文化系列", "title_en": "The Culture Series", "author": "Iain M. Banks", "theme": "Space opera", "influence_area": "AI, post-scarcity society"},
+      {"title_zh": "沙丘", "title_en": "Dune", "author": "Frank Herbert", "theme": "Sci-fi epic", "influence_area": "Resource management, long-term planning"},
+      {"title_zh": "基地系列", "title_en": "Foundation Series", "author": "Isaac Asimov", "theme": "Sci-fi epic", "influence_area": "Civilization backup, historical thinking"},
+      {"title_zh": "爱因斯坦传", "title_en": "Einstein: His Life and Universe", "author": "Walter Isaacson", "theme": "Scientific biography", "influence_area": "First principles"},
+      {"title_zh": "特斯拉传", "title_en": "Tesla: Man Out of Time", "author": "Margaret Cheney", "theme": "Scientific biography", "influence_area": "Innovation spirit"},
+      {"title_zh": "费曼物理学讲义", "title_en": "The Feynman Lectures on Physics", "author": "Richard Feynman", "theme": "Physics", "influence_area": "Scientific thinking"},
+      {"title_zh": "从0到1", "title_en": "Zero to One", "author": "Peter Thiel", "theme": "Business philosophy", "influence_area": "Innovation strategy"}
+    ],
+    "influence_categories": [
+      {"category": "科幻文学", "examples": "银河系漫游指南、基地", "core_influence": "愿景塑造"},
+      {"category": "科学传记", "examples": "爱因斯坦传、特斯拉传", "core_influence": "精神激励"},
+      {"category": "物理学", "examples": "费曼物理学讲义", "core_influence": "思维方式"},
+      {"category": "哲学", "examples": "有效利他主义", "core_influence": "价值导向"}
+    ]
+  },
+  "updates_2025_2026": {
+    "new_recommendations_2025": [
+      {
+        "title": "Life 3.0",
+        "author": "Max Tegmark",
+        "theme": "Future of AI",
+        "musk_comment": "Must-read"
+      },
+      {
+        "title": "Sapiens",
+        "author": "Yuval Noah Harari",
+        "theme": "Human history and future",
+        "musk_comment": "Recommended multiple times"
+      }
+    ],
+    "evolution_of_thinking": {
+      "2025_interviews": [
+        "Emphasized application of 'first principles' in AI development",
+        "Deeper commitment to long-termism",
+        "Reflection on AI scenarios in science fiction"
+      ]
+    },
+    "educational_impact": {
+      "ad_astra_school": [
+        "Curriculum designed incorporating these ideas",
+        "Emphasis on problem-solving and first principles",
+        "Science fiction as required reading"
+      ]
+    }
+  },
+  "sources": [
+    "Musk's interviews and book recommendations",
+    "Vance, Ashlee. 'Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future.' Ecco, 2015.",
+    "Isaacson, Walter. 'Elon Musk.' Simon & Schuster, 2023.",
+    "Reddit AMA sessions where Musk discussed books",
+    "Twitter/X posts about reading recommendations",
+    "Tesla and SpaceX shareholder meeting comments",
+    "Various podcast interviews (Lex Fridman, etc.)",
+    "Academic analyses of Musk's influences"
+  ]
+}

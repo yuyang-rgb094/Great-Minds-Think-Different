@@ -1,0 +1,166 @@
+{
+  "module": "05-interviews",
+  "description": "Elon Musk 访谈语料库索引 / Elon Musk Interviews Corpus Index",
+  "last_updated": "2026-06-01",
+  "total_interviews": 13,
+  "total_segments": 110,
+  "total_files": 27,
+  "average_quality": 0.89,
+  "interviews": [
+    {
+      "id": "interview_forbes_may_2026",
+      "file_md": "forbes-may-2026.md",
+      "file_json": "forbes-may-2026.json",
+      "source": "Forbes",
+      "date": "2026-05-15",
+      "priority": "P1",
+      "topics": ["AGI", "技术奇点", "真人现场价值", "经济重构", "教育变革", "AI安全", "火星殖民", "全民基本收入"],
+      "segment_count": 10,
+      "quality_score": 0.95
+    },
+    {
+      "id": "interview_musk_2026_new_year_speech",
+      "file_md": "musk-2026-new-year-speech.md",
+      "file_json": "musk-2026-new-year-speech.json",
+      "source": "2026跨年演讲",
+      "date": "2025-12-31",
+      "priority": "P1",
+      "topics": ["AGI", "火星殖民", "Optimus机器人", "Neuralink", "FSD", "Robotaxi", "Grok", "DOGE"],
+      "segment_count": 9,
+      "quality_score": 0.92
+    },
+    {
+      "id": "interview_musk_jan_2026",
+      "file_md": "musk-jan-2026-interview.md",
+      "file_json": "musk-jan-2026-interview.json",
+      "source": "深度访谈",
+      "date": "2026-01-15",
+      "priority": "P1",
+      "topics": ["真实性溢价", "AI生成内容", "音乐产业", "教育变革", "商业策略", "社交媒体", "城市空间"],
+      "segment_count": 8,
+      "quality_score": 0.93
+    },
+    {
+      "id": "interview_joe_rogan_2025_mar",
+      "file_md": "joe-rogan-2025-mar.md",
+      "file_json": "joe-rogan-2025-mar.json",
+      "source": "Joe Rogan Experience",
+      "date": "2025-03-12",
+      "priority": "P1",
+      "topics": ["AI发展", "Grok", "火星殖民", "媒体批评", "DOGE", "Neuralink", "Optimus", "自由言论"],
+      "segment_count": 9,
+      "quality_score": 0.88
+    },
+    {
+      "id": "interview_lex_fridman_400",
+      "file_md": "lex-fridman-400.md",
+      "file_json": "lex-fridman-400.json",
+      "source": "Lex Fridman Podcast #400",
+      "date": "2024-08-15",
+      "priority": "P2",
+      "topics": ["战争与和平", "AI意识", "外星文明", "政治两极化", "第一性原理", "模拟假说", "文明意义", "SpaceX", "Tesla", "xAI", "工作文化"],
+      "segment_count": 12,
+      "quality_score": 0.96
+    },
+    {
+      "id": "interview_lex_fridman_neuralink",
+      "file_md": "lex-fridman-neuralink.md",
+      "file_json": "lex-fridman-neuralink.json",
+      "source": "Lex Fridman Neuralink专题",
+      "date": "2024-03-20",
+      "priority": "P2",
+      "topics": ["Neuralink技术", "脑机接口原理", "人体试验", "安全性", "未来应用", "人机共生", "行业竞争", "伦理考量"],
+      "segment_count": 8,
+      "quality_score": 0.94
+    },
+    {
+      "id": "interview_joe_rogan_2281",
+      "file_md": "joe-rogan-2281.md",
+      "file_json": "joe-rogan-2281.json",
+      "source": "Joe Rogan Experience #2281",
+      "date": "2024-11-05",
+      "priority": "P2",
+      "topics": ["AI发展", "火星殖民", "政府效率", "DOGE", "媒体批评", "X平台", "Tesla能源", "Optimus机器人"],
+      "segment_count": 8,
+      "quality_score": 0.87
+    },
+    {
+      "id": "interview_all_in_2024_summit",
+      "file_md": "all-in-2024-summit.md",
+      "file_json": "all-in-2024-summit.json",
+      "source": "All-In Summit 2024",
+      "date": "2024-09-10",
+      "priority": "P2",
+      "topics": ["自由言论", "X平台", "DOGE", "SpaceX", "Starlink", "xAI", "Optimus", "Robotaxi", "创业建议"],
+      "segment_count": 7,
+      "quality_score": 0.90
+    },
+    {
+      "id": "interview_tesla_earnings_q4_2024",
+      "file_md": "tesla-earnings-q4-2024.md",
+      "file_json": "tesla-earnings-q4-2024.json",
+      "source": "Tesla Q4 2024 Earnings Call",
+      "date": "2025-01-29",
+      "priority": "P3",
+      "topics": ["FSD进展", "Optimus机器人", "储能业务", "Robotaxi", "下一代车辆", "生产展望", "AI基础设施"],
+      "segment_count": 7,
+      "quality_score": 0.85
+    },
+    {
+      "id": "interview_tesla_earnings_q3_2024",
+      "file_md": "tesla-earnings-q3-2024.md",
+      "file_json": "tesla-earnings-q3-2024.json",
+      "source": "Tesla Q3 2024 Earnings Call",
+      "date": "2024-10-23",
+      "priority": "P3",
+      "topics": ["FSD v12", "Cybertruck", "储能业务", "竞争策略", "Robotaxi", "资本支出"],
+      "segment_count": 6,
+      "quality_score": 0.82
+    },
+    {
+      "id": "interview_bloomberg",
+      "file_md": "bloomberg-interviews.md",
+      "file_json": "bloomberg-interviews.json",
+      "source": "Bloomberg 专访合集",
+      "date": "2024-2025",
+      "priority": "P3",
+      "topics": ["Tesla商业模式", "SpaceX估值", "xAI融资", "宏观经济", "投资建议", "DOGE经济影响", "并购哲学"],
+      "segment_count": 7,
+      "quality_score": 0.83
+    },
+    {
+      "id": "interview_ted_talks",
+      "file_md": "ted-talks.md",
+      "file_json": "ted-talks.json",
+      "source": "TED 演讲集",
+      "date": "2010-2023",
+      "priority": "P3",
+      "topics": ["SpaceX起源", "Tesla使命", "第一性原理", "可持续能源", "创新哲学", "人类未来"],
+      "segment_count": 6,
+      "quality_score": 0.89
+    },
+    {
+      "id": "interview_spacebase_speech",
+      "file_md": "spacebase-speech.md",
+      "file_json": "spacebase-speech.json",
+      "source": "SpaceX Starbase 全员演讲",
+      "date": "2024-04-20",
+      "priority": "P3",
+      "topics": ["SpaceX使命", "工程卓越", "速度与迭代", "火星承诺", "硬核文化", "未来展望"],
+      "segment_count": 6,
+      "quality_score": 0.86
+    }
+  ],
+  "topic_index": {
+    "AI": ["forbes-may-2026", "musk-2026-new-year-speech", "joe-rogan-2025-mar", "lex-fridman-400", "joe-rogan-2281", "all-in-2024-summit"],
+    "火星": ["forbes-may-2026", "musk-2026-new-year-speech", "joe-rogan-2025-mar", "lex-fridman-400", "joe-rogan-2281", "spacebase-speech"],
+    "Neuralink": ["lex-fridman-neuralink", "musk-2026-new-year-speech", "joe-rogan-2025-mar"],
+    "Optimus": ["musk-2026-new-year-speech", "joe-rogan-2025-mar", "joe-rogan-2281", "all-in-2024-summit", "tesla-earnings-q4-2024"],
+    "Tesla/FSD": ["tesla-earnings-q4-2024", "tesla-earnings-q3-2024", "all-in-2024-summit", "musk-2026-new-year-speech"],
+    "自由言论/X": ["joe-rogan-2025-mar", "joe-rogan-2281", "all-in-2024-summit"],
+    "DOGE": ["joe-rogan-2025-mar", "musk-2026-new-year-speech", "joe-rogan-2281", "all-in-2024-summit", "bloomberg-interviews"],
+    "哲学/文明": ["lex-fridman-400", "ted-talks", "musk-jan-2026-interview"],
+    "商业/投资": ["bloomberg-interviews", "all-in-2024-summit"],
+    "第一性原理": ["lex-fridman-400", "ted-talks"]
+  }
+}

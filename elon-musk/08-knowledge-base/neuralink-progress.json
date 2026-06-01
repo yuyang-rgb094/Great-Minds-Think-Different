@@ -1,0 +1,235 @@
+{
+  "topic_id": "neuralink-progress",
+  "title_zh": "Neuralink临床进展专题",
+  "title_en": "Neuralink Clinical Progress",
+  "version": "2025-06-01",
+  "sections": [
+    {
+      "section_id": "core_technology",
+      "title_zh": "核心技术",
+      "title_en": "Core Technology",
+      "n1_implant": {
+        "specs": {
+          "size": "23mm diameter, 8mm thickness (coin-sized)",
+          "electrodes": "1024 flexible thread electrodes",
+          "threads": "64 threads, 16 electrodes each",
+          "wireless": "Low-power Bluetooth",
+          "battery": "Wireless charging, ~12 hours runtime"
+        },
+        "design_features": [
+          "Fully implantable, wireless design",
+          "Flush with skull, aesthetically discreet",
+          "Firmware upgradable",
+          "Safe removal design"
+        ]
+      },
+      "r1_robot": {
+        "functions": [
+          "High-precision automatic implantation",
+          "Avoids blood vessels, reduces damage",
+          "Surgery time: ~2 hours",
+          "Local anesthesia sufficient"
+        ],
+        "breakthroughs": [
+          "10x more precise than manual surgery",
+          "Implantation speed: 6 threads per minute",
+          "Success rate: Over 95%"
+        ]
+      }
+    },
+    {
+      "section_id": "first_implant",
+      "title_zh": "首例人类植入",
+      "title_en": "First Human Implant",
+      "patient": {
+        "name": "Noland Arbaugh",
+        "age": 29,
+        "condition": "Quadriplegia from 2016 diving accident",
+        "implant_date": "2024-01-28",
+        "location": "Arizona, USA"
+      },
+      "surgery_process": [
+        "Pre-op: 3D scanning, personalized surgical planning",
+        "Surgery duration: ~2 hours",
+        "Recovery: Discharged after 1 week",
+        "First activation: Day 2 post-surgery"
+      ],
+      "capability_recovery": {
+        "immediate": [
+          "Day 2: Successfully controlled computer cursor",
+          "Week 1: Achieved thought-based typing",
+          "Month 1: Played video games (chess, Civilization 6)",
+          "Month 3: Typing speed reached 8 words/minute"
+        ],
+        "long_term": [
+          "Continuous use over 1 year",
+          "Daily usage ~8 hours",
+          "No serious side effects"
+        ]
+      }
+    },
+    {
+      "section_id": "prime_study",
+      "title_zh": "PRIME研究",
+      "title_en": "PRIME Study",
+      "study_design": {
+        "type": "Multi-center, prospective clinical trial",
+        "planned_enrollment": 50,
+        "duration": "6 years",
+        "primary_endpoints": "Safety and efficacy"
+      },
+      "inclusion_criteria": [
+        "Quadriplegic patients",
+        "Injury over 1 year old",
+        "Age 22-75",
+        "No other serious conditions"
+      ],
+      "progress_2025": {
+        "implanted": "10+ patients",
+        "centers": "3 hospitals",
+        "safety_data": "Good",
+        "efficacy_data": "Positive"
+      }
+    },
+    {
+      "section_id": "milestones_2025",
+      "title_zh": "2025年临床里程碑",
+      "title_en": "2025 Clinical Milestones",
+      "patient_numbers": [
+        {"time": "2024年底", "count": 2, "condition": "四肢瘫痪"},
+        {"time": "2025年Q1", "count": 5, "condition": "四肢瘫痪"},
+        {"time": "2025年Q2", "count": 8, "condition": "四肢瘫痪"},
+        {"time": "2025年底", "count": "10+", "condition": "四肢瘫痪、ALS"}
+      ],
+      "new_indications": [
+        {
+          "condition": "ALS (Amyotrophic Lateral Sclerosis)",
+          "status": "2025年开始招募",
+          "goal": "帮助晚期患者交流，延长独立生活时间"
+        },
+        {
+          "condition": "Vision Restoration",
+          "status": "视觉皮层刺激研究",
+          "goal": "针对失明患者，2025年启动临床试验"
+        },
+        {
+          "condition": "Stroke Rehabilitation",
+          "status": "运动皮层刺激",
+          "goal": "促进神经可塑性，预计2026年开始"
+        }
+      ]
+    },
+    {
+      "section_id": "grok_integration",
+      "title_zh": "Grok集成",
+      "title_en": "Grok Integration",
+      "ai_assisted_bci": [
+        "Grok real-time neural signal interpretation",
+        "User intent prediction",
+        "Improved control accuracy"
+      ],
+      "thought_typing": {
+        "speed": "20 words/minute",
+        "accuracy": "Over 95%",
+        "languages": "Multiple languages supported"
+      },
+      "smart_control": [
+        "Smart home control",
+        "Wheelchair control",
+        "Robotic arm operation"
+      ]
+    },
+    {
+      "section_id": "future_applications",
+      "title_zh": "未来应用",
+      "title_en": "Future Applications",
+      "telepathy": {
+        "concept": [
+          "Direct brain-to-brain communication",
+          "Thought exchange without language",
+          "Prototype expected by 2030"
+        ]
+      },
+      "vision_restoration": {
+        "path": [
+          "Visual cortex electrode array",
+          "Camera signals directly to brain",
+          "Bypass damaged eyes"
+        ],
+        "timeline": [
+          "2025: Clinical trials begin",
+          "2027: First patients regain vision",
+          "2030: Commercial application"
+        ]
+      },
+      "memory_enhancement": {
+        "research": [
+          "Hippocampus stimulation",
+          "Memory encoding and decoding",
+          "Alzheimer's treatment"
+        ]
+      }
+    }
+  ],
+  "key_data": {
+    "patient_statistics": [
+      {"time": "2024年1月", "count": 1, "condition": "四肢瘫痪"},
+      {"time": "2024年底", "count": 2, "condition": "四肢瘫痪"},
+      {"time": "2025年Q2", "count": 8, "condition": "四肢瘫痪"},
+      {"time": "2025年底", "count": "10+", "condition": "四肢瘫痪、ALS"}
+    ],
+    "performance_metrics": {
+      "typing_speed": {"2024": "8字/分钟", "2025": "20字/分钟", "target": "40字/分钟"},
+      "cursor_accuracy": {"2024": "85%", "2025": "95%", "target": "99%"},
+      "daily_usage": {"2024": "4小时", "2025": "8小时", "target": "16小时"},
+      "battery_life": {"2024": "12小时", "2025": "16小时", "target": "24小时"}
+    },
+    "safety_data": [
+      {"event": "感染", "rate": "0%", "severity": "-"},
+      {"event": "电极移位", "rate": "10%", "severity": "轻微"},
+      {"event": "皮肤刺激", "rate": "20%", "severity": "轻微"},
+      {"event": "设备故障", "rate": "5%", "severity": "可修复"}
+    ]
+  },
+  "updates_2025_2026": {
+    "2025_progress": {
+      "fda_breakthrough": [
+        "March 2025: Received Breakthrough Device designation",
+        "Accelerated approval process",
+        "Paved way for commercialization"
+      ],
+      "insurance_coverage": [
+        "Began negotiations with insurance companies",
+        "Expected partial coverage by 2026",
+        "Target price: $100,000 per system"
+      ]
+    },
+    "2026_outlook": {
+      "expanded_trials": [
+        "Plan to recruit 50 patients",
+        "Add 10 participating hospitals",
+        "Expand to Europe and Asia"
+      ],
+      "new_products": [
+        "N2 implant (second generation)",
+        "More electrodes (4096)",
+        "Longer battery life (48 hours)"
+      ],
+      "commercialization_prep": [
+        "Establish production facilities",
+        "Train surgeons",
+        "Develop pricing strategy"
+      ]
+    }
+  },
+  "sources": [
+    "Neuralink official blog posts and press releases",
+    "PRIME study clinical trial registration (ClinicalTrials.gov)",
+    "Patient testimonials and interviews",
+    "FDA 510(k) pre-submission documents",
+    "Academic publications on BCI technology",
+    "Neurosurgery journals",
+    "Musk's X posts on Neuralink progress",
+    "Medical device industry reports"
+  ]
+}

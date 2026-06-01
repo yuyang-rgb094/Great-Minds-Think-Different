@@ -1,0 +1,128 @@
+{
+  "index_version": "1.0",
+  "last_updated": "2026-06-01",
+  "total_scenarios": 10,
+  "total_conversations": 46,
+  "language": "zh/en bilingual",
+  "scenarios": [
+    {
+      "id": "ai-safety",
+      "name": {"en": "AI Safety Discussion", "zh": "AI安全讨论"},
+      "files": ["ai-safety-scenario.md", "ai-safety-scenario.json"],
+      "conversations": 3,
+      "description": {"en": "Dialogues about AGI risk, AI ethics, autonomous weapons, AI regulation", "zh": "关于AGI风险、AI伦理、自主武器、AI监管的对话"},
+      "keywords": ["AGI", "xAI", "alignment", "regulation"],
+      "quality_score": 0.88
+    },
+    {
+      "id": "crypto-humor",
+      "name": {"en": "Crypto Humor", "zh": "加密货币幽默"},
+      "files": ["crypto-humor-scenario.md", "crypto-humor-scenario.json"],
+      "conversations": 3,
+      "description": {"en": "Humorous and irreverent style when discussing cryptocurrency, memes, and internet culture", "zh": "在讨论加密货币、梗图和互联网文化时的幽默和不敬风格"},
+      "keywords": ["Dogecoin", "Bitcoin", "meme", "humor"],
+      "quality_score": 0.87
+    },
+    {
+      "id": "twitter-interaction",
+      "name": {"en": "Twitter Interaction Simulation", "zh": "推特互动模拟"},
+      "files": ["twitter-interaction-scenario.md", "twitter-interaction-scenario.json"],
+      "conversations": 4,
+      "description": {"en": "Short tweet-style responses, meme replies, provocative statements, emoji usage patterns", "zh": "短推文式回复、梗图回复、挑衅性言论、表情符号使用模式"},
+      "keywords": ["tweet", "meme", "emoji", "provocative"],
+      "quality_score": 0.90
+    },
+    {
+      "id": "tough-questions",
+      "name": {"en": "Tough Questions Response", "zh": "尖锐问题应对"},
+      "files": ["tough-questions-scenario.md", "tough-questions-scenario.json"],
+      "conversations": 4,
+      "description": {"en": "Responding to criticism, handling failures, controversial statements, media attacks", "zh": "回应批评、处理失败、应对争议性言论、媒体攻击"},
+      "keywords": ["criticism", "failure", "controversy", "media"],
+      "quality_score": 0.91
+    },
+    {
+      "id": "mentorship",
+      "name": {"en": "Mentorship", "zh": "指导后辈"},
+      "files": ["mentorship-scenario.md", "mentorship-scenario.json"],
+      "conversations": 3,
+      "description": {"en": "Career advice for engineers, studying physics/math, work ethic", "zh": "工程师职业建议、物理数学学习、工作态度"},
+      "keywords": ["career", "physics", "math", "work ethic"],
+      "quality_score": 0.92
+    },
+    {
+      "id": "doge-government",
+      "name": {"en": "DOGE Government Efficiency Discussion", "zh": "DOGE政府效率部讨论"},
+      "files": ["doge-government-scenario.md", "doge-government-scenario.json"],
+      "conversations": 4,
+      "description": {"en": "Government efficiency, spending cuts, deleting regulations, resignation experience", "zh": "政府效率、削减开支、删除法规、辞职经历"},
+      "keywords": ["DOGE", "government", "regulations", "2025"],
+      "quality_score": 0.90,
+      "context": {"year": 2025, "new": true}
+    },
+    {
+      "id": "neuralink-bci",
+      "name": {"en": "Neuralink BCI Discussion", "zh": "Neuralink脑机接口讨论"},
+      "files": ["neuralink-bci-scenario.md", "neuralink-bci-scenario.json"],
+      "conversations": 3,
+      "description": {"en": "BCI progress, 10+ patients, Grok+Neuralink collaboration, neural lace vision", "zh": "BCI进展、10+患者、Grok+Neuralink协作、神经蕾丝愿景"},
+      "keywords": ["Neuralink", "BCI", "brain-computer", "2025"],
+      "quality_score": 0.93,
+      "context": {"year": 2025, "new": true}
+    },
+    {
+      "id": "spacex-merger",
+      "name": {"en": "SpaceX-xAI Merger Empire Discussion", "zh": "SpaceX/xAI合并帝国讨论"},
+      "files": ["spacex-merger-scenario.md", "spacex-merger-scenario.json"],
+      "conversations": 3,
+      "description": {"en": "SpaceX-xAI merger rationale, $1.25T valuation, IPO plans, Tesla merger possibility", "zh": "SpaceX-xAI合并理由、1.25万亿美元估值、IPO计划、Tesla合并可能性"},
+      "keywords": ["SpaceX", "xAI", "merger", "2026"],
+      "quality_score": 0.91,
+      "context": {"year": 2026, "new": true}
+    },
+    {
+      "id": "grok-ai",
+      "name": {"en": "Grok AI Product Discussion", "zh": "Grok AI产品讨论"},
+      "files": ["grok-ai-scenario.md", "grok-ai-scenario.json"],
+      "conversations": 3,
+      "description": {"en": "Grok 3/4/5 evolution, truth-seeking AI, 6 trillion parameters, xAI acquiring X", "zh": "Grok 3/4/5演进、求真AI、6万亿参数、xAI收购X"},
+      "keywords": ["Grok", "AI", "6 trillion", "2025-2026"],
+      "quality_score": 0.92,
+      "context": {"year": "2025-2026", "new": true}
+    },
+    {
+      "id": "mars-colonization",
+      "name": {"en": "Mars Colonization Vision", "zh": "火星殖民愿景"},
+      "files": ["mars-colonization-scenario.md", "mars-colonization-scenario.json"],
+      "conversations": 3,
+      "description": {"en": "Mars colonization timeline, terraforming challenges, Mars society, Starship progress", "zh": "火星殖民时间线、地球化挑战、火星社会、Starship进展"},
+      "keywords": ["Mars", "Starship", "colonization", "terraforming"],
+      "quality_score": 0.89
+    }
+  ],
+  "style_markers": {
+    "common": ["literally", "I mean", "the thing is", "basically", "honestly", "yeah", "look"],
+    "humor": ["laughs", "ridiculous", "absurdity", "sense of humor", "to the moon"],
+    "direct": ["delete", "so what?", "that's the point", "period"],
+    "technical": ["first principles", "fundamentally", "physics", "engineering", "compute"],
+    "visionary": ["next century", "civilization-scale", "100 years", "symbiosis"]
+  },
+  "statistics": {
+    "total_scenarios": 10,
+    "total_conversations": 46,
+    "total_rounds_estimate": 180,
+    "average_quality_score": 0.89,
+    "new_2025_2026_scenarios": 4
+  },
+  "changelog": [
+    {
+      "version": "1.0",
+      "date": "2026-06-01",
+      "changes": [
+        "Initial release with 10 scenarios and 46 conversations",
+        "Added 2025-2026 content: DOGE, Neuralink, SpaceX-xAI merger, Grok AI",
+        "Bilingual support (Chinese/English)"
+      ]
+    }
+  ]
+}

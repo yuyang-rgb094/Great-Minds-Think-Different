@@ -1,0 +1,304 @@
+{
+  "topic_id": "engineering-milestones",
+  "title_zh": "工程里程碑",
+  "title_en": "Engineering Milestones",
+  "version": "2025-06-01",
+  "sections": [
+    {
+      "section_id": "spacex",
+      "title_zh": "SpaceX工程里程碑",
+      "title_en": "SpaceX Engineering Milestones",
+      "milestones": [
+        {
+          "name": "Falcon 1",
+          "period": "2006-2009",
+          "significance": "First privately developed liquid-fueled orbital rocket",
+          "key_events": [
+            {"date": "2006-03", "event": "First launch failed after 25 seconds"},
+            {"date": "2007-03", "event": "Second launch reached space but failed to orbit"},
+            {"date": "2008-08", "event": "Third launch, first stage success but second stage early shutdown"},
+            {"date": "2008-09-28", "event": "Fourth launch SUCCESS - first private liquid-fueled rocket to reach orbit"}
+          ],
+          "specs": {
+            "height_m": 21.3,
+            "diameter_m": 1.7,
+            "engines": "1 Merlin 1C",
+            "leo_capacity_kg": 670,
+            "cost_per_launch_usd": 7000000
+          },
+          "impact": "Saved SpaceX from bankruptcy, won NASA COTS contract"
+        },
+        {
+          "name": "Falcon 9",
+          "period": "2010-present",
+          "significance": "First orbital rocket with reusable first stage",
+          "evolution": [
+            {"version": "v1.0", "period": "2010-2013", "improvement": "Initial version, 9 Merlin 1C engines"},
+            {"version": "v1.1", "period": "2013-2016", "improvement": "Upgraded engines, stretched first stage"},
+            {"version": "Full Thrust", "period": "2015-2018", "improvement": "More thrust, first landing recovery"},
+            {"version": "Block 5", "period": "2018-present", "improvement": "Reusable 10+ times, final version"}
+          ],
+          "key_events": [
+            {"date": "2010-06-04", "event": "First successful launch"},
+            {"date": "2015-12-21", "event": "First successful landing recovery (landing pad)"},
+            {"date": "2016-04-08", "event": "First drone ship landing recovery"},
+            {"date": "2017-03-30", "event": "First reflight of recovered booster"},
+            {"date": "2018-02-06", "event": "Falcon Heavy debut, launched Tesla Roadster to space"},
+            {"date": "2021", "event": "Single booster B1051 flew 11th mission"}
+          ],
+          "specs_block5": {
+            "height_m": 70,
+            "diameter_m": 3.7,
+            "engines": "9 Merlin 1D, 845kN thrust each at sea level",
+            "leo_capacity_kg": 22800,
+            "gto_capacity_kg": 8300,
+            "reusability": "10+ flights per booster"
+          },
+          "achievements": [
+            "Reduced launch costs by 90%+",
+            "Over 100 launches in 2024",
+            "Over 400 total launches"
+          ]
+        },
+        {
+          "name": "Dragon",
+          "period": "2010-present",
+          "significance": "First privately developed human-rated spacecraft",
+          "variants": [
+            {
+              "name": "Cargo Dragon",
+              "first_flight": 2010,
+              "pressurized_volume_m3": 11,
+              "unpressurized_volume_m3": 14,
+              "reusability": "3 flights"
+            },
+            {
+              "name": "Crew Dragon",
+              "first_flight": 2020,
+              "crew_capacity": 7,
+              "diameter_m": 4,
+              "life_support": "Independent environmental control"
+            }
+          ],
+          "key_events": [
+            {"date": "2010-12-08", "event": "First orbital flight test"},
+            {"date": "2012-05-25", "event": "First ISS docking (cargo)"},
+            {"date": "2020-05-30", "event": "First crewed flight (Demo-2, astronauts Behnken and Hurley)"},
+            {"date": "2020-11-15", "event": "First operational crewed mission (Crew-1)"},
+            {"date": "2024", "event": "Over 50 people flown to space"}
+          ],
+          "innovations": ["Launch escape system (SuperDraco)", "Touchscreen controls", "Autonomous docking"]
+        },
+        {
+          "name": "Starship",
+          "period": "2019-present",
+          "significance": "Fully reusable super-heavy transport system for Mars colonization",
+          "components": {
+            "super_heavy": {"engines": "33 Raptor", "thrust_tons": 7590},
+            "starship": {"engines": "6 Raptor", "mars_capacity_tons": 100}
+          },
+          "key_events": [
+            {"date": "2019-04", "event": "Starhopper first hop test (150m)"},
+            {"date": "2020-12", "event": "SN8 first high-altitude test (12.5km)"},
+            {"date": "2021-05", "event": "SN15 first successful landing"},
+            {"date": "2023-04-20", "event": "IFT-1 first integrated flight test, exploded after 4 minutes"},
+            {"date": "2023-11", "event": "IFT-2 successful stage separation, second stage lost"},
+            {"date": "2024-03-14", "event": "IFT-3 first reached orbit"},
+            {"date": "2024-06", "event": "IFT-4 first soft landing of booster"},
+            {"date": "2024-10-13", "event": "IFT-5 first 'chopsticks' booster catch"},
+            {"date": "2025", "event": "IFT-6 through IFT-8, success rate improving"}
+          ],
+          "breakthroughs": ["Stainless steel structure", "Full-flow staged combustion Raptor engines", "Heat tiles withstand 1650°C", "Chopstick mechanical arm recovery"]
+        }
+      ]
+    },
+    {
+      "section_id": "tesla",
+      "title_zh": "特斯拉工程里程碑",
+      "title_en": "Tesla Engineering Milestones",
+      "milestones": [
+        {
+          "name": "Roadster",
+          "period": "2008-2012",
+          "significance": "First high-speed electric sports car using lithium-ion batteries",
+          "specs": {
+            "0_100_kmh_s": 3.7,
+            "top_speed_kmh": 201,
+            "range_km": 320,
+            "battery_kwh": 53
+          },
+          "breakthrough": "Proved EVs could be high-performance"
+        },
+        {
+          "name": "Model S",
+          "period": "2012-present",
+          "significance": "First luxury electric sedan, changed EV market perception",
+          "specs": {
+            "0_100_kmh_s": 2.1,
+            "range_km": 652,
+            "display": "17-inch touchscreen",
+            "suspension": "Air suspension"
+          },
+          "key_events": [
+            {"date": "2012-06", "event": "Deliveries began"},
+            {"date": "2013", "event": "NHTSA 5.4-star safety rating (highest ever)"},
+            {"date": "2014", "event": "Dual motor all-wheel drive launched"},
+            {"date": "2015", "event": "Ludicrous mode: 0-100km/h in 2.8s"},
+            {"date": "2021", "event": "Plaid version: 0-100km/h in 2.1s"}
+          ],
+          "innovations": ["Skateboard chassis design", "Battery pack under floor", "Drag coefficient 0.24"]
+        },
+        {
+          "name": "Model 3",
+          "period": "2017-present",
+          "significance": "First mass-market affordable electric car",
+          "specs": {
+            "0_100_kmh_s": 3.3,
+            "range_km": 570,
+            "launch_price_usd": 35000
+          },
+          "key_events": [
+            {"date": "2017-07", "event": "First 30 deliveries"},
+            {"date": "2018", "event": "Production hell, targeting 5000/week"},
+            {"date": "2019", "event": "Exceeded 7000/week"},
+            {"date": "2020", "event": "Became world's best-selling EV"},
+            {"date": "2023", "event": "Over 5 million cumulative production"}
+          ],
+          "challenges": ["Highly automated production line", "Battery cost reduction", "Quality consistency"]
+        },
+        {
+          "name": "4680 Battery",
+          "period": "2020-present",
+          "significance": "Tesla self-developed battery with significantly higher energy density",
+          "specs": {
+            "dimensions_mm": "46 diameter x 80 height",
+            "energy_density_wh_kg": 300,
+            "cost_reduction": "56%",
+            "range_improvement": "54%"
+          },
+          "key_events": [
+            {"date": "2020-09", "event": "Battery Day announcement"},
+            {"date": "2022", "event": "Production began at Texas Gigafactory"},
+            {"date": "2024", "event": "10 GWh/year production capacity"},
+            {"date": "2025", "event": "Full deployment in Model Y and Cybertruck"}
+          ],
+          "innovations": ["Tabless electrode", "Silicon anode", "High-nickel cathode", "Cell-to-chassis (CTC)"]
+        },
+        {
+          "name": "FSD Autopilot",
+          "period": "2015-present",
+          "significance": "End-to-end neural network autonomous driving system",
+          "evolution": [
+            {"version": "Autopilot", "year": 2015, "improvement": "Basic driver assistance"},
+            {"version": "FSD Beta", "year": 2020, "improvement": "City street autonomy"},
+            {"version": "FSD v11", "year": 2023, "improvement": "Unified highway/city stack"},
+            {"version": "FSD v12", "year": 2024, "improvement": "End-to-end neural network"},
+            {"version": "FSD v13", "year": 2025, "improvement": "Unsupervised learning"}
+          ],
+          "key_events": [
+            {"date": "2015-10", "event": "Autopilot first release"},
+            {"date": "2020-10", "event": "FSD Beta first pushed to early users"},
+            {"date": "2024", "event": "FSD v12 end-to-end neural network launched"},
+            {"date": "2025", "event": "Over 5 billion miles driven with FSD"}
+          ],
+          "breakthroughs": ["Pure vision approach (no LiDAR)", "End-to-end neural network", "Shadow mode learning", "Dojo supercomputer training"]
+        }
+      ]
+    },
+    {
+      "section_id": "neuralink",
+      "title_zh": "Neuralink工程里程碑",
+      "title_en": "Neuralink Engineering Milestones",
+      "milestones": [
+        {
+          "name": "N1 Implant",
+          "period": "2016-2024",
+          "significance": "Coin-sized brain-computer interface",
+          "specs": {
+            "diameter_mm": 23,
+            "thickness_mm": 8,
+            "electrodes": 1024,
+            "threads": 64,
+            "wireless": "Low-power Bluetooth"
+          },
+          "key_events": [
+            {"date": "2019", "event": "First technical details revealed"},
+            {"date": "2020", "event": "Pig brain implant demonstration"},
+            {"date": "2021", "event": "Monkey playing video games demonstration"},
+            {"date": "2024-01-28", "event": "First human implant (Noland Arbaugh)"},
+            {"date": "2024", "event": "First patient achieved mind-controlled computer use"},
+            {"date": "2025", "event": "Over 10 patients implanted"}
+          ],
+          "breakthroughs": ["Flexible thread electrodes", "Robotic surgical implantation", "Wireless charging", "Real-time neural signal decoding"]
+        }
+      ]
+    }
+  ],
+  "key_data": {
+    "spacex_launches": {
+      "falcon_1": {"first_flight": 2006, "launches": 5, "successes": 2, "success_rate": "40%"},
+      "falcon_9": {"first_flight": 2010, "launches": "400+", "successes": "395+", "success_rate": "98%+"},
+      "falcon_heavy": {"first_flight": 2018, "launches": "10+", "successes": "10+", "success_rate": "100%"},
+      "starship": {"first_flight": 2023, "launches": "8+", "successes": "4+", "success_rate": "50%+"}
+    },
+    "tesla_production": {
+      "roadster": {"first_delivery": 2008, "cumulative": "2,450", "2024": "-"},
+      "model_s": {"first_delivery": 2012, "cumulative": "500,000+", "2024": "50,000+"},
+      "model_3": {"first_delivery": 2017, "cumulative": "5,000,000+", "2024": "500,000+"},
+      "model_y": {"first_delivery": 2020, "cumulative": "3,000,000+", "2024": "400,000+"},
+      "cybertruck": {"first_delivery": 2023, "cumulative": "50,000+", "2024": "50,000+"}
+    }
+  },
+  "updates_2025_2026": {
+    "spacex": {
+      "starship": [
+        "IFT-7 through IFT-8 completed successfully",
+        "Booster recovery success rate improved to 90%+",
+        "On-orbit refueling technology validated",
+        "First unmanned Mars mission planned for 2026"
+      ],
+      "starlink": [
+        "Over 7000 satellites in orbit",
+        "Over 5 million global users",
+        "Direct-to-cell service began in 2025"
+      ]
+    },
+    "tesla": {
+      "fsd": [
+        "FSD v13 unsupervised learning version released",
+        "Over 5 billion cumulative miles driven",
+        "Robotaxi testing began in Austin June 2025"
+      ],
+      "4680_battery": [
+        "Texas Gigafactory capacity reached 50 GWh/year",
+        "Cost reduction targets achieved",
+        "Full deployment in all new vehicles"
+      ],
+      "optimus": [
+        "Testing began in Tesla factories 2025",
+        "Small-scale production planned for 2026"
+      ]
+    },
+    "neuralink": {
+      "clinical": [
+        "Over 10 patients implanted in 2025",
+        "FDA Breakthrough Device designation",
+        "Larger-scale clinical trials planned for 2026"
+      ],
+      "technical": [
+        "Second-generation N1 implant in development",
+        "Vision restoration entering clinical trials",
+        "Grok AI integration for mind typing"
+      ]
+    }
+  },
+  "sources": [
+    "SpaceX press kits and mission updates",
+    "Tesla shareholder meetings and impact reports",
+    "Neuralink blog posts and scientific publications",
+    "FAA launch databases",
+    "NASA Commercial Crew Program updates",
+    "Various technical analyses and engineering reviews",
+    "Musk's X posts and interviews"
+  ]
+}

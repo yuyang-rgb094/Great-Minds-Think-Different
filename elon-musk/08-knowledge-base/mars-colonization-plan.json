@@ -1,0 +1,197 @@
+{
+  "topic_id": "mars-colonization-plan",
+  "title_zh": "火星殖民计划",
+  "title_en": "Mars Colonization Plan",
+  "version": "2025-06-01",
+  "sections": [
+    {
+      "section_id": "why_mars",
+      "title_zh": "为什么选择火星",
+      "title_en": "Why Mars",
+      "content_zh": "火星殖民是确保人类文明长期存续的关键。地球面临小行星撞击、核战争、气候变化、流行病、AI失控等威胁。火星是太阳系内最适合人类殖民的行星，一天长度与地球相近，存在水冰，二氧化碳大气可用于制造燃料和氧气。",
+      "content_en": "Mars colonization is essential for ensuring the long-term survival of human civilization. Earth faces threats including asteroid impacts, nuclear war, climate change, pandemics, and AI失控. Mars is the most suitable planet for human colonization in the solar system, with a day length similar to Earth, water ice, and a CO2 atmosphere that can be used to produce fuel and oxygen."
+    },
+    {
+      "section_id": "starship_system",
+      "title_zh": "星舰系统",
+      "title_en": "Starship System",
+      "components": [
+        {
+          "name": "Super Heavy Booster",
+          "name_zh": "超重型助推器",
+          "height_m": 71,
+          "diameter_m": 9,
+          "engines": "33 Raptor engines",
+          "thrust_tons": 7590,
+          "reusable": true
+        },
+        {
+          "name": "Starship",
+          "name_zh": "星舰飞船",
+          "height_m": 50,
+          "diameter_m": 9,
+          "engines": "6 Raptor engines (3 sea-level + 3 vacuum)",
+          "payload_leo_tons": "100-150",
+          "payload_mars_tons": 100,
+          "passenger_capacity": "100+"
+        }
+      ],
+      "key_technologies": [
+        "Stainless steel construction: heat-resistant, easy to manufacture, low cost",
+        "Raptor engines: full-flow staged combustion, uses methane and liquid oxygen",
+        "On-orbit refueling: refuel in Earth orbit before Mars journey",
+        "Aerobraking: use Mars atmosphere to slow down and enter orbit"
+      ]
+    },
+    {
+      "section_id": "timeline",
+      "title_zh": "时间表与里程碑",
+      "title_en": "Timeline and Milestones",
+      "historical_milestones": [
+        {"year": 2016, "event": "Musk first announced Mars colonization plan at IAC Mexico"},
+        {"year": 2017, "event": "Updated to BFR (Big Falcon Rocket) concept"},
+        {"year": 2019, "event": "Starhopper prototype first flight test"},
+        {"year": 2023, "event": "Starship first integrated flight test (IFT-1)"},
+        {"year": 2024, "event": "First successful orbital flight test (IFT-3)"},
+        {"year": 2024, "event": "First successful 'chopsticks' booster catch"}
+      ],
+      "future_timeline": {
+        "2026-2027": {
+          "type": "Unmanned missions",
+          "goals": ["Verify landing technology", "Test resource utilization equipment", "Deliver solar panels, life support, communications"]
+        },
+        "2028-2030": {
+          "type": "Crewed missions",
+          "crew_size": "10-20 astronauts",
+          "goals": ["Establish outpost base", "Test long-term survival"]
+        },
+        "2030s": {
+          "type": "Base construction",
+          "goals": ["Permanent Mars base", "ISRU fuel production", "Scale to hundreds of colonists"]
+        },
+        "2050": {
+          "type": "Vision",
+          "population": "1 million",
+          "status": "Self-sustaining civilization with regular Earth-Mars flights"
+        }
+      }
+    },
+    {
+      "section_id": "challenges",
+      "title_zh": "技术挑战与解决方案",
+      "title_en": "Technical Challenges and Solutions",
+      "challenges": [
+        {
+          "challenge_zh": "辐射防护",
+          "challenge_en": "Radiation protection",
+          "solution": "Radiation shelters on spacecraft, underground Mars habitats, artificial magnetic fields (long-term)"
+        },
+        {
+          "challenge_zh": "生命支持系统",
+          "challenge_en": "Life support systems",
+          "solution": "Closed-loop ecosystem, water ice extraction, greenhouse agriculture"
+        },
+        {
+          "challenge_zh": "燃料生产（ISRU）",
+          "challenge_en": "Fuel production (ISRU)",
+          "solution": "Sabatier process: CO2 + 4H2 → CH4 + 2H2O using Martian atmosphere and groundwater"
+        },
+        {
+          "challenge_zh": "心理健康",
+          "challenge_en": "Mental health",
+          "solution": "Virtual reality, Earth-synchronous communication, rigorous astronaut screening"
+        },
+        {
+          "challenge_zh": "医疗紧急状况",
+          "challenge_en": "Medical emergencies",
+          "solution": "Complete medical facilities on board, telemedicine, 3D-printed medications"
+        }
+      ]
+    },
+    {
+      "section_id": "economics",
+      "title_zh": "经济模型",
+      "title_en": "Economic Model",
+      "cost_targets": {
+        "long_term_goal": "$100,000 per person one-way",
+        "current_mars_mission_cost": "Billions of dollars",
+        "key_factor": "Fully reusable Starship system"
+      },
+      "funding_sources": [
+        "Starlink revenue: funding Mars program",
+        "Government contracts: NASA, military launches",
+        "Commercial launches: satellites, space tourism",
+        "Private investment: Musk's personal wealth, external investors"
+      ],
+      "mars_economy": {
+        "early_stage": "Completely dependent on Earth resupply",
+        "mid_term": "Mars resource mining (water, metals, rare earths)",
+        "long_term": "Mars-asteroid belt economic system"
+      },
+      "business_models": [
+        "Mars real estate",
+        "Scientific research stations",
+        "Space tourism",
+        "Asteroid mining waystation"
+      ]
+    }
+  ],
+  "key_data": {
+    "earth_mars_distance_km": {"min": 54000000, "max": 400000000},
+    "launch_window_months": 26,
+    "transit_time_months": "6-9",
+    "starship_total_height_m": 121,
+    "starship_diameter_m": 9,
+    "payload_leo_tons": "100-150",
+    "payload_mars_tons": 100,
+    "passenger_capacity": "100+",
+    "target_ticket_price_usd": 100000,
+    "target_population_2050": 1000000
+  },
+  "updates_2025_2026": {
+    "starship_testing": {
+      "2025_flights": "Starship IFT-7 through IFT-8",
+      "achievements": [
+        "Successfully validated on-orbit refueling technology",
+        "Booster recovery success rate improved to over 90%"
+      ],
+      "technical_breakthroughs": [
+        "Raptor engine thrust increased to 280 tons",
+        "Heat shield materials improved for higher temperatures",
+        "Starship internal life support system prototype testing"
+      ]
+    },
+    "nasa_cooperation": {
+      "artemis_program": {
+        "contract": "NASA Human Landing System (HLS)",
+        "mission": "Artemis III (2026)",
+        "purpose": "First crewed lunar landing to test Mars technologies"
+      },
+      "mars_sample_return": {
+        "cooperation": "Joint development with NASA",
+        "role": "Starship to return samples to Earth"
+      }
+    },
+    "mission_preparation": {
+      "unmanned_mission": {
+        "launch": "Late 2026",
+        "payload": ["Habitat modules", "Solar arrays", "ISRU equipment"],
+        "purpose": "Prepare for 2028 crewed mission"
+      },
+      "astronaut_selection": {
+        "status": "Public recruitment opened",
+        "criteria": ["Physical health", "Psychological stability", "Multi-skilled"],
+        "training_start": "2026"
+      }
+    }
+  },
+  "sources": [
+    "Musk, Elon. 'Making Humans a Multi-Planetary Species.' New Space, 2017.",
+    "SpaceX Starship User Guide",
+    "NASA Mars Exploration Program documents",
+    "IAC 2016, 2017 presentations by Elon Musk",
+    "SpaceX official website and press releases",
+    "'The Case for Mars' by Robert Zubrin",
+    "Starship test flight reports and analyses"
+  ]
+}

@@ -1,0 +1,666 @@
+{
+  "metadata": {
+    "title": {
+      "en": "Validation Checklist",
+      "zh": "验证清单"
+    },
+    "description": {
+      "en": "Comprehensive checklist for validating each corpus entry with pass/fail criteria and severity levels",
+      "zh": "用于验证每个语料库条目的全面清单，包含通过/失败标准和严重级别"
+    },
+    "version": "1.0.0",
+    "last_updated": "2025-06-01",
+    "category": "quality_control"
+  },
+  "severity_levels": {
+    "critical": {
+      "en": "Critical",
+      "zh": "关键",
+      "description": {
+        "en": "Must be fixed before entry acceptance. Affects data integrity and reliability.",
+        "zh": "必须在入库前修复。影响数据完整性和可靠性。"
+      },
+      "examples": ["fact_error", "unverified_source", "corrupted_format"]
+    },
+    "warning": {
+      "en": "Warning",
+      "zh": "警告",
+      "description": {
+        "en": "Recommended to fix but does not block entry acceptance. Affects data quality and consistency.",
+        "zh": "建议修复但不阻止入库。影响数据质量和一致性。"
+      },
+      "examples": ["missing_optional_field", "format_inconsistency"]
+    },
+    "info": {
+      "en": "Info",
+      "zh": "信息",
+      "description": {
+        "en": "Improvement suggestions. Does not affect data usability.",
+        "zh": "改进建议。不影响数据可用性。"
+      },
+      "examples": ["style_optimization", "additional_tag_suggestion"]
+    }
+  },
+  "check_categories": [
+    {
+      "id": "content_quality",
+      "name": {
+        "en": "Content Quality Checks",
+        "zh": "内容质量检查"
+      },
+      "checks": [
+        {
+          "id": "cq-001",
+          "name": {
+            "en": "Fact Verification",
+            "zh": "事实核查"
+          },
+          "criteria": {
+            "en": "All factual claims traceable to reliable sources",
+            "zh": "所有事实性声明均可追溯到可靠来源"
+          },
+          "severity": "critical",
+          "validation_method": {
+            "en": "Cross-reference at least two independent sources",
+            "zh": "交叉引用至少两个独立来源"
+          }
+        },
+        {
+          "id": "cq-002",
+          "name": {
+            "en": "Date Accuracy",
+            "zh": "日期准确性"
+          },
+          "criteria": {
+            "en": "Event dates consistent with original sources",
+            "zh": "事件日期与原始来源一致"
+          },
+          "severity": "critical",
+          "validation_method": {
+            "en": "Verify against primary source timestamps",
+            "zh": "根据一级来源时间戳核实"
+          }
+        },
+        {
+          "id": "cq-003",
+          "name": {
+            "en": "Numerical Accuracy",
+            "zh": "数字准确性"
+          },
+          "criteria": {
+            "en": "Statistics and financial figures are accurate",
+            "zh": "统计数据、财务数字准确无误"
+          },
+          "severity": "critical",
+          "validation_method": {
+            "en": "Check against official filings and reports",
+            "zh": "对照官方文件和报告检查"
+          }
+        },
+        {
+          "id": "cq-004",
+          "name": {
+            "en": "Quote Accuracy",
+            "zh": "引语准确性"
+          },
+          "criteria": {
+            "en": "Quotes match original sources verbatim",
+            "zh": "引语与原始来源逐字一致"
+          },
+          "severity": "critical",
+          "validation_method": {
+            "en": "Compare with original interview/recording",
+            "zh": "与原始采访/录音对比"
+          }
+        },
+        {
+          "id": "cq-005",
+          "name": {
+            "en": "Context Completeness",
+            "zh": "上下文完整性"
+          },
+          "criteria": {
+            "en": "Original context preserved, no out-of-context quotes",
+            "zh": "保留原始语境，无断章取义"
+          },
+          "severity": "warning",
+          "validation_method": {
+            "en": "Review surrounding content in source",
+            "zh": "审查来源中的周围内容"
+          }
+        },
+        {
+          "id": "cq-006",
+          "name": {
+            "en": "Thematic Relevance",
+            "zh": "主题相关性"
+          },
+          "criteria": {
+            "en": "Content related to Musk's core domains",
+            "zh": "内容与Musk的核心领域相关"
+          },
+          "severity": "critical",
+          "relevant_domains": [
+            "electric_vehicles",
+            "space_exploration",
+            "artificial_intelligence",
+            "social_media",
+            "government_efficiency",
+            "sustainable_energy"
+          ]
+        },
+        {
+          "id": "cq-007",
+          "name": {
+            "en": "Timeliness",
+            "zh": "时效性"
+          },
+          "criteria": {
+            "en": "Content reflects current positions or views",
+            "zh": "内容反映其当前观点或立场"
+          },
+          "severity": "warning"
+        },
+        {
+          "id": "cq-008",
+          "name": {
+            "en": "Source Verification",
+            "zh": "来源验证"
+          },
+          "criteria": {
+            "en": "Traceable to Musk himself or official channels",
+            "zh": "可追溯到Musk本人或官方渠道"
+          },
+          "severity": "critical"
+        },
+        {
+          "id": "cq-009",
+          "name": {
+            "en": "Forgery Detection",
+            "zh": "伪造检测"
+          },
+          "criteria": {
+            "en": "Not deepfake or manipulated content",
+            "zh": "非深度伪造或篡改内容"
+          },
+          "severity": "critical"
+        },
+        {
+          "id": "cq-010",
+          "name": {
+            "en": "Satire Detection",
+            "zh": "讽刺识别"
+          },
+          "criteria": {
+            "en": "Distinguish real statements from satire/parody",
+            "zh": "区分真实声明与讽刺/模仿"
+          },
+          "severity": "critical"
+        }
+      ]
+    },
+    {
+      "id": "format_checks",
+      "name": {
+        "en": "Format Checks",
+        "zh": "格式检查"
+      },
+      "checks": [
+        {
+          "id": "fc-001",
+          "name": {
+            "en": "Required Fields Present",
+            "zh": "必需字段"
+          },
+          "criteria": {
+            "en": "All required fields exist and non-empty",
+            "zh": "所有必需字段存在且非空"
+          },
+          "severity": "critical",
+          "required_fields": [
+            "id",
+            "type",
+            "source",
+            "date",
+            "content.en",
+            "content.zh",
+            "metadata"
+          ]
+        },
+        {
+          "id": "fc-002",
+          "name": {
+            "en": "Data Types",
+            "zh": "数据类型"
+          },
+          "criteria": {
+            "en": "Field values match defined data types",
+            "zh": "字段值符合定义的数据类型"
+          },
+          "severity": "critical"
+        },
+        {
+          "id": "fc-003",
+          "name": {
+            "en": "Enum Values",
+            "zh": "枚举值"
+          },
+          "criteria": {
+            "en": "Enum field values within allowed range",
+            "zh": "枚举字段值在允许范围内"
+          },
+          "severity": "critical"
+        },
+        {
+          "id": "fc-004",
+          "name": {
+            "en": "Character Encoding",
+            "zh": "字符编码"
+          },
+          "criteria": {
+            "en": "UTF-8 encoding, no garbled text",
+            "zh": "UTF-8编码，无乱码"
+          },
+          "severity": "critical"
+        },
+        {
+          "id": "fc-005",
+          "name": {
+            "en": "Tags Assigned",
+            "zh": "标签分配"
+          },
+          "criteria": {
+            "en": "At least one relevant tag",
+            "zh": "至少一个相关标签"
+          },
+          "severity": "info"
+        }
+      ]
+    },
+    {
+      "id": "language_checks",
+      "name": {
+        "en": "Language Checks",
+        "zh": "语言检查"
+      },
+      "checks": [
+        {
+          "id": "lc-001",
+          "name": {
+            "en": "English Content Complete",
+            "zh": "英文内容完整"
+          },
+          "criteria": {
+            "en": "Original English content complete",
+            "zh": "原始英文内容完整"
+          },
+          "severity": "critical"
+        },
+        {
+          "id": "lc-002",
+          "name": {
+            "en": "Chinese Translation Complete",
+            "zh": "中文翻译完整"
+          },
+          "criteria": {
+            "en": "Complete and accurate Chinese translation",
+            "zh": "完整准确的中文翻译"
+          },
+          "severity": "critical"
+        },
+        {
+          "id": "lc-003",
+          "name": {
+            "en": "Paragraph Alignment",
+            "zh": "段落对齐"
+          },
+          "criteria": {
+            "en": "EN and ZH paragraphs correspond one-to-one",
+            "zh": "中英文段落一一对应"
+          },
+          "severity": "warning"
+        },
+        {
+          "id": "lc-004",
+          "name": {
+            "en": "Semantic Equivalence",
+            "zh": "语义等效"
+          },
+          "criteria": {
+            "en": "Translation conveys same meaning",
+            "zh": "翻译传达相同含义"
+          },
+          "severity": "critical"
+        },
+        {
+          "id": "lc-005",
+          "name": {
+            "en": "Terminology Consistency",
+            "zh": "术语一致"
+          },
+          "criteria": {
+            "en": "Professional terms translated consistently",
+            "zh": "专业术语翻译统一"
+          },
+          "severity": "critical",
+          "examples": [
+            {"en": "Full Self-Driving", "zh": "完全自动驾驶"},
+            {"en": "Neuralink", "zh": "Neuralink"},
+            {"en": "DOGE", "zh": "DOGE/政府效率部"},
+            {"en": "Grok", "zh": "Grok"}
+          ]
+        },
+        {
+          "id": "lc-006",
+          "name": {
+            "en": "Tone Preservation",
+            "zh": "语气保持"
+          },
+          "criteria": {
+            "en": "Preserve original tone (formal/informal)",
+            "zh": "保持原始语气（正式/非正式）"
+          },
+          "severity": "warning"
+        }
+      ]
+    },
+    {
+      "id": "style_checks",
+      "name": {
+        "en": "Style Checks",
+        "zh": "风格检查"
+      },
+      "checks": [
+        {
+          "id": "sc-001",
+          "name": {
+            "en": "Catchphrases Preserved",
+            "zh": "口头禅保留"
+          },
+          "criteria": {
+            "en": "Preserve 'Literally', 'The thing is', etc.",
+            "zh": "保留'Literally'、'The thing is'等"
+          },
+          "severity": "info",
+          "characteristic_markers": [
+            {"en": "Literally", "zh": "字面意义上"},
+            {"en": "The thing is", "zh": "问题是"},
+            {"en": "Um", "zh": "嗯"},
+            {"en": "Like", "zh": "就像"},
+            {"en": "Absolutely", "zh": "绝对"},
+            {"en": "Insane", "zh": "疯狂"},
+            {"en": "Next level", "zh": "下一个层次"},
+            {"en": "Fundamentally", "zh": "从根本上"}
+          ]
+        },
+        {
+          "id": "sc-002",
+          "name": {
+            "en": "Humor Elements",
+            "zh": "幽默元素"
+          },
+          "criteria": {
+            "en": "Identify and preserve jokes, memes",
+            "zh": "识别并保留笑话、梗"
+          },
+          "severity": "info"
+        },
+        {
+          "id": "sc-003",
+          "name": {
+            "en": "Technical Enthusiasm",
+            "zh": "技术热情"
+          },
+          "criteria": {
+            "en": "Preserve technical details and enthusiasm",
+            "zh": "保留技术细节和热情表达"
+          },
+          "severity": "info"
+        },
+        {
+          "id": "sc-004",
+          "name": {
+            "en": "Directness",
+            "zh": "直接性"
+          },
+          "criteria": {
+            "en": "Maintain direct, concise expression",
+            "zh": "保持直接、简洁的表达方式"
+          },
+          "severity": "info"
+        }
+      ]
+    },
+    {
+      "id": "source_checks",
+      "name": {
+        "en": "Source Checks",
+        "zh": "来源检查"
+      },
+      "checks": [
+        {
+          "id": "src-001",
+          "name": {
+            "en": "Source URL Accessible",
+            "zh": "来源URL可访问"
+          },
+          "criteria": {
+            "en": "Provide accessible original link",
+            "zh": "提供可访问的原始链接"
+          },
+          "severity": "critical"
+        },
+        {
+          "id": "src-002",
+          "name": {
+            "en": "Source Type Correct",
+            "zh": "来源类型正确"
+          },
+          "criteria": {
+            "en": "Correctly categorize source type",
+            "zh": "正确分类来源类型"
+          },
+          "severity": "warning",
+          "source_types": [
+            "x_twitter_post",
+            "interview",
+            "earnings_call",
+            "conference_keynote",
+            "podcast",
+            "press_release",
+            "legal_filing",
+            "email_memo"
+          ]
+        },
+        {
+          "id": "src-003",
+          "name": {
+            "en": "Primary Source Priority",
+            "zh": "一级来源优先"
+          },
+          "criteria": {
+            "en": "Prioritize Musk's direct statements",
+            "zh": "优先使用Musk直接发言"
+          },
+          "severity": "critical"
+        },
+        {
+          "id": "src-004",
+          "name": {
+            "en": "Archived Link Available",
+            "zh": "存档链接可用"
+          },
+          "criteria": {
+            "en": "Use Wayback Machine or similar archive",
+            "zh": "使用Wayback Machine等存档"
+          },
+          "severity": "warning"
+        }
+      ]
+    },
+    {
+      "id": "recency_checks",
+      "name": {
+        "en": "2025-2026 Specific Checks",
+        "zh": "2025-2026 特定检查"
+      },
+      "checks": [
+        {
+          "id": "rc-001",
+          "name": {
+            "en": "Event Recency",
+            "zh": "事件时效性"
+          },
+          "criteria": {
+            "en": "2025-2026 events are updated",
+            "zh": "2025-2026年事件已更新"
+          },
+          "severity": "critical"
+        },
+        {
+          "id": "rc-002",
+          "name": {
+            "en": "Position Changes",
+            "zh": "立场变化"
+          },
+          "criteria": {
+            "en": "Reflect latest positions or views",
+            "zh": "反映最新观点或立场"
+          },
+          "severity": "critical"
+        },
+        {
+          "id": "rc-003",
+          "name": {
+            "en": "DOGE Related Verified",
+            "zh": "DOGE相关已核实"
+          },
+          "criteria": {
+            "en": "DOGE-related statements verified",
+            "zh": "政府效率部相关声明已核实"
+          },
+          "severity": "critical"
+        },
+        {
+          "id": "rc-004",
+          "name": {
+            "en": "Grok Heavy Statements",
+            "zh": "Grok Heavy声明"
+          },
+          "criteria": {
+            "en": "New model release statements accurate",
+            "zh": "新模型发布声明准确"
+          },
+          "severity": "critical"
+        },
+        {
+          "id": "rc-005",
+          "name": {
+            "en": "M&A Activity Verified",
+            "zh": "并购活动已核实"
+          },
+          "criteria": {
+            "en": "M&A-related statements verified",
+            "zh": "并购相关声明已核实"
+          },
+          "severity": "critical"
+        },
+        {
+          "id": "rc-006",
+          "name": {
+            "en": "Regulatory Updates",
+            "zh": "监管动态"
+          },
+          "criteria": {
+            "en": "Regulatory positions and events current",
+            "zh": "监管立场和事件最新"
+          },
+          "severity": "critical"
+        }
+      ],
+      "key_2025_2026_topics": [
+        "DOGE_department_of_government_efficiency",
+        "Grok_3_Grok_Heavy_release",
+        "X_platform_policy_changes",
+        "Tesla_FSD_v13_plus",
+        "SpaceX_Starship_launches",
+        "Neuralink_human_trials",
+        "political_positions_elections"
+      ]
+    }
+  ],
+  "validation_workflow": {
+    "step_1_automated": {
+      "name": {
+        "en": "Automated Checks",
+        "zh": "自动检查"
+      },
+      "steps": [
+        "JSON Schema validation",
+        "Required field check",
+        "Format validation",
+        "Basic language check"
+      ]
+    },
+    "step_2_manual": {
+      "name": {
+        "en": "Manual Review",
+        "zh": "人工审核"
+      },
+      "steps": [
+        "Content accuracy",
+        "Source verification",
+        "Translation quality",
+        "Style consistency"
+      ]
+    },
+    "step_3_final": {
+      "name": {
+        "en": "Final Approval",
+        "zh": "最终批准"
+      },
+      "steps": [
+        "Critical issues fixed",
+        "Warning issues assessed",
+        "Entry approval"
+      ]
+    }
+  },
+  "final_checklist": {
+    "content_quality": [
+      {"id": "fc-cq-1", "en": "All factual claims verified", "zh": "所有事实性声明已核实"},
+      {"id": "fc-cq-2", "en": "Dates and numbers accurate", "zh": "日期和数字准确"},
+      {"id": "fc-cq-3", "en": "Quotes match original sources", "zh": "引语与原始来源一致"},
+      {"id": "fc-cq-4", "en": "Content relevant and significant", "zh": "内容相关且重要"}
+    ],
+    "format": [
+      {"id": "fc-fm-1", "en": "JSON Schema validation passed", "zh": "JSON Schema 验证通过"},
+      {"id": "fc-fm-2", "en": "All required fields present", "zh": "所有必需字段存在"},
+      {"id": "fc-fm-3", "en": "Data types correct", "zh": "数据类型正确"},
+      {"id": "fc-fm-4", "en": "UTF-8 encoding", "zh": "UTF-8 编码"}
+    ],
+    "language": [
+      {"id": "fc-lg-1", "en": "EN and ZH content complete", "zh": "中英文内容完整"},
+      {"id": "fc-lg-2", "en": "Translation accurate", "zh": "翻译准确"},
+      {"id": "fc-lg-3", "en": "Terminology consistent", "zh": "术语一致"},
+      {"id": "fc-lg-4", "en": "Paragraphs aligned", "zh": "段落对齐"}
+    ],
+    "style": [
+      {"id": "fc-st-1", "en": "Characteristic markers preserved", "zh": "特征标记保留"},
+      {"id": "fc-st-2", "en": "Tone consistent", "zh": "语气一致"},
+      {"id": "fc-st-3", "en": "Style matches Musk characteristics", "zh": "风格符合Musk特点"}
+    ],
+    "source": [
+      {"id": "fc-sc-1", "en": "Source URL accessible", "zh": "来源URL可访问"},
+      {"id": "fc-sc-2", "en": "Source type correct", "zh": "来源类型正确"},
+      {"id": "fc-sc-3", "en": "Date accurate", "zh": "日期准确"},
+      {"id": "fc-sc-4", "en": "Primary source prioritized", "zh": "优先使用一级来源"}
+    ],
+    "recency_2025_2026": [
+      {"id": "fc-rc-1", "en": "Event recency verified", "zh": "事件时效性已验证"},
+      {"id": "fc-rc-2", "en": "New topic facts verified", "zh": "新主题事实已核查"},
+      {"id": "fc-rc-3", "en": "Position changes updated", "zh": "立场变化已更新"},
+      {"id": "fc-rc-4", "en": "Project status accurate", "zh": "项目状态准确"}
+    ]
+  }
+}

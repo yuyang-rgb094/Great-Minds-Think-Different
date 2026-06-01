@@ -1,0 +1,662 @@
+[
+  {
+    "id": "tweet_business-advice_001",
+    "source": {
+      "type": "tweet",
+      "date": "2022-11-20",
+      "engagement": {
+        "likes": 450000,
+        "retweets": 56000,
+        "replies": 37000,
+        "views": 108000000
+      }
+    },
+    "category": "business-advice",
+    "tags": [
+      "work hard",
+      "startup",
+      "advice"
+    ],
+    "en": {
+      "text": "Work super hard. Like, insanely hard. There is no substitute for hard work.",
+      "context": "关于努力工作的核心建议"
+    },
+    "zh": {
+      "text": "超级努力地工作。像疯狂一样努力。没有什么可以替代努力工作。",
+      "context": "关于努力工作的核心建议"
+    },
+    "style_markers": [
+      "direct",
+      "intense",
+      "advisory"
+    ],
+    "quality_score": 0.96
+  },
+  {
+    "id": "tweet_business-advice_002",
+    "source": {
+      "type": "tweet",
+      "date": "2023-01-25",
+      "engagement": {
+        "likes": 380000,
+        "retweets": 47000,
+        "replies": 31000,
+        "views": 91000000
+      }
+    },
+    "category": "business-advice",
+    "tags": [
+      "hiring",
+      "talent",
+      "advice"
+    ],
+    "en": {
+      "text": "Don't hire people who just tell you what you want to hear. Hire people who will tell you when you're wrong.",
+      "context": "关于招聘的建议"
+    },
+    "zh": {
+      "text": "不要雇佣只会告诉你你想听的话的人。雇佣会告诉你你错了的人。",
+      "context": "关于招聘的建议"
+    },
+    "style_markers": [
+      "advisory",
+      "practical",
+      "leadership"
+    ],
+    "quality_score": 0.94
+  },
+  {
+    "id": "tweet_business-advice_003",
+    "source": {
+      "type": "tweet",
+      "date": "2023-03-20",
+      "engagement": {
+        "likes": 340000,
+        "retweets": 42000,
+        "replies": 28000,
+        "views": 81000000
+      }
+    },
+    "category": "business-advice",
+    "tags": [
+      "product",
+      "customer",
+      "feedback"
+    ],
+    "en": {
+      "text": "The best product is the one that makes itself. Word of mouth is the most powerful marketing.",
+      "context": "关于产品和营销的建议"
+    },
+    "zh": {
+      "text": "最好的产品是能自我推销的产品。口碑是最强大的营销。",
+      "context": "关于产品和营销的建议"
+    },
+    "style_markers": [
+      "advisory",
+      "business",
+      "practical"
+    ],
+    "quality_score": 0.92
+  },
+  {
+    "id": "tweet_business-advice_004",
+    "source": {
+      "type": "tweet",
+      "date": "2023-05-15",
+      "engagement": {
+        "likes": 310000,
+        "retweets": 38000,
+        "replies": 25000,
+        "views": 74000000
+      }
+    },
+    "category": "business-advice",
+    "tags": [
+      "risk",
+      "startup",
+      "courage"
+    ],
+    "en": {
+      "text": "Starting a company is like eating glass and staring into the abyss. But once you succeed, it's worth it.",
+      "context": "关于创业艰辛的描述"
+    },
+    "zh": {
+      "text": "创业就像吃玻璃和凝视深渊。但一旦你成功了，一切都是值得的。",
+      "context": "关于创业艰辛的描述"
+    },
+    "style_markers": [
+      "raw",
+      "honest",
+      "entrepreneurial"
+    ],
+    "quality_score": 0.95
+  },
+  {
+    "id": "tweet_business-advice_005",
+    "source": {
+      "type": "tweet",
+      "date": "2023-07-20",
+      "engagement": {
+        "likes": 290000,
+        "retweets": 35000,
+        "replies": 23000,
+        "views": 70000000
+      }
+    },
+    "category": "business-advice",
+    "tags": [
+      "communication",
+      "management",
+      "advice"
+    ],
+    "en": {
+      "text": "In meetings, walk out if you're not adding value. Your time is better spent building things.",
+      "context": "关于会议效率的建议"
+    },
+    "zh": {
+      "text": "在会议中，如果你没有增加价值就走出去。你的时间最好花在构建东西上。",
+      "context": "关于会议效率的建议"
+    },
+    "style_markers": [
+      "direct",
+      "practical",
+      "efficiency"
+    ],
+    "quality_score": 0.89
+  },
+  {
+    "id": "tweet_business-advice_006",
+    "source": {
+      "type": "tweet",
+      "date": "2023-09-15",
+      "engagement": {
+        "likes": 270000,
+        "retweets": 33000,
+        "replies": 21000,
+        "views": 65000000
+      }
+    },
+    "category": "business-advice",
+    "tags": [
+      "first principles",
+      "thinking",
+      "advice"
+    ],
+    "en": {
+      "text": "Think from first principles. Question every assumption. That's how you find breakthroughs.",
+      "context": "关于第一性原理思维的建议"
+    },
+    "zh": {
+      "text": "从第一性原理思考。质疑每一个假设。这就是你找到突破的方法。",
+      "context": "关于第一性原理思维的建议"
+    },
+    "style_markers": [
+      "philosophical",
+      "advisory",
+      "deep"
+    ],
+    "quality_score": 0.94
+  },
+  {
+    "id": "tweet_business-advice_007",
+    "source": {
+      "type": "tweet",
+      "date": "2023-11-10",
+      "engagement": {
+        "likes": 320000,
+        "retweets": 39000,
+        "replies": 26000,
+        "views": 77000000
+      }
+    },
+    "category": "business-advice",
+    "tags": [
+      "feedback",
+      "criticism",
+      "growth"
+    ],
+    "en": {
+      "text": "Ask your customers what they want, then build it. But also build what they don't know they want yet.",
+      "context": "关于产品开发的建议"
+    },
+    "zh": {
+      "text": "问你的客户他们想要什么，然后构建它。但也要构建他们还不知道自己想要的东西。",
+      "context": "关于产品开发的建议"
+    },
+    "style_markers": [
+      "advisory",
+      "innovative",
+      "business"
+    ],
+    "quality_score": 0.91
+  },
+  {
+    "id": "tweet_business-advice_008",
+    "source": {
+      "type": "tweet",
+      "date": "2024-01-20",
+      "engagement": {
+        "likes": 280000,
+        "retweets": 34000,
+        "replies": 22000,
+        "views": 67000000
+      }
+    },
+    "category": "business-advice",
+    "tags": [
+      "persistence",
+      "startup",
+      "advice"
+    ],
+    "en": {
+      "text": "Most startups fail. That's fine. The ones that succeed change the world. Be one of those.",
+      "context": "关于创业失败率的鼓励"
+    },
+    "zh": {
+      "text": "大多数创业公司都失败了。没关系。成功的那些改变了世界。成为其中之一。",
+      "context": "关于创业失败率的鼓励"
+    },
+    "style_markers": [
+      "encouraging",
+      "realistic",
+      "inspirational"
+    ],
+    "quality_score": 0.88
+  },
+  {
+    "id": "tweet_business-advice_009",
+    "source": {
+      "type": "tweet",
+      "date": "2024-03-25",
+      "engagement": {
+        "likes": 260000,
+        "retweets": 31000,
+        "replies": 20000,
+        "views": 62000000
+      }
+    },
+    "category": "business-advice",
+    "tags": [
+      "quality",
+      "standards",
+      "excellence"
+    ],
+    "en": {
+      "text": "The standard you walk past is the standard you accept. Never compromise on quality.",
+      "context": "关于质量标准的建议"
+    },
+    "zh": {
+      "text": "你走过的标准就是你接受的标准。永远不要在质量上妥协。",
+      "context": "关于质量标准的建议"
+    },
+    "style_markers": [
+      "advisory",
+      "strict",
+      "principled"
+    ],
+    "quality_score": 0.9
+  },
+  {
+    "id": "tweet_business-advice_010",
+    "source": {
+      "type": "tweet",
+      "date": "2024-05-20",
+      "engagement": {
+        "likes": 300000,
+        "retweets": 37000,
+        "replies": 24000,
+        "views": 72000000
+      }
+    },
+    "category": "business-advice",
+    "tags": [
+      "delegation",
+      "trust",
+      "management"
+    ],
+    "en": {
+      "text": "Delegate, but verify. Trust your team, but don't abdicate responsibility.",
+      "context": "关于管理和授权的建议"
+    },
+    "zh": {
+      "text": "授权但要验证。信任你的团队，但不要放弃责任。",
+      "context": "关于管理和授权的建议"
+    },
+    "style_markers": [
+      "advisory",
+      "leadership",
+      "practical"
+    ],
+    "quality_score": 0.87
+  },
+  {
+    "id": "tweet_business-advice_011",
+    "source": {
+      "type": "tweet",
+      "date": "2024-07-15",
+      "engagement": {
+        "likes": 250000,
+        "retweets": 30000,
+        "replies": 19000,
+        "views": 60000000
+      }
+    },
+    "category": "business-advice",
+    "tags": [
+      "innovation",
+      "competition",
+      "strategy"
+    ],
+    "en": {
+      "text": "If your company isn't innovating fast enough, someone else will. The speed of innovation determines survival.",
+      "context": "关于创新速度的建议"
+    },
+    "zh": {
+      "text": "如果你的公司创新不够快，别人会的。创新的速度决定生存。",
+      "context": "关于创新速度的建议"
+    },
+    "style_markers": [
+      "advisory",
+      "urgent",
+      "competitive"
+    ],
+    "quality_score": 0.86
+  },
+  {
+    "id": "tweet_business-advice_012",
+    "source": {
+      "type": "tweet",
+      "date": "2024-09-20",
+      "engagement": {
+        "likes": 270000,
+        "retweets": 33000,
+        "replies": 21000,
+        "views": 65000000
+      }
+    },
+    "category": "business-advice",
+    "tags": [
+      "manufacturing",
+      "production",
+      "scale"
+    ],
+    "en": {
+      "text": "The factory is the product. You can't have a great product without a great factory.",
+      "context": "关于制造重要性的建议"
+    },
+    "zh": {
+      "text": "工厂就是产品。没有伟大的工厂就不可能有伟大的产品。",
+      "context": "关于制造重要性的建议"
+    },
+    "style_markers": [
+      "technical",
+      "advisory",
+      "manufacturing"
+    ],
+    "quality_score": 0.89
+  },
+  {
+    "id": "tweet_business-advice_013",
+    "source": {
+      "type": "tweet",
+      "date": "2024-11-15",
+      "engagement": {
+        "likes": 290000,
+        "retweets": 35000,
+        "replies": 23000,
+        "views": 70000000
+      }
+    },
+    "category": "business-advice",
+    "tags": [
+      "cost",
+      "efficiency",
+      "business"
+    ],
+    "en": {
+      "text": "The best companies are the most efficient ones. Cut waste everywhere. Every dollar counts.",
+      "context": "关于成本效率的建议"
+    },
+    "zh": {
+      "text": "最好的公司是最有效率的公司。到处削减浪费。每一美元都很重要。",
+      "context": "关于成本效率的建议"
+    },
+    "style_markers": [
+      "advisory",
+      "practical",
+      "frugal"
+    ],
+    "quality_score": 0.85
+  },
+  {
+    "id": "tweet_business-advice_014",
+    "source": {
+      "type": "tweet",
+      "date": "2025-01-20",
+      "engagement": {
+        "likes": 310000,
+        "retweets": 38000,
+        "replies": 25000,
+        "views": 74000000
+      }
+    },
+    "category": "business-advice",
+    "tags": [
+      "vision",
+      "mission",
+      "purpose"
+    ],
+    "en": {
+      "text": "Build something that matters. If your company disappeared tomorrow, would anyone notice?",
+      "context": "关于公司使命的思考"
+    },
+    "zh": {
+      "text": "构建重要的东西。如果你的公司明天消失了，会有人注意到吗？",
+      "context": "关于公司使命的思考"
+    },
+    "style_markers": [
+      "philosophical",
+      "challenging",
+      "advisory"
+    ],
+    "quality_score": 0.9
+  },
+  {
+    "id": "tweet_business-advice_015",
+    "source": {
+      "type": "tweet",
+      "date": "2025-03-25",
+      "engagement": {
+        "likes": 260000,
+        "retweets": 31000,
+        "replies": 20000,
+        "views": 62000000
+      }
+    },
+    "category": "business-advice",
+    "tags": [
+      "team",
+      "culture",
+      "hiring"
+    ],
+    "en": {
+      "text": "Your company's culture is determined by who you hire and who you fire. Choose wisely.",
+      "context": "关于公司文化的建议"
+    },
+    "zh": {
+      "text": "你公司的文化由你雇佣谁和解雇谁决定。明智地选择。",
+      "context": "关于公司文化的建议"
+    },
+    "style_markers": [
+      "advisory",
+      "leadership",
+      "cultural"
+    ],
+    "quality_score": 0.87
+  },
+  {
+    "id": "tweet_business-advice_016",
+    "source": {
+      "type": "tweet",
+      "date": "2025-05-20",
+      "engagement": {
+        "likes": 240000,
+        "retweets": 29000,
+        "replies": 18000,
+        "views": 57000000
+      }
+    },
+    "category": "business-advice",
+    "tags": [
+      "iteration",
+      "improvement",
+      "product"
+    ],
+    "en": {
+      "text": "Version 1 of your product will be embarrassing. Ship it anyway. Then iterate like crazy.",
+      "context": "关于产品迭代的建议"
+    },
+    "zh": {
+      "text": "你产品的第一个版本会令人尴尬。无论如何发布它。然后疯狂迭代。",
+      "context": "关于产品迭代的建议"
+    },
+    "style_markers": [
+      "advisory",
+      "practical",
+      "encouraging"
+    ],
+    "quality_score": 0.88
+  },
+  {
+    "id": "tweet_business-advice_017",
+    "source": {
+      "type": "tweet",
+      "date": "2025-07-15",
+      "engagement": {
+        "likes": 280000,
+        "retweets": 34000,
+        "replies": 22000,
+        "views": 67000000
+      }
+    },
+    "category": "business-advice",
+    "tags": [
+      "vertical integration",
+      "strategy",
+      "control"
+    ],
+    "en": {
+      "text": "Control your supply chain. Vertical integration is painful in the short term but essential in the long term.",
+      "context": "关于垂直整合的建议"
+    },
+    "zh": {
+      "text": "控制你的供应链。垂直整合短期内很痛苦，但长期是必要的。",
+      "context": "关于垂直整合的建议"
+    },
+    "style_markers": [
+      "advisory",
+      "strategic",
+      "technical"
+    ],
+    "quality_score": 0.86
+  },
+  {
+    "id": "tweet_business-advice_018",
+    "source": {
+      "type": "tweet",
+      "date": "2025-09-20",
+      "engagement": {
+        "likes": 250000,
+        "retweets": 30000,
+        "replies": 19000,
+        "views": 60000000
+      }
+    },
+    "category": "business-advice",
+    "tags": [
+      "communication",
+      "simplicity",
+      "advice"
+    ],
+    "en": {
+      "text": "If you can't explain your product in 30 seconds, it's too complicated. Simplify.",
+      "context": "关于产品沟通的建议"
+    },
+    "zh": {
+      "text": "如果你不能在30秒内解释你的产品，那它太复杂了。简化它。",
+      "context": "关于产品沟通的建议"
+    },
+    "style_markers": [
+      "advisory",
+      "practical",
+      "simple"
+    ],
+    "quality_score": 0.84
+  },
+  {
+    "id": "tweet_business-advice_019",
+    "source": {
+      "type": "tweet",
+      "date": "2025-11-15",
+      "engagement": {
+        "likes": 270000,
+        "retweets": 33000,
+        "replies": 21000,
+        "views": 65000000
+      }
+    },
+    "category": "business-advice",
+    "tags": [
+      "competition",
+      "focus",
+      "advice"
+    ],
+    "en": {
+      "text": "Don't worry about competitors. Worry about making your product so good that competitors become irrelevant.",
+      "context": "关于竞争策略的建议"
+    },
+    "zh": {
+      "text": "不要担心竞争对手。专注于让你的产品好到竞争对手变得无关紧要。",
+      "context": "关于竞争策略的建议"
+    },
+    "style_markers": [
+      "advisory",
+      "focused",
+      "confident"
+    ],
+    "quality_score": 0.87
+  },
+  {
+    "id": "tweet_business-advice_020",
+    "source": {
+      "type": "tweet",
+      "date": "2026-01-20",
+      "engagement": {
+        "likes": 300000,
+        "retweets": 37000,
+        "replies": 24000,
+        "views": 72000000
+      }
+    },
+    "category": "business-advice",
+    "tags": [
+      "scaling",
+      "growth",
+      "advice"
+    ],
+    "en": {
+      "text": "Scaling a company from 100 to 10,000 people is 100x harder than going from 0 to 100. Plan accordingly.",
+      "context": "关于公司规模扩展的建议"
+    },
+    "zh": {
+      "text": "将公司从100人扩展到10000人比从0到100难100倍。相应地计划。",
+      "context": "关于公司规模扩展的建议"
+    },
+    "style_markers": [
+      "advisory",
+      "experienced",
+      "practical"
+    ],
+    "quality_score": 0.89
+  }
+]

@@ -1,0 +1,505 @@
+[
+  {
+    "id": "tweet_spacex-ipo_001",
+    "source": {
+      "type": "tweet",
+      "date": "2026-01-15",
+      "engagement": {
+        "likes": 580000,
+        "retweets": 72000,
+        "replies": 48000,
+        "views": 140000000
+      }
+    },
+    "category": "spacex-ipo",
+    "tags": [
+      "SpaceX",
+      "IPO",
+      "biggest ever"
+    ],
+    "en": {
+      "text": "SpaceX is going public. This will be the biggest IPO in history. The wait is over.",
+      "context": "正式宣布SpaceX IPO计划"
+    },
+    "zh": {
+      "text": "SpaceX即将上市。这将是历史上最大的IPO。等待结束了。",
+      "context": "正式宣布SpaceX IPO计划"
+    },
+    "style_markers": [
+      "historic",
+      "announcement",
+      "triumphant"
+    ],
+    "quality_score": 0.99
+  },
+  {
+    "id": "tweet_spacex-ipo_002",
+    "source": {
+      "type": "tweet",
+      "date": "2026-01-20",
+      "engagement": {
+        "likes": 520000,
+        "retweets": 65000,
+        "replies": 42000,
+        "views": 125000000
+      }
+    },
+    "category": "spacex-ipo",
+    "tags": [
+      "SpaceX",
+      "valuation",
+      "$350B"
+    ],
+    "en": {
+      "text": "SpaceX IPO valuation: $350 billion. The most valuable space company in history. And we're just getting started.",
+      "context": "SpaceX IPO估值公布"
+    },
+    "zh": {
+      "text": "SpaceX IPO估值：3500亿美元。历史上最有价值的太空公司。我们才刚刚开始。",
+      "context": "SpaceX IPO估值公布"
+    },
+    "style_markers": [
+      "proud",
+      "announcement",
+      "historic"
+    ],
+    "quality_score": 0.97
+  },
+  {
+    "id": "tweet_spacex-ipo_003",
+    "source": {
+      "type": "tweet",
+      "date": "2026-01-28",
+      "engagement": {
+        "likes": 440000,
+        "retweets": 55000,
+        "replies": 36000,
+        "views": 105000000
+      }
+    },
+    "category": "spacex-ipo",
+    "tags": [
+      "dual-class",
+      "voting control",
+      "structure"
+    ],
+    "en": {
+      "text": "SpaceX will have a dual-class share structure. I will maintain voting control to ensure the Mars mission continues.",
+      "context": "SpaceX双重股权结构说明"
+    },
+    "zh": {
+      "text": "SpaceX将采用双重股权结构。我将保持投票控制权以确保火星任务继续。",
+      "context": "SpaceX双重股权结构说明"
+    },
+    "style_markers": [
+      "announcement",
+      "strategic",
+      "mission-driven"
+    ],
+    "quality_score": 0.94
+  },
+  {
+    "id": "tweet_spacex-ipo_004",
+    "source": {
+      "type": "tweet",
+      "date": "2026-02-05",
+      "engagement": {
+        "likes": 380000,
+        "retweets": 47000,
+        "replies": 31000,
+        "views": 91000000
+      }
+    },
+    "category": "spacex-ipo",
+    "tags": [
+      "SpaceX",
+      "Tesla",
+      "merger",
+      "rumors"
+    ],
+    "en": {
+      "text": "A Tesla-SpaceX merger has been discussed. Nothing is decided yet. But the synergies would be extraordinary.",
+      "context": "关于特斯拉-SpaceX合并的评论"
+    },
+    "zh": {
+      "text": "特斯拉-SpaceX合并已被讨论。尚未决定任何事。但协同效应将是非凡的。",
+      "context": "关于特斯拉-SpaceX合并的评论"
+    },
+    "style_markers": [
+      "teaser",
+      "strategic",
+      "provocative"
+    ],
+    "quality_score": 0.91
+  },
+  {
+    "id": "tweet_spacex-ipo_005",
+    "source": {
+      "type": "tweet",
+      "date": "2026-02-15",
+      "engagement": {
+        "likes": 420000,
+        "retweets": 52000,
+        "replies": 34000,
+        "views": 100000000
+      }
+    },
+    "category": "spacex-ipo",
+    "tags": [
+      "SpaceX",
+      "IPO",
+      "roadshow"
+    ],
+    "en": {
+      "text": "SpaceX IPO roadshow begins next week. Institutional demand is overwhelming. This is going to be massive.",
+      "context": "SpaceX IPO路演预告"
+    },
+    "zh": {
+      "text": "SpaceX IPO路演下周开始。机构需求是压倒性的。这将是巨大的。",
+      "context": "SpaceX IPO路演预告"
+    },
+    "style_markers": [
+      "announcement",
+      "excited",
+      "business"
+    ],
+    "quality_score": 0.93
+  },
+  {
+    "id": "tweet_spacex-ipo_006",
+    "source": {
+      "type": "tweet",
+      "date": "2026-02-25",
+      "engagement": {
+        "likes": 350000,
+        "retweets": 43000,
+        "replies": 28000,
+        "views": 84000000
+      }
+    },
+    "category": "spacex-ipo",
+    "tags": [
+      "SpaceX",
+      "xAI",
+      "merger",
+      "$1.25T"
+    ],
+    "en": {
+      "text": "SpaceX and xAI are exploring a merger post-IPO. Combined valuation could reach $1.25 trillion. The biggest deal ever.",
+      "context": "SpaceX-xAI合并计划"
+    },
+    "zh": {
+      "text": "SpaceX和xAI正在探索IPO后合并。合并估值可能达到1.25万亿美元。有史以来最大的交易。",
+      "context": "SpaceX-xAI合并计划"
+    },
+    "style_markers": [
+      "announcement",
+      "historic",
+      "provocative"
+    ],
+    "quality_score": 0.96
+  },
+  {
+    "id": "tweet_spacex-ipo_007",
+    "source": {
+      "type": "tweet",
+      "date": "2026-03-05",
+      "engagement": {
+        "likes": 310000,
+        "retweets": 38000,
+        "replies": 25000,
+        "views": 74000000
+      }
+    },
+    "category": "spacex-ipo",
+    "tags": [
+      "SpaceX",
+      "IPO",
+      "retail investors"
+    ],
+    "en": {
+      "text": "SpaceX IPO will allocate 20% of shares to retail investors. The people who believe in space should own a piece of it.",
+      "context": "SpaceX IPO散户分配计划"
+    },
+    "zh": {
+      "text": "SpaceX IPO将分配20%的股份给散户投资者。相信太空的人应该拥有它的一部分。",
+      "context": "SpaceX IPO散户分配计划"
+    },
+    "style_markers": [
+      "democratic",
+      "announcement",
+      "inclusive"
+    ],
+    "quality_score": 0.9
+  },
+  {
+    "id": "tweet_spacex-ipo_008",
+    "source": {
+      "type": "tweet",
+      "date": "2026-03-15",
+      "engagement": {
+        "likes": 460000,
+        "retweets": 57000,
+        "replies": 37000,
+        "views": 110000000
+      }
+    },
+    "category": "spacex-ipo",
+    "tags": [
+      "SpaceX",
+      "IPO",
+      "listing",
+      "historic"
+    ],
+    "en": {
+      "text": "SpaceX lists on NASDAQ today. Ticker: STAR. The first publicly traded rocket company. Make history.",
+      "context": "SpaceX正式上市"
+    },
+    "zh": {
+      "text": "SpaceX今天在纳斯达克上市。代码：STAR。第一家公开交易的火箭公司。创造历史。",
+      "context": "SpaceX正式上市"
+    },
+    "style_markers": [
+      "historic",
+      "triumphant",
+      "announcement"
+    ],
+    "quality_score": 0.99
+  },
+  {
+    "id": "tweet_spacex-ipo_009",
+    "source": {
+      "type": "tweet",
+      "date": "2026-03-16",
+      "engagement": {
+        "likes": 500000,
+        "retweets": 62000,
+        "replies": 40000,
+        "views": 120000000
+      }
+    },
+    "category": "spacex-ipo",
+    "tags": [
+      "SpaceX",
+      "STAR",
+      "first day",
+      "pop"
+    ],
+    "en": {
+      "text": "STAR popped 40% on first day of trading. Market cap: $490 billion. The market believes in the Mars mission.",
+      "context": "SpaceX首日交易表现"
+    },
+    "zh": {
+      "text": "STAR首日交易上涨40%。市值：4900亿美元。市场相信火星任务。",
+      "context": "SpaceX首日交易表现"
+    },
+    "style_markers": [
+      "triumphant",
+      "proud",
+      "historic"
+    ],
+    "quality_score": 0.97
+  },
+  {
+    "id": "tweet_spacex-ipo_010",
+    "source": {
+      "type": "tweet",
+      "date": "2026-03-25",
+      "engagement": {
+        "likes": 340000,
+        "retweets": 42000,
+        "replies": 27000,
+        "views": 81000000
+      }
+    },
+    "category": "spacex-ipo",
+    "tags": [
+      "SpaceX",
+      "funds",
+      "Mars",
+      "Starship"
+    ],
+    "en": {
+      "text": "SpaceX IPO proceeds will accelerate Starship development and fund the first Mars cargo mission. Every dollar goes to Mars.",
+      "context": "SpaceX IPO资金用途说明"
+    },
+    "zh": {
+      "text": "SpaceX IPO收益将加速Starship开发并为第一次火星货运任务提供资金。每一美元都用于火星。",
+      "context": "SpaceX IPO资金用途说明"
+    },
+    "style_markers": [
+      "mission-driven",
+      "strategic",
+      "transparent"
+    ],
+    "quality_score": 0.93
+  },
+  {
+    "id": "tweet_spacex-ipo_011",
+    "source": {
+      "type": "tweet",
+      "date": "2026-04-05",
+      "engagement": {
+        "likes": 290000,
+        "retweets": 35000,
+        "replies": 23000,
+        "views": 70000000
+      }
+    },
+    "category": "spacex-ipo",
+    "tags": [
+      "SpaceX",
+      "xAI",
+      "merger",
+      "announcement"
+    ],
+    "en": {
+      "text": "SpaceX-xAI merger officially announced. Combined company valued at $1.25 trillion. The largest merger in tech history.",
+      "context": "SpaceX-xAI合并正式宣布"
+    },
+    "zh": {
+      "text": "SpaceX-xAI合并正式宣布。合并公司估值1.25万亿美元。科技史上最大的合并。",
+      "context": "SpaceX-xAI合并正式宣布"
+    },
+    "style_markers": [
+      "historic",
+      "announcement",
+      "triumphant"
+    ],
+    "quality_score": 0.98
+  },
+  {
+    "id": "tweet_spacex-ipo_012",
+    "source": {
+      "type": "tweet",
+      "date": "2026-04-15",
+      "engagement": {
+        "likes": 320000,
+        "retweets": 39000,
+        "replies": 25000,
+        "views": 77000000
+      }
+    },
+    "category": "spacex-ipo",
+    "tags": [
+      "SpaceX",
+      "Tesla",
+      "synergy",
+      "robotics"
+    ],
+    "en": {
+      "text": "The SpaceX-xAI-Tesla synergy is incredible. Rockets, AI, and electric vehicles — all under one vision.",
+      "context": "三家公司协同效应评论"
+    },
+    "zh": {
+      "text": "SpaceX-xAI-特斯拉的协同效应令人难以置信。火箭、AI和电动车——全部在一个愿景下。",
+      "context": "三家公司协同效应评论"
+    },
+    "style_markers": [
+      "visionary",
+      "proud",
+      "strategic"
+    ],
+    "quality_score": 0.91
+  },
+  {
+    "id": "tweet_spacex-ipo_013",
+    "source": {
+      "type": "tweet",
+      "date": "2026-04-25",
+      "engagement": {
+        "likes": 270000,
+        "retweets": 33000,
+        "replies": 21000,
+        "views": 65000000
+      }
+    },
+    "category": "spacex-ipo",
+    "tags": [
+      "SpaceX",
+      "shareholders",
+      "Mars"
+    ],
+    "en": {
+      "text": "Every SpaceX shareholder is now an investor in the Mars mission. Together, we will make humanity multi-planetary.",
+      "context": "关于股东参与火星使命的评论"
+    },
+    "zh": {
+      "text": "每个SpaceX股东现在都是火星任务的投资者。一起，我们将使人类成为多行星物种。",
+      "context": "关于股东参与火星使命的评论"
+    },
+    "style_markers": [
+      "inspirational",
+      "visionary",
+      "inclusive"
+    ],
+    "quality_score": 0.92
+  },
+  {
+    "id": "tweet_spacex-ipo_014",
+    "source": {
+      "type": "tweet",
+      "date": "2026-05-05",
+      "engagement": {
+        "likes": 350000,
+        "retweets": 43000,
+        "replies": 28000,
+        "views": 84000000
+      }
+    },
+    "category": "spacex-ipo",
+    "tags": [
+      "STAR",
+      "stock",
+      "performance"
+    ],
+    "en": {
+      "text": "STAR stock is up 80% since IPO. The market is pricing in the Mars future. The journey is just beginning.",
+      "context": "STAR股票表现评论"
+    },
+    "zh": {
+      "text": "STAR股票自IPO以来上涨80%。市场正在为火星未来定价。旅程才刚刚开始。",
+      "context": "STAR股票表现评论"
+    },
+    "style_markers": [
+      "proud",
+      "business",
+      "optimistic"
+    ],
+    "quality_score": 0.89
+  },
+  {
+    "id": "tweet_spacex-ipo_015",
+    "source": {
+      "type": "tweet",
+      "date": "2026-05-15",
+      "engagement": {
+        "likes": 380000,
+        "retweets": 47000,
+        "replies": 31000,
+        "views": 91000000
+      }
+    },
+    "category": "spacex-ipo",
+    "tags": [
+      "SpaceX",
+      "IPO",
+      "legacy",
+      "Mars"
+    ],
+    "en": {
+      "text": "The SpaceX IPO was the right decision. The capital will accelerate our path to Mars by years. The red planet awaits.",
+      "context": "SpaceX IPO决策回顾"
+    },
+    "zh": {
+      "text": "SpaceX IPO是正确的决定。这笔资金将把我们通往火星的路径加速数年。红色星球在等待。",
+      "context": "SpaceX IPO决策回顾"
+    },
+    "style_markers": [
+      "reflective",
+      "visionary",
+      "determined"
+    ],
+    "quality_score": 0.94
+  }
+]

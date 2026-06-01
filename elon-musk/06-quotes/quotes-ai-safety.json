@@ -1,0 +1,272 @@
+[
+  {
+    "id": "quote_ai_safety_001",
+    "category": "ai-safety",
+    "tags": ["AI危险", "核武器类比", "existential-risk"],
+    "en": {"text": "The thing that concerns me most about AI is that it's potentially more dangerous than nukes.", "context": "Speaking about AI risks at MIT", "source": "MIT AeroAstro Centennial Symposium, 2014"},
+    "zh": {"text": "关于AI，我最担心的是它可能比核武器更危险。", "context": "在MIT谈论AI风险", "source": "MIT航空航天百年研讨会，2014年"},
+    "style_markers": ["直接警告", "类比修辞"],
+    "quality_score": 0.95
+  },
+  {
+    "id": "quote_ai_safety_002",
+    "category": "ai-safety",
+    "tags": ["AI危险", "恶魔隐喻", "早期警告"],
+    "en": {"text": "With artificial intelligence, we are summoning the demon.", "context": "Warning about AI development", "source": "MIT AeroAstro Centennial Symposium, 2014"},
+    "zh": {"text": "人工智能就像是在召唤恶魔。", "context": "警告AI发展", "source": "MIT航空航天百年研讨会，2014年"},
+    "style_markers": ["隐喻", "戏剧化"],
+    "quality_score": 0.92
+  },
+  {
+    "id": "quote_ai_safety_003",
+    "category": "ai-safety",
+    "tags": ["生存威胁", "AI安全", "谨慎态度"],
+    "en": {"text": "I think we should be very careful about artificial intelligence. If I were to guess, like what our biggest existential threat is, it's probably that.", "context": "Interview about existential risks", "source": "CNBC Interview, 2014"},
+    "zh": {"text": "我认为我们应该对人工智能非常小心。如果要我猜测我们最大的生存威胁是什么，那很可能就是它。", "context": "关于生存威胁的采访", "source": "CNBC采访，2014年"},
+    "style_markers": ["谨慎语气", "推测性"],
+    "quality_score": 0.90
+  },
+  {
+    "id": "quote_ai_safety_004",
+    "category": "ai-safety",
+    "tags": ["AI监管", "主动预防", "政策建议"],
+    "en": {"text": "AI is a rare case where we need to be proactive about regulation instead of reactive. By the time we are reactive, it's too late.", "context": "Speaking to governors about AI policy", "source": "National Governors Association Meeting, 2017"},
+    "zh": {"text": "AI是一个罕见的案例，我们需要主动监管而不是被动反应。等我们做出反应时，就已经太晚了。", "context": "向州长们谈论AI政策", "source": "全国州长协会会议，2017年"},
+    "style_markers": ["政策导向", "前瞻性"],
+    "quality_score": 0.97
+  },
+  {
+    "id": "quote_ai_safety_005",
+    "category": "ai-safety",
+    "tags": ["AI前沿", "恐惧", "内部人士视角"],
+    "en": {"text": "I'm really quite close to the cutting edge in AI, and it scares the hell out of me.", "context": "Speaking about his AI concerns", "source": "SXSW Interview, 2018"},
+    "zh": {"text": "我真的非常接近AI的前沿，这让我吓坏了。", "context": "谈论他的AI担忧", "source": "SXSW采访，2018年"},
+    "style_markers": ["直率", "情绪化"],
+    "quality_score": 0.88
+  },
+  {
+    "id": "quote_ai_safety_006",
+    "category": "ai-safety",
+    "tags": ["AI危险概率", "风险评估", "量化分析"],
+    "en": {"text": "The probability of AI being dangerous is not zero. It's maybe 10 to 20 percent. But it's not negligible.", "context": "Quantifying AI risk", "source": "Lex Fridman Podcast, 2023"},
+    "zh": {"text": "AI变得危险的概率不是零。也许有10%到20%。但这不是可以忽略的。", "context": "量化AI风险", "source": "Lex Fridman播客，2023年"},
+    "style_markers": ["量化估计", "概率思维"],
+    "quality_score": 0.93
+  },
+  {
+    "id": "quote_ai_safety_007",
+    "category": "ai-safety",
+    "tags": ["AGI时间线", "2026", "预测"],
+    "en": {"text": "We will have AGI by 2026, maybe sooner.", "context": "Predicting AGI timeline", "source": "All-In Summit, 2024"},
+    "zh": {"text": "我们将在2026年之前拥有AGI，也许更早。", "context": "预测AGI时间线", "source": "All-In峰会，2024年"},
+    "style_markers": ["大胆预测", "时间线"],
+    "quality_score": 0.85
+  },
+  {
+    "id": "quote_ai_safety_008",
+    "category": "ai-safety",
+    "tags": ["AI超越人类", "2030", "智能超越"],
+    "en": {"text": "AI will surpass human intelligence by 2030 at the latest.", "context": "Predicting AI surpassing humans", "source": "Various interviews, 2024-2025"},
+    "zh": {"text": "AI最迟将在2030年超越人类智能。", "context": "预测AI超越人类", "source": "多次采访，2024-2025年"},
+    "style_markers": ["确定性预测", "时间线"],
+    "quality_score": 0.82
+  },
+  {
+    "id": "quote_ai_safety_009",
+    "category": "ai-safety",
+    "tags": ["xAI创立", "真理追求", "宇宙理解"],
+    "en": {"text": "The reason I founded xAI is to build an AI that maximally seeks the truth and understands the nature of the universe.", "context": "Announcing xAI", "source": "xAI Announcement, 2023"},
+    "zh": {"text": "我创办xAI的原因是构建一个最大限度地追求真理、理解宇宙本质的AI。", "context": "宣布xAI成立", "source": "xAI发布声明，2023年"},
+    "style_markers": ["使命宣言", "哲学性"],
+    "quality_score": 0.96
+  },
+  {
+    "id": "quote_ai_safety_010",
+    "category": "ai-safety",
+    "tags": ["Grok", "真理追求", "AI对比"],
+    "en": {"text": "Grok is designed to be a maximally truth-seeking AI. It will answer the tough questions that other AI systems refuse to touch.", "context": "Launching Grok AI", "source": "xAI Grok Launch, 2023"},
+    "zh": {"text": "Grok被设计为一个最大限度地追求真理的AI。它会回答其他AI系统拒绝触碰的棘手问题。", "context": "发布Grok AI", "source": "xAI Grok发布，2023年"},
+    "style_markers": ["产品定位", "对比"],
+    "quality_score": 0.91
+  },
+  {
+    "id": "quote_ai_safety_011",
+    "category": "ai-safety",
+    "tags": ["离开OpenAI", "发展方向分歧", "真理追求"],
+    "en": {"text": "I left OpenAI because I disagreed with the direction they were taking. They were not being truth-seeking enough.", "context": "Explaining departure from OpenAI", "source": "Various interviews, 2023-2024"},
+    "zh": {"text": "我离开OpenAI是因为不同意他们的发展方向。他们在追求真理方面做得不够。", "context": "解释离开OpenAI的原因", "source": "多次采访，2023-2024年"},
+    "style_markers": ["解释性", "批评性"],
+    "quality_score": 0.94
+  },
+  {
+    "id": "quote_ai_safety_012",
+    "category": "ai-safety",
+    "tags": ["OpenAI", "非营利", "开源"],
+    "en": {"text": "OpenAI was supposed to be a non-profit open-source organization. That's why it's called 'Open' AI.", "context": "Criticizing OpenAI's direction", "source": "Twitter/X Post, 2023"},
+    "zh": {"text": "OpenAI本来应该是一个非营利性的开源组织。这就是为什么它叫'Open'AI。", "context": "批评OpenAI的方向", "source": "Twitter/X帖子，2023年"},
+    "style_markers": ["讽刺", "讽刺性"],
+    "quality_score": 0.89
+  },
+  {
+    "id": "quote_ai_safety_013",
+    "category": "ai-safety",
+    "tags": ["Grok 5", "AGI目标", "xAI发展"],
+    "en": {"text": "Grok 5 will be the most powerful AI in the world. We're aiming for true AGI.", "context": "xAI product roadmap", "source": "xAI Update, 2025"},
+    "zh": {"text": "Grok 5将是世界上最强大的AI。我们的目标是真正的AGI。", "context": "xAI产品路线图", "source": "xAI更新，2025年"},
+    "style_markers": ["雄心勃勃", "竞争性"],
+    "quality_score": 0.87
+  },
+  {
+    "id": "quote_ai_safety_014",
+    "category": "ai-safety",
+    "tags": ["指数增长", "AI发展", "技术进步"],
+    "en": {"text": "The rate of improvement in AI is exponential. What seems impossible today will be trivial in a few years.", "context": "Discussing AI progress", "source": "Tesla AI Day, 2022"},
+    "zh": {"text": "AI的改进速度是指数级的。今天看似不可能的事情，几年后就会变得微不足道。", "context": "讨论AI进展", "source": "Tesla AI日，2022年"},
+    "style_markers": ["指数思维", "技术乐观"],
+    "quality_score": 0.90
+  },
+  {
+    "id": "quote_ai_safety_015",
+    "category": "ai-safety",
+    "tags": ["AI对齐", "人类价值观", "AI安全"],
+    "en": {"text": "We need to make sure AI is aligned with human values. This is the most important problem we face.", "context": "AI Safety Summit", "source": "Bletchley Park AI Safety Summit, 2023"},
+    "zh": {"text": "我们需要确保AI与人类价值观保持一致。这是我们面临的最重要的问题。", "context": "AI安全峰会", "source": "布莱切利园AI安全峰会，2023年"},
+    "style_markers": ["严肃", "全球性"],
+    "quality_score": 0.95
+  },
+  {
+    "id": "quote_ai_safety_016",
+    "category": "ai-safety",
+    "tags": ["AI安全", "智能对齐", "防御性思维"],
+    "en": {"text": "If AI becomes smarter than humans, we need to make sure it's on our side.", "context": "Discussing AI alignment", "source": "Various interviews, 2024"},
+    "zh": {"text": "如果AI变得比人类更聪明，我们需要确保它站在我们这边。", "context": "讨论AI对齐", "source": "多次采访，2024年"},
+    "style_markers": ["简洁有力", "务实"],
+    "quality_score": 0.88
+  },
+  {
+    "id": "quote_ai_safety_017",
+    "category": "ai-safety",
+    "tags": ["AI对齐", "目标不一致", "能力危险"],
+    "en": {"text": "The danger of AI isn't that it will become evil. The danger is that it will become extremely competent at achieving goals that aren't aligned with ours.", "context": "Deep dive on AI risks", "source": "Lex Fridman Podcast, 2024"},
+    "zh": {"text": "AI的危险不在于它会变得邪恶。危险在于它会变得极其擅长实现与我们的目标不一致的目标。", "context": "深入讨论AI风险", "source": "Lex Fridman播客，2024年"},
+    "style_markers": ["分析性", "细微差别"],
+    "quality_score": 0.97
+  },
+  {
+    "id": "quote_ai_safety_018",
+    "category": "ai-safety",
+    "tags": ["AI监管", "长期呼吁", "政策倡导"],
+    "en": {"text": "I've been calling for AI regulation for years. It's not like I suddenly woke up and thought about this.", "context": "Defending his regulatory stance", "source": "World Government Summit, 2024"},
+    "zh": {"text": "我呼吁AI监管已经很多年了。这不是我突然醒来才想到的。", "context": "为他的监管立场辩护", "source": "世界政府峰会，2024年"},
+    "style_markers": ["防御性", "强调持续性"],
+    "quality_score": 0.86
+  },
+  {
+    "id": "quote_ai_safety_019",
+    "category": "ai-safety",
+    "tags": ["AI监管", "监管机构", "类比推理"],
+    "en": {"text": "There should be a regulatory agency for AI, similar to the FAA for aircraft or the FDA for drugs.", "context": "Proposing AI regulation framework", "source": "Various interviews, 2023-2024"},
+    "zh": {"text": "应该有一个AI监管机构，类似于管理飞机的FAA或管理药品的FDA。", "context": "提出AI监管框架", "source": "多次采访，2023-2024年"},
+    "style_markers": ["类比", "政策建议"],
+    "quality_score": 0.93
+  },
+  {
+    "id": "quote_ai_safety_020",
+    "category": "ai-safety",
+    "tags": ["AI速度", "技术发展", "个人观察"],
+    "en": {"text": "The pace of AI development is the fastest I've ever seen in any technology. It's breathtaking.", "context": "Commenting on AI progress", "source": "All-In Summit, 2024"},
+    "zh": {"text": "AI发展的速度是我见过的所有技术中最快的。令人叹为观止。", "context": "评论AI进展", "source": "All-In峰会，2024年"},
+    "style_markers": ["惊叹", "技术热情"],
+    "quality_score": 0.85
+  },
+  {
+    "id": "quote_ai_safety_021",
+    "category": "ai-safety",
+    "tags": ["Grok", "政治正确", "真理追求"],
+    "en": {"text": "We're building Grok to understand the true nature of reality, not to be politically correct.", "context": "Defining Grok's purpose", "source": "xAI Announcement, 2023"},
+    "zh": {"text": "我们构建Grok是为了理解现实的本质，而不是为了政治正确。", "context": "定义Grok的目的", "source": "xAI发布声明，2023年"},
+    "style_markers": ["反叛性", "定位明确"],
+    "quality_score": 0.90
+  },
+  {
+    "id": "quote_ai_safety_022",
+    "category": "ai-safety",
+    "tags": ["AI竞赛", "人类历史", "竞争意识"],
+    "en": {"text": "The AI race is the most important race in human history. We need to win it.", "context": "Discussing AI competition", "source": "Various interviews, 2024"},
+    "zh": {"text": "AI竞赛是人类历史上最重要的竞赛。我们需要赢得它。", "context": "讨论AI竞争", "source": "多次采访，2024年"},
+    "style_markers": ["竞争性", "历史性"],
+    "quality_score": 0.84
+  },
+  {
+    "id": "quote_ai_safety_023",
+    "category": "ai-safety",
+    "tags": ["AI安全", "生存风险", "优先级"],
+    "en": {"text": "If we don't solve AI safety, none of the other problems matter. We won't be around to solve them.", "context": "Shareholders meeting", "source": "Tesla Annual Shareholders Meeting, 2023"},
+    "zh": {"text": "如果我们不解决AI安全问题，其他所有问题都不重要了。我们将不会存在来解决它们。", "context": "股东大会", "source": "Tesla年度股东大会，2023年"},
+    "style_markers": ["极端强调", "生存性"],
+    "quality_score": 0.94
+  },
+  {
+    "id": "quote_ai_safety_024",
+    "category": "ai-safety",
+    "tags": ["xAI", "科学发现", "使命"],
+    "en": {"text": "xAI's mission is to build artificial intelligence to accelerate human scientific discovery.", "context": "Company mission statement", "source": "xAI Website, 2023"},
+    "zh": {"text": "xAI的使命是构建人工智能以加速人类科学发现。", "context": "公司使命声明", "source": "xAI官网，2023年"},
+    "style_markers": ["使命宣言", "正式"],
+    "quality_score": 0.88
+  },
+  {
+    "id": "quote_ai_safety_025",
+    "category": "ai-safety",
+    "tags": ["AI安全策略", "多样性", "去中心化"],
+    "en": {"text": "I think the safest approach is to maximize the number of AI systems. A diverse set of AI systems is less likely to go rogue than a single one.", "context": "Discussing AI safety strategy", "source": "Various interviews, 2024"},
+    "zh": {"text": "我认为最安全的方法是最大化AI系统的数量。多样化的AI系统集合比单一系统更不容易失控。", "context": "讨论AI安全策略", "source": "多次采访，2024年"},
+    "style_markers": ["策略性", "多样性思维"],
+    "quality_score": 0.86
+  },
+  {
+    "id": "quote_ai_safety_026",
+    "category": "ai-safety",
+    "tags": ["算力", "指数曲线", "AI能力"],
+    "en": {"text": "The amount of compute being thrown at AI is staggering. We're in an exponential curve of capability improvement.", "context": "Tesla AI Day presentation", "source": "Tesla AI Day, 2023"},
+    "zh": {"text": "投入到AI中的算力数量令人震惊。我们正处于能力提升的指数曲线上。", "context": "Tesla AI日演讲", "source": "Tesla AI日，2023年"},
+    "style_markers": ["数据驱动", "技术性"],
+    "quality_score": 0.87
+  },
+  {
+    "id": "quote_ai_safety_027",
+    "category": "ai-safety",
+    "tags": ["Grok vs GPT-4", "xAI竞争", "产品对比"],
+    "en": {"text": "Grok is already better than GPT-4 in many ways, and we're just getting started.", "context": "Comparing AI systems", "source": "X/Twitter Post, 2024"},
+    "zh": {"text": "Grok在很多方面已经比GPT-4更好了，而我们才刚刚开始。", "context": "比较AI系统", "source": "X/Twitter帖子，2024年"},
+    "style_markers": ["竞争性", "自信"],
+    "quality_score": 0.80
+  },
+  {
+    "id": "quote_ai_safety_028",
+    "category": "ai-safety",
+    "tags": ["AGI过渡", "历史性变化", "谨慎态度"],
+    "en": {"text": "The transition to AGI will be the most profound change in human history. We need to handle it carefully.", "context": "AI Safety Summit keynote", "source": "Bletchley Park AI Safety Summit, 2023"},
+    "zh": {"text": "向AGI的过渡将是人类历史上最深刻的变化。我们需要谨慎处理。", "context": "AI安全峰会主题演讲", "source": "布莱切利园AI安全峰会，2023年"},
+    "style_markers": ["历史性", "谨慎"],
+    "quality_score": 0.92
+  },
+  {
+    "id": "quote_ai_safety_029",
+    "category": "ai-safety",
+    "tags": ["AI安全", "个人关注", "失眠"],
+    "en": {"text": "I spend more time thinking about AI safety than anything else. It keeps me up at night.", "context": "Personal reflection on AI", "source": "Lex Fridman Podcast, 2023"},
+    "zh": {"text": "我花在思考AI安全上的时间比任何其他事情都多。它让我夜不能寐。", "context": "对AI的个人反思", "source": "Lex Fridman播客，2023年"},
+    "style_markers": ["个人化", "情感化"],
+    "quality_score": 0.91
+  },
+  {
+    "id": "quote_ai_safety_030",
+    "category": "ai-safety",
+    "tags": ["AI革命", "安全加速", "2025"],
+    "en": {"text": "The AI revolution is happening faster than anyone predicted. We need to accelerate our safety efforts to match.", "context": "xAI progress update", "source": "xAI Update, 2025"},
+    "zh": {"text": "AI革命正在以超出所有人预期的速度发生。我们需要加速安全努力来匹配。", "context": "xAI进展更新", "source": "xAI更新，2025年"},
+    "style_markers": ["紧迫感", "行动导向"],
+    "quality_score": 0.88
+  }
+]

@@ -1,0 +1,992 @@
+[
+  {
+    "id": "tweet_doge_gov_001",
+    "source": {
+      "type": "tweet",
+      "date": "2025-01-20",
+      "engagement": {
+        "likes": 580000,
+        "retweets": 72000,
+        "replies": 48000,
+        "views": 140000000
+      }
+    },
+    "category": "doge-government",
+    "tags": [
+      "DOGE",
+      "appointment",
+      "efficiency"
+    ],
+    "en": {
+      "text": "Honored to lead the Department of Government Efficiency. We will delete waste, fraud, and abuse. The American people deserve better.",
+      "context": "DOGE任命后的声明"
+    },
+    "zh": {
+      "text": "很荣幸领导政府效率部。我们将删除浪费、欺诈和滥用。美国人民值得更好的。",
+      "context": "DOGE任命后的声明"
+    },
+    "style_markers": [
+      "serious",
+      "determined",
+      "announcement"
+    ],
+    "quality_score": 0.96
+  },
+  {
+    "id": "tweet_doge_gov_002",
+    "source": {
+      "type": "tweet",
+      "date": "2025-01-25",
+      "engagement": {
+        "likes": 450000,
+        "retweets": 56000,
+        "replies": 37000,
+        "views": 108000000
+      }
+    },
+    "category": "doge-government",
+    "tags": [
+      "DOGE",
+      "waste",
+      "government spending"
+    ],
+    "en": {
+      "text": "The US government spends $6.5 trillion per year. A significant portion is pure waste. We're going to find it and cut it.",
+      "context": "关于政府开支规模的评论"
+    },
+    "zh": {
+      "text": "美国政府每年花费6.5万亿美元。很大一部分是纯粹的浪费。我们要找到它并削减它。",
+      "context": "关于政府开支规模的评论"
+    },
+    "style_markers": [
+      "provocative",
+      "determined",
+      "factual"
+    ],
+    "quality_score": 0.93
+  },
+  {
+    "id": "tweet_doge_gov_003",
+    "source": {
+      "type": "tweet",
+      "date": "2025-02-05",
+      "engagement": {
+        "likes": 420000,
+        "retweets": 52000,
+        "replies": 35000,
+        "views": 100000000
+      }
+    },
+    "category": "doge-government",
+    "tags": [
+      "DOGE",
+      "regulations",
+      "deleting"
+    ],
+    "en": {
+      "text": "We're deleting 10 regulations for every new one created. The regulatory state has become a monster.",
+      "context": "关于削减法规的声明"
+    },
+    "zh": {
+      "text": "我们每创建一条新法规就删除十条。监管国家已经变成了一个怪物。",
+      "context": "关于削减法规的声明"
+    },
+    "style_markers": [
+      "provocative",
+      "determined",
+      "bold"
+    ],
+    "quality_score": 0.94
+  },
+  {
+    "id": "tweet_doge_gov_004",
+    "source": {
+      "type": "tweet",
+      "date": "2025-02-15",
+      "engagement": {
+        "likes": 380000,
+        "retweets": 47000,
+        "replies": 31000,
+        "views": 91000000
+      }
+    },
+    "category": "doge-government",
+    "tags": [
+      "DOGE",
+      "fired",
+      "government workers"
+    ],
+    "en": {
+      "text": "DOGE has identified $2 trillion in potential savings. The bureaucracy is terrified. Good.",
+      "context": "DOGE节省目标公布"
+    },
+    "zh": {
+      "text": "DOGE已识别出2万亿美元的潜在节省。官僚机构很害怕。很好。",
+      "context": "DOGE节省目标公布"
+    },
+    "style_markers": [
+      "confident",
+      "provocative",
+      "triumphant"
+    ],
+    "quality_score": 0.91
+  },
+  {
+    "id": "tweet_doge_gov_005",
+    "source": {
+      "type": "tweet",
+      "date": "2025-02-25",
+      "engagement": {
+        "likes": 350000,
+        "retweets": 43000,
+        "replies": 28000,
+        "views": 84000000
+      }
+    },
+    "category": "doge-government",
+    "tags": [
+      "DOGE",
+      "USAID",
+      "cut"
+    ],
+    "en": {
+      "text": "USAID has been a vehicle for political operations, not aid. We're restructuring it completely.",
+      "context": "关于USAID改革的评论"
+    },
+    "zh": {
+      "text": "USAID一直是政治行动的工具，而不是援助。我们正在彻底重组它。",
+      "context": "关于USAID改革的评论"
+    },
+    "style_markers": [
+      "provocative",
+      "political",
+      "determined"
+    ],
+    "quality_score": 0.9
+  },
+  {
+    "id": "tweet_doge_gov_006",
+    "source": {
+      "type": "tweet",
+      "date": "2025-03-05",
+      "engagement": {
+        "likes": 400000,
+        "retweets": 50000,
+        "replies": 33000,
+        "views": 96000000
+      }
+    },
+    "category": "doge-government",
+    "tags": [
+      "DOGE",
+      "savings",
+      "$500B"
+    ],
+    "en": {
+      "text": "DOGE has already saved taxpayers $500 billion in projected spending. And we're just getting started.",
+      "context": "DOGE节省成果宣布"
+    },
+    "zh": {
+      "text": "DOGE已经为纳税人节省了5000亿美元的预期支出。我们才刚刚开始。",
+      "context": "DOGE节省成果宣布"
+    },
+    "style_markers": [
+      "proud",
+      "triumphant",
+      "announcement"
+    ],
+    "quality_score": 0.92
+  },
+  {
+    "id": "tweet_doge_gov_007",
+    "source": {
+      "type": "tweet",
+      "date": "2025-03-15",
+      "engagement": {
+        "likes": 330000,
+        "retweets": 41000,
+        "replies": 27000,
+        "views": 79000000
+      }
+    },
+    "category": "doge-government",
+    "tags": [
+      "DOGE",
+      "efficiency",
+      "private sector"
+    ],
+    "en": {
+      "text": "If the government were run like a private company, it would be bankrupt in a week. We're fixing that.",
+      "context": "比较政府和私营部门效率"
+    },
+    "zh": {
+      "text": "如果政府像私营公司一样运营，它一周内就会破产。我们正在修复这个问题。",
+      "context": "比较政府和私营部门效率"
+    },
+    "style_markers": [
+      "provocative",
+      "critical",
+      "practical"
+    ],
+    "quality_score": 0.89
+  },
+  {
+    "id": "tweet_doge_gov_008",
+    "source": {
+      "type": "tweet",
+      "date": "2025-03-25",
+      "engagement": {
+        "likes": 310000,
+        "retweets": 38000,
+        "replies": 25000,
+        "views": 74000000
+      }
+    },
+    "category": "doge-government",
+    "tags": [
+      "DOGE",
+      "audits",
+      "agencies"
+    ],
+    "en": {
+      "text": "We're auditing every federal agency. The amount of duplication and waste is staggering.",
+      "context": "关于联邦机构审计的声明"
+    },
+    "zh": {
+      "text": "我们正在审计每个联邦机构。重复和浪费的数量令人震惊。",
+      "context": "关于联邦机构审计的声明"
+    },
+    "style_markers": [
+      "serious",
+      "determined",
+      "revealing"
+    ],
+    "quality_score": 0.88
+  },
+  {
+    "id": "tweet_doge_gov_009",
+    "source": {
+      "type": "tweet",
+      "date": "2025-04-01",
+      "engagement": {
+        "likes": 370000,
+        "retweets": 46000,
+        "replies": 30000,
+        "views": 89000000
+      }
+    },
+    "category": "doge-government",
+    "tags": [
+      "DOGE",
+      "federal workers",
+      "reduction"
+    ],
+    "en": {
+      "text": "DOGE has reduced the federal workforce by 200,000 positions. The government is smaller and more efficient.",
+      "context": "联邦工作人员削减成果"
+    },
+    "zh": {
+      "text": "DOGE已将联邦工作人员减少了20万个职位。政府变得更小更高效。",
+      "context": "联邦工作人员削减成果"
+    },
+    "style_markers": [
+      "proud",
+      "announcement",
+      "provocative"
+    ],
+    "quality_score": 0.9
+  },
+  {
+    "id": "tweet_doge_gov_010",
+    "source": {
+      "type": "tweet",
+      "date": "2025-04-10",
+      "engagement": {
+        "likes": 290000,
+        "retweets": 35000,
+        "replies": 23000,
+        "views": 70000000
+      }
+    },
+    "category": "doge-government",
+    "tags": [
+      "DOGE",
+      "opposition",
+      "swamp"
+    ],
+    "en": {
+      "text": "The swamp creatures are fighting back hard. That means we're over the target.",
+      "context": "关于DOGE面临反对的评论"
+    },
+    "zh": {
+      "text": "沼泽生物正在猛烈反击。这意味着我们击中了目标。",
+      "context": "关于DOGE面临反对的评论"
+    },
+    "style_markers": [
+      "provocative",
+      "defiant",
+      "combative"
+    ],
+    "quality_score": 0.86
+  },
+  {
+    "id": "tweet_doge_gov_011",
+    "source": {
+      "type": "tweet",
+      "date": "2025-04-20",
+      "engagement": {
+        "likes": 360000,
+        "retweets": 44000,
+        "replies": 29000,
+        "views": 86000000
+      }
+    },
+    "category": "doge-government",
+    "tags": [
+      "DOGE",
+      "$1 trillion",
+      "savings goal"
+    ],
+    "en": {
+      "text": "DOGE is on track to save $1 trillion in its first year. This is the most efficient government operation in history.",
+      "context": "DOGE年度节省目标进展"
+    },
+    "zh": {
+      "text": "DOGE有望在第一年节省1万亿美元。这是历史上最高效的政府运作。",
+      "context": "DOGE年度节省目标进展"
+    },
+    "style_markers": [
+      "proud",
+      "triumphant",
+      "confident"
+    ],
+    "quality_score": 0.93
+  },
+  {
+    "id": "tweet_doge_gov_012",
+    "source": {
+      "type": "tweet",
+      "date": "2025-05-01",
+      "engagement": {
+        "likes": 340000,
+        "retweets": 42000,
+        "replies": 28000,
+        "views": 81000000
+      }
+    },
+    "category": "doge-government",
+    "tags": [
+      "DOGE",
+      "transparency",
+      "data"
+    ],
+    "en": {
+      "text": "Every DOGE decision is data-driven. We publish all findings. Total transparency.",
+      "context": "关于DOGE透明度的声明"
+    },
+    "zh": {
+      "text": "每个DOGE决策都是数据驱动的。我们公布所有发现。完全透明。",
+      "context": "关于DOGE透明度的声明"
+    },
+    "style_markers": [
+      "principled",
+      "transparent",
+      "confident"
+    ],
+    "quality_score": 0.89
+  },
+  {
+    "id": "tweet_doge_gov_013",
+    "source": {
+      "type": "tweet",
+      "date": "2025-05-10",
+      "engagement": {
+        "likes": 280000,
+        "retweets": 34000,
+        "replies": 22000,
+        "views": 67000000
+      }
+    },
+    "category": "doge-government",
+    "tags": [
+      "DOGE",
+      "contractors",
+      "waste"
+    ],
+    "en": {
+      "text": "The federal government has 5 million contractors. Many do nothing useful. We're cleaning house.",
+      "context": "关于联邦承包商的评论"
+    },
+    "zh": {
+      "text": "联邦政府有500万承包商。许多没有做任何有用的事。我们正在清理门户。",
+      "context": "关于联邦承包商的评论"
+    },
+    "style_markers": [
+      "provocative",
+      "determined",
+      "critical"
+    ],
+    "quality_score": 0.87
+  },
+  {
+    "id": "tweet_doge_gov_014",
+    "source": {
+      "type": "tweet",
+      "date": "2025-05-20",
+      "engagement": {
+        "likes": 320000,
+        "retweets": 39000,
+        "replies": 26000,
+        "views": 77000000
+      }
+    },
+    "category": "doge-government",
+    "tags": [
+      "DOGE",
+      "IT systems",
+      "modernization"
+    ],
+    "en": {
+      "text": "Federal IT systems are from the 1990s. We're modernizing them and saving billions in the process.",
+      "context": "关于联邦IT系统现代化的声明"
+    },
+    "zh": {
+      "text": "联邦IT系统还是90年代的。我们正在现代化它们，在此过程中节省数十亿。",
+      "context": "关于联邦IT系统现代化的声明"
+    },
+    "style_markers": [
+      "technical",
+      "practical",
+      "reform-minded"
+    ],
+    "quality_score": 0.86
+  },
+  {
+    "id": "tweet_doge_gov_015",
+    "source": {
+      "type": "tweet",
+      "date": "2025-05-28",
+      "engagement": {
+        "likes": 480000,
+        "retweets": 60000,
+        "replies": 40000,
+        "views": 115000000
+      }
+    },
+    "category": "doge-government",
+    "tags": [
+      "DOGE",
+      "resignation",
+      "May 2025"
+    ],
+    "en": {
+      "text": "I will be stepping down from DOGE at the end of May. The mission is largely accomplished. The team will continue the work.",
+      "context": "2025年5月宣布辞去DOGE职务"
+    },
+    "zh": {
+      "text": "我将在5月底辞去DOGE职务。使命基本完成。团队将继续这项工作。",
+      "context": "2025年5月宣布辞去DOGE职务"
+    },
+    "style_markers": [
+      "announcement",
+      "reflective",
+      "proud"
+    ],
+    "quality_score": 0.97
+  },
+  {
+    "id": "tweet_doge_gov_016",
+    "source": {
+      "type": "tweet",
+      "date": "2025-05-30",
+      "engagement": {
+        "likes": 440000,
+        "retweets": 55000,
+        "replies": 36000,
+        "views": 105000000
+      }
+    },
+    "category": "doge-government",
+    "tags": [
+      "DOGE",
+      "achievements",
+      "legacy"
+    ],
+    "en": {
+      "text": "DOGE saved $1.2 trillion in projected spending over 5 months. We proved that government efficiency is possible.",
+      "context": "DOGE成就总结"
+    },
+    "zh": {
+      "text": "DOGE在5个月内节省了1.2万亿美元的预期支出。我们证明了政府效率是可能的。",
+      "context": "DOGE成就总结"
+    },
+    "style_markers": [
+      "proud",
+      "triumphant",
+      "historic"
+    ],
+    "quality_score": 0.96
+  },
+  {
+    "id": "tweet_doge_gov_017",
+    "source": {
+      "type": "tweet",
+      "date": "2025-01-28",
+      "engagement": {
+        "likes": 390000,
+        "retweets": 48000,
+        "replies": 32000,
+        "views": 93000000
+      }
+    },
+    "category": "doge-government",
+    "tags": [
+      "DOGE",
+      "bureaucracy",
+      "monster"
+    ],
+    "en": {
+      "text": "The federal bureaucracy has 2 million employees. That's more than the population of many countries. Time to shrink it.",
+      "context": "关于联邦官僚机构规模的评论"
+    },
+    "zh": {
+      "text": "联邦官僚机构有200万雇员。比许多国家的人口还多。是时候缩小它了。",
+      "context": "关于联邦官僚机构规模的评论"
+    },
+    "style_markers": [
+      "provocative",
+      "critical",
+      "determined"
+    ],
+    "quality_score": 0.88
+  },
+  {
+    "id": "tweet_doge_gov_018",
+    "source": {
+      "type": "tweet",
+      "date": "2025-02-10",
+      "engagement": {
+        "likes": 310000,
+        "retweets": 38000,
+        "replies": 25000,
+        "views": 74000000
+      }
+    },
+    "category": "doge-government",
+    "tags": [
+      "DOGE",
+      "Elon Musk",
+      "special advisor"
+    ],
+    "en": {
+      "text": "As a special government employee, I'm not taking a salary. This is public service, not a career.",
+      "context": "关于DOGE职位的薪酬声明"
+    },
+    "zh": {
+      "text": "作为特别政府雇员，我不领薪水。这是公共服务，不是职业。",
+      "context": "关于DOGE职位的薪酬声明"
+    },
+    "style_markers": [
+      "principled",
+      "honest",
+      "public service"
+    ],
+    "quality_score": 0.9
+  },
+  {
+    "id": "tweet_doge_gov_019",
+    "source": {
+      "type": "tweet",
+      "date": "2025-02-20",
+      "engagement": {
+        "likes": 350000,
+        "retweets": 43000,
+        "replies": 28000,
+        "views": 84000000
+      }
+    },
+    "category": "doge-government",
+    "tags": [
+      "DOGE",
+      "Pentagon",
+      "audit"
+    ],
+    "en": {
+      "text": "The Pentagon has failed 7 consecutive audits. $3.8 trillion in assets can't be accounted for. DOGE is fixing this.",
+      "context": "关于五角大楼审计失败的评论"
+    },
+    "zh": {
+      "text": "五角大楼连续7次审计失败。3.8万亿美元的资产无法说明去向。DOGE正在修复这个问题。",
+      "context": "关于五角大楼审计失败的评论"
+    },
+    "style_markers": [
+      "provocative",
+      "critical",
+      "determined"
+    ],
+    "quality_score": 0.93
+  },
+  {
+    "id": "tweet_doge_gov_020",
+    "source": {
+      "type": "tweet",
+      "date": "2025-03-01",
+      "engagement": {
+        "likes": 270000,
+        "retweets": 33000,
+        "replies": 21000,
+        "views": 65000000
+      }
+    },
+    "category": "doge-government",
+    "tags": [
+      "DOGE",
+      "Social Security",
+      "fraud"
+    ],
+    "en": {
+      "text": "Social Security has $100 billion in improper payments per year. We're implementing AI to detect fraud.",
+      "context": "关于社会保障不当支付的评论"
+    },
+    "zh": {
+      "text": "社会保障每年有1000亿美元的不当支付。我们正在实施AI来检测欺诈。",
+      "context": "关于社会保障不当支付的评论"
+    },
+    "style_markers": [
+      "technical",
+      "practical",
+      "reform-minded"
+    ],
+    "quality_score": 0.89
+  },
+  {
+    "id": "tweet_doge_gov_021",
+    "source": {
+      "type": "tweet",
+      "date": "2025-03-10",
+      "engagement": {
+        "likes": 300000,
+        "retweets": 37000,
+        "replies": 24000,
+        "views": 72000000
+      }
+    },
+    "category": "doge-government",
+    "tags": [
+      "DOGE",
+      "IRS",
+      "simplification"
+    ],
+    "en": {
+      "text": "The tax code is 10,000 pages long. No human has read it all. We're simplifying it dramatically.",
+      "context": "关于税法简化的声明"
+    },
+    "zh": {
+      "text": "税法有1万页长。没有人类读过全部。我们正在大幅简化它。",
+      "context": "关于税法简化的声明"
+    },
+    "style_markers": [
+      "provocative",
+      "practical",
+      "reform-minded"
+    ],
+    "quality_score": 0.87
+  },
+  {
+    "id": "tweet_doge_gov_022",
+    "source": {
+      "type": "tweet",
+      "date": "2025-03-20",
+      "engagement": {
+        "likes": 260000,
+        "retweets": 31000,
+        "replies": 20000,
+        "views": 62000000
+      }
+    },
+    "category": "doge-government",
+    "tags": [
+      "DOGE",
+      "education",
+      "Department of Education"
+    ],
+    "en": {
+      "text": "The Department of Education spends $80B/year and test scores haven't improved in 30 years. Time for a rethink.",
+      "context": "关于教育部效率的评论"
+    },
+    "zh": {
+      "text": "教育部每年花费800亿美元，但考试成绩30年来没有改善。是时候重新思考了。",
+      "context": "关于教育部效率的评论"
+    },
+    "style_markers": [
+      "provocative",
+      "critical",
+      "data-driven"
+    ],
+    "quality_score": 0.86
+  },
+  {
+    "id": "tweet_doge_gov_023",
+    "source": {
+      "type": "tweet",
+      "date": "2025-04-05",
+      "engagement": {
+        "likes": 340000,
+        "retweets": 42000,
+        "replies": 27000,
+        "views": 81000000
+      }
+    },
+    "category": "doge-government",
+    "tags": [
+      "DOGE",
+      "AI",
+      "government efficiency"
+    ],
+    "en": {
+      "text": "We're using AI to analyze government spending. The patterns of waste are obvious when you look at the data.",
+      "context": "关于使用AI分析政府支出的声明"
+    },
+    "zh": {
+      "text": "我们正在使用AI分析政府支出。当你查看数据时，浪费的模式是显而易见的。",
+      "context": "关于使用AI分析政府支出的声明"
+    },
+    "style_markers": [
+      "technical",
+      "innovative",
+      "data-driven"
+    ],
+    "quality_score": 0.91
+  },
+  {
+    "id": "tweet_doge_gov_024",
+    "source": {
+      "type": "tweet",
+      "date": "2025-04-15",
+      "engagement": {
+        "likes": 380000,
+        "retweets": 47000,
+        "replies": 31000,
+        "views": 91000000
+      }
+    },
+    "category": "doge-government",
+    "tags": [
+      "DOGE",
+      "Congress",
+      "opposition"
+    ],
+    "en": {
+      "text": "Congress is upset that DOGE is exposing their pet projects. Too bad. The taxpayers deserve the truth.",
+      "context": "关于国会反对DOGE的评论"
+    },
+    "zh": {
+      "text": "国会因为DOGE曝光他们的宠物项目而不满。太糟了。纳税人值得知道真相。",
+      "context": "关于国会反对DOGE的评论"
+    },
+    "style_markers": [
+      "provocative",
+      "defiant",
+      "political"
+    ],
+    "quality_score": 0.9
+  },
+  {
+    "id": "tweet_doge_gov_025",
+    "source": {
+      "type": "tweet",
+      "date": "2025-04-25",
+      "engagement": {
+        "likes": 250000,
+        "retweets": 30000,
+        "replies": 19000,
+        "views": 60000000
+      }
+    },
+    "category": "doge-government",
+    "tags": [
+      "DOGE",
+      "federal buildings",
+      "empty"
+    ],
+    "en": {
+      "text": "The federal government owns 300,000 buildings. 60% are underutilized. We're selling the excess.",
+      "context": "关于联邦建筑利用率的评论"
+    },
+    "zh": {
+      "text": "联邦政府拥有30万栋建筑。60%利用率不足。我们正在出售多余的。",
+      "context": "关于联邦建筑利用率的评论"
+    },
+    "style_markers": [
+      "practical",
+      "factual",
+      "reform-minded"
+    ],
+    "quality_score": 0.85
+  },
+  {
+    "id": "tweet_doge_gov_026",
+    "source": {
+      "type": "tweet",
+      "date": "2025-05-05",
+      "engagement": {
+        "likes": 330000,
+        "retweets": 40000,
+        "replies": 26000,
+        "views": 79000000
+      }
+    },
+    "category": "doge-government",
+    "tags": [
+      "DOGE",
+      "legal challenges",
+      "courts"
+    ],
+    "en": {
+      "text": "The courts have tried to block DOGE 15 times. We've won 14 of those cases. The law is on our side.",
+      "context": "关于DOGE法律挑战的评论"
+    },
+    "zh": {
+      "text": "法院已经15次试图阻止DOGE。我们赢了14个案件。法律站在我们这边。",
+      "context": "关于DOGE法律挑战的评论"
+    },
+    "style_markers": [
+      "confident",
+      "legal",
+      "triumphant"
+    ],
+    "quality_score": 0.88
+  },
+  {
+    "id": "tweet_doge_gov_027",
+    "source": {
+      "type": "tweet",
+      "date": "2025-05-15",
+      "engagement": {
+        "likes": 290000,
+        "retweets": 35000,
+        "replies": 23000,
+        "views": 70000000
+      }
+    },
+    "category": "doge-government",
+    "tags": [
+      "DOGE",
+      "public support",
+      "polls"
+    ],
+    "en": {
+      "text": "DOGE has 65% public approval. The people want government efficiency. Only the politicians don't.",
+      "context": "DOGE民意支持数据"
+    },
+    "zh": {
+      "text": "DOGE有65%的公众支持率。人民想要政府效率。只有政客不想要。",
+      "context": "DOGE民意支持数据"
+    },
+    "style_markers": [
+      "proud",
+      "political",
+      "vindicated"
+    ],
+    "quality_score": 0.87
+  },
+  {
+    "id": "tweet_doge_gov_028",
+    "source": {
+      "type": "tweet",
+      "date": "2025-02-01",
+      "engagement": {
+        "likes": 360000,
+        "retweets": 44000,
+        "replies": 29000,
+        "views": 86000000
+      }
+    },
+    "category": "doge-government",
+    "tags": [
+      "DOGE",
+      "first day",
+      "action"
+    ],
+    "en": {
+      "text": "Day 1 at DOGE. We've already identified $100M in duplicate software licenses across federal agencies.",
+      "context": "DOGE首日工作成果"
+    },
+    "zh": {
+      "text": "DOGE第一天。我们已经识别出联邦机构中1亿美元的重复软件许可证。",
+      "context": "DOGE首日工作成果"
+    },
+    "style_markers": [
+      "action-oriented",
+      "proud",
+      "efficient"
+    ],
+    "quality_score": 0.89
+  },
+  {
+    "id": "tweet_doge_gov_029",
+    "source": {
+      "type": "tweet",
+      "date": "2025-03-30",
+      "engagement": {
+        "likes": 270000,
+        "retweets": 33000,
+        "replies": 21000,
+        "views": 65000000
+      }
+    },
+    "category": "doge-government",
+    "tags": [
+      "DOGE",
+      "entitlements",
+      "Medicare"
+    ],
+    "en": {
+      "text": "Medicare and Social Security will go bankrupt by 2035 without reform. DOGE is proposing solutions, not just cuts.",
+      "context": "关于福利项目可持续性的评论"
+    },
+    "zh": {
+      "text": "如果不改革，医疗保险和社会保障将在2035年破产。DOGE提出的是解决方案，不只是削减。",
+      "context": "关于福利项目可持续性的评论"
+    },
+    "style_markers": [
+      "serious",
+      "practical",
+      "solution-oriented"
+    ],
+    "quality_score": 0.88
+  },
+  {
+    "id": "tweet_doge_gov_030",
+    "source": {
+      "type": "tweet",
+      "date": "2025-05-25",
+      "engagement": {
+        "likes": 410000,
+        "retweets": 51000,
+        "replies": 34000,
+        "views": 98000000
+      }
+    },
+    "category": "doge-government",
+    "tags": [
+      "DOGE",
+      "farewell",
+      "legacy"
+    ],
+    "en": {
+      "text": "My time at DOGE was the most impactful public service of my life. We proved the impossible is possible. The work continues.",
+      "context": "DOGE告别声明"
+    },
+    "zh": {
+      "text": "我在DOGE的时光是我一生中最有影响力的公共服务。我们证明了不可能的是可能的。工作继续。",
+      "context": "DOGE告别声明"
+    },
+    "style_markers": [
+      "reflective",
+      "proud",
+      "inspirational"
+    ],
+    "quality_score": 0.95
+  }
+]
