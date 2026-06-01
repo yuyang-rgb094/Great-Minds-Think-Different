@@ -1,8 +1,8 @@
 # Great Minds Think Different
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Minds-Steve%20Jobs%20%7C%20Tim%20Cook%20%7C%20Warren%20Buffett-blue" alt="Minds">
-  <img src="https://img.shields.io/badge/Total%20Entries-250%2B-green" alt="Entries">
+  <img src="https://img.shields.io/badge/Minds-Steve%20Jobs%20%7C%20Tim%20Cook%20%7C%20Warren%20Buffett%20%7C%20Elon%20Musk-blue" alt="Minds">
+  <img src="https://img.shields.io/badge/Total%20Entries-1050%2B-green" alt="Entries">
   <img src="https://img.shields.io/badge/Languages-English%20%7C%20中文-orange" alt="Languages">
   <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License">
 </p>
@@ -26,10 +26,10 @@
 | **Steve Jobs** | Apple Co-founder | 1955-2011 | 75+ | ✅ Available |
 | **Tim Cook** | Apple CEO | 2011-Present | 75 | ✅ Available |
 | **Warren Buffett** | Berkshire Hathaway Chairman | 1930-Present | 100+ | ✅ Available |
+| **Elon Musk** | Tesla/SpaceX/xAI CEO | 1971-Present | 801 | ✅ Available |
 
 ### Coming Soon
 
-- Elon Musk (Tesla, SpaceX, X)
 - Jeff Bezos (Amazon)
 - Bill Gates (Microsoft)
 - *And more...*
@@ -76,6 +76,20 @@ Great-Minds-Think-Different/
 │   ├── MANIFEST.json                 # Corpus manifest
 │   └── README.md                     # Corpus README
 │
+├── elon-musk/                         # 🆕 Elon Musk Corpus (v1.0)
+│   ├── 01-core-identity/             # Persona definition & system prompt
+│   ├── 02-thinking-frameworks/        # First principles, engineering, decision-making, risk, innovation, business
+│   ├── 03-behavioral-guidelines/     # Communication style, humor/memes, leadership, response guidelines
+│   ├── 04-tweets/                    # 400 high-engagement tweets (12 categories, 2010-2026)
+│   ├── 05-interviews/                # 110 conversation segments (13 interviews)
+│   ├── 06-quotes/                    # 245 classic quotes (10 categories)
+│   ├── 07-few-shot-examples/          # 46 few-shot dialogues (13 scenarios)
+│   ├── 08-knowledge-base/           # Biography, companies, Mars plan, DOGE, SpaceX-xAI merger, Grok, Neuralink, Robotaxi
+│   ├── 09-quality-control/           # Validation, consistency, anti-hallucination, style metrics
+│   ├── 10-training-configs/          # ChatML/ShareGPT format guides, system prompts, fine-tuning recommendations
+│   ├── README.md                     # Corpus README
+│   └── MANIFEST.json                 # Corpus manifest
+│
 └── templates/                         # Templates for new minds
     ├── corpus_template.json
     ├── system_prompt_template.md
@@ -93,24 +107,20 @@ Great-Minds-Think-Different/
 ```python
 import json
 
-# Load Tim Cook's corpus
-with open('tim-cook/corpus/corpus.json', 'r', encoding='utf-8') as f:
-    tim_cook_corpus = json.load(f)
+# Load Elon Musk's tweets
+with open('elon-musk/04-tweets/tweets-ai-tech.json', 'r', encoding='utf-8') as f:
+    ai_tweets = json.load(f)
 
-# Filter by category
-leadership_quotes = [
-    entry for entry in tim_cook_corpus['entries']
-    if entry['category'] == 'leadership'
+# Load few-shot examples for fine-tuning
+with open('elon-musk/07-few-shot-examples/ai-safety-scenario.json', 'r', encoding='utf-8') as f:
+    few_shot = json.load(f)
+
+# Convert to ChatML format for OpenAI fine-tuning
+messages = [
+    {"role": "system", "content": "You are Elon Musk, CEO of Tesla, SpaceX, and xAI."},
 ]
-
-# Filter by sentiment
-positive_quotes = [
-    entry for entry in tim_cook_corpus['entries']
-    if entry['sentiment'] == 'positive'
-]
-
-print(f"Total entries: {len(tim_cook_corpus['entries'])}")
-print(f"Leadership quotes: {len(leadership_quotes)}")
+for conv in few_shot['conversations']:
+    messages.append({"role": conv['role'], "content": conv['en']})
 ```
 
 #### Using System Prompts
@@ -118,14 +128,15 @@ print(f"Leadership quotes: {len(leadership_quotes)}")
 Each mind includes a carefully crafted system prompt for AI agents:
 
 ```python
-# Read Tim Cook's system prompt
-with open('tim-cook/training/system_prompt.md', 'r') as f:
-    tim_cook_prompt = f.read()
+# Read Elon Musk's system prompt
+with open('elon-musk/01-core-identity/system-prompt.json', 'r') as f:
+    prompt_data = json.load(f)
+    musk_prompt = prompt_data['system_prompt']['en']
 
 # Use with your AI model
 response = ai_model.generate(
-    system_prompt=tim_cook_prompt,
-    user_message="What makes a great leader?"
+    system_prompt=musk_prompt,
+    user_message="What do you think about the future of AI?"
 )
 ```
 
@@ -133,19 +144,19 @@ response = ai_model.generate(
 
 ## 📊 Corpus Statistics
 
-### Tim Cook
-- **Total Entries**: 75
-- **Categories**: 7 (Leadership, Innovation, Privacy, AI & Tech, Personal Growth, China Business, Steve Jobs Legacy)
-- **Time Span**: 2015-2026
-- **Languages**: English & Chinese (bilingual)
-- **Sources**: Graduation speeches, interviews, privacy conference, retirement letter
-
 ### Steve Jobs
 - **Total Entries**: 75+
 - **Categories**: Multiple
 - **Time Span**: 1976-2011
 - **Languages**: English & Chinese
 - **Sources**: Keynotes, interviews, All Things D, Stanford speech
+
+### Tim Cook
+- **Total Entries**: 75
+- **Categories**: 7 (Leadership, Innovation, Privacy, AI & Tech, Personal Growth, China Business, Steve Jobs Legacy)
+- **Time Span**: 2015-2026
+- **Languages**: English & Chinese
+- **Sources**: Graduation speeches, interviews, privacy conference, retirement letter
 
 ### Warren Buffett
 - **Total Entries**: 100+ (53 quotes, 49 shareholder letters, 32 meeting templates, 5 interviews)
@@ -155,44 +166,44 @@ response = ai_model.generate(
 - **Sources**: Berkshire Hathaway Annual Letters, CNBC Interviews & Archive, Annual Meeting Transcripts
 - **Special Features**: Vector embeddings (964 chunks), few-shot examples, anti-hallucination guide
 
+### 🆕 Elon Musk (v1.0 — June 2026)
+- **Total Entries**: 801 (400 tweets + 110 interview segments + 245 quotes + 46 few-shot dialogues)
+- **Modules**: 10 (Core Identity, Thinking Frameworks, Behavioral Guidelines, Tweets, Interviews, Quotes, Few-Shot Examples, Knowledge Base, Quality Control, Training Configs)
+- **Time Span**: 2010-2026 (up to May 2026)
+- **Languages**: English & Chinese (bilingual, every entry)
+- **Formats**: Markdown + JSON (dual format, 171 files)
+- **Sources**: X/Twitter, Lex Fridman Podcast, Joe Rogan Experience, All-In Summit, Tesla Earnings Calls, Bloomberg, Forbes, TED, Starbase Speech
+- **Key Topics**: AI/AGI (Grok 3/4/5), SpaceX (Starship, Mars, IPO), Tesla (FSD, Robotaxi), Neuralink (BCI, 10+ patients), DOGE (government efficiency), xAI-X merger, crypto/Dogecoin, first principles thinking, engineering philosophy
+- **Special Features**: 2025-2026 latest events (DOGE, SpaceX-xAI $1.25T merger, Forbes 2026 interview), ChatML/ShareGPT conversion guides, LoRA/QLoRA fine-tuning recommendations, anti-hallucination guide, style transfer metrics
+
 ---
 
 ## 🏗️ Corpus Format
 
-Each entry follows a standardized schema:
+Each entry follows a standardized schema. Example from Elon Musk corpus:
 
 ```json
 {
-  "id": "TC001",
-  "category": "leadership",
-  "type": "quote",
-  "content_zh": "生活不是要你站在边线围观...",
-  "content_en": "Life is not about standing on the sidelines...",
-  "context": "2015 GWU Commencement Speech",
+  "id": "tweet_ai_001",
   "source": {
-    "title": "Tim Cook's 2015 GWU Speech",
-    "event": "George Washington University Commencement",
-    "date": "2015-05-17",
-    "location": "Washington D.C.",
-    "url": "..."
+    "type": "tweet",
+    "date": "2024-03-15",
+    "engagement": {"likes": 500000, "retweets": 50000}
   },
-  "tags": ["participation", "action", "life attitude"],
-  "sentiment": "positive",
-  "usage_scenarios": ["motivation", "commencement"]
+  "category": "AI",
+  "tags": ["AI", "safety", "regulation"],
+  "en": {
+    "text": "I think AI safety is actually the most important thing...",
+    "context": "Response to question about AI regulation"
+  },
+  "zh": {
+    "text": "我认为AI安全实际上是文明当前最需要关注的事情...",
+    "context": "关于AI监管问题的回应"
+  },
+  "style_markers": ["serious", "definitive"],
+  "quality_score": 0.95
 }
 ```
-
-### Categories
-
-| ID | Name | Description |
-|----|------|-------------|
-| leadership | Leadership & Management | Team leadership, decision-making |
-| innovation | Innovation & Product | Product design, user experience |
-| privacy | Privacy & Values | Privacy protection, social responsibility |
-| ai_technology | AI & Technology | Artificial intelligence, tech trends |
-| personal_growth | Personal Growth | Career advice, life philosophy |
-| china_business | China Market | China market, supply chain |
-| steve_jobs | Steve Jobs Legacy | Jobs' influence, Apple history |
 
 ---
 
@@ -200,8 +211,8 @@ Each entry follows a standardized schema:
 
 ### 1. AI Agent Training
 Train AI models to emulate the thinking and speaking style of great minds:
-- Chatbots that provide advice in the voice of Tim Cook or Steve Jobs
-- Virtual mentors for leadership and innovation
+- Chatbots that provide advice in the voice of Elon Musk, Tim Cook, or Steve Jobs
+- Virtual mentors for leadership, innovation, and engineering
 - Historical figure simulations for education
 
 ### 2. Research & Analysis
@@ -227,7 +238,7 @@ We welcome contributions! Here's how you can help:
 
 ### Adding New Quotes
 1. Fork the repository
-2. Add entries to the appropriate `corpus.json` file
+2. Add entries to the appropriate corpus file
 3. Ensure bilingual content (English + Chinese)
 4. Include complete source information
 5. Submit a pull request
@@ -262,7 +273,8 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 - Steve Jobs' wisdom continues to inspire millions worldwide
 - Tim Cook for his leadership and commitment to privacy
-- Apple Inc. for changing the way we think about technology
+- Warren Buffett for decades of investment wisdom
+- Elon Musk for pushing the boundaries of technology and human potential
 - All contributors who help expand this collection
 
 ---
@@ -271,13 +283,13 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 - GitHub Issues: For bug reports and feature requests
 - Discussions: For general questions and ideas
-- Email: [Your contact email]
 
 ---
 
 <p align="center">
   <i>"Stay hungry, stay foolish." — Steve Jobs</i><br>
-  <i>"Life is not about standing on the sidelines." — Tim Cook</i>
+  <i>"Life is not about standing on the sidelines." — Tim Cook</i><br>
+  <i>"When something is important enough, you do it even if the odds are not in your favor." — Elon Musk</i>
 </p>
 
 ---
@@ -301,149 +313,27 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 | **史蒂夫·乔布斯** | 苹果联合创始人 | 1955-2011 | 75+ | ✅ 可用 |
 | **蒂姆·库克** | 苹果CEO | 2011-至今 | 75 | ✅ 可用 |
 | **沃伦·巴菲特** | 伯克希尔·哈撒韦董事长 | 1930-至今 | 100+ | ✅ 可用 |
+| **埃隆·马斯克** | Tesla/SpaceX/xAI CEO | 1971-至今 | 801 | ✅ 可用 |
 
 ### 即将推出
 
-- 埃隆·马斯克（特斯拉、SpaceX、X）
 - 杰夫·贝索斯（亚马逊）
 - 比尔·盖茨（微软）
 - *更多...*
 
 ---
 
-## 📁 仓库结构
-
-```
-Great-Minds-Think-Different/
-├── README.md                          # 本文件
-├── CONTRIBUTING.md                    # 贡献指南
-├── LICENSE                            # MIT许可证
-│
-├── steve-jobs/                        # 乔布斯语料
-│   ├── corpus/
-│   │   ├── corpus.json               # 结构化数据
-│   │   └── corpus.md                 # 可读版本
-│   ├── training/
-│   │   └── system_prompt.md          # AI智能体提示词
-│   └── sources/                      # 原始资料
-│
-├── tim-cook/                          # 库克语料
-│   ├── corpus/
-│   │   ├── corpus.json               # 结构化数据
-│   │   └── corpus.md                 # 可读版本
-│   ├── training/
-│   │   └── system_prompt.md          # AI智能体提示词
-│   └── sources/                      # 原始资料
-│
-└── templates/                         # 新人物模板
-    ├── corpus_template.json
-    ├── system_prompt_template.md
-    └── README_template.md
-```
-
----
-
-## 🎯 快速开始
-
-### 使用语料库进行AI训练
-
-#### Python示例
-
-```python
-import json
-
-# 加载库克语料库
-with open('tim-cook/corpus/corpus.json', 'r', encoding='utf-8') as f:
-    tim_cook_corpus = json.load(f)
-
-# 按分类筛选
-leadership_quotes = [
-    entry for entry in tim_cook_corpus['entries']
-    if entry['category'] == 'leadership'
-]
-
-# 按情感筛选
-positive_quotes = [
-    entry for entry in tim_cook_corpus['entries']
-    if entry['sentiment'] == 'positive'
-]
-
-print(f"总条目数: {len(tim_cook_corpus['entries'])}")
-print(f"领导力语录: {len(leadership_quotes)}")
-```
-
-#### 使用系统提示词
-
-每个人物都包含精心设计的AI智能体系统提示词：
-
-```python
-# 读取库克的系统提示词
-with open('tim-cook/training/system_prompt.md', 'r') as f:
-    tim_cook_prompt = f.read()
-
-# 用于你的AI模型
-response = ai_model.generate(
-    system_prompt=tim_cook_prompt,
-    user_message="什么造就伟大的领导者？"
-)
-```
-
----
-
 ## 📊 语料库统计
 
-### 蒂姆·库克
-- **总条目**: 75条
-- **分类**: 7大类（领导力、创新、隐私、AI与技术、个人成长、中国市场、乔布斯传承）
-- **时间跨度**: 2015-2026年
-- **语言**: 中英双语
-- **来源**: 毕业演讲、访谈、隐私会议、卸任信
-
-### 史蒂夫·乔布斯
-- **总条目**: 75+条
-- **分类**: 多个类别
-- **时间跨度**: 1976-2011年
-- **语言**: 中英双语
-- **来源**: 发布会、访谈、D大会、斯坦福演讲
-
----
-
-## 🏗️ 语料格式
-
-每个条目遵循标准化结构：
-
-```json
-{
-  "id": "TC001",
-  "category": "leadership",
-  "type": "quote",
-  "content_zh": "生活不是要你站在边线围观...",
-  "content_en": "Life is not about standing on the sidelines...",
-  "context": "2015年乔治华盛顿大学毕业演讲",
-  "source": {
-    "title": "蒂姆·库克2015年演讲",
-    "event": "乔治华盛顿大学毕业典礼",
-    "date": "2015-05-17",
-    "location": "华盛顿特区",
-    "url": "..."
-  },
-  "tags": ["参与", "行动", "人生态度"],
-  "sentiment": "positive",
-  "usage_scenarios": ["激励", "毕业演讲"]
-}
-```
-
-### 分类说明
-
-| ID | 名称 | 描述 |
-|----|------|-------------|
-| leadership | 领导力与管理 | 团队领导、决策制定 |
-| innovation | 创新与产品 | 产品设计、用户体验 |
-| privacy | 隐私与价值观 | 隐私保护、社会责任 |
-| ai_technology | AI与技术 | 人工智能、技术趋势 |
-| personal_growth | 个人成长 | 职业建议、人生哲学 |
-| china_business | 中国市场 | 中国市场、供应链 |
-| steve_jobs | 乔布斯传承 | 乔布斯影响、苹果历史 |
+### 🆕 埃隆·马斯克 (v1.0 — 2026年6月)
+- **总条目**: 801条（400条推文 + 110个访谈片段 + 245条语录 + 46段少样本对话）
+- **模块**: 10个（核心身份、思维框架、行为准则、推文、访谈、语录、少样本示例、知识库、质量控制、训练配置）
+- **时间跨度**: 2010-2026年（截至2026年5月）
+- **语言**: 中英双语（每条语料均含英文原文和中文翻译）
+- **格式**: Markdown + JSON 双格式（171个文件）
+- **来源**: X/Twitter、Lex Fridman播客、Joe Rogan Experience、All-In峰会、Tesla财报电话会议、Bloomberg、Forbes、TED、Starbase演讲
+- **重点话题**: AI/AGI（Grok 3/4/5）、SpaceX（Starship、火星、IPO）、Tesla（FSD、Robotaxi）、Neuralink（脑机接口、10+患者）、DOGE（政府效率部）、xAI收购X、加密货币/Dogecoin、第一性原理思维、工程哲学
+- **特色**: 2025-2026最新事件（DOGE、SpaceX-xAI 1.25万亿美元合并、Forbes 2026专访）、ChatML/ShareGPT转换指南、LoRA/QLoRA微调建议、防幻觉指南、风格迁移评估指标
 
 ---
 
@@ -451,53 +341,14 @@ response = ai_model.generate(
 
 ### 1. AI智能体训练
 训练AI模型模仿伟大人物的思维和说话风格：
-- 以蒂姆·库克或史蒂夫·乔布斯的声音提供建议的聊天机器人
-- 用于领导力与创新的虚拟导师
+- 以埃隆·马斯克、蒂姆·库克或史蒂夫·乔布斯的声音提供建议的聊天机器人
+- 用于领导力、创新和工程的虚拟导师
 - 用于教育的历史人物模拟
 
 ### 2. 研究与分析
 - 研究成功领导者的沟通模式
 - 分析思维随时间的演变
 - 比较不同人物应对相似挑战的方法
-
-### 3. 内容创作
-- 为演讲和文章生成引用
-- 寻找演讲和写作的灵感
-- 创建教育材料
-
-### 4. 个人发展
-- 向伟大人物的智慧学习
-- 理解决策框架
-- 学习领导哲学
-
----
-
-## 🤝 贡献指南
-
-我们欢迎贡献！你可以通过以下方式帮助：
-
-### 添加新语录
-1. Fork本仓库
-2. 添加条目到相应的`corpus.json`文件
-3. 确保双语内容（英文+中文）
-4. 包含完整的来源信息
-5. 提交Pull Request
-
-### 添加新人物
-1. 使用`/templates/`中的模板
-2. 创建新目录：`great-mind-name/`
-3. 遵循现有结构
-4. 至少包含50条高质量条目
-5. 提供AI训练用的系统提示词
-
-### 质量标准
-- 所有条目必须有可验证的来源
-- 优先双语内容（英文+中文）
-- 包含上下文和背景信息
-- 适当标签以便筛选
-- 尊重版权和合理使用
-
-详见 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
 ---
 
@@ -509,21 +360,13 @@ response = ai_model.generate(
 
 ---
 
-## 🙏 致谢
-
-- 史蒂夫·乔布斯的智慧继续激励着全世界数百万人
-- 蒂姆·库克的领导力和对隐私的承诺
-- 苹果公司改变了我们对技术的思考方式
-- 所有帮助扩展这个收藏的 Contributors
-
----
-
 <p align="center">
   <i>"求知若饥，虚心若愚。" — 史蒂夫·乔布斯</i><br>
-  <i>"生活不是要你站在边线围观。" — 蒂姆·库克</i>
+  <i>"生活不是要你站在边线围观。" — 蒂姆·库克</i><br>
+  <i>"当某件事足够重要时，即使胜算不大，你也要去做。" — 埃隆·马斯克</i>
 </p>
 
 ---
 
-*Last Updated: May 31, 2025*  
-*Version: 1.0*
+*Last Updated: June 1, 2026*
+*Version: 2.0*
